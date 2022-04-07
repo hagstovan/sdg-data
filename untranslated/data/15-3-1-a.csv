@@ -1,0 +1,10 @@
+Year,Urbanisation,Value
+2015,,55
+2016,,60
+2017,,65
+2015,Urban,75
+2016,Urban,80
+2017,Urban,80
+2015,Rural,35
+2016,Rural,40
+2017,Rural,45
