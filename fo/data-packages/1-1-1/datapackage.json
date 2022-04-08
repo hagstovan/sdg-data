@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Kvinnur",
+                "Menn",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Kyn"
           },
           {
             "name": "Value",
