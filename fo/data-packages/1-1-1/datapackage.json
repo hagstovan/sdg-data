@@ -12,24 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kvinnur",
-                "Menn",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

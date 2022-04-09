@@ -1,7 +1,2 @@
-Year,data.sex,Value
-2015,data.female,1
-2015,data.male,3
-2015,,2
-2016,data.female,1
-2016,data.male,3
-2016,,2
+Year,Value
+This is a non-statistical indicator,
