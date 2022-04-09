@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "aldur",
+            "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "aldur"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
