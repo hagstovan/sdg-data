@@ -85,26 +85,42 @@
       "schema": {
         "fields": [
           {
-            "name": "Urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Urbanisation"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "aldur",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "00-17 ár",
+                "18-24 ár",
+                "25-54 ár",
+                "55-66 ár",
+                "67+ ár",
+                "Tils. (aldur)"
+              ]
+            },
+            "title": "aldur"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Females",
+                "Males"
+              ]
+            },
+            "title": "Sex"
           }
         ]
       },
