@@ -17,36 +17,8 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "00-17 ár",
-                "18-24 ár",
-                "25-54 ár",
-                "55-66 ár",
-                "67+ ár",
-                "Tils. (aldur)"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Females",
-                "Males"
-              ]
-            },
-            "title": "Sex"
           }
         ]
       }
