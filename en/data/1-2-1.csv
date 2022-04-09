@@ -1,6 +1,6 @@
 Year,Age,Sex,Value
-2009,Tils. (aldur),Males,3.8
-2009,Tils. (aldur),Females,4.0
+2009,,Males,3.8
+2009,,Females,4.0
 2009,00-17 ár,Males,4.6
 2009,00-17 ár,Females,4.9
 2009,18-24 ár,Males,3.3
@@ -11,8 +11,8 @@ Year,Age,Sex,Value
 2009,55-66 ár,Females,3.2
 2009,67+ ár,Males,2.8
 2009,67+ ár,Females,2.6
-2010,Tils. (aldur),Males,3.5
-2010,Tils. (aldur),Females,3.9
+2010,,Males,3.5
+2010,,Females,3.9
 2010,00-17 ár,Males,4.5
 2010,00-17 ár,Females,5.1
 2010,18-24 ár,Males,3.1
@@ -23,8 +23,8 @@ Year,Age,Sex,Value
 2010,55-66 ár,Females,2.7
 2010,67+ ár,Males,2.3
 2010,67+ ár,Females,2.2
-2011,Tils. (aldur),Males,3.8
-2011,Tils. (aldur),Females,4.2
+2011,,Males,3.8
+2011,,Females,4.2
 2011,00-17 ár,Males,5.0
 2011,00-17 ár,Females,5.6
 2011,18-24 ár,Males,3.7
@@ -35,8 +35,8 @@ Year,Age,Sex,Value
 2011,55-66 ár,Females,2.8
 2011,67+ ár,Males,2.0
 2011,67+ ár,Females,2.3
-2012,Tils. (aldur),Males,4.1
-2012,Tils. (aldur),Females,4.4
+2012,,Males,4.1
+2012,,Females,4.4
 2012,00-17 ár,Males,5.6
 2012,00-17 ár,Females,5.6
 2012,18-24 ár,Males,4.4
@@ -47,8 +47,8 @@ Year,Age,Sex,Value
 2012,55-66 ár,Females,2.9
 2012,67+ ár,Males,2.6
 2012,67+ ár,Females,2.2
-2013,Tils. (aldur),Males,3.9
-2013,Tils. (aldur),Females,4.5
+2013,,Males,3.9
+2013,,Females,4.5
 2013,00-17 ár,Males,5.6
 2013,00-17 ár,Females,6.1
 2013,18-24 ár,Males,4.1
@@ -59,8 +59,8 @@ Year,Age,Sex,Value
 2013,55-66 ár,Females,2.8
 2013,67+ ár,Males,2.1
 2013,67+ ár,Females,2.3
-2014,Tils. (aldur),Males,3.8
-2014,Tils. (aldur),Females,4.4
+2014,,Males,3.8
+2014,,Females,4.4
 2014,00-17 ár,Males,5.1
 2014,00-17 ár,Females,5.6
 2014,18-24 ár,Males,4.7
@@ -71,8 +71,8 @@ Year,Age,Sex,Value
 2014,55-66 ár,Females,3.0
 2014,67+ ár,Males,2.3
 2014,67+ ár,Females,2.4
-2015,Tils. (aldur),Males,3.7
-2015,Tils. (aldur),Females,4.1
+2015,,Males,3.7
+2015,,Females,4.1
 2015,00-17 ár,Males,4.8
 2015,00-17 ár,Females,5.4
 2015,18-24 ár,Males,4.6
@@ -83,8 +83,8 @@ Year,Age,Sex,Value
 2015,55-66 ár,Females,2.3
 2015,67+ ár,Males,2.3
 2015,67+ ár,Females,2.2
-2016,Tils. (aldur),Males,3.2
-2016,Tils. (aldur),Females,3.6
+2016,,Males,3.2
+2016,,Females,3.6
 2016,00-17 ár,Males,4.6
 2016,00-17 ár,Females,4.7
 2016,18-24 ár,Males,3.2
@@ -95,8 +95,8 @@ Year,Age,Sex,Value
 2016,55-66 ár,Females,2.4
 2016,67+ ár,Males,2.0
 2016,67+ ár,Females,1.9
-2017,Tils. (aldur),Males,3.1
-2017,Tils. (aldur),Females,3.6
+2017,,Males,3.1
+2017,,Females,3.6
 2017,00-17 ár,Males,4.2
 2017,00-17 ár,Females,4.4
 2017,18-24 ár,Males,2.4
@@ -107,8 +107,8 @@ Year,Age,Sex,Value
 2017,55-66 ár,Females,2.3
 2017,67+ ár,Males,2.3
 2017,67+ ár,Females,3.1
-2018,Tils. (aldur),Males,2.9
-2018,Tils. (aldur),Females,3.2
+2018,,Males,2.9
+2018,,Females,3.2
 2018,00-17 ár,Males,3.9
 2018,00-17 ár,Females,3.7
 2018,18-24 ár,Males,2.8
