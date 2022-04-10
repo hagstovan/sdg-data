@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,18 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Útbúgving",
                 "Heilsa",
-                "Almannavernd",
-                ""
+                "Almannavernd"
               ]
             },
             "title": "Grundleggjandi tænasta"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }
