@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "essentialservice",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.education",
+                "data.health",
+                "data.socialprotection",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
