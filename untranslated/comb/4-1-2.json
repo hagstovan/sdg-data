@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2011,2011,2011,2011,2011,2011,2011,2011,2011],"data.education":["data.primaryeducation","data.primaryeducation","data.primaryeducation","data.lowersecondaryeducation","data.lowersecondaryeducation","data.lowersecondaryeducation","data.uppersecondaryeducation","data.uppersecondaryeducation","data.uppersecondaryeducation"],"data.sex":[null,"data.male","data.female",null,"data.male","data.female",null,"data.male","data.female"],"Value":[96.3,95.1,97.5,96.5,96.1,96.9,71.1,61.8,85.7]},"edges":{"From":["data.education"],"To":["data.sex"]}}

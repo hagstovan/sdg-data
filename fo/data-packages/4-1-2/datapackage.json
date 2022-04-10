@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barnaskúlin 1. - 7. flokk",
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Miðnáms- ella yrkisútbúgving",
+                ""
+              ]
+            },
+            "title": "Útbúgving"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
           },
           {
             "name": "Value",

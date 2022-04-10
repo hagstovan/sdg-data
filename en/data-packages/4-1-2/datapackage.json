@@ -17,8 +17,33 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lower secondary education",
+                "Primary education",
+                "Upper secondary education"
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Females",
+                "Males"
+              ]
+            },
+            "title": "Sex"
           }
         ]
       }
