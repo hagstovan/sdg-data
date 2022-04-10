@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.education",
-                "data.health",
-                "data.socialprotection"
+                "Education",
+                "Health",
+                "Social protection"
               ]
             },
-            "title": "essentialservice"
+            "title": "Essential Service"
           }
         ]
       }
