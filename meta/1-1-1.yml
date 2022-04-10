@@ -1,64 +1,40 @@
-SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.2.1: Proportion of population living below the national poverty
-  line, by sex and age</p>
-SDG_TARGET__GLOBAL: >-
-  <p>Target 1.2: By 2030, reduce at least by half the proportion of men, women
-  and children of all ages living in poverty in all its dimensions according to
-  national definitions</p>
-META_LAST_UPDATE__GLOBAL: '2022-03-31'
-SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>World Bank</p>
-SDG_RELATED_INDICATORS__GLOBAL: >-
-  <p>Indicator 1.1.1: Proportion of population below the international poverty
-  line, by sex, age, employment status and geographical location
-  (urban/rural)</p>
-SDG_INDICATOR_INFO: ''
-SDG_GOAL: 'Goal 1: End poverty in all its forms everywhere'
-SDG_TARGET: >-
-  Target 1.2: By 2030, reduce at least by half the proportion of men, women and
-  children of all ages living in poverty in all its dimensions according to
-  national definitions
-SDG_INDICATOR: >-
-  Indicator 1.1.1: Proportion of population below the international poverty
-  line, by sex, age, employment status and geographical location (urban/rural)
-SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: ''
-SDG_RELATED_INDICATORS: ''
-CONTACT: ''
-CONTACT_ORGANISATION: ''
-CONTACT_NAME: ''
-ORGANISATION_UNIT: ''
-CONTACT_FUNCT: ''
-CONTACT_PHONE: ''
-CONTACT_MAIL: ''
-CONTACT_EMAIL: ''
-IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
-CLASS_SYSTEM: ''
-SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
-COLL_METHOD: ''
-FREQ_COLL: ''
-REL_CAL_POLICY: ''
-DATA_SOURCE: ''
-COMPILING_ORG: ''
-INST_MANDATE: ''
-OTHER_METHOD: ''
-RATIONALE: ''
-REC_USE_LIM: ''
-DATA_COMP: ''
-DATA_VALIDATION: ''
-DOC_METHOD: ''
-QUALITY_MGMNT: ''
-QUALITY_ASSURE: ''
-QUALITY_ASSMNT: ''
-COVERAGE: ''
-COMPARABILITY: ''
-OTHER_DOC: ''
-national_data_update_url: >-
-  https://github.com/hagstovan/sdg-data/commit/d2727e2cfda74305af74fe4c1e90206bc482ea7a
-national_data_update_url_text: '2022-04-07: see changes on GitHub'
-national_metadata_update_url: >-
-  https://github.com/hagstovan/sdg-data/commit/d9dc179c4df738b63761c9456c14d95230e8f989
-national_metadata_update_url_text: '2022-04-07: see changes on GitHub'
-un_designated_tier: ''
+---
+title: 'Heimsmarkmiðamælikvarði 1-1-1'
+data_non_statistical: false
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf
+goal_meta_link_text: Lýsigögn Sameinuðu Þjóðanna (pdf 894kB)
+graph_type: line
+graph_title: Hlutfall íbúa undir alþjóðlegum fátæktarmörkum
+indicator: 1.1.1
+indicator_name: Hlutfall íbúa undir alþjóðlegum fátæktarmörkum eftir kyni, aldri, atvinnustöðu og landfræðilegri staðsetningu (þéttbýli/dreifbýli).
+indicator_sort_order: 01-01-01
+layout: indicator
+permalink: /1-1-1/
+published: true
+reporting_status: complete
+sdg_goal: '1'
+target: Eigi síðar en árið 2030 hafi sárri fátækt verið útrýmt alls staðar. Miðað verði við að enginn hafi minna á milli handanna en sem nemur 1,90 Bandaríkjadölum á dag til að framfleyta sér.
+target_id: '1.1'
+un_custodian_agency: Alþjóðabankinn
+un_designated_tier: '1'
+
+national_indicator_available: Hlutfall íbúa undir alþjóðlegum fátæktarmörkum
+national_indicator_description: Hlutfall íbúa sem undir alþjóðlegum fátæktarmörkum er skilgreint sem prósentutala íbúa sem lifa á innan við 1.90 Bandaríkjadölum á dag, miðað við meðalgengi ársins 2011. 
+national_geographical_coverage: Ísland
+computation_units: Hundraðshlutar (%)
+computation_definitions: Alþjóðleg fátæktarmörk eru nú skilgreind sem $1.90 á dag miðað við gengi ársins 2011.
+computation_calculations: Engin
+comments_limitations: Gögn fylgja forskrift Sameinuðu Þjóðanna fyrir þennan mælikvarða. Þessi mælikvarði var fundinn í samstarfi við sérfræðinga í málefninu.
+
+source_active_1: true
+source_organisation_1: Alþjóðabankinn
+source_periodicity_1: Árleg
+source_earliest_available_1: 2003
+source_geographical_coverage_1: Ísland
+source_url_1: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=IS&name_desc=false
+source_url_text_1: Fátæktarhlutfall við $1.90 á dag (2011 PPP) (% íbúa)
+source_statistical_classification_1: Óopinber
+source_contact_1: Research@WorldBank.org
+---
+
+Alþjóðleg fátæktarmörk eru nú skilgreind sem $1.90 á dag miðað við meðalgengi ársins 2011. Á Íslandi er enginn sem lifir á innan við $1.90 á dag og er þetta hlutfall því 0% hérlendis. Gögn um mælikvarðan eru fengin frá rannsóknardeild Alþjóðabankans.
