@@ -1,4 +1,3 @@
----
 title: 'Heimsmarkmiðamælikvarði 1-1-1'
 data_non_statistical: false
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf
@@ -35,6 +34,4 @@ source_url_1: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=IS&name
 source_url_text_1: Fátæktarhlutfall við $1.90 á dag (2011 PPP) (% íbúa)
 source_statistical_classification_1: Óopinber
 source_contact_1: Research@WorldBank.org
----
-
 Alþjóðleg fátæktarmörk eru nú skilgreind sem $1.90 á dag miðað við meðalgengi ársins 2011. Á Íslandi er enginn sem lifir á innan við $1.90 á dag og er þetta hlutfall því 0% hérlendis. Gögn um mælikvarðan eru fengin frá rannsóknardeild Alþjóðabankans.
