@@ -46,7 +46,7 @@ inputs:
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
-  - class: InputYamlMdMeta
+  - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.md
     # This specifies whether or not to use Git to calculate the "last updated"
