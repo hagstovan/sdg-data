@@ -1,52 +1,35 @@
-SDG_INDICATOR__GLOBAL: ''
-SDG_TARGET__GLOBAL: ''
-META_LAST_UPDATE__GLOBAL: ''
-SDG_CUSTODIAN_AGENCIES__GLOBAL: ''
-SDG_RELATED_INDICATORS__GLOBAL: ''
-SDG_INDICATOR_INFO: ''
-SDG_GOAL: ''
-SDG_TARGET: ''
-SDG_INDICATOR: ''
-SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: ''
-SDG_RELATED_INDICATORS: ''
-CONTACT: ''
-CONTACT_ORGANISATION: ''
-CONTACT_NAME: ''
-ORGANISATION_UNIT: ''
-CONTACT_FUNCT: ''
-CONTACT_PHONE: ''
-CONTACT_MAIL: ''
-CONTACT_EMAIL: ''
-IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
-CLASS_SYSTEM: ''
-SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
-COLL_METHOD: ''
-FREQ_COLL: ''
-REL_CAL_POLICY: ''
-DATA_SOURCE: ''
-COMPILING_ORG: ''
-INST_MANDATE: ''
-OTHER_METHOD: ''
-RATIONALE: ''
-REC_USE_LIM: ''
-DATA_COMP: ''
-DATA_VALIDATION: ''
-DOC_METHOD: ''
-QUALITY_MGMNT: ''
-QUALITY_ASSURE: ''
-QUALITY_ASSMNT: ''
-COVERAGE: ''
-COMPARABILITY: ''
-OTHER_DOC: ''
-national_data_update_url: ''
-national_data_update_url_text: ''
-national_metadata_update_url: ''
-national_metadata_update_url_text: ''
-un_designated_tier: ''
 ---
-Hagstovan metir, at sera fá ella eingi fólk liva av minni enn altjóða fátækamarkinum. Øll í Føroyum hava rætt til almannaveiting, ið er væl hægri enn markið fyri ógvisligari fátækt.   Einki alment fátækamark er ásett í Føroyum. Í staðin er roknað eitt fátækaváðamark, ið er 60% (ella 50%) av miðinntøkuni (medianini) av javnvirðisinntøkuni hjá húskjum.
-Hetta svarar til meira enn 300 krónur um dagin, og er sostatt munandi hægri enn $1,25
+indicator_name: global_indicators.1-1-1-title
+target_name: global_targets.1-1-title
+indicator_number: 17.13.1
+csv_size: 0.062 kB
+un_designated_tier: Tier II
+un_custodian_agency: World Bank (WB)
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 469 KB)
+national_geographical_coverage: United Kingdom
+computation_units: N/A
+reporting_status: complete
+data_non_statistical: true
+graph_type: line
+data_keywords:
+source_active_1: true
+source_organisation_1: Office for National Statistics
+source_periodicity_1: Various
+source_earliest_available_1: Various
+source_geographical_coverage_1: United Kingdom
+source_url_1: https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22
+source_url_text_1: Dashboard - Understanding the UK economy
+source_release_date_1: 19/02/2019
+source_next_release_1: TBC
+source_statistical_classification_1: Official statistics
+source_contact_1: digitalcontent@ons.gov.uk
+source_active_2: false
+source_active_3: false
+source_active_4: false
+source_active_5: false
+source_active_6: false
+indicator_sort_order: 17-13-01
+other_info: >-
+  This tool on understanding the UK economy presents data from the most recent official releases in the main areas that contribute to economic activity. Data follows the UN specification for this indicator. This indicator has not been identified in collaboration with topic experts.
+---
+Hetta er ein tekstur.The ONS has compiled this [Dashboard](https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22) to aid understanding of the economy. The represented commentary and trends are not a forecast or prediction but aim to help comprehension of how these data are potentially impacted by the international and domestic economic environment.
