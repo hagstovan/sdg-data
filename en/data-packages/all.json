@@ -2009,7 +2009,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+      "title": "Additional financial resources mobilized for developing countries from multiple sources"
     },
     {
       "path": "3-8-1/data.csv",
@@ -6042,6 +6042,30 @@
         ]
       },
       "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+    },
+    {
+      "path": "11-5-3/data.csv",
+      "name": "11-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     }
   ]
 }
