@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "data.disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cardiovascular disease",
+                "Cancer",
+                "Diabetes",
+                "Cronical respiratory diseases",
+                ""
+              ]
+            },
+            "title": "Sjúkubólkur"
           },
           {
             "name": "Value",

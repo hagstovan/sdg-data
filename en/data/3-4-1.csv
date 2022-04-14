@@ -1,1 +1,166 @@
-Year,Value
+Year,Sex,Sjúkubólkur,Value
+2009,,,274.0
+2009,,Cardiovascular disease,74.7
+2009,,Cancer,141.2
+2009,,Diabetes,29.1
+2009,,Cronical respiratory diseases,29.1
+2009,Males,,321.6
+2009,Males,Cardiovascular disease,86.3
+2009,Males,Cancer,196.1
+2009,Males,Diabetes,15.7
+2009,Males,Cronical respiratory diseases,23.5
+2009,Females,,220.6
+2009,Females,Cardiovascular disease,61.8
+2009,Females,Cancer,79.4
+2009,Females,Diabetes,44.1
+2009,Females,Cronical respiratory diseases,35.3
+2010,,,210.9
+2010,,Cardiovascular disease,57.9
+2010,,Cancer,144.7
+2010,,Diabetes,4.1
+2010,,Cronical respiratory diseases,4.1
+2010,Males,,305.2
+2010,Males,Cardiovascular disease,86.1
+2010,Males,Cancer,219.1
+2010,Males,Diabetes,0.0
+2010,Males,Cronical respiratory diseases,0.0
+2010,Females,,105.2
+2010,Females,Cardiovascular disease,26.3
+2010,Females,Cancer,61.4
+2010,Females,Diabetes,8.8
+2010,Females,Cronical respiratory diseases,8.8
+2011,,,264.1
+2011,,Cardiovascular disease,66.0
+2011,,Cancer,181.6
+2011,,Diabetes,8.3
+2011,,Cronical respiratory diseases,8.3
+2011,Males,,313.5
+2011,Males,Cardiovascular disease,101.9
+2011,Males,Cancer,203.7
+2011,Males,Diabetes,0.0
+2011,Males,Cronical respiratory diseases,7.8
+2011,Females,,209.2
+2011,Females,Cardiovascular disease,26.1
+2011,Females,Cancer,156.9
+2011,Females,Diabetes,17.4
+2011,Females,Cronical respiratory diseases,8.7
+2012,,,231.0
+2012,,Cardiovascular disease,90.8
+2012,,Cancer,132.0
+2012,,Diabetes,0.0
+2012,,Cronical respiratory diseases,8.3
+2012,Males,,346.3
+2012,Males,Cardiovascular disease,157.4
+2012,Males,Cancer,173.2
+2012,Males,Diabetes,0.0
+2012,Males,Cronical respiratory diseases,15.7
+2012,Females,,104.0
+2012,Females,Cardiovascular disease,17.3
+2012,Females,Cancer,86.7
+2012,Females,Diabetes,0.0
+2012,Females,Cronical respiratory diseases,0.0
+2013,,,272.6
+2013,,Cardiovascular disease,86.7
+2013,,Cancer,157.0
+2013,,Diabetes,4.1
+2013,,Cronical respiratory diseases,24.8
+2013,Males,,371.5
+2013,Males,Cardiovascular disease,118.6
+2013,Males,Cancer,237.1
+2013,Males,Diabetes,7.9
+2013,Males,Cronical respiratory diseases,7.9
+2013,Females,,164.4
+2013,Females,Cardiovascular disease,51.9
+2013,Females,Cancer,69.2
+2013,Females,Diabetes,0.0
+2013,Females,Cronical respiratory diseases,43.3
+2014,,,251.9
+2014,,Cardiovascular disease,74.3
+2014,,Cancer,148.7
+2014,,Diabetes,0.0
+2014,,Cronical respiratory diseases,28.9
+2014,Males,,323.7
+2014,Males,Cardiovascular disease,110.5
+2014,Males,Cancer,173.7
+2014,Males,Diabetes,0.0
+2014,Males,Cronical respiratory diseases,39.5
+2014,Females,,173.2
+2014,Females,Cardiovascular disease,34.6
+2014,Females,Cancer,121.2
+2014,Females,Diabetes,0.0
+2014,Females,Cronical respiratory diseases,17.3
+2015,,,221.8
+2015,,Cardiovascular disease,57.5
+2015,,Cancer,135.6
+2015,,Diabetes,0.0
+2015,,Cronical respiratory diseases,28.8
+2015,Males,,282.5
+2015,Males,Cardiovascular disease,102.0
+2015,Males,Cancer,149.1
+2015,Males,Diabetes,0.0
+2015,Males,Cronical respiratory diseases,31.4
+2015,Females,,155.2
+2015,Females,Cardiovascular disease,8.6
+2015,Females,Cancer,120.7
+2015,Females,Diabetes,0.0
+2015,Females,Cronical respiratory diseases,25.9
+2016,,,248.6
+2016,,Cardiovascular disease,65.2
+2016,,Cancer,158.9
+2016,,Diabetes,16.3
+2016,,Cronical respiratory diseases,8.1
+2016,Males,,288.6
+2016,Males,Cardiovascular disease,85.8
+2016,Males,Cancer,171.6
+2016,Males,Diabetes,23.4
+2016,Males,Cronical respiratory diseases,7.8
+2016,Females,,204.8
+2016,Females,Cardiovascular disease,42.7
+2016,Females,Cancer,145.1
+2016,Females,Diabetes,8.5
+2016,Females,Cronical respiratory diseases,8.5
+2017,,,294.5
+2017,,Cardiovascular disease,84.7
+2017,,Cancer,193.7
+2017,,Diabetes,0.0
+2017,,Cronical respiratory diseases,16.1
+2017,Males,,363.5
+2017,Males,Cardiovascular disease,139.2
+2017,Males,Cancer,208.8
+2017,Males,Diabetes,0.0
+2017,Males,Cronical respiratory diseases,15.5
+2017,Females,,219.3
+2017,Females,Cardiovascular disease,25.3
+2017,Females,Cancer,177.1
+2017,Females,Diabetes,0.0
+2017,Females,Cronical respiratory diseases,16.9
+2018,,,239.0
+2018,,Cardiovascular disease,51.8
+2018,,Cancer,163.3
+2018,,Diabetes,0.0
+2018,,Cronical respiratory diseases,23.9
+2018,Males,,320.2
+2018,Males,Cardiovascular disease,76.2
+2018,Males,Cancer,205.8
+2018,Males,Diabetes,0.0
+2018,Males,Cronical respiratory diseases,38.1
+2018,Females,,150.2
+2018,Females,Cardiovascular disease,25.0
+2018,Females,Cancer,116.8
+2018,Females,Diabetes,0.0
+2018,Females,Cronical respiratory diseases,8.3
+2019,,,192.0
+2019,,Cardiovascular disease,54.9
+2019,,Cancer,125.4
+2019,,Diabetes,0.0
+2019,,Cronical respiratory diseases,11.8
+2019,Males,,231.8
+2019,Males,Cardiovascular disease,74.8
+2019,Males,Cancer,149.5
+2019,Males,Diabetes,0.0
+2019,Males,Cronical respiratory diseases,7.5
+2019,Females,,148.2
+2019,Females,Cardiovascular disease,32.9
+2019,Females,Cancer,98.8
+2019,Females,Diabetes,0.0
+2019,Females,Cronical respiratory diseases,16.5

@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.male",
+                "data.female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.cardiovasculardisease",
+                "data.cancer",
+                "data.diabetes",
+                "data.cronicalrespiratorydiseases",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -17,8 +17,34 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Krabbamein",
+                "Hjarta-æðra-sjúkur",
+                "Kroniskar sjúkur í andaleiðini",
+                "Sukursjúka"
+              ]
+            },
+            "title": "Sjúkubólkur"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kvinnur",
+                "Menn"
+              ]
+            },
+            "title": "Kyn"
           }
         ]
       }
