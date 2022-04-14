@@ -283,6 +283,28 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Tuberculosis incidence per 100,000 population"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -4945,28 +4967,6 @@
         ]
       },
       "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
-    },
-    {
-      "path": "3-3-2/data.csv",
-      "name": "3-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Tuberculosis incidence per 100,000 population"
     },
     {
       "path": "16-4-1/data.csv",
