@@ -70,26 +70,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.per10000population",
-                "data.fulltimeequivalent",
+                "Per 10,000 population",
+                "Full-time equivalent",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "data.occupation",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists",
-                "data.dentists",
+                "Medical doctors",
+                "Nursing and midwifery personnel",
+                "Pharmacists",
+                "Dentists",
                 ""
               ]
             },
-            "title": "data.occupation"
+            "title": "Occupation"
           },
           {
             "name": "Value",
