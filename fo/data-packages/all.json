@@ -76,11 +76,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.fulltimeequivalent",
-                "data.per10000population"
+                "Ársverk",
+                "Fyri hvørjar 10.000 íbúgvar"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           },
           {
             "name": "data.occupation",
@@ -88,13 +88,13 @@
             "constraints": {
               "enum": [
                 "",
-                "data.dentists",
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists"
+                "Tannlæknar",
+                "Læknar",
+                "Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
+                "Heiliráðfrøðingar"
               ]
             },
-            "title": "data.occupation"
+            "title": "Starv"
           }
         ]
       },
