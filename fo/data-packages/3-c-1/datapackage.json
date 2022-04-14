@@ -17,8 +17,34 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.fulltimeequivalent",
+                "data.per10000population"
+              ]
+            },
+            "title": "data.measure"
+          },
+          {
+            "name": "data.occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.dentists",
+                "data.medicaldoctors",
+                "data.nursingandmidwiferypersonnel",
+                "data.pharmacists"
+              ]
+            },
+            "title": "data.occupation"
           }
         ]
       }

@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.per10000population",
+                "data.fulltimeequivalent",
+                ""
+              ]
+            },
+            "title": "data.measure"
+          },
+          {
+            "name": "data.occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.medicaldoctors",
+                "data.nursingandmidwiferypersonnel",
+                "data.pharmacists",
+                "data.dentists",
+                ""
+              ]
+            },
+            "title": "data.occupation"
           },
           {
             "name": "Value",
