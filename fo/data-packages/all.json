@@ -272,7 +272,7 @@
             "constraints": {
               "enum": [
                 "",
-                "data.bottom40percentofthepopulation"
+                "Lægstu 40 prosentini av íbúgvunum"
               ]
             },
             "title": "Inntøkubólkur"
