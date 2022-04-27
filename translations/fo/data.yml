@@ -2,6 +2,11 @@ sex: Kyn
 female: Kvinnur
 male: Menn
 age: Aldur
+00-17years: 00-17 ár
+18-24years: 18-24 ár
+25-54years: 25-54 ár
+55-66years: 55-66 ár
+67years: 67+ ár
 essentialservice: Grundleggjandi tænasta
 education: Útbúgving
 health: Heilsa
