@@ -2,6 +2,11 @@ sex: Sex
 female: Females
 male: Males
 age: Age
+00-17years: 00-17 years
+18-24years: 18-24 years
+25-54years: 25-54 years
+55-66years: 55-66 years
+67years: 67+ years
 essentialservice: Essential Service
 education: Education
 health: Health
