@@ -17,8 +17,23 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.energysource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.biofuel",
+                "data.hydro",
+                "data.ocean",
+                "data.solar",
+                "data.wind"
+              ]
+            },
+            "title": "data.energysource"
           }
         ]
       }
