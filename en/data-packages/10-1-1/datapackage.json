@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.growthrateofdisposableincome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.bottom40percentofthepopulation",
+                ""
+              ]
+            },
+            "title": "Growth rate of disposable income"
           },
           {
             "name": "Value",

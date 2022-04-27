@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.growthrateofdisposableincome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.bottom40percentofthepopulation",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
