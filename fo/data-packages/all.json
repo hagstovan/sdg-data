@@ -27,6 +27,30 @@
       "title": "Neonatal mortality rate"
     },
     {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Total greenhouse gas emissions per year"
+    },
+    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -138,30 +162,6 @@
         ]
       },
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
-    },
-    {
-      "path": "13-1-3/data.csv",
-      "name": "13-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "5-3-1/data.csv",
@@ -1671,30 +1671,6 @@
         ]
       },
       "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
-    },
-    {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Total greenhouse gas emissions per year"
     },
     {
       "path": "14-5-1/data.csv",
@@ -4959,6 +4935,30 @@
         ]
       },
       "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
+      "path": "13-1-3/data.csv",
+      "name": "13-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "16-4-2/data.csv",
