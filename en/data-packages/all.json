@@ -120,15 +120,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.hydro",
-                "data.wind",
-                "data.solar",
-                "data.ocean",
-                "data.biofuel",
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Ocean",
+                "Biofuel",
                 ""
               ]
             },
-            "title": "data.energysource"
+            "title": "Orkukelda"
           },
           {
             "name": "Value",
