@@ -1,121 +1,199 @@
-Year,Age,Sex,Value
-2009,,Males,3.8
-2009,,Females,4.0
-2009,00-17 ár,Males,4.6
-2009,00-17 ár,Females,4.9
-2009,18-24 ár,Males,3.3
-2009,18-24 ár,Females,6.5
-2009,25-54 ár,Males,3.3
-2009,25-54 ár,Females,3.6
-2009,55-66 ár,Males,4.3
-2009,55-66 ár,Females,3.2
-2009,67+ ár,Males,2.8
-2009,67+ ár,Females,2.6
-2010,,Males,3.5
-2010,,Females,3.9
-2010,00-17 ár,Males,4.5
-2010,00-17 ár,Females,5.1
-2010,18-24 ár,Males,3.1
-2010,18-24 ár,Females,5.9
-2010,25-54 ár,Males,3.2
-2010,25-54 ár,Females,3.5
-2010,55-66 ár,Males,3.8
-2010,55-66 ár,Females,2.7
-2010,67+ ár,Males,2.3
-2010,67+ ár,Females,2.2
-2011,,Males,3.8
-2011,,Females,4.2
-2011,00-17 ár,Males,5.0
-2011,00-17 ár,Females,5.6
-2011,18-24 ár,Males,3.7
-2011,18-24 ár,Females,7.5
-2011,25-54 ár,Males,3.5
-2011,25-54 ár,Females,3.7
-2011,55-66 ár,Males,3.7
-2011,55-66 ár,Females,2.8
-2011,67+ ár,Males,2.0
-2011,67+ ár,Females,2.3
-2012,,Males,4.1
-2012,,Females,4.4
-2012,00-17 ár,Males,5.6
-2012,00-17 ár,Females,5.6
-2012,18-24 ár,Males,4.4
-2012,18-24 ár,Females,8.0
-2012,25-54 ár,Males,3.5
-2012,25-54 ár,Females,4.1
-2012,55-66 ár,Males,3.8
-2012,55-66 ár,Females,2.9
-2012,67+ ár,Males,2.6
-2012,67+ ár,Females,2.2
-2013,,Males,3.9
-2013,,Females,4.5
-2013,00-17 ár,Males,5.6
-2013,00-17 ár,Females,6.1
-2013,18-24 ár,Males,4.1
-2013,18-24 ár,Females,7.6
-2013,25-54 ár,Males,3.3
-2013,25-54 ár,Females,4.3
-2013,55-66 ár,Males,3.7
-2013,55-66 ár,Females,2.8
-2013,67+ ár,Males,2.1
-2013,67+ ár,Females,2.3
-2014,,Males,3.8
-2014,,Females,4.4
-2014,00-17 ár,Males,5.1
-2014,00-17 ár,Females,5.6
-2014,18-24 ár,Males,4.7
-2014,18-24 ár,Females,7.5
-2014,25-54 ár,Males,3.1
-2014,25-54 ár,Females,4.1
-2014,55-66 ár,Males,3.7
-2014,55-66 ár,Females,3.0
-2014,67+ ár,Males,2.3
-2014,67+ ár,Females,2.4
-2015,,Males,3.7
-2015,,Females,4.1
-2015,00-17 ár,Males,4.8
-2015,00-17 ár,Females,5.4
-2015,18-24 ár,Males,4.6
-2015,18-24 ár,Females,6.8
-2015,25-54 ár,Males,3.2
-2015,25-54 ár,Females,4.1
-2015,55-66 ár,Males,3.8
-2015,55-66 ár,Females,2.3
-2015,67+ ár,Males,2.3
-2015,67+ ár,Females,2.2
-2016,,Males,3.2
-2016,,Females,3.6
-2016,00-17 ár,Males,4.6
-2016,00-17 ár,Females,4.7
-2016,18-24 ár,Males,3.2
-2016,18-24 ár,Females,6.0
-2016,25-54 ár,Males,2.9
-2016,25-54 ár,Females,3.6
-2016,55-66 ár,Males,3.2
-2016,55-66 ár,Females,2.4
-2016,67+ ár,Males,2.0
-2016,67+ ár,Females,1.9
-2017,,Males,3.1
-2017,,Females,3.6
-2017,00-17 ár,Males,4.2
-2017,00-17 ár,Females,4.4
-2017,18-24 ár,Males,2.4
-2017,18-24 ár,Females,5.1
-2017,25-54 ár,Males,2.9
-2017,25-54 ár,Females,3.4
-2017,55-66 ár,Males,3.0
-2017,55-66 ár,Females,2.3
-2017,67+ ár,Males,2.3
-2017,67+ ár,Females,3.1
-2018,,Males,2.9
-2018,,Females,3.2
-2018,00-17 ár,Males,3.9
-2018,00-17 ár,Females,3.7
-2018,18-24 ár,Males,2.8
-2018,18-24 ár,Females,5.4
-2018,25-54 ár,Males,2.7
-2018,25-54 ár,Females,3.2
-2018,55-66 ár,Males,2.4
-2018,55-66 ár,Females,1.9
-2018,67+ ár,Males,2.2
-2018,67+ ár,Females,2.8
+Year,Sex,Age,Value
+2009,,,3.8
+2009,,00-17 years,4.7
+2009,,18-24 years,4.7
+2009,,25-54 years,3.4
+2009,,55-66 years,3.8
+2009,,67+ years,2.5
+2009,Males,,3.7
+2009,Males,00-17 years,4.6
+2009,Males,18-24 years,3.3
+2009,Males,25-54 years,3.3
+2009,Males,55-66 years,4.3
+2009,Males,67+ years,2.7
+2009,Females,,4.0
+2009,Females,00-17 years,4.8
+2009,Females,18-24 years,6.4
+2009,Females,25-54 years,3.6
+2009,Females,55-66 years,3.2
+2009,Females,67+ years,2.4
+2010,,,3.6
+2010,,00-17 years,4.7
+2010,,18-24 years,4.4
+2010,,25-54 years,3.3
+2010,,55-66 years,3.3
+2010,,67+ years,2.2
+2010,Males,,3.5
+2010,Males,00-17 years,4.4
+2010,Males,18-24 years,3.1
+2010,Males,25-54 years,3.2
+2010,Males,55-66 years,3.8
+2010,Males,67+ years,2.3
+2010,Females,,3.8
+2010,Females,00-17 years,5.0
+2010,Females,18-24 years,5.9
+2010,Females,25-54 years,3.4
+2010,Females,55-66 years,2.7
+2010,Females,67+ years,2.1
+2011,,,3.9
+2011,,00-17 years,5.2
+2011,,18-24 years,5.5
+2011,,25-54 years,3.6
+2011,,55-66 years,3.2
+2011,,67+ years,2.1
+2011,Males,,3.7
+2011,Males,00-17 years,4.9
+2011,Males,18-24 years,3.8
+2011,Males,25-54 years,3.4
+2011,Males,55-66 years,3.6
+2011,Males,67+ years,2.0
+2011,Females,,4.2
+2011,Females,00-17 years,5.5
+2011,Females,18-24 years,7.5
+2011,Females,25-54 years,3.7
+2011,Females,55-66 years,2.7
+2011,Females,67+ years,2.1
+2012,,,4.2
+2012,,00-17 years,5.5
+2012,,18-24 years,6.0
+2012,,25-54 years,3.7
+2012,,55-66 years,3.3
+2012,,67+ years,2.4
+2012,Males,,4.0
+2012,Males,00-17 years,5.6
+2012,Males,18-24 years,4.4
+2012,Males,25-54 years,3.5
+2012,Males,55-66 years,3.8
+2012,Males,67+ years,2.6
+2012,Females,,4.3
+2012,Females,00-17 years,5.5
+2012,Females,18-24 years,8.0
+2012,Females,25-54 years,4.0
+2012,Females,55-66 years,2.8
+2012,Females,67+ years,2.2
+2013,,,4.2
+2013,,00-17 years,5.8
+2013,,18-24 years,5.6
+2013,,25-54 years,3.8
+2013,,55-66 years,3.2
+2013,,67+ years,2.1
+2013,Males,,3.8
+2013,Males,00-17 years,5.5
+2013,Males,18-24 years,4.1
+2013,Males,25-54 years,3.3
+2013,Males,55-66 years,3.6
+2013,Males,67+ years,2.0
+2013,Females,,4.5
+2013,Females,00-17 years,6.1
+2013,Females,18-24 years,7.6
+2013,Females,25-54 years,4.3
+2013,Females,55-66 years,2.8
+2013,Females,67+ years,2.2
+2014,,,4.0
+2014,,00-17 years,5.3
+2014,,18-24 years,6.0
+2014,,25-54 years,3.6
+2014,,55-66 years,3.2
+2014,,67+ years,2.3
+2014,Males,,3.7
+2014,Males,00-17 years,5.0
+2014,Males,18-24 years,4.7
+2014,Males,25-54 years,3.1
+2014,Males,55-66 years,3.7
+2014,Males,67+ years,2.2
+2014,Females,,4.3
+2014,Females,00-17 years,5.6
+2014,Females,18-24 years,7.4
+2014,Females,25-54 years,4.1
+2014,Females,55-66 years,2.8
+2014,Females,67+ years,2.3
+2015,,,3.8
+2015,,00-17 years,5.0
+2015,,18-24 years,5.5
+2015,,25-54 years,3.6
+2015,,55-66 years,3.0
+2015,,67+ years,2.1
+2015,Males,,3.6
+2015,Males,00-17 years,4.7
+2015,Males,18-24 years,4.6
+2015,Males,25-54 years,3.2
+2015,Males,55-66 years,3.6
+2015,Males,67+ years,2.2
+2015,Females,,4.1
+2015,Females,00-17 years,5.4
+2015,Females,18-24 years,6.7
+2015,Females,25-54 years,4.1
+2015,Females,55-66 years,2.3
+2015,Females,67+ years,2.1
+2016,,,3.4
+2016,,00-17 years,4.6
+2016,,18-24 years,4.5
+2016,,25-54 years,3.2
+2016,,55-66 years,2.7
+2016,,67+ years,1.8
+2016,Males,,3.2
+2016,Males,00-17 years,4.6
+2016,Males,18-24 years,3.2
+2016,Males,25-54 years,2.9
+2016,Males,55-66 years,3.1
+2016,Males,67+ years,1.9
+2016,Females,,3.6
+2016,Females,00-17 years,4.7
+2016,Females,18-24 years,6.0
+2016,Females,25-54 years,3.6
+2016,Females,55-66 years,2.3
+2016,Females,67+ years,1.8
+2017,,,3.3
+2017,,00-17 years,4.2
+2017,,18-24 years,3.7
+2017,,25-54 years,3.1
+2017,,55-66 years,2.6
+2017,,67+ years,2.5
+2017,Males,,3.1
+2017,Males,00-17 years,4.1
+2017,Males,18-24 years,2.4
+2017,Males,25-54 years,2.9
+2017,Males,55-66 years,3.0
+2017,Males,67+ years,2.2
+2017,Females,,3.5
+2017,Females,00-17 years,4.3
+2017,Females,18-24 years,5.1
+2017,Females,25-54 years,3.4
+2017,Females,55-66 years,2.3
+2017,Females,67+ years,2.7
+2018,,,3.0
+2018,,00-17 years,3.7
+2018,,18-24 years,3.9
+2018,,25-54 years,2.9
+2018,,55-66 years,2.1
+2018,,67+ years,2.4
+2018,Males,,2.8
+2018,Males,00-17 years,3.8
+2018,Males,18-24 years,2.7
+2018,Males,25-54 years,2.7
+2018,Males,55-66 years,2.4
+2018,Males,67+ years,2.1
+2018,Females,,3.2
+2018,Females,00-17 years,3.7
+2018,Females,18-24 years,5.4
+2018,Females,25-54 years,3.1
+2018,Females,55-66 years,1.9
+2018,Females,67+ years,2.7
+2019,,,2.7
+2019,,00-17 years,3.6
+2019,,18-24 years,3.4
+2019,,25-54 years,2.7
+2019,,55-66 years,2.1
+2019,,67+ years,1.6
+2019,Males,,2.4
+2019,Males,00-17 years,3.1
+2019,Males,18-24 years,2.6
+2019,Males,25-54 years,2.3
+2019,Males,55-66 years,2.4
+2019,Males,67+ years,1.4
+2019,Females,,3.1
+2019,Females,00-17 years,4.0
+2019,Females,18-24 years,4.4
+2019,Females,25-54 years,3.1
+2019,Females,55-66 years,1.8
+2019,Females,67+ years,1.9

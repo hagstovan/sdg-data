@@ -1,11 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-00-17 ár,2,1
-18-24 ár,2,1
-25-54 ár,2,1
-55-66 ár,2,1
-67+ ár,2,1
-data.00-17years,3,1
-data.18-24years,3,1
-data.25-54years,3,1
-data.55-66years,3,1
-data.67years,3,1
+data.00-17years,6,2
+data.18-24years,6,2
+data.25-54years,6,2
+data.55-66years,6,2
+data.67years,6,2
