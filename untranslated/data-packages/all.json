@@ -284,6 +284,17 @@
             "type": "integer"
           },
           {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.10-14years",
+                "data.15-19years",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

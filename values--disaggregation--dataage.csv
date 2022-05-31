@@ -5,6 +5,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 55-66years,3,1
 67years,3,1
 data.00-17years,3,1
+data.10-14years,1,1
+data.15-19years,1,1
 data.18-24years,3,1
 data.25-54years,3,1
 data.55-66years,3,1
