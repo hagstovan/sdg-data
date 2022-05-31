@@ -4,7 +4,7 @@ data.disease,1,4
 data.education,1,3
 data.energysource,1,5
 data.growthrateofdisposableincome,1,1
-data.measure,1,2
+data.measure,2,3
 data.occupation,1,4
 data.sex,6,4
 essentialservice,1,3

@@ -11,3 +11,4 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1,"data.measure, data.occupation",2
 #4-1-2,"data.sex, data.education",2
 #4-2-2,data.sex,1
+#4-b-1,data.measure,1
