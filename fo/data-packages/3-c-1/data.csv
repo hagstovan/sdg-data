@@ -1,41 +1,89 @@
 Year,Mát,Starv,Value
-2015,Fyri hvørjar 10.000 íbúgvar,Læknar,20.2
-2015,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",90.8
-2015,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,3.6
-2015,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.6
-2015,Ársverk,Læknar,98.8
-2015,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",443.7
-2015,Ársverk,Heiliráðfrøðingar,17.7
-2015,Ársverk,Tannlæknar,46.8
-2016,Fyri hvørjar 10.000 íbúgvar,Læknar,20.4
-2016,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",92.6
-2016,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,3.8
-2016,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.6
-2016,Ársverk,Læknar,100.8
-2016,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",457.7
-2016,Ársverk,Heiliráðfrøðingar,19.0
-2016,Ársverk,Tannlæknar,47.7
-2017,Fyri hvørjar 10.000 íbúgvar,Læknar,19.7
-2017,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",88.4
-2017,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,3.7
-2017,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.7
-2017,Ársverk,Læknar,98.8
-2017,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",443.4
-2017,Ársverk,Heiliráðfrøðingar,18.6
-2017,Ársverk,Tannlæknar,48.5
-2018,Fyri hvørjar 10.000 íbúgvar,Læknar,21.4
-2018,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",91.2
-2018,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,4.2
-2018,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.7
-2018,Ársverk,Læknar,108.7
-2018,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",463.9
-2018,Ársverk,Heiliráðfrøðingar,21.2
-2018,Ársverk,Tannlæknar,49.3
-2019,Fyri hvørjar 10.000 íbúgvar,Læknar,21.5
-2019,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",91.3
-2019,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,4.2
-2019,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.7
-2019,Ársverk,Læknar,111.2
-2019,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",472.2
-2019,Ársverk,Heiliráðfrøðingar,21.9
-2019,Ársverk,Tannlæknar,50.2
+2010,Fyri hvørjar 10.000 íbúgvar,Læknar,23.4
+2010,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",73.1
+2010,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.0
+2010,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,8.0
+2010,Ársverk,Læknar,113.3
+2010,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",354.2
+2010,Ársverk,Heiliráðfrøðingar,63.0
+2010,Ársverk,Tannlæknar,39.0
+2011,Fyri hvørjar 10.000 íbúgvar,Læknar,23.9
+2011,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",72.9
+2011,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.4
+2011,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,8.1
+2011,Ársverk,Læknar,115.4
+2011,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",352.2
+2011,Ársverk,Heiliráðfrøðingar,60.0
+2011,Ársverk,Tannlæknar,39.0
+2012,Fyri hvørjar 10.000 íbúgvar,Læknar,24.5
+2012,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",73.1
+2012,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.7
+2012,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.1
+2012,Ársverk,Læknar,117.7
+2012,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",351.8
+2012,Ársverk,Heiliráðfrøðingar,66.0
+2012,Ársverk,Tannlæknar,44.0
+2013,Fyri hvørjar 10.000 íbúgvar,Læknar,25.4
+2013,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",71.7
+2013,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.6
+2013,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.2
+2013,Ársverk,Læknar,121.9
+2013,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",344.6
+2013,Ársverk,Heiliráðfrøðingar,65.2
+2013,Ársverk,Tannlæknar,44.0
+2014,Fyri hvørjar 10.000 íbúgvar,Læknar,26.2
+2014,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",71.5
+2014,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,14.1
+2014,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.5
+2014,Ársverk,Læknar,126.9
+2014,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",345.6
+2014,Ársverk,Heiliráðfrøðingar,68.0
+2014,Ársverk,Tannlæknar,46.0
+2015,Fyri hvørjar 10.000 íbúgvar,Læknar,27.0
+2015,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",73.5
+2015,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,14.2
+2015,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2015,Ársverk,Læknar,132.1
+2015,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",358.9
+2015,Ársverk,Heiliráðfrøðingar,69.4
+2015,Ársverk,Tannlæknar,
+2016,Fyri hvørjar 10.000 íbúgvar,Læknar,27.1
+2016,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",75.6
+2016,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.5
+2016,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2016,Ársverk,Læknar,133.8
+2016,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",373.9
+2016,Ársverk,Heiliráðfrøðingar,66.7
+2016,Ársverk,Tannlæknar,
+2017,Fyri hvørjar 10.000 íbúgvar,Læknar,26.0
+2017,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",73.8
+2017,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,14.1
+2017,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2017,Ársverk,Læknar,130.5
+2017,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",369.7
+2017,Ársverk,Heiliráðfrøðingar,70.5
+2017,Ársverk,Tannlæknar,
+2018,Fyri hvørjar 10.000 íbúgvar,Læknar,27.8
+2018,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",75.7
+2018,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,14.5
+2018,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2018,Ársverk,Læknar,141.2
+2018,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",385.3
+2018,Ársverk,Heiliráðfrøðingar,73.8
+2018,Ársverk,Tannlæknar,
+2019,Fyri hvørjar 10.000 íbúgvar,Læknar,28.4
+2019,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",76.6
+2019,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,15.5
+2019,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2019,Ársverk,Læknar,146.7
+2019,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",395.8
+2019,Ársverk,Heiliráðfrøðingar,80.0
+2019,Ársverk,Tannlæknar,
+2020,Fyri hvørjar 10.000 íbúgvar,Læknar,
+2020,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",78.6
+2020,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,14.6
+2020,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,9.7
+2020,Ársverk,Læknar,
+2020,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",412.7
+2020,Ársverk,Heiliráðfrøðingar,76.7
+2020,Ársverk,Tannlæknar,51.0
