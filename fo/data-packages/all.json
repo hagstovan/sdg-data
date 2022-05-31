@@ -562,7 +562,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -581,7 +581,7 @@
             "constraints": {
               "enum": [
                 "",
-                "data.dev.sholarships"
+                "Menningarstuðul latin sum lestrarstuðul"
               ]
             },
             "title": "Mát"

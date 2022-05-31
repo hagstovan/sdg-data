@@ -575,7 +575,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.dev.sholarships",
+                "Official development assistance for scholarships",
                 ""
               ]
             },
