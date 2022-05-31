@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.10-14years",
                 "data.15-19years",
+                "data.10-14years",
                 ""
               ]
             }
