@@ -529,7 +529,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "officialdevelopmentassistanceforscholarships",
+                "data.officialdevelopmentassistanceforscholarships",
                 ""
               ]
             }
