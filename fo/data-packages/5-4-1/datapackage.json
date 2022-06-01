@@ -17,8 +17,49 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15-24 ár",
+                "25-44 ár",
+                "45-54 ár",
+                "55-64 ár",
+                "15+ ár",
+                "65+ ár"
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "data.location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bygd",
+                "Tilsamans",
+                "Býur"
+              ]
+            },
+            "title": "Staðseting"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kvinnur",
+                "Menn"
+              ]
+            },
+            "title": "Kyn"
           }
         ]
       }

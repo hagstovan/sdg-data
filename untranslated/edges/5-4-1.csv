@@ -1,1 +1,3 @@
 From,To
+data.location,data.age
+data.age,data.sex

@@ -12,7 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.total",
+                "data.urban",
+                "data.rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.ge15years",
+                "data.15-24years",
+                "data.25-44years",
+                "data.45-54years",
+                "data.55-64years",
+                "data.ge65years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.male",
+                "data.female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
