@@ -4,6 +4,7 @@ data.disease,1,4
 data.education,1,3
 data.energysource,1,5
 data.growthrateofdisposableincome,1,1
+data.levelofgovernment,1,2
 data.location,1,3
 data.measure,2,3
 data.occupation,1,4

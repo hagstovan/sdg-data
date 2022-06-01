@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.levelofgovernment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.localgovernment",
+                "data.parliament",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

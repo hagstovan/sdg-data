@@ -17,8 +17,20 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.levelofgovernment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kommunustýri",
+                "Løgtingið"
+              ]
+            },
+            "title": "data.levelofgovernment"
           }
         ]
       }
