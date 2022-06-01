@@ -9,7 +9,13 @@ data.00-17years,3,1
 data.10-14years,1,1
 data.15-17years,1,1
 data.15-19years,1,1
+data.15-24years,9,1
 data.18-24years,3,1
+data.25-44years,9,1
 data.25-54years,3,1
+data.45-54years,9,1
+data.55-64years,9,1
 data.55-66years,3,1
 data.67years,3,1
+data.ge15years,9,1
+data.ge65years,9,1
