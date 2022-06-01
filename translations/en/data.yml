@@ -12,6 +12,12 @@ female: Females
 male: Males
 age: Age
 00-14years: younger than 15 years
+e15years: 15+ years
+15-24years: 15-24 years
+25-44years: 25-44 years
+45-54years: 45-54 years
+55-64years: 55-64 years
+ge65years: 65+ years
 15-17years: 15-17 years
 00-17years: 00-17 years
 18-24years: 18-24 years
@@ -50,3 +56,4 @@ ocean: Ocean
 biofuel: Biofuel
 CO2equivalentmilliontonnes: CO2 equivalent million tonnes
 officialdevelopmentassistanceforscholarships: Official development assistance for scholarships
+location: Location
