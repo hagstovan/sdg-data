@@ -19,6 +19,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "yngri enn 15 ár",
+                "15-17 ár"
+              ]
+            },
+            "title": "Aldur"
           }
         ]
       }
