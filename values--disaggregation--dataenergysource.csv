@@ -1,6 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.biofuel,1,1
-data.hydro,1,1
-data.ocean,1,1
-data.solar,1,1
-data.wind,1,1
+data.biofuel,2,2
+data.geothermal,1,1
+data.hydro,2,2
+data.ocean,2,2
+data.solar,2,2
+data.totalrenewable,1,1
+data.wind,2,2
