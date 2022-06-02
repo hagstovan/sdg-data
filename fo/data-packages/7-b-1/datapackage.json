@@ -17,8 +17,25 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.energysource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lívfrøðilig brennievni",
+                "Jarðhiti",
+                "Vatn",
+                "Havið",
+                "Sólin",
+                "Varandi orkukeldur tilsamans",
+                "Vindur"
+              ]
+            },
+            "title": "Orkukelda"
           }
         ]
       }

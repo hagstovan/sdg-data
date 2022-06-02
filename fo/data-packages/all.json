@@ -819,6 +819,47 @@
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.energysource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lívfrøðilig brennievni",
+                "Jarðhiti",
+                "Vatn",
+                "Havið",
+                "Sólin",
+                "Varandi orkukeldur tilsamans",
+                "Vindur"
+              ]
+            },
+            "title": "Orkukelda"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+    },
+    {
       "path": "12-a-1/data.csv",
       "name": "12-a-1",
       "profile": "tabular-data-resource",
@@ -6031,30 +6072,6 @@
         ]
       },
       "title": "Research and development expenditure as a proportion of GDP"
-    },
-    {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "12-6-1/data.csv",

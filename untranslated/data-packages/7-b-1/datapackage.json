@@ -12,7 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.energysource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.totalrenewable",
+                "data.hydro",
+                "data.wind",
+                "data.solar",
+                "data.ocean",
+                "data.biofuel",
+                "data.geothermal",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
