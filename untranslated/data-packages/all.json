@@ -890,6 +890,28 @@
       "title": "Health worker density and distribution"
     },
     {
+      "path": "6-a-1/data.csv",
+      "name": "6-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+    },
+    {
       "path": "17-14-1/data.csv",
       "name": "17-14-1",
       "profile": "tabular-data-resource",
@@ -1987,7 +2009,7 @@
           }
         ]
       },
-      "title": "Index of coastal eutrophication; and (b) plastic debris density"
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "6-2-1/data.csv",
@@ -5640,28 +5662,6 @@
         ]
       },
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
-    },
-    {
-      "path": "6-a-1/data.csv",
-      "name": "6-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "16-1-1/data.csv",
