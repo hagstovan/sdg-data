@@ -48,12 +48,14 @@ pharmacists: Pharmacists
 dentists: Dentists
 growthrateofdisposableincome: Growth rate of disposable income
 bottom40percentofthepopulation: Bottom 40 per cent of the population
-energysource: Orkukelda
+energysource: Energy source
+totalrenewable: Total renewable
 hydro: Hydro
 wind: Wind
 solar: Solar
 ocean: Ocean
 biofuel: Biofuel
+geothermal: Geothermal
 CO2equivalentmilliontonnes: CO2 equivalent million tonnes
 officialdevelopmentassistanceforscholarships: Official development assistance for scholarships
 location: Location
