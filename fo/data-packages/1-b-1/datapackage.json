@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Ane"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-b-1",
-  "title": "Almannar útreiðslur til fátækrahjálp"
+  "title": "Almennar útreiðslur burturav til fátøk"
 }

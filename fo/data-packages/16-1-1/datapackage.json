@@ -12,13 +12,25 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "type": "integer",
+            "title": "Ane"
+          },
+          {
+            "name": "data.source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.chiefmedicalofficer",
+                "data.police"
+              ]
+            },
+            "title": "data.source"
           }
         ]
       }
