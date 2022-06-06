@@ -444,6 +444,30 @@
       "title": "Volume of official development assistance flows for scholarships by sector and type of study"
     },
     {
+      "path": "16-3-1/data.csv",
+      "name": "16-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ane"
+          }
+        ]
+      },
+      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+    },
+    {
       "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
@@ -3588,30 +3612,6 @@
         ]
       },
       "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
-    },
-    {
-      "path": "16-3-1/data.csv",
-      "name": "16-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "17-10-1/data.csv",
