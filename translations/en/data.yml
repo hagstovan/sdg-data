@@ -11,6 +11,8 @@ sex: Sex
 female: Females
 male: Males
 age: Age
+police: Police
+chiefmedicalofficer: Chief Medical Officer
 00-14years: younger than 15 years
 e15years: 15+ years
 15-24years: 15-24 years
