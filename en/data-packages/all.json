@@ -681,8 +681,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.police",
-                "data.chiefmedicalofficer",
+                "Police",
+                "Chief Medical Officer",
                 ""
               ]
             },
