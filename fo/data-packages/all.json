@@ -614,6 +614,30 @@
       "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ane"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -4116,30 +4140,6 @@
         ]
       },
       "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
-    },
-    {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "5-2-1/data.csv",
