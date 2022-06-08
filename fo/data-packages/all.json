@@ -506,6 +506,30 @@
       "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ane"
+          }
+        ]
+      },
+      "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
       "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
@@ -3842,30 +3866,6 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
       "path": "16-4-2/data.csv",
