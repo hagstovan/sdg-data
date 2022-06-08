@@ -21,9 +21,12 @@ chiefmedicalofficer: Chief Medical Officer
 00-14years: younger than 15 years
 e15years: 15+ years
 15-24years: 15-24 years
+15-74years: 15-74 years
 25-44years: 25-44 years
+25-54years: 25-54 years
 45-54years: 45-54 years
 55-64years: 55-64 years
+55-74years: 55-74 years
 ge65years: 65+ years
 15-17years: 15-17 years
 00-17years: 00-17 years
