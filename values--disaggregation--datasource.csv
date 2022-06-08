@@ -1,3 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 data.chiefmedicalofficer,1,1
+data.grants,1,1
+data.otherrevenue,1,1
 data.police,1,1
+data.socialcontributions,1,1
+data.taxes,1,1

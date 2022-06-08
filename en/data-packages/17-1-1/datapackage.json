@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.taxes",
+                "data.socialcontributions",
+                "data.grants",
+                "data.otherrevenue",
+                ""
+              ]
+            },
+            "title": "data.source"
           },
           {
             "name": "Value",

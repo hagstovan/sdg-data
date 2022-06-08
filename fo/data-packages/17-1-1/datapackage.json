@@ -17,8 +17,22 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ane"
+          },
+          {
+            "name": "data.source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.grants",
+                "data.otherrevenue",
+                "data.socialcontributions",
+                "data.taxes"
+              ]
+            },
+            "title": "data.source"
           }
         ]
       }
