@@ -840,6 +840,28 @@
       "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
+      "path": "9-1-1/data.csv",
+      "name": "9-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -3837,28 +3859,6 @@
         ]
       },
       "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
-    },
-    {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "8-7-1/data.csv",
