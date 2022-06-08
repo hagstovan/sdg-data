@@ -18,3 +18,4 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"data.location, data.age, data.sex",3
 #5-5-1,data.levelofgovernment,1
 #7-b-1,data.energysource,1
+#8-4-2 ,"data.measure, data.materialtype",2
