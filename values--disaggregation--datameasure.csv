@@ -1,7 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.domesticmaterialconsumption,5,1
-data.domesticmaterialconsumptionpercapita,5,1
-data.domesticmaterialconsumptionperunitofgdp,5,1
+data.domesticmaterialconsumption,10,2
+data.domesticmaterialconsumptionpercapita,10,2
+data.domesticmaterialconsumptionperunitofgdp,10,2
 data.fulltimeequivalent,4,1
 data.manufacturingvalueaddedasaproportionofgdp,1,1
 data.manufacturingvalueaddedpercapita,1,1
