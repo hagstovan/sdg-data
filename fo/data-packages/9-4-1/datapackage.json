@@ -17,8 +17,37 @@
           },
           {
             "name": "Year",
-            "type": "number",
-            "title": "Ane"
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.bunkers",
+                "Nýtsla av brennievni"
+              ]
+            },
+            "title": "data.mainsource"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Navigation",
+                "Flogfør",
+                "El- og hitaframleiðsla",
+                "Framleiðslu- og byggivinna",
+                "Skip",
+                "Aðrar vinnur",
+                "Flutningsvinna"
+              ]
+            },
+            "title": "Kelda"
           }
         ]
       }

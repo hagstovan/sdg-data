@@ -3,6 +3,58 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "8-4-2/data.csv",
+      "name": "8-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.materialtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Biomassi",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Tilsamans"
+              ]
+            },
+            "title": "Slag av tilfari"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
+              ]
+            },
+            "title": "Mát"
+          }
+        ]
+      },
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -20,7 +72,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -44,7 +96,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -68,7 +120,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.levelofgovernment",
@@ -116,7 +168,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -140,7 +192,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.age",
@@ -205,7 +257,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.age",
@@ -256,7 +308,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -280,7 +332,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.age",
@@ -316,7 +368,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.measure",
@@ -366,7 +418,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.sex",
@@ -383,6 +435,30 @@
         ]
       },
       "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+    },
+    {
+      "path": "9-a-1/data.csv",
+      "name": "9-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          }
+        ]
+      },
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "3-2-1/data.csv",
@@ -402,7 +478,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -426,7 +502,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.measure",
@@ -442,6 +518,30 @@
         ]
       },
       "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+    },
+    {
+      "path": "9-3-1/data.csv",
+      "name": "9-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          }
+        ]
+      },
+      "title": "Proportion of small-scale industries in total industry value added"
     },
     {
       "path": "17-1-1/data.csv",
@@ -461,7 +561,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.source",
@@ -499,11 +599,64 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+    },
+    {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.bunkers",
+                "Nýtsla av brennievni"
+              ]
+            },
+            "title": "data.mainsource"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Navigation",
+                "Flogfør",
+                "El- og hitaframleiðsla",
+                "Framleiðslu- og byggivinna",
+                "Skip",
+                "Aðrar vinnur",
+                "Flutningsvinna"
+              ]
+            },
+            "title": "Kelda"
+          }
+        ]
+      },
+      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "17-1-2/data.csv",
@@ -523,11 +676,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
+      "path": "9-2-1/data.csv",
+      "name": "9-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Virðisøking frá ídnaðarvinnu sum partur av BTÚ",
+                "Virðisøking frá ídnaðarvinnu fyri hvørt fólkið"
+              ]
+            },
+            "title": "Mát"
+          }
+        ]
+      },
+      "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
       "path": "3-7-2/data.csv",
@@ -547,7 +736,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.age",
@@ -583,7 +772,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -607,7 +796,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.education",
@@ -639,6 +828,30 @@
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
+      "path": "9-b-1/data.csv",
+      "name": "9-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          }
+        ]
+      },
+      "title": "Proportion of medium and high-tech industry value added in total value added"
+    },
+    {
       "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
@@ -656,7 +869,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "essentialservice",
@@ -693,7 +906,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -717,7 +930,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -741,7 +954,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -765,7 +978,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -789,7 +1002,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.source",
@@ -825,7 +1038,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -849,7 +1062,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -873,7 +1086,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.growthrateofdisposableincome",
@@ -908,11 +1121,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+    },
+    {
+      "path": "9-c-1/data.csv",
+      "name": "9-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "3G fartelefonnet ella betri",
+                "4G fartelefonnet ella betri"
+              ]
+            },
+            "title": "Tøkni"
+          }
+        ]
+      },
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "9-1-1/data.csv",
@@ -932,7 +1181,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -956,7 +1205,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.disease",
@@ -989,58 +1238,6 @@
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
-      "path": "8-4-2 /data.csv",
-      "name": "8-4-2 ",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ane"
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Biomassi",
-                "Lívrunnin brennievni og aðrar framleiðslur",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Tilsamans"
-              ]
-            },
-            "title": "Slag av tilfari"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Innlendis tilfarsnýtsla",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
-              ]
-            },
-            "title": "Mát"
-          }
-        ]
-      },
-      "title": "8-4-2 "
-    },
-    {
       "path": "7-b-1/data.csv",
       "name": "7-b-1",
       "profile": "tabular-data-resource",
@@ -1058,7 +1255,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.energysource",
@@ -1099,7 +1296,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1123,7 +1320,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1147,7 +1344,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.energysource",
@@ -1186,7 +1383,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.sex",
@@ -1222,7 +1419,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1246,7 +1443,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.age",
@@ -1280,6 +1477,30 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
+      "path": "9-2-2/data.csv",
+      "name": "9-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          }
+        ]
+      },
+      "title": "Manufacturing employment as a proportion of total employment"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -1297,7 +1518,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1321,7 +1542,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1345,7 +1566,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1369,7 +1590,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Ane"
+            "title": "Ár"
           },
           {
             "name": "data.age",
@@ -1418,7 +1639,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1442,7 +1663,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1466,7 +1687,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1490,7 +1711,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1514,7 +1735,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1538,7 +1759,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1562,7 +1783,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1586,7 +1807,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1610,7 +1831,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1634,7 +1855,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1658,7 +1879,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1682,7 +1903,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1706,7 +1927,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1730,7 +1951,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1754,7 +1975,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1778,7 +1999,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1802,7 +2023,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1826,7 +2047,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1850,7 +2071,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1874,7 +2095,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1898,7 +2119,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1922,7 +2143,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1946,7 +2167,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1970,7 +2191,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -1994,7 +2215,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2018,7 +2239,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2042,7 +2263,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2066,7 +2287,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2090,7 +2311,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2114,7 +2335,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2138,7 +2359,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2162,7 +2383,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2186,7 +2407,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2210,7 +2431,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2234,7 +2455,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2258,7 +2479,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2282,7 +2503,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2306,7 +2527,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2330,7 +2551,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2354,7 +2575,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2378,7 +2599,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2402,7 +2623,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2426,7 +2647,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2450,7 +2671,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2474,7 +2695,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2498,7 +2719,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2522,7 +2743,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2546,7 +2767,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2570,7 +2791,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2594,7 +2815,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2618,7 +2839,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2642,59 +2863,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
-    },
-    {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "CO2 emission per unit of value added"
-    },
-    {
-      "path": "8-4-2/data.csv",
-      "name": "8-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "1-3-1/data.csv",
@@ -2714,7 +2887,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2738,7 +2911,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2762,7 +2935,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2786,7 +2959,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2810,7 +2983,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2834,7 +3007,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2858,7 +3031,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2882,7 +3055,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2906,7 +3079,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2930,7 +3103,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2954,7 +3127,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -2978,7 +3151,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3002,7 +3175,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3026,7 +3199,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3050,7 +3223,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3074,7 +3247,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3098,7 +3271,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3122,35 +3295,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
-    },
-    {
-      "path": "9-c-1/data.csv",
-      "name": "9-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "16-7-2/data.csv",
@@ -3170,35 +3319,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
-    },
-    {
-      "path": "9-2-1/data.csv",
-      "name": "9-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
       "path": "6-b-1/data.csv",
@@ -3218,7 +3343,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3242,7 +3367,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3266,7 +3391,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3290,7 +3415,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3314,7 +3439,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3338,7 +3463,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3362,7 +3487,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3386,7 +3511,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3410,7 +3535,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3434,7 +3559,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3458,7 +3583,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3482,7 +3607,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3506,7 +3631,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3530,7 +3655,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3554,7 +3679,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3578,7 +3703,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3602,7 +3727,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3626,7 +3751,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3650,7 +3775,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3674,7 +3799,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3698,7 +3823,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3722,7 +3847,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3746,7 +3871,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3770,7 +3895,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3794,7 +3919,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3818,7 +3943,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3842,7 +3967,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3866,7 +3991,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3890,7 +4015,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3914,7 +4039,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3938,7 +4063,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3962,7 +4087,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -3986,7 +4111,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4010,7 +4135,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4034,7 +4159,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4058,7 +4183,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4082,7 +4207,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4106,7 +4231,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4130,7 +4255,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4154,7 +4279,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4178,7 +4303,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4202,7 +4327,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4226,7 +4351,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4250,7 +4375,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4274,7 +4399,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4298,7 +4423,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4322,7 +4447,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4346,7 +4471,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4370,7 +4495,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4394,7 +4519,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4418,7 +4543,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4442,7 +4567,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4466,7 +4591,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4490,7 +4615,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4514,7 +4639,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4538,7 +4663,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4562,7 +4687,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4586,35 +4711,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Debt service as a proportion of exports of goods and services"
-    },
-    {
-      "path": "9-b-1/data.csv",
-      "name": "9-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Proportion of medium and high-tech industry value added in total value added"
     },
     {
       "path": "15-3-1/data.csv",
@@ -4634,7 +4735,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4658,7 +4759,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4682,7 +4783,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4706,7 +4807,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4730,7 +4831,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4754,7 +4855,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4778,7 +4879,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4802,7 +4903,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4826,7 +4927,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4850,7 +4951,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4874,7 +4975,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4898,7 +4999,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4922,7 +5023,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4946,7 +5047,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4970,7 +5071,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -4994,7 +5095,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5018,7 +5119,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5042,7 +5143,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5066,7 +5167,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5090,7 +5191,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5114,7 +5215,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5138,7 +5239,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5162,7 +5263,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5186,7 +5287,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5210,7 +5311,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5234,7 +5335,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5258,7 +5359,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5282,7 +5383,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5306,7 +5407,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5330,7 +5431,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5354,7 +5455,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5378,7 +5479,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5402,7 +5503,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5426,7 +5527,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5450,7 +5551,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5474,7 +5575,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5498,7 +5599,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5522,7 +5623,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5546,7 +5647,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5570,7 +5671,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5594,7 +5695,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5618,7 +5719,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5642,7 +5743,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5666,7 +5767,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5690,7 +5791,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5714,7 +5815,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5738,7 +5839,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5762,7 +5863,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5786,7 +5887,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5810,7 +5911,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5834,7 +5935,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5858,7 +5959,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5882,7 +5983,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5906,7 +6007,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5930,7 +6031,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5954,7 +6055,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -5978,7 +6079,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6002,7 +6103,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6026,7 +6127,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6050,7 +6151,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6074,7 +6175,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6098,7 +6199,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6122,7 +6223,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6146,7 +6247,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6170,7 +6271,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6194,35 +6295,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Number of companies publishing sustainability reports"
-    },
-    {
-      "path": "9-2-2/data.csv",
-      "name": "9-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Manufacturing employment as a proportion of total employment"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6242,35 +6319,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
-    },
-    {
-      "path": "9-a-1/data.csv",
-      "name": "9-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "9-3-2/data.csv",
@@ -6290,7 +6343,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6314,35 +6367,11 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
       "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
-    },
-    {
-      "path": "9-3-1/data.csv",
-      "name": "9-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ane"
-          }
-        ]
-      },
-      "title": "Proportion of small-scale industries in total industry value added"
     },
     {
       "path": "15-4-2/data.csv",
@@ -6362,7 +6391,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },
@@ -6386,7 +6415,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Ane"
+            "title": "Ár"
           }
         ]
       },

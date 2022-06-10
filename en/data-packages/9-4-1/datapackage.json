@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fuel combustion",
+                "data.bunkers",
+                ""
+              ]
+            },
+            "title": "data.mainsource"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Energy industries",
+                "Manufacturing industries and construction",
+                "Transport sector",
+                "Other sectors",
+                "Aviation",
+                "Navigation",
+                "Navigation",
+                ""
+              ]
+            },
+            "title": "Source"
           },
           {
             "name": "Value",

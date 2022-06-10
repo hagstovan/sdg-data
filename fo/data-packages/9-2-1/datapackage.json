@@ -17,8 +17,20 @@
           },
           {
             "name": "Year",
-            "type": "number",
-            "title": "Ane"
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Virðisøking frá ídnaðarvinnu sum partur av BTÚ",
+                "Virðisøking frá ídnaðarvinnu fyri hvørt fólkið"
+              ]
+            },
+            "title": "Mát"
           }
         ]
       }

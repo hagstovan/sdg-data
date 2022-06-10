@@ -3,5 +3,7 @@ data.domesticmaterialconsumption,5,1
 data.domesticmaterialconsumptionpercapita,5,1
 data.domesticmaterialconsumptionperunitofgdp,5,1
 data.fulltimeequivalent,4,1
+data.manufacturingvalueaddedasaproportionofgdp,1,1
+data.manufacturingvalueaddedpercapita,1,1
 data.officialdevelopmentassistanceforscholarships,1,1
 data.per10000population,4,1
