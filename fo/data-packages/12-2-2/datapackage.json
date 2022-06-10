@@ -17,8 +17,36 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.materialtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Biomassi",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Tilsamans"
+              ]
+            },
+            "title": "Slag av tilfari"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
+              ]
+            },
+            "title": "Mát"
           }
         ]
       }

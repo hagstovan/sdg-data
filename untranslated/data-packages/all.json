@@ -761,6 +761,54 @@
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
+      "path": "12-2-2/data.csv",
+      "name": "12-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.materialtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.total",
+                "data.biomass",
+                "data.metallicminerals",
+                "data.non-metallicminerals",
+                "data.fossilenergyandotherproducts",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.domesticmaterialconsumption",
+                "data.domesticmaterialconsumptionpercapita",
+                "data.domesticmaterialconsumptionperunitofgdp",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
       "path": "9-b-1/data.csv",
       "name": "9-b-1",
       "profile": "tabular-data-resource",
@@ -1510,28 +1558,6 @@
         ]
       },
       "title": "Annual growth rate of real GDP per employed person"
-    },
-    {
-      "path": "12-2-2/data.csv",
-      "name": "12-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "14-6-1/data.csv",
