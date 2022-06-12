@@ -1,3 +1,27 @@
+merchandisetrade: Vøruhandil við umheimin, ársins prísir (% av BTÚ)
+personalremittances: Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)
+currentaccountbalance: Rakstrarviðskifti gjaldsjavnans (% av BTÚ)
+foreigndirectinvestment: Beinleiðis íløgur, netto (% av BTÚ)
+portfolioinvestment: Íløgur í virðisbrøv, netto (mió USD)
+reservesinmonthsofimports: Samlaða gjaldoyragoymslan í mánaðum av innflutningi
+debtservice: Samlað skuldarafturgjalding (% av útflutningi)
+externaldebtstocks: Uttanlandsskuld, brutto (% av BTI)
+DECalternativeconversionfactor: Gjaldoyrakursur, DKK/USD (ársmiðal)
+annualbroadmoneygrowth: Árligur vøkstur av peninganøgdini (%)
+broadmoney: Peninganøgdin í mun til gjaldoyragoymslu
+banknonperformingloans: Mishildin lán í mun til útlán áðrenn niðurskrivingar (%)
+bankcapitaltoassetsratio: Kapitalur í mun til ognir
+taxrevenuegdp: Skattainntøkur samanlagt (% av BTÚ)
+cashsurplusdeficit: Fíggjarkrav netto fyri (% av BTÚ)
+grossPSD: Almenn skuld (% a BTÚ)
+annualGDPgrowth: Árligur vøkstur av BTÚ (%)
+annualgrowthofthegrosscapitalformation: Árligur vøkstur av bruttoíløgum (%)
+annualgrowthofhouseholdsandNPISHs: Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)
+annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure: Árligur vøkstur av almennum nýtsluútreiðslum (%)
+annualgrowthofexportsofgoodsandservices: Árligur vøkstur av útflutningi av vørum og tænastum (%)
+annualgrowthofimportsofgoodsandservices: Árligur vøkstur av innflutningi av vørum og tænastum (%)
+annualinflationconsumerprices: Árligur prísvøkstur, brúkaraprístalið (%)
+totalunemploymentoutoftotallabourforce: Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)
 256kbit: 256 Kbit/s upp til men undir 2 Mbit/s
 2mbit: 2 Mbit/s upp til men undir 10Mbit/s
 10mbit: 10 Mbit/s ella meir
