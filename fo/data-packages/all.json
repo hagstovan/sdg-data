@@ -1470,6 +1470,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Breiðbandshald",
+                "Breiðsbandshald fyri hvørjar 100 íbúgvar"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Value"
@@ -1491,18 +1503,6 @@
               ]
             },
             "title": "Bandbreidd"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Breiðbandshald",
-                "Breiðsbandshald fyri hvørjar 100 íbúgvar"
-              ]
-            },
-            "title": "Mát"
           }
         ]
       },
