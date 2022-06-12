@@ -12,11 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.merchandisetrade",
+                "data.personalremittances",
+                "data.currentaccountbalance",
+                "data.foreigndirectinvestment",
+                "data.portfolioinvestment",
+                "data.reservesinmonthsofimports",
+                "data.debtservice",
+                "data.externaldebtstocks",
+                "data.DECalternativeconversionfactor",
+                "data.annualbroadmoneygrowth",
+                "data.broadmoney",
+                "data.banknonperformingloans",
+                "data.bankcapitaltoassetsratio",
+                "data.taxrevenuegdp",
+                "data.cashsurplusdeficit",
+                "data.grossPSD",
+                "data.annualGDPgrowth",
+                "data.annualgrowthofthegrosscapitalformation",
+                "data.annualgrowthofhouseholdsandNPISHs",
+                "data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure",
+                "data.annualgrowthofexportsofgoodsandservices",
+                "data.annualgrowthofimportsofgoodsandservices",
+                "data.annualinflationconsumerprices",
+                "data.totalunemploymentoutoftotallabourforce",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

@@ -51,6 +51,61 @@
       "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
+      "path": "17-13-1/data.csv",
+      "name": "17-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.merchandisetrade",
+                "data.personalremittances",
+                "data.currentaccountbalance",
+                "data.foreigndirectinvestment",
+                "data.portfolioinvestment",
+                "data.reservesinmonthsofimports",
+                "data.debtservice",
+                "data.externaldebtstocks",
+                "data.DECalternativeconversionfactor",
+                "data.annualbroadmoneygrowth",
+                "data.broadmoney",
+                "data.banknonperformingloans",
+                "data.bankcapitaltoassetsratio",
+                "data.taxrevenuegdp",
+                "data.cashsurplusdeficit",
+                "data.grossPSD",
+                "data.annualGDPgrowth",
+                "data.annualgrowthofthegrosscapitalformation",
+                "data.annualgrowthofhouseholdsandNPISHs",
+                "data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure",
+                "data.annualgrowthofexportsofgoodsandservices",
+                "data.annualgrowthofimportsofgoodsandservices",
+                "data.annualinflationconsumerprices",
+                "data.totalunemploymentoutoftotallabourforce",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "Macroeconomic Dashboard"
+    },
+    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -3726,28 +3781,6 @@
         ]
       },
       "title": "Worldwide weighted tariff-average"
-    },
-    {
-      "path": "17-13-1/data.csv",
-      "name": "17-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Macroeconomic Dashboard"
     },
     {
       "path": "8-5-1/data.csv",
