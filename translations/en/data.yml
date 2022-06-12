@@ -1,3 +1,27 @@
+merchandisetrade: Merchandise trade as a proportion of GDP (%)
+personalremittances: Personal remittances, received, as a proportion of GDP (%)
+currentaccountbalance: Current account balance as a proportion of GDP (%)
+foreigndirectinvestment: Foreign direct investment, net inflows, as a proportion of GDP (%)
+portfolioinvestment: Portfolio investment, net (BoP, current US$)
+reservesinmonthsofimports: Total reserves in months of imports
+debtservice: Debt service (PPG and IMF only, % of exports of goods, services and primary income)
+externaldebtstocks: External debt stocks as a proportion of GNI (%)
+DECalternativeconversionfactor: DEC alternative conversion factor (LCU per US$)
+annualbroadmoneygrowth: Annual broad money growth (%)
+broadmoney: Broad money to total reserves ratio
+banknonperformingloans: Bank nonperforming loans to total gross loans (%)
+bankcapitaltoassetsratio: Bank capital to assets ratio (%)
+taxrevenuegdp: Tax revenue as a proportion of GDP (%)
+cashsurplusdeficit: Cash surplus/deficit as a proportion of GDP (%)
+grossPSD: Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, as a proportion of GDP (%)
+annualGDPgrowth: Annual GDP growth (%)
+annualgrowthofthegrosscapitalformation: Annual growth of the gross capital formation (%)
+annualgrowthofhouseholdsandNPISHs: Annual growth of households and NPISHs final consumption expenditure (%)
+annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure: Annual growth of the general government final consumption expenditure (%)
+annualgrowthofexportsofgoodsandservices: Annual growth of exports of goods and services (%)
+annualgrowthofimportsofgoodsandservices: Annual growth of imports of goods and services (%)
+annualinflationconsumerprices: Annual inflation, consumer prices (%)
+totalunemploymentoutoftotallabourforce: Total unemployment out of total labour force (national estimate) (%)
 256kbit: 256 Kbit/s to less than 2 Mbit/s
 2mbit: 2 Mbit/s to less than 10 Mbit/s
 10mbit: 10 Mbit/s or more
