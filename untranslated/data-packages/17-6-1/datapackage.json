@@ -12,11 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.fixedbroadbandsubscriptionsper100inhabitants",
+                "data.fixedbroadbandsubscriptions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.bandwidth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.256kbit",
+                "data.2mbit",
+                "data.10mbit",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

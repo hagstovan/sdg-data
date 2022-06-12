@@ -1256,6 +1256,51 @@
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.fixedbroadbandsubscriptionsper100inhabitants",
+                "data.fixedbroadbandsubscriptions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.bandwidth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.256kbit",
+                "data.2mbit",
+                "data.10mbit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+    },
+    {
       "path": "8-a-1/data.csv",
       "name": "8-a-1",
       "profile": "tabular-data-resource",
@@ -5023,28 +5068,6 @@
         ]
       },
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
-    },
-    {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "16-b-1/data.csv",

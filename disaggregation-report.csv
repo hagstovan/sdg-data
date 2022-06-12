@@ -8,7 +8,7 @@ data.levelofgovernment,1,2
 data.location,1,3
 data.mainsource,1,2
 data.materialtype,2,5
-data.measure,5,8
+data.measure,6,10
 data.occupation,1,4
 data.sex,8,4
 data.source,2,6
