@@ -1,4 +1,4 @@
-﻿"Year","data.measure","data.bandwidth","Value"
+﻿"Year","Units","data.bandwidth","Value"
 "2008","data.fixedbroadbandsubscriptionsper100inhabitants","",25.4
 "2008","data.fixedbroadbandsubscriptionsper100inhabitants","data.256kbit",23.7
 "2008","data.fixedbroadbandsubscriptionsper100inhabitants","data.2mbit",1.7
