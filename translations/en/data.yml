@@ -1,3 +1,9 @@
+256kbit: 256 Kbit/s to less than 2 Mbit/s
+2mbit: 2 Mbit/s to less than 10 Mbit/s
+10mbit: 10 Mbit/s or more
+fixedbroadbandsubscriptions: Fixed broadband subscriptions (number)
+fixedbroadbandsubscriptionsper100inhabitants: Fixed broadband subscriptions per 100 inhabitants
+bandwidth: Bandbreidd
 officialdevelopmentassistance: Net official development assistance as a proportion of the gross national income (GNI)
 disasterrelief: Disaster relief as a proportion og GNI
 source: Source
