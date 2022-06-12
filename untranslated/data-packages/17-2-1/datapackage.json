@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.officialdevelopmentassistance",
+                "data.disasterrelief",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
