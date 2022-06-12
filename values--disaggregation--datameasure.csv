@@ -3,6 +3,8 @@ data.disasterrelief,1,1
 data.domesticmaterialconsumption,10,2
 data.domesticmaterialconsumptionpercapita,10,2
 data.domesticmaterialconsumptionperunitofgdp,10,2
+data.fixedbroadbandsubscriptions,4,1
+data.fixedbroadbandsubscriptionsper100inhabitants,4,1
 data.fulltimeequivalent,4,1
 data.manufacturingvalueaddedasaproportionofgdp,1,1
 data.manufacturingvalueaddedpercapita,1,1
