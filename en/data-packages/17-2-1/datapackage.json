@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.officialdevelopmentassistance",
-                "data.disasterrelief",
+                "Net official development assistance as a proportion of the gross national income (GNI)",
+                "Disaster relief as a proportion og GNI",
                 ""
               ]
             },
