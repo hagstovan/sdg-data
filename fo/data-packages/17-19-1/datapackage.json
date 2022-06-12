@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -26,7 +26,7 @@
             "constraints": {
               "enum": [
                 "",
-                "data.netofficialdevelopmentassistance"
+                "Netto almennur menningarstuðul, samantalda upphæddin og til minst mentu londini sum partur av samlaðu bruttotjóðarinntøkuni (BTI) hjá gevaralondunum í Felagsskapinum fyri búskaparligum samstarvi og menning (OECD)"
               ]
             },
             "title": "Mát"
