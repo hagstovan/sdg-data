@@ -724,11 +724,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.bunkers",
+                "Bunkring",
                 "Nýtsla av brennievni"
               ]
             },
-            "title": "data.mainsource"
+            "title": "Høvuðskelda"
           },
           {
             "name": "source",
