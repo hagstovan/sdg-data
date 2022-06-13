@@ -17,8 +17,33 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15-19 ár",
+                "15-24 ár",
+                "20-24 ár"
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kvinnur",
+                "Menn"
+              ]
+            },
+            "title": "Kyn"
           }
         ]
       }
