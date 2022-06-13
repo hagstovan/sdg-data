@@ -21,11 +21,11 @@
             "constraints": {
               "enum": [
                 "Fuel combustion",
-                "data.bunkers",
+                "International Bunkers",
                 ""
               ]
             },
-            "title": "data.mainsource"
+            "title": "Main source"
           },
           {
             "name": "source",
