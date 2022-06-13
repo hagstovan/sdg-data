@@ -8,9 +8,10 @@ data.00-14years,1,1
 data.00-17years,3,1
 data.10-14years,1,1
 data.15-17years,1,1
-data.15-19years,1,1
-data.15-24years,12,2
+data.15-19years,4,2
+data.15-24years,15,3
 data.18-24years,3,1
+data.20-24years,3,1
 data.25-44years,9,1
 data.25-54years,6,2
 data.45-54years,9,1

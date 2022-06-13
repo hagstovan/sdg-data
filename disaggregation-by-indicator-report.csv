@@ -25,6 +25,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-b-1,data.energysource,1
 #8-4-2,"data.materialtype, data.measure",2
 #8-5-2,"data.age, data.sex",2
+#8-6-1,"data.age, data.sex",2
 #9-2-1,data.measure,1
 #9-4-1,"data.mainsource, source",2
 #9-c-1,data.technology,1
