@@ -424,26 +424,26 @@
             "title": "Year"
           },
           {
-            "name": "data.measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 10,000 population",
                 "Full-time equivalent",
+                "Per 10,000 population",
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "Units"
           },
           {
             "name": "data.occupation",
             "type": "string",
             "constraints": {
               "enum": [
+                "Dentists",
                 "Medical doctors",
                 "Nursing and midwifery personnel",
                 "Pharmacists",
-                "Dentists",
                 ""
               ]
             },

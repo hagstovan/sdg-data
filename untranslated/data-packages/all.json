@@ -392,12 +392,12 @@
             "type": "integer"
           },
           {
-            "name": "data.measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.per10000population",
                 "data.fulltimeequivalent",
+                "data.per10000population",
                 ""
               ]
             }
@@ -407,10 +407,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "data.dentists",
                 "data.medicaldoctors",
                 "data.nursingandmidwiferypersonnel",
                 "data.pharmacists",
-                "data.dentists",
                 ""
               ]
             }
