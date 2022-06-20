@@ -214,3 +214,9 @@ technology: Technology
 3-2-1-footnote: Under-five mortality is the probability of a child born in a specific year or period dying before reaching the age of 5 years, if subject to age specific mortality rates of that period, expressed per 1000 live births.
 9-b-1-footnote: National accounts and value added is in current prices
 maternaldeaths100000: Maternal deaths per 100,000 live births
+importexport: Import/Export
+merchandiseimport: Merchandise import
+merchandiseexport: Merchandise export
+developed-leastdeveloped: Developing countries and least developed countries
+developed-ex-china: Developing countries and least developed countries excluding China
+leastdeveloped: Least developed countries
