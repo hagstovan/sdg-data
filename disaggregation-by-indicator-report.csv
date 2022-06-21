@@ -8,6 +8,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-3-1-a,Urbanisation,1
 #16-1-1,data.source,1
 #17-1-1,data.source,1
+#17-11-1,"data.importexport, data.countrygroup",2
 #17-13-1,data.measure,1
 #17-19-1,data.measure,1
 #17-2-1,data.measure,1
@@ -21,7 +22,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-b-1,data.measure,1
 #5-3-1,data.age,1
 #5-4-1,"data.sex, data.age, data.location",3
-#5-5-1,data.levelofgovernment,1
+#5-5-1,data.party-municipality,1
 #7-b-1,data.energysource,1
 #8-4-2,"data.materialtype, data.measure",2
 #8-5-2,"data.sex, data.age",2

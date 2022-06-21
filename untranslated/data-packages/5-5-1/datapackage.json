@@ -15,12 +15,95 @@
             "type": "integer"
           },
           {
-            "name": "data.levelofgovernment",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.localgovernment",
                 "data.parliament",
+                "data.municipalities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.womenseats-proportion",
+                "data.womenseats-number",
+                "data.seats-number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.party-municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.all-parties",
+                "data.conservativeparty",
+                "data.theprogressparty",
+                "data.progress",
+                "data.socialdemocraticparty",
+                "data.christianparty",
+                "data.thecentreparty",
+                "data.unionistparty",
+                "data.independenceparty",
+                "data.republicanparty",
+                "data.workersmovement",
+                "data.all-municipalities",
+                "data.biggjarmunicipality",
+                "data.eidismunicipality",
+                "data.elduvikarmunicipality",
+                "data.eysturmunicipality",
+                "data.famjinsmunicipality",
+                "data.fuglafjardarmunicipality",
+                "data.fugloyarmunicipality",
+                "data.funningsmunicipality",
+                "data.gjaarmunicipality",
+                "data.gotumunicipality",
+                "data.haldorsvikarmunicipality",
+                "data.hestsmunicipality",
+                "data.hosvikarmunicipality",
+                "data.hovsmunicipality",
+                "data.husamunicipality",
+                "data.husavikarmunicipality",
+                "data.hvalbiarmunicipality",
+                "data.hvalvikarmunicipality",
+                "data.hvannasundsmunicipality",
+                "data.kirkjuboarmunicipality",
+                "data.klaksvikarmunicipality",
+                "data.kunoyarmunicipality",
+                "data.kvivikarmunicipality",
+                "data.leirvikarmunicipality",
+                "data.midvagsmunicipality",
+                "data.mikladalsmunicipality",
+                "data.mykinesmunicipality",
+                "data.nesmunicipality",
+                "data.nolsoyarmunicipality",
+                "data.oyndarfjardarmunicipality",
+                "data.porkerismunicipality",
+                "data.runavikarmunicipality",
+                "data.saksunarmunicipality",
+                "data.sandavagsmunicipality",
+                "data.sandsmunicipality",
+                "data.sjovarmunicipality",
+                "data.skalamunicipality",
+                "data.skalavikarmunicipality",
+                "data.skopunarmunicipality",
+                "data.skugvoyarmunicipality",
+                "data.sorvagsmunicipality",
+                "data.sumbiarmunicipality",
+                "data.sundamunicipality",
+                "data.svinoyarmunicipality",
+                "data.torshavnarmunicipality",
+                "data.tvoroyrarmunicipality",
+                "data.vagamunicipality",
+                "data.vagsmunicipality",
+                "data.vestmannamunicipality",
+                "data.vidareidismunicipality",
                 ""
               ]
             }

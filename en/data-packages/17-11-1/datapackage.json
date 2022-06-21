@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per cent",
+                "DKK mill.",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "data.importexport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Merchandise import",
+                "Merchandise export",
+                ""
+              ]
+            },
+            "title": "Import/Export"
+          },
+          {
+            "name": "data.countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries and least developed countries",
+                "Developing countries and least developed countries excluding China",
+                "Least developed countries",
+                ""
+              ]
+            },
+            "title": "data.countrygroup"
           },
           {
             "name": "Value",

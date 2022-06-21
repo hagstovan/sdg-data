@@ -26,33 +26,33 @@
             "constraints": {
               "enum": [
                 "",
-                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
-                "Árligur vøkstur av BTÚ (%)",
-                "Árligur vøkstur av peninganøgdini (%)",
-                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
-                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
-                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
-                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
-                "Árligur vøkstur av bruttoíløgum (%)",
-                "Árligur prísvøkstur, brúkaraprístalið (%)",
-                "Kapitalur í mun til ognir",
-                "Mishildin lán í mun til útlán áðrenn niðurskrivingar (%)",
-                "Peninganøgdin í mun til gjaldoyragoymslu",
-                "Fíggjarkrav netto fyri (% av BTÚ)",
-                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
-                "Samlað skuldarafturgjalding (% av útflutningi)",
-                "Uttanlandsskuld, brutto (% av BTI)",
-                "Beinleiðis íløgur, netto (% av BTÚ)",
-                "Almenn skuld (% a BTÚ)",
-                "Vøruhandil við umheimin, ársins prísir (% av BTÚ)",
-                "Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)",
-                "Íløgur í virðisbrøv, netto (mió USD)",
-                "Samlaða gjaldoyragoymslan í mánaðum av innflutningi",
-                "Skattainntøkur samanlagt (% av BTÚ)",
-                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)"
+                "data.DECalternativeconversionfactor",
+                "data.annualGDPgrowth",
+                "data.annualbroadmoneygrowth",
+                "data.annualgrowthofexportsofgoodsandservices",
+                "data.annualgrowthofhouseholdsandNPISHs",
+                "data.annualgrowthofimportsofgoodsandservices",
+                "data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure",
+                "data.annualgrowthofthegrosscapitalformation",
+                "data.annualinflationconsumerprices",
+                "data.bankcapitaltoassetsratio",
+                "data.banknonperformingloans",
+                "data.broadmoney",
+                "data.cashsurplusdeficit",
+                "data.currentaccountbalance",
+                "data.debtservice",
+                "data.externaldebtstocks",
+                "data.foreigndirectinvestment",
+                "data.grossPSD",
+                "data.merchandisetrade",
+                "data.personalremittances",
+                "data.portfolioinvestment",
+                "data.reservesinmonthsofimports",
+                "data.taxrevenuegdp",
+                "data.totalunemploymentoutoftotallabourforce"
               ]
             },
-            "title": "Mát"
+            "title": "data.measure"
           }
         ]
       }

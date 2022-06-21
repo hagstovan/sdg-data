@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "3G fartelefonnet ella betri",
-                "4G fartelefonnet ella betri"
+                "data.3gmobntwk",
+                "data.4gmobntwk"
               ]
             },
-            "title": "Tøkni"
+            "title": "data.technology"
           }
         ]
       }

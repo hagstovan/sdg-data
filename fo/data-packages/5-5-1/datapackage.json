@@ -11,6 +11,31 @@
       "schema": {
         "fields": [
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.municipalities",
+                "data.parliament"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.seats-number",
+                "data.womenseats-number",
+                "data.womenseats-proportion"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -21,16 +46,76 @@
             "title": "Ár"
           },
           {
-            "name": "data.levelofgovernment",
+            "name": "data.party-municipality",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Kommunustýri",
-                "Løgtingið"
+                "data.all-municipalities",
+                "data.all-parties",
+                "data.biggjarmunicipality",
+                "data.christianparty",
+                "data.conservativeparty",
+                "data.eidismunicipality",
+                "data.elduvikarmunicipality",
+                "data.eysturmunicipality",
+                "data.famjinsmunicipality",
+                "data.fuglafjardarmunicipality",
+                "data.fugloyarmunicipality",
+                "data.funningsmunicipality",
+                "data.gjaarmunicipality",
+                "data.gotumunicipality",
+                "data.haldorsvikarmunicipality",
+                "data.hestsmunicipality",
+                "data.hosvikarmunicipality",
+                "data.hovsmunicipality",
+                "data.husamunicipality",
+                "data.husavikarmunicipality",
+                "data.hvalbiarmunicipality",
+                "data.hvalvikarmunicipality",
+                "data.hvannasundsmunicipality",
+                "data.independenceparty",
+                "data.kirkjuboarmunicipality",
+                "data.klaksvikarmunicipality",
+                "data.kunoyarmunicipality",
+                "data.kvivikarmunicipality",
+                "data.leirvikarmunicipality",
+                "data.midvagsmunicipality",
+                "data.mikladalsmunicipality",
+                "data.mykinesmunicipality",
+                "data.nesmunicipality",
+                "data.nolsoyarmunicipality",
+                "data.oyndarfjardarmunicipality",
+                "data.porkerismunicipality",
+                "data.progress",
+                "data.republicanparty",
+                "data.runavikarmunicipality",
+                "data.saksunarmunicipality",
+                "data.sandavagsmunicipality",
+                "data.sandsmunicipality",
+                "data.sjovarmunicipality",
+                "data.skalamunicipality",
+                "data.skalavikarmunicipality",
+                "data.skopunarmunicipality",
+                "data.skugvoyarmunicipality",
+                "data.socialdemocraticparty",
+                "data.sorvagsmunicipality",
+                "data.sumbiarmunicipality",
+                "data.sundamunicipality",
+                "data.svinoyarmunicipality",
+                "data.thecentreparty",
+                "data.theprogressparty",
+                "data.torshavnarmunicipality",
+                "data.tvoroyrarmunicipality",
+                "data.unionistparty",
+                "data.vagamunicipality",
+                "data.vagsmunicipality",
+                "data.vestmannamunicipality",
+                "data.vidareidismunicipality",
+                "data.workersmovement"
               ]
             },
-            "title": "Stjórnarstig"
+            "title": "data.party-municipality"
           }
         ]
       }

@@ -26,10 +26,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Menningarstuðul latin sum lestrarstuðul"
+                "data.officialdevelopmentassistanceforscholarships"
               ]
             },
-            "title": "Mát"
+            "title": "data.measure"
           }
         ]
       }

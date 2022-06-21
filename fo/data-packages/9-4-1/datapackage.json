@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Bunkring",
-                "Nýtsla av brennievni"
+                "data.bunkers",
+                "data.fuelcombustion"
               ]
             },
-            "title": "Høvuðskelda"
+            "title": "data.mainsource"
           },
           {
             "name": "source",
@@ -39,15 +39,15 @@
               "enum": [
                 "",
                 "Navigation",
-                "Flogfør",
-                "El- og hitaframleiðsla",
-                "Framleiðslu- og byggivinna",
-                "Skip",
-                "Aðrar vinnur",
-                "Flutningsvinna"
+                "data.aviation",
+                "data.energyindustries",
+                "data.manufacturingindustriesandconstruction",
+                "data.navigation",
+                "data.othersectors",
+                "data.transportsector"
               ]
             },
-            "title": "Kelda"
+            "title": "source"
           }
         ]
       }

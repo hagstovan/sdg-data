@@ -11,14 +11,51 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.dkkmill",
+                "data.percent"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.developed-ex-china",
+                "data.developed-leastdeveloped",
+                "data.leastdeveloped"
+              ]
+            },
+            "title": "data.countrygroup"
+          },
+          {
+            "name": "data.importexport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.merchandiseexport",
+                "data.merchandiseimport"
+              ]
+            },
+            "title": "data.importexport"
           }
         ]
       }

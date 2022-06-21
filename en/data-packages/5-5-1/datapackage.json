@@ -16,16 +16,101 @@
             "title": "Year"
           },
           {
-            "name": "data.levelofgovernment",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Local government",
                 "Parliament",
+                "data.municipalities",
                 ""
               ]
             },
-            "title": "Level of government"
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of seats held by women",
+                "Seats held by women",
+                "Number og seats",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "data.party-municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All parties",
+                "Conservative Party",
+                "The Progress Party",
+                "Progress",
+                "Social Democratic Party",
+                "Christian Party",
+                "The Centre Party",
+                "Unionist Party",
+                "Independence Party",
+                "Republican Party",
+                "Workers´ Movement",
+                "All municipalities",
+                "Bíggjar municipality",
+                "Eiðis municipality",
+                "Elduvíkar municipality",
+                "Eysturmunicipality",
+                "Fámjins municipality",
+                "Fuglafjarðar municipality",
+                "Fugloyar municipality",
+                "Funnings municipality",
+                "Gjáar municipality",
+                "Gøtu municipality",
+                "Haldórsvíkar municipality",
+                "Hests municipality",
+                "Hósvíkar municipality",
+                "Hovs municipality",
+                "Húsa municipality",
+                "Húsavíkar municipality",
+                "Hvalbiar municipality",
+                "Hvalvíkar municipality",
+                "Hvannasunds municipality",
+                "Kirkjubøar municipality",
+                "Klaksvíkar municipality",
+                "Kunoyar municipality",
+                "Kvívíkar municipality",
+                "Leirvíkar municipality",
+                "Miðvágs municipality",
+                "Mikladals municipality",
+                "Mykines municipality",
+                "Nes municipality",
+                "Nólsoyar municipality",
+                "Oyndarfjarðar municipality",
+                "Porkeris municipality",
+                "Runavíkar municipality",
+                "Saksunar municipality",
+                "Sandavágs municipality",
+                "Sands municipality",
+                "Sjóvar municipality",
+                "Skála municipality",
+                "Skálavíkar municipality",
+                "Skopunar municipality",
+                "Skúgvoyar municipality",
+                "Sørvágs municipality",
+                "Sumbiar municipality",
+                "Sunda municipality",
+                "Svínoyar municipality",
+                "Tórshavnar municipality",
+                "Tvøroyrar municipality",
+                "Vága municipality",
+                "Vágs municipality",
+                "Vestmanna municipality",
+                "Viðareiðis municipality",
+                ""
+              ]
+            },
+            "title": "Party/Municipality"
           },
           {
             "name": "Value",

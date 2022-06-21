@@ -1,116 +1,116 @@
-Year,Kelda,Value
+Year,data.source,Value
 1998,,76.7
-1998,Skattir,41.0
-1998,Sosial gjøld,3.6
-1998,Ríkisstudningur,14.8
-1998,Onnur inntøka,17.2
+1998,data.taxes,41.0
+1998,data.socialcontributions,3.6
+1998,data.grants,14.8
+1998,data.otherrevenue,17.2
 1999,,65.3
-1999,Skattir,42.8
-1999,Sosial gjøld,3.5
-1999,Ríkisstudningur,14.4
-1999,Onnur inntøka,4.6
+1999,data.taxes,42.8
+1999,data.socialcontributions,3.5
+1999,data.grants,14.4
+1999,data.otherrevenue,4.6
 2000,,63.3
-2000,Skattir,42.3
-2000,Sosial gjøld,3.1
-2000,Ríkisstudningur,13.6
-2000,Onnur inntøka,4.3
+2000,data.taxes,42.3
+2000,data.socialcontributions,3.1
+2000,data.grants,13.6
+2000,data.otherrevenue,4.3
 2001,,61.5
-2001,Skattir,41.8
-2001,Sosial gjøld,2.9
-2001,Ríkisstudningur,12.5
-2001,Onnur inntøka,4.4
+2001,data.taxes,41.8
+2001,data.socialcontributions,2.9
+2001,data.grants,12.5
+2001,data.otherrevenue,4.4
 2002,,58.0
-2002,Skattir,42.6
-2002,Sosial gjøld,3.1
-2002,Ríkisstudningur,8.2
-2002,Onnur inntøka,4.2
+2002,data.taxes,42.6
+2002,data.socialcontributions,3.1
+2002,data.grants,8.2
+2002,data.otherrevenue,4.2
 2003,,57.6
-2003,Skattir,43.0
-2003,Sosial gjøld,2.5
-2003,Ríkisstudningur,8.2
-2003,Onnur inntøka,3.9
+2003,data.taxes,43.0
+2003,data.socialcontributions,2.5
+2003,data.grants,8.2
+2003,data.otherrevenue,3.9
 2004,,55.8
-2004,Skattir,41.5
-2004,Sosial gjøld,2.8
-2004,Ríkisstudningur,8.2
-2004,Onnur inntøka,3.3
+2004,data.taxes,41.5
+2004,data.socialcontributions,2.8
+2004,data.grants,8.2
+2004,data.otherrevenue,3.3
 2005,,56.0
-2005,Skattir,40.9
-2005,Sosial gjøld,3.3
-2005,Ríkisstudningur,8.0
-2005,Onnur inntøka,3.8
+2005,data.taxes,40.9
+2005,data.socialcontributions,3.3
+2005,data.grants,8.0
+2005,data.otherrevenue,3.8
 2006,,54.8
-2006,Skattir,40.4
-2006,Sosial gjøld,3.7
-2006,Ríkisstudningur,7.0
-2006,Onnur inntøka,3.7
+2006,data.taxes,40.4
+2006,data.socialcontributions,3.7
+2006,data.grants,7.0
+2006,data.otherrevenue,3.7
 2007,,55.4
-2007,Skattir,41.4
-2007,Sosial gjøld,4.3
-2007,Ríkisstudningur,6.6
-2007,Onnur inntøka,3.2
+2007,data.taxes,41.4
+2007,data.socialcontributions,4.3
+2007,data.grants,6.6
+2007,data.otherrevenue,3.2
 2008,,56.6
-2008,Skattir,41.5
-2008,Sosial gjøld,4.7
-2008,Ríkisstudningur,6.7
-2008,Onnur inntøka,3.7
+2008,data.taxes,41.5
+2008,data.socialcontributions,4.7
+2008,data.grants,6.7
+2008,data.otherrevenue,3.7
 2009,,54.8
-2009,Skattir,39.5
-2009,Sosial gjøld,4.7
-2009,Ríkisstudningur,6.8
-2009,Onnur inntøka,3.8
+2009,data.taxes,39.5
+2009,data.socialcontributions,4.7
+2009,data.grants,6.8
+2009,data.otherrevenue,3.8
 2010,,52.6
-2010,Skattir,38.5
-2010,Sosial gjøld,4.6
-2010,Ríkisstudningur,6.5
-2010,Onnur inntøka,3.1
+2010,data.taxes,38.5
+2010,data.socialcontributions,4.6
+2010,data.grants,6.5
+2010,data.otherrevenue,3.1
 2011,,53.7
-2011,Skattir,39.4
-2011,Sosial gjøld,4.5
-2011,Ríkisstudningur,6.3
-2011,Onnur inntøka,3.5
+2011,data.taxes,39.4
+2011,data.socialcontributions,4.5
+2011,data.grants,6.3
+2011,data.otherrevenue,3.5
 2012,,53.2
-2012,Skattir,39.0
-2012,Sosial gjøld,4.8
-2012,Ríkisstudningur,6.2
-2012,Onnur inntøka,3.2
+2012,data.taxes,39.0
+2012,data.socialcontributions,4.8
+2012,data.grants,6.2
+2012,data.otherrevenue,3.2
 2013,,50.2
-2013,Skattir,36.4
-2013,Sosial gjøld,4.6
-2013,Ríkisstudningur,5.8
-2013,Onnur inntøka,3.5
+2013,data.taxes,36.4
+2013,data.socialcontributions,4.6
+2013,data.grants,5.8
+2013,data.otherrevenue,3.5
 2014,,49.5
-2014,Skattir,36.1
-2014,Sosial gjøld,4.4
-2014,Ríkisstudningur,5.4
-2014,Onnur inntøka,3.7
+2014,data.taxes,36.1
+2014,data.socialcontributions,4.4
+2014,data.grants,5.4
+2014,data.otherrevenue,3.7
 2015,,49.9
-2015,Skattir,37.0
-2015,Sosial gjøld,4.5
-2015,Ríkisstudningur,5.1
-2015,Onnur inntøka,3.2
+2015,data.taxes,37.0
+2015,data.socialcontributions,4.5
+2015,data.grants,5.1
+2015,data.otherrevenue,3.2
 2016,,49.1
-2016,Skattir,35.5
-2016,Sosial gjøld,4.8
-2016,Ríkisstudningur,4.7
-2016,Onnur inntøka,4.0
+2016,data.taxes,35.5
+2016,data.socialcontributions,4.8
+2016,data.grants,4.7
+2016,data.otherrevenue,4.0
 2017,,51.5
-2017,Skattir,37.0
-2017,Sosial gjøld,4.9
-2017,Ríkisstudningur,4.6
-2017,Onnur inntøka,5.1
+2017,data.taxes,37.0
+2017,data.socialcontributions,4.9
+2017,data.grants,4.6
+2017,data.otherrevenue,5.1
 2018,,54.1
-2018,Skattir,38.3
-2018,Sosial gjøld,5.3
-2018,Ríkisstudningur,4.5
-2018,Onnur inntøka,6.0
+2018,data.taxes,38.3
+2018,data.socialcontributions,5.3
+2018,data.grants,4.5
+2018,data.otherrevenue,6.0
 2019,,53.4
-2019,Skattir,37.6
-2019,Sosial gjøld,5.6
-2019,Ríkisstudningur,4.5
-2019,Onnur inntøka,5.7
+2019,data.taxes,37.6
+2019,data.socialcontributions,5.6
+2019,data.grants,4.5
+2019,data.otherrevenue,5.7
 2020,,54.1
-2020,Skattir,39.7
-2020,Sosial gjøld,6.0
-2020,Ríkisstudningur,4.5
-2020,Onnur inntøka,3.9
+2020,data.taxes,39.7
+2020,data.socialcontributions,6.0
+2020,data.grants,4.5
+2020,data.otherrevenue,3.9

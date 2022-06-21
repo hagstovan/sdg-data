@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.percent",
+                "data.dkkmill",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.importexport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.merchandiseimport",
+                "data.merchandiseexport",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.developed-leastdeveloped",
+                "data.developed-ex-china",
+                "data.leastdeveloped",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

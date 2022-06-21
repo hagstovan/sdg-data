@@ -26,14 +26,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Lívfrøðilig brennievni",
-                "Vatn",
-                "Havið",
-                "Sólin",
-                "Vindur"
+                "data.biofuel",
+                "data.hydro",
+                "data.ocean",
+                "data.solar",
+                "data.wind"
               ]
             },
-            "title": "Orkukelda"
+            "title": "data.energysource"
           }
         ]
       }
