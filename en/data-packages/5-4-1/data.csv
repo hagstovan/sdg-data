@@ -1,7 +1,7 @@
 Year,Location,Age,Sex,Value
-2011,Total,data.ge15years,,7.6
-2011,Total,data.ge15years,Males,4.7
-2011,Total,data.ge15years,Females,10.6
+2011,Total,15+ years,,7.6
+2011,Total,15+ years,Males,4.7
+2011,Total,15+ years,Females,10.6
 2011,Total,15-24 years,,2.9
 2011,Total,15-24 years,Males,1.9
 2011,Total,15-24 years,Females,4.0
@@ -17,9 +17,9 @@ Year,Location,Age,Sex,Value
 2011,Total,65+ years,,8.3
 2011,Total,65+ years,Males,5.3
 2011,Total,65+ years,Females,11.0
-2011,Urban,data.ge15years,,7.1
-2011,Urban,data.ge15years,Males,4.7
-2011,Urban,data.ge15years,Females,9.6
+2011,Urban,15+ years,,7.1
+2011,Urban,15+ years,Males,4.7
+2011,Urban,15+ years,Females,9.6
 2011,Urban,15-24 years,,2.6
 2011,Urban,15-24 years,Males,1.9
 2011,Urban,15-24 years,Females,3.4
@@ -35,9 +35,9 @@ Year,Location,Age,Sex,Value
 2011,Urban,65+ years,,8.1
 2011,Urban,65+ years,Males,5.4
 2011,Urban,65+ years,Females,10.3
-2011,Rural,data.ge15years,,7.9
-2011,Rural,data.ge15years,Males,4.8
-2011,Rural,data.ge15years,Females,11.3
+2011,Rural,15+ years,,7.9
+2011,Rural,15+ years,Males,4.8
+2011,Rural,15+ years,Females,11.3
 2011,Rural,15-24 years,,3.1
 2011,Rural,15-24 years,Males,2.0
 2011,Rural,15-24 years,Females,4.4

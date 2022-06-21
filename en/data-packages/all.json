@@ -434,7 +434,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ge15years",
+                "15+ years",
                 "15-24 years",
                 "25-44 years",
                 "45-54 years",
