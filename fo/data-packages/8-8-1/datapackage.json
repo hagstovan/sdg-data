@@ -11,14 +11,50 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.persons",
+                "data.pr.100.000"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.lethal",
+                "data.non-lethal"
+              ]
+            },
+            "title": "data.outcome"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.female",
+                "data.male"
+              ]
+            },
+            "title": "data.sex"
           }
         ]
       }

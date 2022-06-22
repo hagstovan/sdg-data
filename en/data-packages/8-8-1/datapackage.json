@@ -12,12 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons",
+                "data.pr.100.000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "data.outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lethal",
+                "Non-lethal",
+                ""
+              ]
+            },
+            "title": "Outcome"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
