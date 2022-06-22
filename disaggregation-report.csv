@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-data.age,7,22
+data.age,7,48
 data.bandwidth,1,3
 data.countrygroup,1,3
 data.disease,1,4
@@ -13,7 +13,7 @@ data.materialtype,2,5
 data.measure,7,33
 data.occupation,1,4
 data.party-municipality,1,62
-data.sex,9,4
+data.sex,9,18
 data.source,2,6
 data.technology,1,2
 essentialservice,1,3
