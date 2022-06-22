@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Persons",
-                "data.pr.100.000",
+                "data.pr100000",
                 ""
               ]
             },

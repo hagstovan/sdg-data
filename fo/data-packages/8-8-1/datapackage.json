@@ -17,7 +17,7 @@
               "enum": [
                 "",
                 "data.persons",
-                "data.pr.100.000"
+                "data.pr100000"
               ]
             },
             "title": "Units"
