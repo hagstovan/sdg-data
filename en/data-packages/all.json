@@ -342,7 +342,7 @@
                 ""
               ]
             },
-            "title": "data.countrygroup"
+            "title": "Country group"
           },
           {
             "name": "Value",
@@ -1406,7 +1406,7 @@
             "constraints": {
               "enum": [
                 "Parliament",
-                "data.municipalities",
+                "municipalities",
                 ""
               ]
             },

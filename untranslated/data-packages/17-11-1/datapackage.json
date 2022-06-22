@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.dkkmill",
+                "percent",
+                "dkkmill",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.merchandiseimport",
-                "data.merchandiseexport",
+                "merchandiseimport",
+                "merchandiseexport",
                 ""
               ]
             }
@@ -41,9 +41,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.developed-leastdeveloped",
-                "data.developed-ex-china",
-                "data.leastdeveloped",
+                "developed-leastdeveloped",
+                "developed-ex-china",
+                "leastdeveloped",
                 ""
               ]
             }

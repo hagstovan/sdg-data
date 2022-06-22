@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.dkkmill",
-                "data.percent"
+                "dkkmill",
+                "percent"
               ]
             },
             "title": "Units"
@@ -38,9 +38,9 @@
             "constraints": {
               "enum": [
                 "",
-                "data.developed-ex-china",
-                "data.developed-leastdeveloped",
-                "data.leastdeveloped"
+                "developed-ex-china",
+                "developed-leastdeveloped",
+                "leastdeveloped"
               ]
             },
             "title": "data.countrygroup"
@@ -51,8 +51,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.merchandiseexport",
-                "data.merchandiseimport"
+                "merchandiseexport",
+                "merchandiseimport"
               ]
             },
             "title": "data.importexport"
