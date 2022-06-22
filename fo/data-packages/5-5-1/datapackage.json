@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "municipalities",
+                "Kommunustýri",
                 "Løgtingið"
               ]
             },
