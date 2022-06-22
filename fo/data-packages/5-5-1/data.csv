@@ -1,1435 +1,1435 @@
-Year,Series,Units,data.party-municipality,Value
-1984,parliament,data.womenseats-proportion,all-parties,3.1
-1984,parliament,womenseats-number,all-parties,1.0
-1984,parliament,seats-number,all-parties,32.0
-1984,parliament,data.womenseats-proportion,conservativeparty,0.0
-1984,parliament,womenseats-number,conservativeparty,0.0
-1984,parliament,seats-number,conservativeparty,7.0
-1984,parliament,data.womenseats-proportion,theprogressparty,0.0
-1984,parliament,womenseats-number,theprogressparty,0.0
-1984,parliament,seats-number,theprogressparty,2.0
-1984,parliament,data.womenseats-proportion,progress,
-1984,parliament,womenseats-number,progress,
-1984,parliament,seats-number,progress,
-1984,parliament,data.womenseats-proportion,socialdemocraticparty,0.0
-1984,parliament,womenseats-number,socialdemocraticparty,0.0
-1984,parliament,seats-number,socialdemocraticparty,8.0
-1984,parliament,data.womenseats-proportion,christianparty,
-1984,parliament,womenseats-number,christianparty,
-1984,parliament,seats-number,christianparty,
-1984,parliament,data.womenseats-proportion,thecentreparty,
-1984,parliament,womenseats-number,thecentreparty,
-1984,parliament,seats-number,thecentreparty,
-1984,parliament,data.womenseats-proportion,unionistparty,0.0
-1984,parliament,womenseats-number,unionistparty,0.0
-1984,parliament,seats-number,unionistparty,7.0
-1984,parliament,data.womenseats-proportion,independenceparty,0.0
-1984,parliament,womenseats-number,independenceparty,0.0
-1984,parliament,seats-number,independenceparty,2.0
-1984,parliament,data.womenseats-proportion,republicanparty,16.7
-1984,parliament,womenseats-number,republicanparty,1.0
-1984,parliament,seats-number,republicanparty,6.0
-1984,parliament,data.womenseats-proportion,workersmovement,
-1984,parliament,womenseats-number,workersmovement,
-1984,parliament,seats-number,workersmovement,
-1988,parliament,data.womenseats-proportion,all-parties,9.4
-1988,parliament,womenseats-number,all-parties,3.0
-1988,parliament,seats-number,all-parties,32.0
-1988,parliament,data.womenseats-proportion,conservativeparty,0.0
-1988,parliament,womenseats-number,conservativeparty,0.0
-1988,parliament,seats-number,conservativeparty,8.0
-1988,parliament,data.womenseats-proportion,theprogressparty,
-1988,parliament,womenseats-number,theprogressparty,
-1988,parliament,seats-number,theprogressparty,
-1988,parliament,data.womenseats-proportion,progress,
-1988,parliament,womenseats-number,progress,
-1988,parliament,seats-number,progress,
-1988,parliament,data.womenseats-proportion,socialdemocraticparty,14.3
-1988,parliament,womenseats-number,socialdemocraticparty,1.0
-1988,parliament,seats-number,socialdemocraticparty,7.0
-1988,parliament,data.womenseats-proportion,christianparty,0.0
-1988,parliament,womenseats-number,christianparty,0.0
-1988,parliament,seats-number,christianparty,2.0
-1988,parliament,data.womenseats-proportion,thecentreparty,
-1988,parliament,womenseats-number,thecentreparty,
-1988,parliament,seats-number,thecentreparty,
-1988,parliament,data.womenseats-proportion,unionistparty,0.0
-1988,parliament,womenseats-number,unionistparty,0.0
-1988,parliament,seats-number,unionistparty,7.0
-1988,parliament,data.womenseats-proportion,independenceparty,0.0
-1988,parliament,womenseats-number,independenceparty,0.0
-1988,parliament,seats-number,independenceparty,2.0
-1988,parliament,data.womenseats-proportion,republicanparty,33.3
-1988,parliament,womenseats-number,republicanparty,2.0
-1988,parliament,seats-number,republicanparty,6.0
-1988,parliament,data.womenseats-proportion,workersmovement,
-1988,parliament,womenseats-number,workersmovement,
-1988,parliament,seats-number,workersmovement,
-1990,parliament,data.womenseats-proportion,all-parties,9.4
-1990,parliament,womenseats-number,all-parties,3.0
-1990,parliament,seats-number,all-parties,32.0
-1990,parliament,data.womenseats-proportion,conservativeparty,0.0
-1990,parliament,womenseats-number,conservativeparty,0.0
-1990,parliament,seats-number,conservativeparty,7.0
-1990,parliament,data.womenseats-proportion,theprogressparty,
-1990,parliament,womenseats-number,theprogressparty,
-1990,parliament,seats-number,theprogressparty,
-1990,parliament,data.womenseats-proportion,progress,
-1990,parliament,womenseats-number,progress,
-1990,parliament,seats-number,progress,
-1990,parliament,data.womenseats-proportion,socialdemocraticparty,10.0
-1990,parliament,womenseats-number,socialdemocraticparty,1.0
-1990,parliament,seats-number,socialdemocraticparty,10.0
-1990,parliament,data.womenseats-proportion,christianparty,0.0
-1990,parliament,womenseats-number,christianparty,0.0
-1990,parliament,seats-number,christianparty,2.0
-1990,parliament,data.womenseats-proportion,thecentreparty,
-1990,parliament,womenseats-number,thecentreparty,
-1990,parliament,seats-number,thecentreparty,
-1990,parliament,data.womenseats-proportion,unionistparty,16.7
-1990,parliament,womenseats-number,unionistparty,1.0
-1990,parliament,seats-number,unionistparty,6.0
-1990,parliament,data.womenseats-proportion,independenceparty,33.3
-1990,parliament,womenseats-number,independenceparty,1.0
-1990,parliament,seats-number,independenceparty,3.0
-1990,parliament,data.womenseats-proportion,republicanparty,0.0
-1990,parliament,womenseats-number,republicanparty,0.0
-1990,parliament,seats-number,republicanparty,4.0
-1990,parliament,data.womenseats-proportion,workersmovement,
-1990,parliament,womenseats-number,workersmovement,
-1990,parliament,seats-number,workersmovement,
-1994,parliament,data.womenseats-proportion,all-parties,15.6
-1994,parliament,womenseats-number,all-parties,5.0
-1994,parliament,seats-number,all-parties,32.0
-1994,parliament,data.womenseats-proportion,conservativeparty,0.0
-1994,parliament,womenseats-number,conservativeparty,0.0
-1994,parliament,seats-number,conservativeparty,6.0
-1994,parliament,data.womenseats-proportion,theprogressparty,
-1994,parliament,womenseats-number,theprogressparty,
-1994,parliament,seats-number,theprogressparty,
-1994,parliament,data.womenseats-proportion,progress,
-1994,parliament,womenseats-number,progress,
-1994,parliament,seats-number,progress,
-1994,parliament,data.womenseats-proportion,socialdemocraticparty,20.0
-1994,parliament,womenseats-number,socialdemocraticparty,1.0
-1994,parliament,seats-number,socialdemocraticparty,5.0
-1994,parliament,data.womenseats-proportion,christianparty,0.0
-1994,parliament,womenseats-number,christianparty,0.0
-1994,parliament,seats-number,christianparty,2.0
-1994,parliament,data.womenseats-proportion,thecentreparty,0.0
-1994,parliament,womenseats-number,thecentreparty,0.0
-1994,parliament,seats-number,thecentreparty,2.0
-1994,parliament,data.womenseats-proportion,unionistparty,25.0
-1994,parliament,womenseats-number,unionistparty,2.0
-1994,parliament,seats-number,unionistparty,8.0
-1994,parliament,data.womenseats-proportion,independenceparty,50.0
-1994,parliament,womenseats-number,independenceparty,1.0
-1994,parliament,seats-number,independenceparty,2.0
-1994,parliament,data.womenseats-proportion,republicanparty,0.0
-1994,parliament,womenseats-number,republicanparty,0.0
-1994,parliament,seats-number,republicanparty,4.0
-1994,parliament,data.womenseats-proportion,workersmovement,33.3
-1994,parliament,womenseats-number,workersmovement,1.0
-1994,parliament,seats-number,workersmovement,3.0
-1998,parliament,data.womenseats-proportion,all-parties,12.5
-1998,parliament,womenseats-number,all-parties,4.0
-1998,parliament,seats-number,all-parties,32.0
-1998,parliament,data.womenseats-proportion,conservativeparty,0.0
-1998,parliament,womenseats-number,conservativeparty,0.0
-1998,parliament,seats-number,conservativeparty,8.0
-1998,parliament,data.womenseats-proportion,theprogressparty,
-1998,parliament,womenseats-number,theprogressparty,
-1998,parliament,seats-number,theprogressparty,
-1998,parliament,data.womenseats-proportion,progress,
-1998,parliament,womenseats-number,progress,
-1998,parliament,seats-number,progress,
-1998,parliament,data.womenseats-proportion,socialdemocraticparty,14.3
-1998,parliament,womenseats-number,socialdemocraticparty,1.0
-1998,parliament,seats-number,socialdemocraticparty,7.0
-1998,parliament,data.womenseats-proportion,christianparty,
-1998,parliament,womenseats-number,christianparty,
-1998,parliament,seats-number,christianparty,
-1998,parliament,data.womenseats-proportion,thecentreparty,0.0
-1998,parliament,womenseats-number,thecentreparty,0.0
-1998,parliament,seats-number,thecentreparty,1.0
-1998,parliament,data.womenseats-proportion,unionistparty,16.7
-1998,parliament,womenseats-number,unionistparty,1.0
-1998,parliament,seats-number,unionistparty,6.0
-1998,parliament,data.womenseats-proportion,independenceparty,50.0
-1998,parliament,womenseats-number,independenceparty,1.0
-1998,parliament,seats-number,independenceparty,2.0
-1998,parliament,data.womenseats-proportion,republicanparty,12.5
-1998,parliament,womenseats-number,republicanparty,1.0
-1998,parliament,seats-number,republicanparty,8.0
-1998,parliament,data.womenseats-proportion,workersmovement,
-1998,parliament,womenseats-number,workersmovement,
-1998,parliament,seats-number,workersmovement,
-2002,parliament,data.womenseats-proportion,all-parties,12.5
-2002,parliament,womenseats-number,all-parties,4.0
-2002,parliament,seats-number,all-parties,32.0
-2002,parliament,data.womenseats-proportion,conservativeparty,0.0
-2002,parliament,womenseats-number,conservativeparty,0.0
-2002,parliament,seats-number,conservativeparty,7.0
-2002,parliament,data.womenseats-proportion,theprogressparty,
-2002,parliament,womenseats-number,theprogressparty,
-2002,parliament,seats-number,theprogressparty,
-2002,parliament,data.womenseats-proportion,progress,
-2002,parliament,womenseats-number,progress,
-2002,parliament,seats-number,progress,
-2002,parliament,data.womenseats-proportion,socialdemocraticparty,14.3
-2002,parliament,womenseats-number,socialdemocraticparty,1.0
-2002,parliament,seats-number,socialdemocraticparty,7.0
-2002,parliament,data.womenseats-proportion,christianparty,
-2002,parliament,womenseats-number,christianparty,
-2002,parliament,seats-number,christianparty,
-2002,parliament,data.womenseats-proportion,thecentreparty,0.0
-2002,parliament,womenseats-number,thecentreparty,0.0
-2002,parliament,seats-number,thecentreparty,1.0
-2002,parliament,data.womenseats-proportion,unionistparty,12.5
-2002,parliament,womenseats-number,unionistparty,1.0
-2002,parliament,seats-number,unionistparty,8.0
-2002,parliament,data.womenseats-proportion,independenceparty,0.0
-2002,parliament,womenseats-number,independenceparty,0.0
-2002,parliament,seats-number,independenceparty,1.0
-2002,parliament,data.womenseats-proportion,republicanparty,25.0
-2002,parliament,womenseats-number,republicanparty,2.0
-2002,parliament,seats-number,republicanparty,8.0
-2002,parliament,data.womenseats-proportion,workersmovement,
-2002,parliament,womenseats-number,workersmovement,
-2002,parliament,seats-number,workersmovement,
-2004,parliament,data.womenseats-proportion,all-parties,9.4
-2004,parliament,womenseats-number,all-parties,3.0
-2004,parliament,seats-number,all-parties,32.0
-2004,parliament,data.womenseats-proportion,conservativeparty,0.0
-2004,parliament,womenseats-number,conservativeparty,0.0
-2004,parliament,seats-number,conservativeparty,7.0
-2004,parliament,data.womenseats-proportion,theprogressparty,
-2004,parliament,womenseats-number,theprogressparty,
-2004,parliament,seats-number,theprogressparty,
-2004,parliament,data.womenseats-proportion,progress,
-2004,parliament,womenseats-number,progress,
-2004,parliament,seats-number,progress,
-2004,parliament,data.womenseats-proportion,socialdemocraticparty,0.0
-2004,parliament,womenseats-number,socialdemocraticparty,0.0
-2004,parliament,seats-number,socialdemocraticparty,7.0
-2004,parliament,data.womenseats-proportion,christianparty,
-2004,parliament,womenseats-number,christianparty,
-2004,parliament,seats-number,christianparty,
-2004,parliament,data.womenseats-proportion,thecentreparty,0.0
-2004,parliament,womenseats-number,thecentreparty,0.0
-2004,parliament,seats-number,thecentreparty,2.0
-2004,parliament,data.womenseats-proportion,unionistparty,14.3
-2004,parliament,womenseats-number,unionistparty,1.0
-2004,parliament,seats-number,unionistparty,7.0
-2004,parliament,data.womenseats-proportion,independenceparty,0.0
-2004,parliament,womenseats-number,independenceparty,0.0
-2004,parliament,seats-number,independenceparty,1.0
-2004,parliament,data.womenseats-proportion,republicanparty,25.0
-2004,parliament,womenseats-number,republicanparty,2.0
-2004,parliament,seats-number,republicanparty,8.0
-2004,parliament,data.womenseats-proportion,workersmovement,
-2004,parliament,womenseats-number,workersmovement,
-2004,parliament,seats-number,workersmovement,
-2008,parliament,data.womenseats-proportion,all-parties,21.2
-2008,parliament,womenseats-number,all-parties,7.0
-2008,parliament,seats-number,all-parties,33.0
-2008,parliament,data.womenseats-proportion,conservativeparty,14.3
-2008,parliament,womenseats-number,conservativeparty,1.0
-2008,parliament,seats-number,conservativeparty,7.0
-2008,parliament,data.womenseats-proportion,theprogressparty,
-2008,parliament,womenseats-number,theprogressparty,
-2008,parliament,seats-number,theprogressparty,
-2008,parliament,data.womenseats-proportion,progress,
-2008,parliament,womenseats-number,progress,
-2008,parliament,seats-number,progress,
-2008,parliament,data.womenseats-proportion,socialdemocraticparty,33.3
-2008,parliament,womenseats-number,socialdemocraticparty,2.0
-2008,parliament,seats-number,socialdemocraticparty,6.0
-2008,parliament,data.womenseats-proportion,christianparty,
-2008,parliament,womenseats-number,christianparty,
-2008,parliament,seats-number,christianparty,
-2008,parliament,data.womenseats-proportion,thecentreparty,0.0
-2008,parliament,womenseats-number,thecentreparty,0.0
-2008,parliament,seats-number,thecentreparty,3.0
-2008,parliament,data.womenseats-proportion,unionistparty,14.3
-2008,parliament,womenseats-number,unionistparty,1.0
-2008,parliament,seats-number,unionistparty,7.0
-2008,parliament,data.womenseats-proportion,independenceparty,0.0
-2008,parliament,womenseats-number,independenceparty,0.0
-2008,parliament,seats-number,independenceparty,2.0
-2008,parliament,data.womenseats-proportion,republicanparty,37.5
-2008,parliament,womenseats-number,republicanparty,3.0
-2008,parliament,seats-number,republicanparty,8.0
-2008,parliament,data.womenseats-proportion,workersmovement,
-2008,parliament,womenseats-number,workersmovement,
-2008,parliament,seats-number,workersmovement,
-2011,parliament,data.womenseats-proportion,all-parties,30.3
-2011,parliament,womenseats-number,all-parties,10.0
-2011,parliament,seats-number,all-parties,33.0
-2011,parliament,data.womenseats-proportion,conservativeparty,25.0
-2011,parliament,womenseats-number,conservativeparty,2.0
-2011,parliament,seats-number,conservativeparty,8.0
-2011,parliament,data.womenseats-proportion,theprogressparty,
-2011,parliament,womenseats-number,theprogressparty,
-2011,parliament,seats-number,theprogressparty,
-2011,parliament,data.womenseats-proportion,progress,0.0
-2011,parliament,womenseats-number,progress,0.0
-2011,parliament,seats-number,progress,2.0
-2011,parliament,data.womenseats-proportion,socialdemocraticparty,33.3
-2011,parliament,womenseats-number,socialdemocraticparty,2.0
-2011,parliament,seats-number,socialdemocraticparty,6.0
-2011,parliament,data.womenseats-proportion,christianparty,
-2011,parliament,womenseats-number,christianparty,
-2011,parliament,seats-number,christianparty,
-2011,parliament,data.womenseats-proportion,thecentreparty,0.0
-2011,parliament,womenseats-number,thecentreparty,0.0
-2011,parliament,seats-number,thecentreparty,2.0
-2011,parliament,data.womenseats-proportion,unionistparty,25.0
-2011,parliament,womenseats-number,unionistparty,2.0
-2011,parliament,seats-number,unionistparty,8.0
-2011,parliament,data.womenseats-proportion,independenceparty,0.0
-2011,parliament,womenseats-number,independenceparty,0.0
-2011,parliament,seats-number,independenceparty,1.0
-2011,parliament,data.womenseats-proportion,republicanparty,66.7
-2011,parliament,womenseats-number,republicanparty,4.0
-2011,parliament,seats-number,republicanparty,6.0
-2011,parliament,data.womenseats-proportion,workersmovement,
-2011,parliament,womenseats-number,workersmovement,
-2011,parliament,seats-number,workersmovement,
-2015,parliament,data.womenseats-proportion,all-parties,30.3
-2015,parliament,womenseats-number,all-parties,10.0
-2015,parliament,seats-number,all-parties,33.0
-2015,parliament,data.womenseats-proportion,conservativeparty,33.3
-2015,parliament,womenseats-number,conservativeparty,2.0
-2015,parliament,seats-number,conservativeparty,6.0
-2015,parliament,data.womenseats-proportion,theprogressparty,
-2015,parliament,womenseats-number,theprogressparty,
-2015,parliament,seats-number,theprogressparty,
-2015,parliament,data.womenseats-proportion,progress,50.0
-2015,parliament,womenseats-number,progress,1.0
-2015,parliament,seats-number,progress,2.0
-2015,parliament,data.womenseats-proportion,socialdemocraticparty,37.5
-2015,parliament,womenseats-number,socialdemocraticparty,3.0
-2015,parliament,seats-number,socialdemocraticparty,8.0
-2015,parliament,data.womenseats-proportion,christianparty,
-2015,parliament,womenseats-number,christianparty,
-2015,parliament,seats-number,christianparty,
-2015,parliament,data.womenseats-proportion,thecentreparty,0.0
-2015,parliament,womenseats-number,thecentreparty,0.0
-2015,parliament,seats-number,thecentreparty,2.0
-2015,parliament,data.womenseats-proportion,unionistparty,0.0
-2015,parliament,womenseats-number,unionistparty,0.0
-2015,parliament,seats-number,unionistparty,6.0
-2015,parliament,data.womenseats-proportion,independenceparty,0.0
-2015,parliament,womenseats-number,independenceparty,0.0
-2015,parliament,seats-number,independenceparty,2.0
-2015,parliament,data.womenseats-proportion,republicanparty,57.1
-2015,parliament,womenseats-number,republicanparty,4.0
-2015,parliament,seats-number,republicanparty,7.0
-2015,parliament,data.womenseats-proportion,workersmovement,
-2015,parliament,womenseats-number,workersmovement,
-2015,parliament,seats-number,workersmovement,
-2019,parliament,data.womenseats-proportion,all-parties,24.2
-2019,parliament,womenseats-number,all-parties,8.0
-2019,parliament,seats-number,all-parties,33.0
-2019,parliament,data.womenseats-proportion,conservativeparty,12.5
-2019,parliament,womenseats-number,conservativeparty,1.0
-2019,parliament,seats-number,conservativeparty,8.0
-2019,parliament,data.womenseats-proportion,theprogressparty,
-2019,parliament,womenseats-number,theprogressparty,
-2019,parliament,seats-number,theprogressparty,
-2019,parliament,data.womenseats-proportion,progress,0.0
-2019,parliament,womenseats-number,progress,0.0
-2019,parliament,seats-number,progress,2.0
-2019,parliament,data.womenseats-proportion,socialdemocraticparty,14.3
-2019,parliament,womenseats-number,socialdemocraticparty,1.0
-2019,parliament,seats-number,socialdemocraticparty,7.0
-2019,parliament,data.womenseats-proportion,christianparty,
-2019,parliament,womenseats-number,christianparty,
-2019,parliament,seats-number,christianparty,
-2019,parliament,data.womenseats-proportion,thecentreparty,0.0
-2019,parliament,womenseats-number,thecentreparty,0.0
-2019,parliament,seats-number,thecentreparty,2.0
-2019,parliament,data.womenseats-proportion,unionistparty,14.3
-2019,parliament,womenseats-number,unionistparty,1.0
-2019,parliament,seats-number,unionistparty,7.0
-2019,parliament,data.womenseats-proportion,independenceparty,0.0
-2019,parliament,womenseats-number,independenceparty,0.0
-2019,parliament,seats-number,independenceparty,1.0
-2019,parliament,data.womenseats-proportion,republicanparty,83.3
-2019,parliament,womenseats-number,republicanparty,5.0
-2019,parliament,seats-number,republicanparty,6.0
-2019,parliament,data.womenseats-proportion,workersmovement,
-2019,parliament,womenseats-number,workersmovement,
-2019,parliament,seats-number,workersmovement,
-1996,municipalities,data.womenseats-proportion,all-municipalities,16.5
-1996,municipalities,data.womenseats-proportion,biggjarmunicipality,33.3
-1996,municipalities,data.womenseats-proportion,eidismunicipality,14.3
-1996,municipalities,data.womenseats-proportion,elduvikarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,eysturmunicipality,
-1996,municipalities,data.womenseats-proportion,famjinsmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,11.1
-1996,municipalities,data.womenseats-proportion,fugloyarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,funningsmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,gjaarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,gotumunicipality,0.0
-1996,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,hestsmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,hosvikarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,hovsmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,husamunicipality,20.0
-1996,municipalities,data.womenseats-proportion,husavikarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,hvalbiarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,hvalvikarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,hvannasundsmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,klaksvikarmunicipality,18.2
-1996,municipalities,data.womenseats-proportion,kunoyarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,kvivikarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,leirvikarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,midvagsmunicipality,57.1
-1996,municipalities,data.womenseats-proportion,mikladalsmunicipality,40.0
-1996,municipalities,data.womenseats-proportion,mykinesmunicipality,33.3
-1996,municipalities,data.womenseats-proportion,nesmunicipality,28.6
-1996,municipalities,data.womenseats-proportion,nolsoyarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,porkerismunicipality,20.0
-1996,municipalities,data.womenseats-proportion,runavikarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,saksunarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,sandavagsmunicipality,14.3
-1996,municipalities,data.womenseats-proportion,sandsmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,sjovarmunicipality,20.0
-1996,municipalities,data.womenseats-proportion,skalamunicipality,40.0
-1996,municipalities,data.womenseats-proportion,skalavikarmunicipality,40.0
-1996,municipalities,data.womenseats-proportion,skopunarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,skugvoyarmunicipality,33.3
-1996,municipalities,data.womenseats-proportion,sorvagsmunicipality,14.3
-1996,municipalities,data.womenseats-proportion,sumbiarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,sundamunicipality,0.0
-1996,municipalities,data.womenseats-proportion,svinoyarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,torshavnarmunicipality,23.1
-1996,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,0.0
-1996,municipalities,data.womenseats-proportion,vagamunicipality,
-1996,municipalities,data.womenseats-proportion,vagsmunicipality,22.2
-1996,municipalities,data.womenseats-proportion,vestmannamunicipality,57.1
-1996,municipalities,data.womenseats-proportion,vidareidismunicipality,40.0
-1996,municipalities,womenseats-number,all-municipalities,45.0
-1996,municipalities,womenseats-number,biggjarmunicipality,1.0
-1996,municipalities,womenseats-number,eidismunicipality,1.0
-1996,municipalities,womenseats-number,elduvikarmunicipality,1.0
-1996,municipalities,womenseats-number,eysturmunicipality,
-1996,municipalities,womenseats-number,famjinsmunicipality,1.0
-1996,municipalities,womenseats-number,fuglafjardarmunicipality,1.0
-1996,municipalities,womenseats-number,fugloyarmunicipality,0.0
-1996,municipalities,womenseats-number,funningsmunicipality,0.0
-1996,municipalities,womenseats-number,gjaarmunicipality,0.0
-1996,municipalities,womenseats-number,gotumunicipality,0.0
-1996,municipalities,womenseats-number,haldorsvikarmunicipality,0.0
-1996,municipalities,womenseats-number,hestsmunicipality,0.0
-1996,municipalities,womenseats-number,hosvikarmunicipality,1.0
-1996,municipalities,womenseats-number,hovsmunicipality,1.0
-1996,municipalities,womenseats-number,husamunicipality,1.0
-1996,municipalities,womenseats-number,husavikarmunicipality,1.0
-1996,municipalities,womenseats-number,hvalbiarmunicipality,0.0
-1996,municipalities,womenseats-number,hvalvikarmunicipality,1.0
-1996,municipalities,womenseats-number,hvannasundsmunicipality,0.0
-1996,municipalities,womenseats-number,kirkjuboarmunicipality,1.0
-1996,municipalities,womenseats-number,klaksvikarmunicipality,2.0
-1996,municipalities,womenseats-number,kunoyarmunicipality,1.0
-1996,municipalities,womenseats-number,kvivikarmunicipality,1.0
-1996,municipalities,womenseats-number,leirvikarmunicipality,0.0
-1996,municipalities,womenseats-number,midvagsmunicipality,4.0
-1996,municipalities,womenseats-number,mikladalsmunicipality,2.0
-1996,municipalities,womenseats-number,mykinesmunicipality,1.0
-1996,municipalities,womenseats-number,nesmunicipality,2.0
-1996,municipalities,womenseats-number,nolsoyarmunicipality,0.0
-1996,municipalities,womenseats-number,oyndarfjardarmunicipality,0.0
-1996,municipalities,womenseats-number,porkerismunicipality,1.0
-1996,municipalities,womenseats-number,runavikarmunicipality,0.0
-1996,municipalities,womenseats-number,saksunarmunicipality,0.0
-1996,municipalities,womenseats-number,sandavagsmunicipality,1.0
-1996,municipalities,womenseats-number,sandsmunicipality,1.0
-1996,municipalities,womenseats-number,sjovarmunicipality,1.0
-1996,municipalities,womenseats-number,skalamunicipality,2.0
-1996,municipalities,womenseats-number,skalavikarmunicipality,2.0
-1996,municipalities,womenseats-number,skopunarmunicipality,0.0
-1996,municipalities,womenseats-number,skugvoyarmunicipality,1.0
-1996,municipalities,womenseats-number,sorvagsmunicipality,1.0
-1996,municipalities,womenseats-number,sumbiarmunicipality,0.0
-1996,municipalities,womenseats-number,sundamunicipality,0.0
-1996,municipalities,womenseats-number,svinoyarmunicipality,0.0
-1996,municipalities,womenseats-number,torshavnarmunicipality,3.0
-1996,municipalities,womenseats-number,tvoroyrarmunicipality,0.0
-1996,municipalities,womenseats-number,vagamunicipality,
-1996,municipalities,womenseats-number,vagsmunicipality,2.0
-1996,municipalities,womenseats-number,vestmannamunicipality,4.0
-1996,municipalities,womenseats-number,vidareidismunicipality,2.0
-1996,municipalities,seats-number,all-municipalities,272.0
-1996,municipalities,seats-number,biggjarmunicipality,3.0
-1996,municipalities,seats-number,eidismunicipality,7.0
-1996,municipalities,seats-number,elduvikarmunicipality,5.0
-1996,municipalities,seats-number,eysturmunicipality,
-1996,municipalities,seats-number,famjinsmunicipality,5.0
-1996,municipalities,seats-number,fuglafjardarmunicipality,9.0
-1996,municipalities,seats-number,fugloyarmunicipality,5.0
-1996,municipalities,seats-number,funningsmunicipality,5.0
-1996,municipalities,seats-number,gjaarmunicipality,5.0
-1996,municipalities,seats-number,gotumunicipality,5.0
-1996,municipalities,seats-number,haldorsvikarmunicipality,5.0
-1996,municipalities,seats-number,hestsmunicipality,5.0
-1996,municipalities,seats-number,hosvikarmunicipality,5.0
-1996,municipalities,seats-number,hovsmunicipality,5.0
-1996,municipalities,seats-number,husamunicipality,5.0
-1996,municipalities,seats-number,husavikarmunicipality,5.0
-1996,municipalities,seats-number,hvalbiarmunicipality,5.0
-1996,municipalities,seats-number,hvalvikarmunicipality,5.0
-1996,municipalities,seats-number,hvannasundsmunicipality,5.0
-1996,municipalities,seats-number,kirkjuboarmunicipality,5.0
-1996,municipalities,seats-number,klaksvikarmunicipality,11.0
-1996,municipalities,seats-number,kunoyarmunicipality,5.0
-1996,municipalities,seats-number,kvivikarmunicipality,5.0
-1996,municipalities,seats-number,leirvikarmunicipality,5.0
-1996,municipalities,seats-number,midvagsmunicipality,7.0
-1996,municipalities,seats-number,mikladalsmunicipality,5.0
-1996,municipalities,seats-number,mykinesmunicipality,3.0
-1996,municipalities,seats-number,nesmunicipality,7.0
-1996,municipalities,seats-number,nolsoyarmunicipality,5.0
-1996,municipalities,seats-number,oyndarfjardarmunicipality,5.0
-1996,municipalities,seats-number,porkerismunicipality,5.0
-1996,municipalities,seats-number,runavikarmunicipality,9.0
-1996,municipalities,seats-number,saksunarmunicipality,3.0
-1996,municipalities,seats-number,sandavagsmunicipality,7.0
-1996,municipalities,seats-number,sandsmunicipality,5.0
-1996,municipalities,seats-number,sjovarmunicipality,5.0
-1996,municipalities,seats-number,skalamunicipality,5.0
-1996,municipalities,seats-number,skalavikarmunicipality,5.0
-1996,municipalities,seats-number,skopunarmunicipality,5.0
-1996,municipalities,seats-number,skugvoyarmunicipality,3.0
-1996,municipalities,seats-number,sorvagsmunicipality,7.0
-1996,municipalities,seats-number,sumbiarmunicipality,5.0
-1996,municipalities,seats-number,sundamunicipality,5.0
-1996,municipalities,seats-number,svinoyarmunicipality,5.0
-1996,municipalities,seats-number,torshavnarmunicipality,13.0
-1996,municipalities,seats-number,tvoroyrarmunicipality,7.0
-1996,municipalities,seats-number,vagamunicipality,
-1996,municipalities,seats-number,vagsmunicipality,9.0
-1996,municipalities,seats-number,vestmannamunicipality,7.0
-1996,municipalities,seats-number,vidareidismunicipality,5.0
-2000,municipalities,data.womenseats-proportion,all-municipalities,22.8
-2000,municipalities,data.womenseats-proportion,biggjarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,eidismunicipality,14.3
-2000,municipalities,data.womenseats-proportion,elduvikarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,eysturmunicipality,
-2000,municipalities,data.womenseats-proportion,famjinsmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,11.1
-2000,municipalities,data.womenseats-proportion,fugloyarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,funningsmunicipality,33.3
-2000,municipalities,data.womenseats-proportion,gjaarmunicipality,33.3
-2000,municipalities,data.womenseats-proportion,gotumunicipality,28.6
-2000,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,hestsmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,hosvikarmunicipality,40.0
-2000,municipalities,data.womenseats-proportion,hovsmunicipality,40.0
-2000,municipalities,data.womenseats-proportion,husamunicipality,33.3
-2000,municipalities,data.womenseats-proportion,husavikarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,hvalbiarmunicipality,14.3
-2000,municipalities,data.womenseats-proportion,hvalvikarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,hvannasundsmunicipality,40.0
-2000,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,klaksvikarmunicipality,27.3
-2000,municipalities,data.womenseats-proportion,kunoyarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,kvivikarmunicipality,28.6
-2000,municipalities,data.womenseats-proportion,leirvikarmunicipality,42.9
-2000,municipalities,data.womenseats-proportion,midvagsmunicipality,57.1
-2000,municipalities,data.womenseats-proportion,mikladalsmunicipality,33.3
-2000,municipalities,data.womenseats-proportion,mykinesmunicipality,33.3
-2000,municipalities,data.womenseats-proportion,nesmunicipality,28.6
-2000,municipalities,data.womenseats-proportion,nolsoyarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,60.0
-2000,municipalities,data.womenseats-proportion,porkerismunicipality,20.0
-2000,municipalities,data.womenseats-proportion,runavikarmunicipality,22.2
-2000,municipalities,data.womenseats-proportion,saksunarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,sandavagsmunicipality,14.3
-2000,municipalities,data.womenseats-proportion,sandsmunicipality,14.3
-2000,municipalities,data.womenseats-proportion,sjovarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,skalamunicipality,0.0
-2000,municipalities,data.womenseats-proportion,skalavikarmunicipality,20.0
-2000,municipalities,data.womenseats-proportion,skopunarmunicipality,40.0
-2000,municipalities,data.womenseats-proportion,skugvoyarmunicipality,33.3
-2000,municipalities,data.womenseats-proportion,sorvagsmunicipality,14.3
-2000,municipalities,data.womenseats-proportion,sumbiarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,sundamunicipality,60.0
-2000,municipalities,data.womenseats-proportion,svinoyarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,torshavnarmunicipality,23.1
-2000,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,0.0
-2000,municipalities,data.womenseats-proportion,vagamunicipality,
-2000,municipalities,data.womenseats-proportion,vagsmunicipality,22.2
-2000,municipalities,data.womenseats-proportion,vestmannamunicipality,57.1
-2000,municipalities,data.womenseats-proportion,vidareidismunicipality,0.0
-2000,municipalities,womenseats-number,all-municipalities,62.0
-2000,municipalities,womenseats-number,biggjarmunicipality,0.0
-2000,municipalities,womenseats-number,eidismunicipality,1.0
-2000,municipalities,womenseats-number,elduvikarmunicipality,1.0
-2000,municipalities,womenseats-number,eysturmunicipality,
-2000,municipalities,womenseats-number,famjinsmunicipality,1.0
-2000,municipalities,womenseats-number,fuglafjardarmunicipality,1.0
-2000,municipalities,womenseats-number,fugloyarmunicipality,0.0
-2000,municipalities,womenseats-number,funningsmunicipality,1.0
-2000,municipalities,womenseats-number,gjaarmunicipality,1.0
-2000,municipalities,womenseats-number,gotumunicipality,2.0
-2000,municipalities,womenseats-number,haldorsvikarmunicipality,0.0
-2000,municipalities,womenseats-number,hestsmunicipality,0.0
-2000,municipalities,womenseats-number,hosvikarmunicipality,2.0
-2000,municipalities,womenseats-number,hovsmunicipality,2.0
-2000,municipalities,womenseats-number,husamunicipality,1.0
-2000,municipalities,womenseats-number,husavikarmunicipality,1.0
-2000,municipalities,womenseats-number,hvalbiarmunicipality,1.0
-2000,municipalities,womenseats-number,hvalvikarmunicipality,1.0
-2000,municipalities,womenseats-number,hvannasundsmunicipality,2.0
-2000,municipalities,womenseats-number,kirkjuboarmunicipality,1.0
-2000,municipalities,womenseats-number,klaksvikarmunicipality,3.0
-2000,municipalities,womenseats-number,kunoyarmunicipality,1.0
-2000,municipalities,womenseats-number,kvivikarmunicipality,2.0
-2000,municipalities,womenseats-number,leirvikarmunicipality,3.0
-2000,municipalities,womenseats-number,midvagsmunicipality,4.0
-2000,municipalities,womenseats-number,mikladalsmunicipality,1.0
-2000,municipalities,womenseats-number,mykinesmunicipality,1.0
-2000,municipalities,womenseats-number,nesmunicipality,2.0
-2000,municipalities,womenseats-number,nolsoyarmunicipality,1.0
-2000,municipalities,womenseats-number,oyndarfjardarmunicipality,3.0
-2000,municipalities,womenseats-number,porkerismunicipality,1.0
-2000,municipalities,womenseats-number,runavikarmunicipality,2.0
-2000,municipalities,womenseats-number,saksunarmunicipality,0.0
-2000,municipalities,womenseats-number,sandavagsmunicipality,1.0
-2000,municipalities,womenseats-number,sandsmunicipality,1.0
-2000,municipalities,womenseats-number,sjovarmunicipality,0.0
-2000,municipalities,womenseats-number,skalamunicipality,0.0
-2000,municipalities,womenseats-number,skalavikarmunicipality,1.0
-2000,municipalities,womenseats-number,skopunarmunicipality,2.0
-2000,municipalities,womenseats-number,skugvoyarmunicipality,1.0
-2000,municipalities,womenseats-number,sorvagsmunicipality,1.0
-2000,municipalities,womenseats-number,sumbiarmunicipality,0.0
-2000,municipalities,womenseats-number,sundamunicipality,3.0
-2000,municipalities,womenseats-number,svinoyarmunicipality,0.0
-2000,municipalities,womenseats-number,torshavnarmunicipality,3.0
-2000,municipalities,womenseats-number,tvoroyrarmunicipality,0.0
-2000,municipalities,womenseats-number,vagamunicipality,
-2000,municipalities,womenseats-number,vagsmunicipality,2.0
-2000,municipalities,womenseats-number,vestmannamunicipality,4.0
-2000,municipalities,womenseats-number,vidareidismunicipality,0.0
-2000,municipalities,seats-number,all-municipalities,272.0
-2000,municipalities,seats-number,biggjarmunicipality,3.0
-2000,municipalities,seats-number,eidismunicipality,7.0
-2000,municipalities,seats-number,elduvikarmunicipality,5.0
-2000,municipalities,seats-number,eysturmunicipality,
-2000,municipalities,seats-number,famjinsmunicipality,5.0
-2000,municipalities,seats-number,fuglafjardarmunicipality,9.0
-2000,municipalities,seats-number,fugloyarmunicipality,3.0
-2000,municipalities,seats-number,funningsmunicipality,3.0
-2000,municipalities,seats-number,gjaarmunicipality,3.0
-2000,municipalities,seats-number,gotumunicipality,7.0
-2000,municipalities,seats-number,haldorsvikarmunicipality,5.0
-2000,municipalities,seats-number,hestsmunicipality,3.0
-2000,municipalities,seats-number,hosvikarmunicipality,5.0
-2000,municipalities,seats-number,hovsmunicipality,5.0
-2000,municipalities,seats-number,husamunicipality,3.0
-2000,municipalities,seats-number,husavikarmunicipality,5.0
-2000,municipalities,seats-number,hvalbiarmunicipality,7.0
-2000,municipalities,seats-number,hvalvikarmunicipality,5.0
-2000,municipalities,seats-number,hvannasundsmunicipality,5.0
-2000,municipalities,seats-number,kirkjuboarmunicipality,5.0
-2000,municipalities,seats-number,klaksvikarmunicipality,11.0
-2000,municipalities,seats-number,kunoyarmunicipality,5.0
-2000,municipalities,seats-number,kvivikarmunicipality,7.0
-2000,municipalities,seats-number,leirvikarmunicipality,7.0
-2000,municipalities,seats-number,midvagsmunicipality,7.0
-2000,municipalities,seats-number,mikladalsmunicipality,3.0
-2000,municipalities,seats-number,mykinesmunicipality,3.0
-2000,municipalities,seats-number,nesmunicipality,7.0
-2000,municipalities,seats-number,nolsoyarmunicipality,5.0
-2000,municipalities,seats-number,oyndarfjardarmunicipality,5.0
-2000,municipalities,seats-number,porkerismunicipality,5.0
-2000,municipalities,seats-number,runavikarmunicipality,9.0
-2000,municipalities,seats-number,saksunarmunicipality,3.0
-2000,municipalities,seats-number,sandavagsmunicipality,7.0
-2000,municipalities,seats-number,sandsmunicipality,7.0
-2000,municipalities,seats-number,sjovarmunicipality,7.0
-2000,municipalities,seats-number,skalamunicipality,7.0
-2000,municipalities,seats-number,skalavikarmunicipality,5.0
-2000,municipalities,seats-number,skopunarmunicipality,5.0
-2000,municipalities,seats-number,skugvoyarmunicipality,3.0
-2000,municipalities,seats-number,sorvagsmunicipality,7.0
-2000,municipalities,seats-number,sumbiarmunicipality,5.0
-2000,municipalities,seats-number,sundamunicipality,5.0
-2000,municipalities,seats-number,svinoyarmunicipality,3.0
-2000,municipalities,seats-number,torshavnarmunicipality,13.0
-2000,municipalities,seats-number,tvoroyrarmunicipality,7.0
-2000,municipalities,seats-number,vagamunicipality,
-2000,municipalities,seats-number,vagsmunicipality,9.0
-2000,municipalities,seats-number,vestmannamunicipality,7.0
-2000,municipalities,seats-number,vidareidismunicipality,5.0
-2004,municipalities,data.womenseats-proportion,all-municipalities,22.7
-2004,municipalities,data.womenseats-proportion,biggjarmunicipality,
-2004,municipalities,data.womenseats-proportion,eidismunicipality,14.3
-2004,municipalities,data.womenseats-proportion,elduvikarmunicipality,
-2004,municipalities,data.womenseats-proportion,eysturmunicipality,
-2004,municipalities,data.womenseats-proportion,famjinsmunicipality,40.0
-2004,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,11.1
-2004,municipalities,data.womenseats-proportion,fugloyarmunicipality,33.3
-2004,municipalities,data.womenseats-proportion,funningsmunicipality,33.3
-2004,municipalities,data.womenseats-proportion,gjaarmunicipality,
-2004,municipalities,data.womenseats-proportion,gotumunicipality,42.9
-2004,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,
-2004,municipalities,data.womenseats-proportion,hestsmunicipality,
-2004,municipalities,data.womenseats-proportion,hosvikarmunicipality,
-2004,municipalities,data.womenseats-proportion,hovsmunicipality,40.0
-2004,municipalities,data.womenseats-proportion,husamunicipality,33.3
-2004,municipalities,data.womenseats-proportion,husavikarmunicipality,20.0
-2004,municipalities,data.womenseats-proportion,hvalbiarmunicipality,14.3
-2004,municipalities,data.womenseats-proportion,hvalvikarmunicipality,
-2004,municipalities,data.womenseats-proportion,hvannasundsmunicipality,20.0
-2004,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,
-2004,municipalities,data.womenseats-proportion,klaksvikarmunicipality,27.3
-2004,municipalities,data.womenseats-proportion,kunoyarmunicipality,20.0
-2004,municipalities,data.womenseats-proportion,kvivikarmunicipality,28.6
-2004,municipalities,data.womenseats-proportion,leirvikarmunicipality,28.6
-2004,municipalities,data.womenseats-proportion,midvagsmunicipality,14.3
-2004,municipalities,data.womenseats-proportion,mikladalsmunicipality,
-2004,municipalities,data.womenseats-proportion,mykinesmunicipality,
-2004,municipalities,data.womenseats-proportion,nesmunicipality,28.6
-2004,municipalities,data.womenseats-proportion,nolsoyarmunicipality,
-2004,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,
-2004,municipalities,data.womenseats-proportion,porkerismunicipality,20.0
-2004,municipalities,data.womenseats-proportion,runavikarmunicipality,0.0
-2004,municipalities,data.womenseats-proportion,saksunarmunicipality,
-2004,municipalities,data.womenseats-proportion,sandavagsmunicipality,14.3
-2004,municipalities,data.womenseats-proportion,sandsmunicipality,14.3
-2004,municipalities,data.womenseats-proportion,sjovarmunicipality,14.3
-2004,municipalities,data.womenseats-proportion,skalamunicipality,
-2004,municipalities,data.womenseats-proportion,skalavikarmunicipality,20.0
-2004,municipalities,data.womenseats-proportion,skopunarmunicipality,40.0
-2004,municipalities,data.womenseats-proportion,skugvoyarmunicipality,33.3
-2004,municipalities,data.womenseats-proportion,sorvagsmunicipality,28.6
-2004,municipalities,data.womenseats-proportion,sumbiarmunicipality,0.0
-2004,municipalities,data.womenseats-proportion,sundamunicipality,18.2
-2004,municipalities,data.womenseats-proportion,svinoyarmunicipality,33.3
-2004,municipalities,data.womenseats-proportion,torshavnarmunicipality,46.2
-2004,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,14.3
-2004,municipalities,data.womenseats-proportion,vagamunicipality,
-2004,municipalities,data.womenseats-proportion,vagsmunicipality,22.2
-2004,municipalities,data.womenseats-proportion,vestmannamunicipality,14.3
-2004,municipalities,data.womenseats-proportion,vidareidismunicipality,20.0
-2004,municipalities,womenseats-number,all-municipalities,50.0
-2004,municipalities,womenseats-number,biggjarmunicipality,
-2004,municipalities,womenseats-number,eidismunicipality,1.0
-2004,municipalities,womenseats-number,elduvikarmunicipality,
-2004,municipalities,womenseats-number,eysturmunicipality,
-2004,municipalities,womenseats-number,famjinsmunicipality,2.0
-2004,municipalities,womenseats-number,fuglafjardarmunicipality,1.0
-2004,municipalities,womenseats-number,fugloyarmunicipality,1.0
-2004,municipalities,womenseats-number,funningsmunicipality,1.0
-2004,municipalities,womenseats-number,gjaarmunicipality,
-2004,municipalities,womenseats-number,gotumunicipality,3.0
-2004,municipalities,womenseats-number,haldorsvikarmunicipality,
-2004,municipalities,womenseats-number,hestsmunicipality,
-2004,municipalities,womenseats-number,hosvikarmunicipality,
-2004,municipalities,womenseats-number,hovsmunicipality,2.0
-2004,municipalities,womenseats-number,husamunicipality,1.0
-2004,municipalities,womenseats-number,husavikarmunicipality,1.0
-2004,municipalities,womenseats-number,hvalbiarmunicipality,1.0
-2004,municipalities,womenseats-number,hvalvikarmunicipality,
-2004,municipalities,womenseats-number,hvannasundsmunicipality,1.0
-2004,municipalities,womenseats-number,kirkjuboarmunicipality,
-2004,municipalities,womenseats-number,klaksvikarmunicipality,3.0
-2004,municipalities,womenseats-number,kunoyarmunicipality,1.0
-2004,municipalities,womenseats-number,kvivikarmunicipality,2.0
-2004,municipalities,womenseats-number,leirvikarmunicipality,2.0
-2004,municipalities,womenseats-number,midvagsmunicipality,1.0
-2004,municipalities,womenseats-number,mikladalsmunicipality,
-2004,municipalities,womenseats-number,mykinesmunicipality,
-2004,municipalities,womenseats-number,nesmunicipality,2.0
-2004,municipalities,womenseats-number,nolsoyarmunicipality,
-2004,municipalities,womenseats-number,oyndarfjardarmunicipality,
-2004,municipalities,womenseats-number,porkerismunicipality,1.0
-2004,municipalities,womenseats-number,runavikarmunicipality,0.0
-2004,municipalities,womenseats-number,saksunarmunicipality,
-2004,municipalities,womenseats-number,sandavagsmunicipality,1.0
-2004,municipalities,womenseats-number,sandsmunicipality,1.0
-2004,municipalities,womenseats-number,sjovarmunicipality,1.0
-2004,municipalities,womenseats-number,skalamunicipality,
-2004,municipalities,womenseats-number,skalavikarmunicipality,1.0
-2004,municipalities,womenseats-number,skopunarmunicipality,2.0
-2004,municipalities,womenseats-number,skugvoyarmunicipality,1.0
-2004,municipalities,womenseats-number,sorvagsmunicipality,2.0
-2004,municipalities,womenseats-number,sumbiarmunicipality,0.0
-2004,municipalities,womenseats-number,sundamunicipality,2.0
-2004,municipalities,womenseats-number,svinoyarmunicipality,1.0
-2004,municipalities,womenseats-number,torshavnarmunicipality,6.0
-2004,municipalities,womenseats-number,tvoroyrarmunicipality,1.0
-2004,municipalities,womenseats-number,vagamunicipality,
-2004,municipalities,womenseats-number,vagsmunicipality,2.0
-2004,municipalities,womenseats-number,vestmannamunicipality,1.0
-2004,municipalities,womenseats-number,vidareidismunicipality,1.0
-2004,municipalities,seats-number,all-municipalities,220.0
-2004,municipalities,seats-number,biggjarmunicipality,
-2004,municipalities,seats-number,eidismunicipality,7.0
-2004,municipalities,seats-number,elduvikarmunicipality,
-2004,municipalities,seats-number,eysturmunicipality,
-2004,municipalities,seats-number,famjinsmunicipality,5.0
-2004,municipalities,seats-number,fuglafjardarmunicipality,9.0
-2004,municipalities,seats-number,fugloyarmunicipality,3.0
-2004,municipalities,seats-number,funningsmunicipality,3.0
-2004,municipalities,seats-number,gjaarmunicipality,
-2004,municipalities,seats-number,gotumunicipality,7.0
-2004,municipalities,seats-number,haldorsvikarmunicipality,
-2004,municipalities,seats-number,hestsmunicipality,
-2004,municipalities,seats-number,hosvikarmunicipality,
-2004,municipalities,seats-number,hovsmunicipality,5.0
-2004,municipalities,seats-number,husamunicipality,3.0
-2004,municipalities,seats-number,husavikarmunicipality,5.0
-2004,municipalities,seats-number,hvalbiarmunicipality,7.0
-2004,municipalities,seats-number,hvalvikarmunicipality,
-2004,municipalities,seats-number,hvannasundsmunicipality,5.0
-2004,municipalities,seats-number,kirkjuboarmunicipality,
-2004,municipalities,seats-number,klaksvikarmunicipality,11.0
-2004,municipalities,seats-number,kunoyarmunicipality,5.0
-2004,municipalities,seats-number,kvivikarmunicipality,7.0
-2004,municipalities,seats-number,leirvikarmunicipality,7.0
-2004,municipalities,seats-number,midvagsmunicipality,7.0
-2004,municipalities,seats-number,mikladalsmunicipality,
-2004,municipalities,seats-number,mykinesmunicipality,
-2004,municipalities,seats-number,nesmunicipality,7.0
-2004,municipalities,seats-number,nolsoyarmunicipality,
-2004,municipalities,seats-number,oyndarfjardarmunicipality,
-2004,municipalities,seats-number,porkerismunicipality,5.0
-2004,municipalities,seats-number,runavikarmunicipality,11.0
-2004,municipalities,seats-number,saksunarmunicipality,
-2004,municipalities,seats-number,sandavagsmunicipality,7.0
-2004,municipalities,seats-number,sandsmunicipality,7.0
-2004,municipalities,seats-number,sjovarmunicipality,7.0
-2004,municipalities,seats-number,skalamunicipality,
-2004,municipalities,seats-number,skalavikarmunicipality,5.0
-2004,municipalities,seats-number,skopunarmunicipality,5.0
-2004,municipalities,seats-number,skugvoyarmunicipality,3.0
-2004,municipalities,seats-number,sorvagsmunicipality,7.0
-2004,municipalities,seats-number,sumbiarmunicipality,5.0
-2004,municipalities,seats-number,sundamunicipality,11.0
-2004,municipalities,seats-number,svinoyarmunicipality,3.0
-2004,municipalities,seats-number,torshavnarmunicipality,13.0
-2004,municipalities,seats-number,tvoroyrarmunicipality,7.0
-2004,municipalities,seats-number,vagamunicipality,
-2004,municipalities,seats-number,vagsmunicipality,9.0
-2004,municipalities,seats-number,vestmannamunicipality,7.0
-2004,municipalities,seats-number,vidareidismunicipality,5.0
-2008,municipalities,data.womenseats-proportion,all-municipalities,30.8
-2008,municipalities,data.womenseats-proportion,biggjarmunicipality,
-2008,municipalities,data.womenseats-proportion,eidismunicipality,14.3
-2008,municipalities,data.womenseats-proportion,elduvikarmunicipality,
-2008,municipalities,data.womenseats-proportion,eysturmunicipality,33.3
-2008,municipalities,data.womenseats-proportion,famjinsmunicipality,60.0
-2008,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,22.2
-2008,municipalities,data.womenseats-proportion,fugloyarmunicipality,33.3
-2008,municipalities,data.womenseats-proportion,funningsmunicipality,
-2008,municipalities,data.womenseats-proportion,gjaarmunicipality,
-2008,municipalities,data.womenseats-proportion,gotumunicipality,
-2008,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,
-2008,municipalities,data.womenseats-proportion,hestsmunicipality,
-2008,municipalities,data.womenseats-proportion,hosvikarmunicipality,
-2008,municipalities,data.womenseats-proportion,hovsmunicipality,60.0
-2008,municipalities,data.womenseats-proportion,husamunicipality,33.3
-2008,municipalities,data.womenseats-proportion,husavikarmunicipality,20.0
-2008,municipalities,data.womenseats-proportion,hvalbiarmunicipality,14.3
-2008,municipalities,data.womenseats-proportion,hvalvikarmunicipality,
-2008,municipalities,data.womenseats-proportion,hvannasundsmunicipality,60.0
-2008,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,
-2008,municipalities,data.womenseats-proportion,klaksvikarmunicipality,36.4
-2008,municipalities,data.womenseats-proportion,kunoyarmunicipality,40.0
-2008,municipalities,data.womenseats-proportion,kvivikarmunicipality,42.9
-2008,municipalities,data.womenseats-proportion,leirvikarmunicipality,
-2008,municipalities,data.womenseats-proportion,midvagsmunicipality,
-2008,municipalities,data.womenseats-proportion,mikladalsmunicipality,
-2008,municipalities,data.womenseats-proportion,mykinesmunicipality,
-2008,municipalities,data.womenseats-proportion,nesmunicipality,28.6
-2008,municipalities,data.womenseats-proportion,nolsoyarmunicipality,
-2008,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,
-2008,municipalities,data.womenseats-proportion,porkerismunicipality,20.0
-2008,municipalities,data.womenseats-proportion,runavikarmunicipality,27.3
-2008,municipalities,data.womenseats-proportion,saksunarmunicipality,
-2008,municipalities,data.womenseats-proportion,sandavagsmunicipality,
-2008,municipalities,data.womenseats-proportion,sandsmunicipality,14.3
-2008,municipalities,data.womenseats-proportion,sjovarmunicipality,28.6
-2008,municipalities,data.womenseats-proportion,skalamunicipality,
-2008,municipalities,data.womenseats-proportion,skalavikarmunicipality,20.0
-2008,municipalities,data.womenseats-proportion,skopunarmunicipality,42.9
-2008,municipalities,data.womenseats-proportion,skugvoyarmunicipality,33.3
-2008,municipalities,data.womenseats-proportion,sorvagsmunicipality,28.6
-2008,municipalities,data.womenseats-proportion,sumbiarmunicipality,20.0
-2008,municipalities,data.womenseats-proportion,sundamunicipality,36.4
-2008,municipalities,data.womenseats-proportion,svinoyarmunicipality,
-2008,municipalities,data.womenseats-proportion,torshavnarmunicipality,30.8
-2008,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,14.3
-2008,municipalities,data.womenseats-proportion,vagamunicipality,36.4
-2008,municipalities,data.womenseats-proportion,vagsmunicipality,33.3
-2008,municipalities,data.womenseats-proportion,vestmannamunicipality,42.9
-2008,municipalities,data.womenseats-proportion,vidareidismunicipality,0.0
-2008,municipalities,womenseats-number,all-municipalities,64.0
-2008,municipalities,womenseats-number,biggjarmunicipality,
-2008,municipalities,womenseats-number,eidismunicipality,1.0
-2008,municipalities,womenseats-number,elduvikarmunicipality,
-2008,municipalities,womenseats-number,eysturmunicipality,3.0
-2008,municipalities,womenseats-number,famjinsmunicipality,3.0
-2008,municipalities,womenseats-number,fuglafjardarmunicipality,2.0
-2008,municipalities,womenseats-number,fugloyarmunicipality,1.0
-2008,municipalities,womenseats-number,funningsmunicipality,
-2008,municipalities,womenseats-number,gjaarmunicipality,
-2008,municipalities,womenseats-number,gotumunicipality,
-2008,municipalities,womenseats-number,haldorsvikarmunicipality,
-2008,municipalities,womenseats-number,hestsmunicipality,
-2008,municipalities,womenseats-number,hosvikarmunicipality,
-2008,municipalities,womenseats-number,hovsmunicipality,3.0
-2008,municipalities,womenseats-number,husamunicipality,1.0
-2008,municipalities,womenseats-number,husavikarmunicipality,1.0
-2008,municipalities,womenseats-number,hvalbiarmunicipality,1.0
-2008,municipalities,womenseats-number,hvalvikarmunicipality,
-2008,municipalities,womenseats-number,hvannasundsmunicipality,3.0
-2008,municipalities,womenseats-number,kirkjuboarmunicipality,
-2008,municipalities,womenseats-number,klaksvikarmunicipality,4.0
-2008,municipalities,womenseats-number,kunoyarmunicipality,2.0
-2008,municipalities,womenseats-number,kvivikarmunicipality,3.0
-2008,municipalities,womenseats-number,leirvikarmunicipality,
-2008,municipalities,womenseats-number,midvagsmunicipality,
-2008,municipalities,womenseats-number,mikladalsmunicipality,
-2008,municipalities,womenseats-number,mykinesmunicipality,
-2008,municipalities,womenseats-number,nesmunicipality,2.0
-2008,municipalities,womenseats-number,nolsoyarmunicipality,
-2008,municipalities,womenseats-number,oyndarfjardarmunicipality,
-2008,municipalities,womenseats-number,porkerismunicipality,1.0
-2008,municipalities,womenseats-number,runavikarmunicipality,3.0
-2008,municipalities,womenseats-number,saksunarmunicipality,
-2008,municipalities,womenseats-number,sandavagsmunicipality,
-2008,municipalities,womenseats-number,sandsmunicipality,1.0
-2008,municipalities,womenseats-number,sjovarmunicipality,2.0
-2008,municipalities,womenseats-number,skalamunicipality,
-2008,municipalities,womenseats-number,skalavikarmunicipality,1.0
-2008,municipalities,womenseats-number,skopunarmunicipality,3.0
-2008,municipalities,womenseats-number,skugvoyarmunicipality,1.0
-2008,municipalities,womenseats-number,sorvagsmunicipality,2.0
-2008,municipalities,womenseats-number,sumbiarmunicipality,1.0
-2008,municipalities,womenseats-number,sundamunicipality,4.0
-2008,municipalities,womenseats-number,svinoyarmunicipality,
-2008,municipalities,womenseats-number,torshavnarmunicipality,4.0
-2008,municipalities,womenseats-number,tvoroyrarmunicipality,1.0
-2008,municipalities,womenseats-number,vagamunicipality,4.0
-2008,municipalities,womenseats-number,vagsmunicipality,3.0
-2008,municipalities,womenseats-number,vestmannamunicipality,3.0
-2008,municipalities,womenseats-number,vidareidismunicipality,0.0
-2008,municipalities,seats-number,all-municipalities,208.0
-2008,municipalities,seats-number,biggjarmunicipality,
-2008,municipalities,seats-number,eidismunicipality,7.0
-2008,municipalities,seats-number,elduvikarmunicipality,
-2008,municipalities,seats-number,eysturmunicipality,9.0
-2008,municipalities,seats-number,famjinsmunicipality,5.0
-2008,municipalities,seats-number,fuglafjardarmunicipality,9.0
-2008,municipalities,seats-number,fugloyarmunicipality,3.0
-2008,municipalities,seats-number,funningsmunicipality,
-2008,municipalities,seats-number,gjaarmunicipality,
-2008,municipalities,seats-number,gotumunicipality,
-2008,municipalities,seats-number,haldorsvikarmunicipality,
-2008,municipalities,seats-number,hestsmunicipality,
-2008,municipalities,seats-number,hosvikarmunicipality,
-2008,municipalities,seats-number,hovsmunicipality,5.0
-2008,municipalities,seats-number,husamunicipality,3.0
-2008,municipalities,seats-number,husavikarmunicipality,5.0
-2008,municipalities,seats-number,hvalbiarmunicipality,7.0
-2008,municipalities,seats-number,hvalvikarmunicipality,
-2008,municipalities,seats-number,hvannasundsmunicipality,5.0
-2008,municipalities,seats-number,kirkjuboarmunicipality,
-2008,municipalities,seats-number,klaksvikarmunicipality,11.0
-2008,municipalities,seats-number,kunoyarmunicipality,5.0
-2008,municipalities,seats-number,kvivikarmunicipality,7.0
-2008,municipalities,seats-number,leirvikarmunicipality,
-2008,municipalities,seats-number,midvagsmunicipality,
-2008,municipalities,seats-number,mikladalsmunicipality,
-2008,municipalities,seats-number,mykinesmunicipality,
-2008,municipalities,seats-number,nesmunicipality,7.0
-2008,municipalities,seats-number,nolsoyarmunicipality,
-2008,municipalities,seats-number,oyndarfjardarmunicipality,
-2008,municipalities,seats-number,porkerismunicipality,5.0
-2008,municipalities,seats-number,runavikarmunicipality,11.0
-2008,municipalities,seats-number,saksunarmunicipality,
-2008,municipalities,seats-number,sandavagsmunicipality,
-2008,municipalities,seats-number,sandsmunicipality,7.0
-2008,municipalities,seats-number,sjovarmunicipality,7.0
-2008,municipalities,seats-number,skalamunicipality,
-2008,municipalities,seats-number,skalavikarmunicipality,5.0
-2008,municipalities,seats-number,skopunarmunicipality,7.0
-2008,municipalities,seats-number,skugvoyarmunicipality,3.0
-2008,municipalities,seats-number,sorvagsmunicipality,7.0
-2008,municipalities,seats-number,sumbiarmunicipality,5.0
-2008,municipalities,seats-number,sundamunicipality,11.0
-2008,municipalities,seats-number,svinoyarmunicipality,
-2008,municipalities,seats-number,torshavnarmunicipality,13.0
-2008,municipalities,seats-number,tvoroyrarmunicipality,7.0
-2008,municipalities,seats-number,vagamunicipality,11.0
-2008,municipalities,seats-number,vagsmunicipality,9.0
-2008,municipalities,seats-number,vestmannamunicipality,7.0
-2008,municipalities,seats-number,vidareidismunicipality,5.0
-2012,municipalities,data.womenseats-proportion,all-municipalities,27.8
-2012,municipalities,data.womenseats-proportion,biggjarmunicipality,
-2012,municipalities,data.womenseats-proportion,eidismunicipality,14.3
-2012,municipalities,data.womenseats-proportion,elduvikarmunicipality,
-2012,municipalities,data.womenseats-proportion,eysturmunicipality,33.3
-2012,municipalities,data.womenseats-proportion,famjinsmunicipality,42.9
-2012,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,11.1
-2012,municipalities,data.womenseats-proportion,fugloyarmunicipality,33.3
-2012,municipalities,data.womenseats-proportion,funningsmunicipality,
-2012,municipalities,data.womenseats-proportion,gjaarmunicipality,
-2012,municipalities,data.womenseats-proportion,gotumunicipality,
-2012,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,
-2012,municipalities,data.womenseats-proportion,hestsmunicipality,
-2012,municipalities,data.womenseats-proportion,hosvikarmunicipality,
-2012,municipalities,data.womenseats-proportion,hovsmunicipality,40.0
-2012,municipalities,data.womenseats-proportion,husamunicipality,
-2012,municipalities,data.womenseats-proportion,husavikarmunicipality,40.0
-2012,municipalities,data.womenseats-proportion,hvalbiarmunicipality,0.0
-2012,municipalities,data.womenseats-proportion,hvalvikarmunicipality,
-2012,municipalities,data.womenseats-proportion,hvannasundsmunicipality,40.0
-2012,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,
-2012,municipalities,data.womenseats-proportion,klaksvikarmunicipality,45.5
-2012,municipalities,data.womenseats-proportion,kunoyarmunicipality,40.0
-2012,municipalities,data.womenseats-proportion,kvivikarmunicipality,42.9
-2012,municipalities,data.womenseats-proportion,leirvikarmunicipality,
-2012,municipalities,data.womenseats-proportion,midvagsmunicipality,
-2012,municipalities,data.womenseats-proportion,mikladalsmunicipality,
-2012,municipalities,data.womenseats-proportion,mykinesmunicipality,
-2012,municipalities,data.womenseats-proportion,nesmunicipality,28.6
-2012,municipalities,data.womenseats-proportion,nolsoyarmunicipality,
-2012,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,
-2012,municipalities,data.womenseats-proportion,porkerismunicipality,20.0
-2012,municipalities,data.womenseats-proportion,runavikarmunicipality,9.1
-2012,municipalities,data.womenseats-proportion,saksunarmunicipality,
-2012,municipalities,data.womenseats-proportion,sandavagsmunicipality,
-2012,municipalities,data.womenseats-proportion,sandsmunicipality,0.0
-2012,municipalities,data.womenseats-proportion,sjovarmunicipality,14.3
-2012,municipalities,data.womenseats-proportion,skalamunicipality,
-2012,municipalities,data.womenseats-proportion,skalavikarmunicipality,60.0
-2012,municipalities,data.womenseats-proportion,skopunarmunicipality,40.0
-2012,municipalities,data.womenseats-proportion,skugvoyarmunicipality,33.3
-2012,municipalities,data.womenseats-proportion,sorvagsmunicipality,14.3
-2012,municipalities,data.womenseats-proportion,sumbiarmunicipality,0.0
-2012,municipalities,data.womenseats-proportion,sundamunicipality,27.3
-2012,municipalities,data.womenseats-proportion,svinoyarmunicipality,
-2012,municipalities,data.womenseats-proportion,torshavnarmunicipality,46.2
-2012,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,42.9
-2012,municipalities,data.womenseats-proportion,vagamunicipality,18.2
-2012,municipalities,data.womenseats-proportion,vagsmunicipality,33.3
-2012,municipalities,data.womenseats-proportion,vestmannamunicipality,42.9
-2012,municipalities,data.womenseats-proportion,vidareidismunicipality,0.0
-2012,municipalities,womenseats-number,all-municipalities,57.0
-2012,municipalities,womenseats-number,biggjarmunicipality,
-2012,municipalities,womenseats-number,eidismunicipality,1.0
-2012,municipalities,womenseats-number,elduvikarmunicipality,
-2012,municipalities,womenseats-number,eysturmunicipality,3.0
-2012,municipalities,womenseats-number,famjinsmunicipality,3.0
-2012,municipalities,womenseats-number,fuglafjardarmunicipality,1.0
-2012,municipalities,womenseats-number,fugloyarmunicipality,1.0
-2012,municipalities,womenseats-number,funningsmunicipality,
-2012,municipalities,womenseats-number,gjaarmunicipality,
-2012,municipalities,womenseats-number,gotumunicipality,
-2012,municipalities,womenseats-number,haldorsvikarmunicipality,
-2012,municipalities,womenseats-number,hestsmunicipality,
-2012,municipalities,womenseats-number,hosvikarmunicipality,
-2012,municipalities,womenseats-number,hovsmunicipality,2.0
-2012,municipalities,womenseats-number,husamunicipality,
-2012,municipalities,womenseats-number,husavikarmunicipality,2.0
-2012,municipalities,womenseats-number,hvalbiarmunicipality,0.0
-2012,municipalities,womenseats-number,hvalvikarmunicipality,
-2012,municipalities,womenseats-number,hvannasundsmunicipality,2.0
-2012,municipalities,womenseats-number,kirkjuboarmunicipality,
-2012,municipalities,womenseats-number,klaksvikarmunicipality,5.0
-2012,municipalities,womenseats-number,kunoyarmunicipality,2.0
-2012,municipalities,womenseats-number,kvivikarmunicipality,3.0
-2012,municipalities,womenseats-number,leirvikarmunicipality,
-2012,municipalities,womenseats-number,midvagsmunicipality,
-2012,municipalities,womenseats-number,mikladalsmunicipality,
-2012,municipalities,womenseats-number,mykinesmunicipality,
-2012,municipalities,womenseats-number,nesmunicipality,2.0
-2012,municipalities,womenseats-number,nolsoyarmunicipality,
-2012,municipalities,womenseats-number,oyndarfjardarmunicipality,
-2012,municipalities,womenseats-number,porkerismunicipality,1.0
-2012,municipalities,womenseats-number,runavikarmunicipality,1.0
-2012,municipalities,womenseats-number,saksunarmunicipality,
-2012,municipalities,womenseats-number,sandavagsmunicipality,
-2012,municipalities,womenseats-number,sandsmunicipality,0.0
-2012,municipalities,womenseats-number,sjovarmunicipality,1.0
-2012,municipalities,womenseats-number,skalamunicipality,
-2012,municipalities,womenseats-number,skalavikarmunicipality,3.0
-2012,municipalities,womenseats-number,skopunarmunicipality,2.0
-2012,municipalities,womenseats-number,skugvoyarmunicipality,1.0
-2012,municipalities,womenseats-number,sorvagsmunicipality,1.0
-2012,municipalities,womenseats-number,sumbiarmunicipality,0.0
-2012,municipalities,womenseats-number,sundamunicipality,3.0
-2012,municipalities,womenseats-number,svinoyarmunicipality,
-2012,municipalities,womenseats-number,torshavnarmunicipality,6.0
-2012,municipalities,womenseats-number,tvoroyrarmunicipality,3.0
-2012,municipalities,womenseats-number,vagamunicipality,2.0
-2012,municipalities,womenseats-number,vagsmunicipality,3.0
-2012,municipalities,womenseats-number,vestmannamunicipality,3.0
-2012,municipalities,womenseats-number,vidareidismunicipality,0.0
-2012,municipalities,seats-number,all-municipalities,205.0
-2012,municipalities,seats-number,biggjarmunicipality,
-2012,municipalities,seats-number,eidismunicipality,7.0
-2012,municipalities,seats-number,elduvikarmunicipality,
-2012,municipalities,seats-number,eysturmunicipality,9.0
-2012,municipalities,seats-number,famjinsmunicipality,7.0
-2012,municipalities,seats-number,fuglafjardarmunicipality,9.0
-2012,municipalities,seats-number,fugloyarmunicipality,3.0
-2012,municipalities,seats-number,funningsmunicipality,
-2012,municipalities,seats-number,gjaarmunicipality,
-2012,municipalities,seats-number,gotumunicipality,
-2012,municipalities,seats-number,haldorsvikarmunicipality,
-2012,municipalities,seats-number,hestsmunicipality,
-2012,municipalities,seats-number,hosvikarmunicipality,
-2012,municipalities,seats-number,hovsmunicipality,5.0
-2012,municipalities,seats-number,husamunicipality,
-2012,municipalities,seats-number,husavikarmunicipality,5.0
-2012,municipalities,seats-number,hvalbiarmunicipality,7.0
-2012,municipalities,seats-number,hvalvikarmunicipality,
-2012,municipalities,seats-number,hvannasundsmunicipality,5.0
-2012,municipalities,seats-number,kirkjuboarmunicipality,
-2012,municipalities,seats-number,klaksvikarmunicipality,11.0
-2012,municipalities,seats-number,kunoyarmunicipality,5.0
-2012,municipalities,seats-number,kvivikarmunicipality,7.0
-2012,municipalities,seats-number,leirvikarmunicipality,
-2012,municipalities,seats-number,midvagsmunicipality,
-2012,municipalities,seats-number,mikladalsmunicipality,
-2012,municipalities,seats-number,mykinesmunicipality,
-2012,municipalities,seats-number,nesmunicipality,7.0
-2012,municipalities,seats-number,nolsoyarmunicipality,
-2012,municipalities,seats-number,oyndarfjardarmunicipality,
-2012,municipalities,seats-number,porkerismunicipality,5.0
-2012,municipalities,seats-number,runavikarmunicipality,11.0
-2012,municipalities,seats-number,saksunarmunicipality,
-2012,municipalities,seats-number,sandavagsmunicipality,
-2012,municipalities,seats-number,sandsmunicipality,7.0
-2012,municipalities,seats-number,sjovarmunicipality,7.0
-2012,municipalities,seats-number,skalamunicipality,
-2012,municipalities,seats-number,skalavikarmunicipality,5.0
-2012,municipalities,seats-number,skopunarmunicipality,5.0
-2012,municipalities,seats-number,skugvoyarmunicipality,3.0
-2012,municipalities,seats-number,sorvagsmunicipality,7.0
-2012,municipalities,seats-number,sumbiarmunicipality,5.0
-2012,municipalities,seats-number,sundamunicipality,11.0
-2012,municipalities,seats-number,svinoyarmunicipality,
-2012,municipalities,seats-number,torshavnarmunicipality,13.0
-2012,municipalities,seats-number,tvoroyrarmunicipality,7.0
-2012,municipalities,seats-number,vagamunicipality,11.0
-2012,municipalities,seats-number,vagsmunicipality,9.0
-2012,municipalities,seats-number,vestmannamunicipality,7.0
-2012,municipalities,seats-number,vidareidismunicipality,5.0
-2016,municipalities,data.womenseats-proportion,all-municipalities,33.8
-2016,municipalities,data.womenseats-proportion,biggjarmunicipality,
-2016,municipalities,data.womenseats-proportion,eidismunicipality,14.3
-2016,municipalities,data.womenseats-proportion,elduvikarmunicipality,
-2016,municipalities,data.womenseats-proportion,eysturmunicipality,22.2
-2016,municipalities,data.womenseats-proportion,famjinsmunicipality,0.0
-2016,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,11.1
-2016,municipalities,data.womenseats-proportion,fugloyarmunicipality,66.7
-2016,municipalities,data.womenseats-proportion,funningsmunicipality,
-2016,municipalities,data.womenseats-proportion,gjaarmunicipality,
-2016,municipalities,data.womenseats-proportion,gotumunicipality,
-2016,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,
-2016,municipalities,data.womenseats-proportion,hestsmunicipality,
-2016,municipalities,data.womenseats-proportion,hosvikarmunicipality,
-2016,municipalities,data.womenseats-proportion,hovsmunicipality,40.0
-2016,municipalities,data.womenseats-proportion,husamunicipality,
-2016,municipalities,data.womenseats-proportion,husavikarmunicipality,60.0
-2016,municipalities,data.womenseats-proportion,hvalbiarmunicipality,28.6
-2016,municipalities,data.womenseats-proportion,hvalvikarmunicipality,
-2016,municipalities,data.womenseats-proportion,hvannasundsmunicipality,40.0
-2016,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,
-2016,municipalities,data.womenseats-proportion,klaksvikarmunicipality,36.4
-2016,municipalities,data.womenseats-proportion,kunoyarmunicipality,40.0
-2016,municipalities,data.womenseats-proportion,kvivikarmunicipality,42.9
-2016,municipalities,data.womenseats-proportion,leirvikarmunicipality,
-2016,municipalities,data.womenseats-proportion,midvagsmunicipality,
-2016,municipalities,data.womenseats-proportion,mikladalsmunicipality,
-2016,municipalities,data.womenseats-proportion,mykinesmunicipality,
-2016,municipalities,data.womenseats-proportion,nesmunicipality,14.3
-2016,municipalities,data.womenseats-proportion,nolsoyarmunicipality,
-2016,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,
-2016,municipalities,data.womenseats-proportion,porkerismunicipality,40.0
-2016,municipalities,data.womenseats-proportion,runavikarmunicipality,27.3
-2016,municipalities,data.womenseats-proportion,saksunarmunicipality,
-2016,municipalities,data.womenseats-proportion,sandavagsmunicipality,
-2016,municipalities,data.womenseats-proportion,sandsmunicipality,14.3
-2016,municipalities,data.womenseats-proportion,sjovarmunicipality,14.3
-2016,municipalities,data.womenseats-proportion,skalamunicipality,
-2016,municipalities,data.womenseats-proportion,skalavikarmunicipality,60.0
-2016,municipalities,data.womenseats-proportion,skopunarmunicipality,40.0
-2016,municipalities,data.womenseats-proportion,skugvoyarmunicipality,0.0
-2016,municipalities,data.womenseats-proportion,sorvagsmunicipality,57.1
-2016,municipalities,data.womenseats-proportion,sumbiarmunicipality,0.0
-2016,municipalities,data.womenseats-proportion,sundamunicipality,36.4
-2016,municipalities,data.womenseats-proportion,svinoyarmunicipality,
-2016,municipalities,data.womenseats-proportion,torshavnarmunicipality,61.5
-2016,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,42.9
-2016,municipalities,data.womenseats-proportion,vagamunicipality,27.3
-2016,municipalities,data.womenseats-proportion,vagsmunicipality,44.4
-2016,municipalities,data.womenseats-proportion,vestmannamunicipality,42.9
-2016,municipalities,data.womenseats-proportion,vidareidismunicipality,40.0
-2016,municipalities,womenseats-number,all-municipalities,68.0
-2016,municipalities,womenseats-number,biggjarmunicipality,
-2016,municipalities,womenseats-number,eidismunicipality,1.0
-2016,municipalities,womenseats-number,elduvikarmunicipality,
-2016,municipalities,womenseats-number,eysturmunicipality,2.0
-2016,municipalities,womenseats-number,famjinsmunicipality,0.0
-2016,municipalities,womenseats-number,fuglafjardarmunicipality,1.0
-2016,municipalities,womenseats-number,fugloyarmunicipality,2.0
-2016,municipalities,womenseats-number,funningsmunicipality,
-2016,municipalities,womenseats-number,gjaarmunicipality,
-2016,municipalities,womenseats-number,gotumunicipality,
-2016,municipalities,womenseats-number,haldorsvikarmunicipality,
-2016,municipalities,womenseats-number,hestsmunicipality,
-2016,municipalities,womenseats-number,hosvikarmunicipality,
-2016,municipalities,womenseats-number,hovsmunicipality,2.0
-2016,municipalities,womenseats-number,husamunicipality,
-2016,municipalities,womenseats-number,husavikarmunicipality,3.0
-2016,municipalities,womenseats-number,hvalbiarmunicipality,2.0
-2016,municipalities,womenseats-number,hvalvikarmunicipality,
-2016,municipalities,womenseats-number,hvannasundsmunicipality,2.0
-2016,municipalities,womenseats-number,kirkjuboarmunicipality,
-2016,municipalities,womenseats-number,klaksvikarmunicipality,4.0
-2016,municipalities,womenseats-number,kunoyarmunicipality,2.0
-2016,municipalities,womenseats-number,kvivikarmunicipality,3.0
-2016,municipalities,womenseats-number,leirvikarmunicipality,
-2016,municipalities,womenseats-number,midvagsmunicipality,
-2016,municipalities,womenseats-number,mikladalsmunicipality,
-2016,municipalities,womenseats-number,mykinesmunicipality,
-2016,municipalities,womenseats-number,nesmunicipality,1.0
-2016,municipalities,womenseats-number,nolsoyarmunicipality,
-2016,municipalities,womenseats-number,oyndarfjardarmunicipality,
-2016,municipalities,womenseats-number,porkerismunicipality,2.0
-2016,municipalities,womenseats-number,runavikarmunicipality,3.0
-2016,municipalities,womenseats-number,saksunarmunicipality,
-2016,municipalities,womenseats-number,sandavagsmunicipality,
-2016,municipalities,womenseats-number,sandsmunicipality,1.0
-2016,municipalities,womenseats-number,sjovarmunicipality,1.0
-2016,municipalities,womenseats-number,skalamunicipality,
-2016,municipalities,womenseats-number,skalavikarmunicipality,3.0
-2016,municipalities,womenseats-number,skopunarmunicipality,2.0
-2016,municipalities,womenseats-number,skugvoyarmunicipality,0.0
-2016,municipalities,womenseats-number,sorvagsmunicipality,4.0
-2016,municipalities,womenseats-number,sumbiarmunicipality,0.0
-2016,municipalities,womenseats-number,sundamunicipality,4.0
-2016,municipalities,womenseats-number,svinoyarmunicipality,
-2016,municipalities,womenseats-number,torshavnarmunicipality,8.0
-2016,municipalities,womenseats-number,tvoroyrarmunicipality,3.0
-2016,municipalities,womenseats-number,vagamunicipality,3.0
-2016,municipalities,womenseats-number,vagsmunicipality,4.0
-2016,municipalities,womenseats-number,vestmannamunicipality,3.0
-2016,municipalities,womenseats-number,vidareidismunicipality,2.0
-2016,municipalities,seats-number,all-municipalities,201.0
-2016,municipalities,seats-number,biggjarmunicipality,
-2016,municipalities,seats-number,eidismunicipality,7.0
-2016,municipalities,seats-number,elduvikarmunicipality,
-2016,municipalities,seats-number,eysturmunicipality,9.0
-2016,municipalities,seats-number,famjinsmunicipality,3.0
-2016,municipalities,seats-number,fuglafjardarmunicipality,9.0
-2016,municipalities,seats-number,fugloyarmunicipality,3.0
-2016,municipalities,seats-number,funningsmunicipality,
-2016,municipalities,seats-number,gjaarmunicipality,
-2016,municipalities,seats-number,gotumunicipality,
-2016,municipalities,seats-number,haldorsvikarmunicipality,
-2016,municipalities,seats-number,hestsmunicipality,
-2016,municipalities,seats-number,hosvikarmunicipality,
-2016,municipalities,seats-number,hovsmunicipality,5.0
-2016,municipalities,seats-number,husamunicipality,
-2016,municipalities,seats-number,husavikarmunicipality,5.0
-2016,municipalities,seats-number,hvalbiarmunicipality,7.0
-2016,municipalities,seats-number,hvalvikarmunicipality,
-2016,municipalities,seats-number,hvannasundsmunicipality,5.0
-2016,municipalities,seats-number,kirkjuboarmunicipality,
-2016,municipalities,seats-number,klaksvikarmunicipality,11.0
-2016,municipalities,seats-number,kunoyarmunicipality,5.0
-2016,municipalities,seats-number,kvivikarmunicipality,7.0
-2016,municipalities,seats-number,leirvikarmunicipality,
-2016,municipalities,seats-number,midvagsmunicipality,
-2016,municipalities,seats-number,mikladalsmunicipality,
-2016,municipalities,seats-number,mykinesmunicipality,
-2016,municipalities,seats-number,nesmunicipality,7.0
-2016,municipalities,seats-number,nolsoyarmunicipality,
-2016,municipalities,seats-number,oyndarfjardarmunicipality,
-2016,municipalities,seats-number,porkerismunicipality,5.0
-2016,municipalities,seats-number,runavikarmunicipality,11.0
-2016,municipalities,seats-number,saksunarmunicipality,
-2016,municipalities,seats-number,sandavagsmunicipality,
-2016,municipalities,seats-number,sandsmunicipality,7.0
-2016,municipalities,seats-number,sjovarmunicipality,7.0
-2016,municipalities,seats-number,skalamunicipality,
-2016,municipalities,seats-number,skalavikarmunicipality,5.0
-2016,municipalities,seats-number,skopunarmunicipality,5.0
-2016,municipalities,seats-number,skugvoyarmunicipality,3.0
-2016,municipalities,seats-number,sorvagsmunicipality,7.0
-2016,municipalities,seats-number,sumbiarmunicipality,5.0
-2016,municipalities,seats-number,sundamunicipality,11.0
-2016,municipalities,seats-number,svinoyarmunicipality,
-2016,municipalities,seats-number,torshavnarmunicipality,13.0
-2016,municipalities,seats-number,tvoroyrarmunicipality,7.0
-2016,municipalities,seats-number,vagamunicipality,11.0
-2016,municipalities,seats-number,vagsmunicipality,9.0
-2016,municipalities,seats-number,vestmannamunicipality,7.0
-2016,municipalities,seats-number,vidareidismunicipality,5.0
-2020,municipalities,data.womenseats-proportion,all-municipalities,35.7
-2020,municipalities,data.womenseats-proportion,biggjarmunicipality,
-2020,municipalities,data.womenseats-proportion,eidismunicipality,57.1
-2020,municipalities,data.womenseats-proportion,elduvikarmunicipality,
-2020,municipalities,data.womenseats-proportion,eysturmunicipality,44.4
-2020,municipalities,data.womenseats-proportion,famjinsmunicipality,0.0
-2020,municipalities,data.womenseats-proportion,fuglafjardarmunicipality,22.2
-2020,municipalities,data.womenseats-proportion,fugloyarmunicipality,66.7
-2020,municipalities,data.womenseats-proportion,funningsmunicipality,
-2020,municipalities,data.womenseats-proportion,gjaarmunicipality,
-2020,municipalities,data.womenseats-proportion,gotumunicipality,
-2020,municipalities,data.womenseats-proportion,haldorsvikarmunicipality,
-2020,municipalities,data.womenseats-proportion,hestsmunicipality,
-2020,municipalities,data.womenseats-proportion,hosvikarmunicipality,
-2020,municipalities,data.womenseats-proportion,hovsmunicipality,33.3
-2020,municipalities,data.womenseats-proportion,husamunicipality,
-2020,municipalities,data.womenseats-proportion,husavikarmunicipality,40.0
-2020,municipalities,data.womenseats-proportion,hvalbiarmunicipality,28.6
-2020,municipalities,data.womenseats-proportion,hvalvikarmunicipality,
-2020,municipalities,data.womenseats-proportion,hvannasundsmunicipality,80.0
-2020,municipalities,data.womenseats-proportion,kirkjuboarmunicipality,
-2020,municipalities,data.womenseats-proportion,klaksvikarmunicipality,36.4
-2020,municipalities,data.womenseats-proportion,kunoyarmunicipality,20.0
-2020,municipalities,data.womenseats-proportion,kvivikarmunicipality,42.9
-2020,municipalities,data.womenseats-proportion,leirvikarmunicipality,
-2020,municipalities,data.womenseats-proportion,midvagsmunicipality,
-2020,municipalities,data.womenseats-proportion,mikladalsmunicipality,
-2020,municipalities,data.womenseats-proportion,mykinesmunicipality,
-2020,municipalities,data.womenseats-proportion,nesmunicipality,28.6
-2020,municipalities,data.womenseats-proportion,nolsoyarmunicipality,
-2020,municipalities,data.womenseats-proportion,oyndarfjardarmunicipality,
-2020,municipalities,data.womenseats-proportion,porkerismunicipality,40.0
-2020,municipalities,data.womenseats-proportion,runavikarmunicipality,36.4
-2020,municipalities,data.womenseats-proportion,saksunarmunicipality,
-2020,municipalities,data.womenseats-proportion,sandavagsmunicipality,
-2020,municipalities,data.womenseats-proportion,sandsmunicipality,42.9
-2020,municipalities,data.womenseats-proportion,sjovarmunicipality,0.0
-2020,municipalities,data.womenseats-proportion,skalamunicipality,
-2020,municipalities,data.womenseats-proportion,skalavikarmunicipality,20.0
-2020,municipalities,data.womenseats-proportion,skopunarmunicipality,40.0
-2020,municipalities,data.womenseats-proportion,skugvoyarmunicipality,0.0
-2020,municipalities,data.womenseats-proportion,sorvagsmunicipality,28.6
-2020,municipalities,data.womenseats-proportion,sumbiarmunicipality,40.0
-2020,municipalities,data.womenseats-proportion,sundamunicipality,9.1
-2020,municipalities,data.womenseats-proportion,svinoyarmunicipality,
-2020,municipalities,data.womenseats-proportion,torshavnarmunicipality,53.8
-2020,municipalities,data.womenseats-proportion,tvoroyrarmunicipality,42.9
-2020,municipalities,data.womenseats-proportion,vagamunicipality,45.5
-2020,municipalities,data.womenseats-proportion,vagsmunicipality,33.3
-2020,municipalities,data.womenseats-proportion,vestmannamunicipality,57.1
-2020,municipalities,data.womenseats-proportion,vidareidismunicipality,20.0
-2020,municipalities,womenseats-number,all-municipalities,71.0
-2020,municipalities,womenseats-number,biggjarmunicipality,
-2020,municipalities,womenseats-number,eidismunicipality,4.0
-2020,municipalities,womenseats-number,elduvikarmunicipality,
-2020,municipalities,womenseats-number,eysturmunicipality,4.0
-2020,municipalities,womenseats-number,famjinsmunicipality,0.0
-2020,municipalities,womenseats-number,fuglafjardarmunicipality,2.0
-2020,municipalities,womenseats-number,fugloyarmunicipality,2.0
-2020,municipalities,womenseats-number,funningsmunicipality,
-2020,municipalities,womenseats-number,gjaarmunicipality,
-2020,municipalities,womenseats-number,gotumunicipality,
-2020,municipalities,womenseats-number,haldorsvikarmunicipality,
-2020,municipalities,womenseats-number,hestsmunicipality,
-2020,municipalities,womenseats-number,hosvikarmunicipality,
-2020,municipalities,womenseats-number,hovsmunicipality,1.0
-2020,municipalities,womenseats-number,husamunicipality,
-2020,municipalities,womenseats-number,husavikarmunicipality,2.0
-2020,municipalities,womenseats-number,hvalbiarmunicipality,2.0
-2020,municipalities,womenseats-number,hvalvikarmunicipality,
-2020,municipalities,womenseats-number,hvannasundsmunicipality,4.0
-2020,municipalities,womenseats-number,kirkjuboarmunicipality,
-2020,municipalities,womenseats-number,klaksvikarmunicipality,4.0
-2020,municipalities,womenseats-number,kunoyarmunicipality,1.0
-2020,municipalities,womenseats-number,kvivikarmunicipality,3.0
-2020,municipalities,womenseats-number,leirvikarmunicipality,
-2020,municipalities,womenseats-number,midvagsmunicipality,
-2020,municipalities,womenseats-number,mikladalsmunicipality,
-2020,municipalities,womenseats-number,mykinesmunicipality,
-2020,municipalities,womenseats-number,nesmunicipality,2.0
-2020,municipalities,womenseats-number,nolsoyarmunicipality,
-2020,municipalities,womenseats-number,oyndarfjardarmunicipality,
-2020,municipalities,womenseats-number,porkerismunicipality,2.0
-2020,municipalities,womenseats-number,runavikarmunicipality,4.0
-2020,municipalities,womenseats-number,saksunarmunicipality,
-2020,municipalities,womenseats-number,sandavagsmunicipality,
-2020,municipalities,womenseats-number,sandsmunicipality,3.0
-2020,municipalities,womenseats-number,sjovarmunicipality,0.0
-2020,municipalities,womenseats-number,skalamunicipality,
-2020,municipalities,womenseats-number,skalavikarmunicipality,1.0
-2020,municipalities,womenseats-number,skopunarmunicipality,2.0
-2020,municipalities,womenseats-number,skugvoyarmunicipality,0.0
-2020,municipalities,womenseats-number,sorvagsmunicipality,2.0
-2020,municipalities,womenseats-number,sumbiarmunicipality,2.0
-2020,municipalities,womenseats-number,sundamunicipality,1.0
-2020,municipalities,womenseats-number,svinoyarmunicipality,
-2020,municipalities,womenseats-number,torshavnarmunicipality,7.0
-2020,municipalities,womenseats-number,tvoroyrarmunicipality,3.0
-2020,municipalities,womenseats-number,vagamunicipality,5.0
-2020,municipalities,womenseats-number,vagsmunicipality,3.0
-2020,municipalities,womenseats-number,vestmannamunicipality,4.0
-2020,municipalities,womenseats-number,vidareidismunicipality,1.0
-2020,municipalities,seats-number,all-municipalities,199.0
-2020,municipalities,seats-number,biggjarmunicipality,
-2020,municipalities,seats-number,eidismunicipality,7.0
-2020,municipalities,seats-number,elduvikarmunicipality,
-2020,municipalities,seats-number,eysturmunicipality,9.0
-2020,municipalities,seats-number,famjinsmunicipality,3.0
-2020,municipalities,seats-number,fuglafjardarmunicipality,9.0
-2020,municipalities,seats-number,fugloyarmunicipality,3.0
-2020,municipalities,seats-number,funningsmunicipality,
-2020,municipalities,seats-number,gjaarmunicipality,
-2020,municipalities,seats-number,gotumunicipality,
-2020,municipalities,seats-number,haldorsvikarmunicipality,
-2020,municipalities,seats-number,hestsmunicipality,
-2020,municipalities,seats-number,hosvikarmunicipality,
-2020,municipalities,seats-number,hovsmunicipality,3.0
-2020,municipalities,seats-number,husamunicipality,
-2020,municipalities,seats-number,husavikarmunicipality,5.0
-2020,municipalities,seats-number,hvalbiarmunicipality,7.0
-2020,municipalities,seats-number,hvalvikarmunicipality,
-2020,municipalities,seats-number,hvannasundsmunicipality,5.0
-2020,municipalities,seats-number,kirkjuboarmunicipality,
-2020,municipalities,seats-number,klaksvikarmunicipality,11.0
-2020,municipalities,seats-number,kunoyarmunicipality,5.0
-2020,municipalities,seats-number,kvivikarmunicipality,7.0
-2020,municipalities,seats-number,leirvikarmunicipality,
-2020,municipalities,seats-number,midvagsmunicipality,
-2020,municipalities,seats-number,mikladalsmunicipality,
-2020,municipalities,seats-number,mykinesmunicipality,
-2020,municipalities,seats-number,nesmunicipality,7.0
-2020,municipalities,seats-number,nolsoyarmunicipality,
-2020,municipalities,seats-number,oyndarfjardarmunicipality,
-2020,municipalities,seats-number,porkerismunicipality,5.0
-2020,municipalities,seats-number,runavikarmunicipality,11.0
-2020,municipalities,seats-number,saksunarmunicipality,
-2020,municipalities,seats-number,sandavagsmunicipality,
-2020,municipalities,seats-number,sandsmunicipality,7.0
-2020,municipalities,seats-number,sjovarmunicipality,7.0
-2020,municipalities,seats-number,skalamunicipality,
-2020,municipalities,seats-number,skalavikarmunicipality,5.0
-2020,municipalities,seats-number,skopunarmunicipality,5.0
-2020,municipalities,seats-number,skugvoyarmunicipality,3.0
-2020,municipalities,seats-number,sorvagsmunicipality,7.0
-2020,municipalities,seats-number,sumbiarmunicipality,5.0
-2020,municipalities,seats-number,sundamunicipality,11.0
-2020,municipalities,seats-number,svinoyarmunicipality,
-2020,municipalities,seats-number,torshavnarmunicipality,13.0
-2020,municipalities,seats-number,tvoroyrarmunicipality,7.0
-2020,municipalities,seats-number,vagamunicipality,11.0
-2020,municipalities,seats-number,vagsmunicipality,9.0
-2020,municipalities,seats-number,vestmannamunicipality,7.0
-2020,municipalities,seats-number,vidareidismunicipality,5.0
+Year,Series,Units,Flokkur/Kommuna,Value
+1984,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,3.1
+1984,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,1.0
+1984,Løgtingið,Tal av sætum,Allir flokkar,32.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1984,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1984,Løgtingið,Tal av sætum,Fólkaflokkurin,7.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,0.0
+1984,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,0.0
+1984,Løgtingið,Tal av sætum,Framburðsflokkurin,2.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+1984,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+1984,Løgtingið,Tal av sætum,Framsókn,
+1984,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,0.0
+1984,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,0.0
+1984,Løgtingið,Tal av sætum,Javnaðarflokkurin,8.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+1984,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+1984,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+1984,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,
+1984,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,
+1984,Løgtingið,Tal av sætum,Miðflokkurin,
+1984,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,0.0
+1984,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,0.0
+1984,Løgtingið,Tal av sætum,Sambandsflokkurin,7.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+1984,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+1984,Løgtingið,Tal av sætum,Sjálvstýri,2.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,16.7
+1984,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,1.0
+1984,Løgtingið,Tal av sætum,Tjóðveldi,6.0
+1984,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+1984,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+1984,Løgtingið,Tal av sætum,Verkamannafylkingin,
+1988,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,9.4
+1988,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,3.0
+1988,Løgtingið,Tal av sætum,Allir flokkar,32.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1988,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1988,Løgtingið,Tal av sætum,Fólkaflokkurin,8.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+1988,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+1988,Løgtingið,Tal av sætum,Framburðsflokkurin,
+1988,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+1988,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+1988,Løgtingið,Tal av sætum,Framsókn,
+1988,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,14.3
+1988,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,1.0
+1988,Løgtingið,Tal av sætum,Javnaðarflokkurin,7.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,0.0
+1988,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,0.0
+1988,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,2.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,
+1988,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,
+1988,Løgtingið,Tal av sætum,Miðflokkurin,
+1988,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,0.0
+1988,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,0.0
+1988,Løgtingið,Tal av sætum,Sambandsflokkurin,7.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+1988,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+1988,Løgtingið,Tal av sætum,Sjálvstýri,2.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,33.3
+1988,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,2.0
+1988,Løgtingið,Tal av sætum,Tjóðveldi,6.0
+1988,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+1988,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+1988,Løgtingið,Tal av sætum,Verkamannafylkingin,
+1990,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,9.4
+1990,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,3.0
+1990,Løgtingið,Tal av sætum,Allir flokkar,32.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1990,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1990,Løgtingið,Tal av sætum,Fólkaflokkurin,7.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+1990,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+1990,Løgtingið,Tal av sætum,Framburðsflokkurin,
+1990,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+1990,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+1990,Løgtingið,Tal av sætum,Framsókn,
+1990,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,10.0
+1990,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,1.0
+1990,Løgtingið,Tal av sætum,Javnaðarflokkurin,10.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,0.0
+1990,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,0.0
+1990,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,2.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,
+1990,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,
+1990,Løgtingið,Tal av sætum,Miðflokkurin,
+1990,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,16.7
+1990,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,1.0
+1990,Løgtingið,Tal av sætum,Sambandsflokkurin,6.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,33.3
+1990,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,1.0
+1990,Løgtingið,Tal av sætum,Sjálvstýri,3.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,0.0
+1990,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,0.0
+1990,Løgtingið,Tal av sætum,Tjóðveldi,4.0
+1990,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+1990,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+1990,Løgtingið,Tal av sætum,Verkamannafylkingin,
+1994,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,15.6
+1994,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,5.0
+1994,Løgtingið,Tal av sætum,Allir flokkar,32.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1994,Løgtingið,Tal av sætum,Fólkaflokkurin,6.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+1994,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+1994,Løgtingið,Tal av sætum,Framburðsflokkurin,
+1994,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+1994,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+1994,Løgtingið,Tal av sætum,Framsókn,
+1994,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,20.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,1.0
+1994,Løgtingið,Tal av sætum,Javnaðarflokkurin,5.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,0.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,0.0
+1994,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,2.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+1994,Løgtingið,Tal av sætum,Miðflokkurin,2.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,25.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,2.0
+1994,Løgtingið,Tal av sætum,Sambandsflokkurin,8.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,50.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,1.0
+1994,Løgtingið,Tal av sætum,Sjálvstýri,2.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,0.0
+1994,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,0.0
+1994,Løgtingið,Tal av sætum,Tjóðveldi,4.0
+1994,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,33.3
+1994,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,1.0
+1994,Løgtingið,Tal av sætum,Verkamannafylkingin,3.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,12.5
+1998,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,4.0
+1998,Løgtingið,Tal av sætum,Allir flokkar,32.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1998,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+1998,Løgtingið,Tal av sætum,Fólkaflokkurin,8.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+1998,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+1998,Løgtingið,Tal av sætum,Framburðsflokkurin,
+1998,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+1998,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+1998,Løgtingið,Tal av sætum,Framsókn,
+1998,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,14.3
+1998,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,1.0
+1998,Løgtingið,Tal av sætum,Javnaðarflokkurin,7.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+1998,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+1998,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+1998,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+1998,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+1998,Løgtingið,Tal av sætum,Miðflokkurin,1.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,16.7
+1998,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,1.0
+1998,Løgtingið,Tal av sætum,Sambandsflokkurin,6.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,50.0
+1998,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,1.0
+1998,Løgtingið,Tal av sætum,Sjálvstýri,2.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,12.5
+1998,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,1.0
+1998,Løgtingið,Tal av sætum,Tjóðveldi,8.0
+1998,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+1998,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+1998,Løgtingið,Tal av sætum,Verkamannafylkingin,
+2002,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,12.5
+2002,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,4.0
+2002,Løgtingið,Tal av sætum,Allir flokkar,32.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+2002,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+2002,Løgtingið,Tal av sætum,Fólkaflokkurin,7.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+2002,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+2002,Løgtingið,Tal av sætum,Framburðsflokkurin,
+2002,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+2002,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+2002,Løgtingið,Tal av sætum,Framsókn,
+2002,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,14.3
+2002,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,1.0
+2002,Løgtingið,Tal av sætum,Javnaðarflokkurin,7.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2002,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2002,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+2002,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+2002,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+2002,Løgtingið,Tal av sætum,Miðflokkurin,1.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,12.5
+2002,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,1.0
+2002,Løgtingið,Tal av sætum,Sambandsflokkurin,8.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+2002,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+2002,Løgtingið,Tal av sætum,Sjálvstýri,1.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,25.0
+2002,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,2.0
+2002,Løgtingið,Tal av sætum,Tjóðveldi,8.0
+2002,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+2002,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+2002,Løgtingið,Tal av sætum,Verkamannafylkingin,
+2004,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,9.4
+2004,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,3.0
+2004,Løgtingið,Tal av sætum,Allir flokkar,32.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,0.0
+2004,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,0.0
+2004,Løgtingið,Tal av sætum,Fólkaflokkurin,7.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+2004,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+2004,Løgtingið,Tal av sætum,Framburðsflokkurin,
+2004,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+2004,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+2004,Løgtingið,Tal av sætum,Framsókn,
+2004,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,0.0
+2004,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,0.0
+2004,Løgtingið,Tal av sætum,Javnaðarflokkurin,7.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2004,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2004,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+2004,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+2004,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+2004,Løgtingið,Tal av sætum,Miðflokkurin,2.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,14.3
+2004,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,1.0
+2004,Løgtingið,Tal av sætum,Sambandsflokkurin,7.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+2004,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+2004,Løgtingið,Tal av sætum,Sjálvstýri,1.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,25.0
+2004,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,2.0
+2004,Løgtingið,Tal av sætum,Tjóðveldi,8.0
+2004,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+2004,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+2004,Løgtingið,Tal av sætum,Verkamannafylkingin,
+2008,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,21.2
+2008,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,7.0
+2008,Løgtingið,Tal av sætum,Allir flokkar,33.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,14.3
+2008,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,1.0
+2008,Løgtingið,Tal av sætum,Fólkaflokkurin,7.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+2008,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+2008,Løgtingið,Tal av sætum,Framburðsflokkurin,
+2008,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,
+2008,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,
+2008,Løgtingið,Tal av sætum,Framsókn,
+2008,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,33.3
+2008,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,2.0
+2008,Løgtingið,Tal av sætum,Javnaðarflokkurin,6.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2008,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2008,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+2008,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+2008,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+2008,Løgtingið,Tal av sætum,Miðflokkurin,3.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,14.3
+2008,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,1.0
+2008,Løgtingið,Tal av sætum,Sambandsflokkurin,7.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+2008,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+2008,Løgtingið,Tal av sætum,Sjálvstýri,2.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,37.5
+2008,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,3.0
+2008,Løgtingið,Tal av sætum,Tjóðveldi,8.0
+2008,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+2008,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+2008,Løgtingið,Tal av sætum,Verkamannafylkingin,
+2011,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,30.3
+2011,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,10.0
+2011,Løgtingið,Tal av sætum,Allir flokkar,33.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,25.0
+2011,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,2.0
+2011,Løgtingið,Tal av sætum,Fólkaflokkurin,8.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+2011,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+2011,Løgtingið,Tal av sætum,Framburðsflokkurin,
+2011,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,0.0
+2011,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,0.0
+2011,Løgtingið,Tal av sætum,Framsókn,2.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,33.3
+2011,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,2.0
+2011,Løgtingið,Tal av sætum,Javnaðarflokkurin,6.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2011,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2011,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+2011,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+2011,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+2011,Løgtingið,Tal av sætum,Miðflokkurin,2.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,25.0
+2011,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,2.0
+2011,Løgtingið,Tal av sætum,Sambandsflokkurin,8.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+2011,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+2011,Løgtingið,Tal av sætum,Sjálvstýri,1.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,66.7
+2011,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,4.0
+2011,Løgtingið,Tal av sætum,Tjóðveldi,6.0
+2011,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+2011,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+2011,Løgtingið,Tal av sætum,Verkamannafylkingin,
+2015,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,30.3
+2015,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,10.0
+2015,Løgtingið,Tal av sætum,Allir flokkar,33.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,33.3
+2015,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,2.0
+2015,Løgtingið,Tal av sætum,Fólkaflokkurin,6.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+2015,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+2015,Løgtingið,Tal av sætum,Framburðsflokkurin,
+2015,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,50.0
+2015,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,1.0
+2015,Løgtingið,Tal av sætum,Framsókn,2.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,37.5
+2015,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,3.0
+2015,Løgtingið,Tal av sætum,Javnaðarflokkurin,8.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2015,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2015,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+2015,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+2015,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+2015,Løgtingið,Tal av sætum,Miðflokkurin,2.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,0.0
+2015,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,0.0
+2015,Løgtingið,Tal av sætum,Sambandsflokkurin,6.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+2015,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+2015,Løgtingið,Tal av sætum,Sjálvstýri,2.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,57.1
+2015,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,4.0
+2015,Løgtingið,Tal av sætum,Tjóðveldi,7.0
+2015,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+2015,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+2015,Løgtingið,Tal av sætum,Verkamannafylkingin,
+2019,Løgtingið,Partur av sætum hjá kvinnum,Allir flokkar,24.2
+2019,Løgtingið,Tal av sætum hjá kvinnum,Allir flokkar,8.0
+2019,Løgtingið,Tal av sætum,Allir flokkar,33.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Fólkaflokkurin,12.5
+2019,Løgtingið,Tal av sætum hjá kvinnum,Fólkaflokkurin,1.0
+2019,Løgtingið,Tal av sætum,Fólkaflokkurin,8.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Framburðsflokkurin,
+2019,Løgtingið,Tal av sætum hjá kvinnum,Framburðsflokkurin,
+2019,Løgtingið,Tal av sætum,Framburðsflokkurin,
+2019,Løgtingið,Partur av sætum hjá kvinnum,Framsókn,0.0
+2019,Løgtingið,Tal av sætum hjá kvinnum,Framsókn,0.0
+2019,Løgtingið,Tal av sætum,Framsókn,2.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Javnaðarflokkurin,14.3
+2019,Løgtingið,Tal av sætum hjá kvinnum,Javnaðarflokkurin,1.0
+2019,Løgtingið,Tal av sætum,Javnaðarflokkurin,7.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2019,Løgtingið,Tal av sætum hjá kvinnum,Kristiligi Fólkaflokkurin,
+2019,Løgtingið,Tal av sætum,Kristiligi Fólkaflokkurin,
+2019,Løgtingið,Partur av sætum hjá kvinnum,Miðflokkurin,0.0
+2019,Løgtingið,Tal av sætum hjá kvinnum,Miðflokkurin,0.0
+2019,Løgtingið,Tal av sætum,Miðflokkurin,2.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Sambandsflokkurin,14.3
+2019,Løgtingið,Tal av sætum hjá kvinnum,Sambandsflokkurin,1.0
+2019,Løgtingið,Tal av sætum,Sambandsflokkurin,7.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Sjálvstýri,0.0
+2019,Løgtingið,Tal av sætum hjá kvinnum,Sjálvstýri,0.0
+2019,Løgtingið,Tal av sætum,Sjálvstýri,1.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Tjóðveldi,83.3
+2019,Løgtingið,Tal av sætum hjá kvinnum,Tjóðveldi,5.0
+2019,Løgtingið,Tal av sætum,Tjóðveldi,6.0
+2019,Løgtingið,Partur av sætum hjá kvinnum,Verkamannafylkingin,
+2019,Løgtingið,Tal av sætum hjá kvinnum,Verkamannafylkingin,
+2019,Løgtingið,Tal av sætum,Verkamannafylkingin,
+1996,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,16.5
+1996,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,33.3
+1996,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,14.3
+1996,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,
+1996,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,11.1
+1996,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,18.2
+1996,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,57.1
+1996,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,40.0
+1996,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,33.3
+1996,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,28.6
+1996,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,14.3
+1996,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,20.0
+1996,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,40.0
+1996,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,40.0
+1996,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,33.3
+1996,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,14.3
+1996,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,23.1
+1996,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,0.0
+1996,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,
+1996,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,22.2
+1996,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,57.1
+1996,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,40.0
+1996,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,45.0
+1996,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,
+1996,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,2.0
+1996,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,4.0
+1996,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,2.0
+1996,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,2.0
+1996,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,2.0
+1996,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,2.0
+1996,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,1.0
+1996,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,3.0
+1996,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,0.0
+1996,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,
+1996,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,2.0
+1996,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,4.0
+1996,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,2.0
+1996,municipalities,Tal av sætum,Allar kommunur,272.0
+1996,municipalities,Tal av sætum,Bíggjar kommuna,3.0
+1996,municipalities,Tal av sætum,Eiðis kommuna,7.0
+1996,municipalities,Tal av sætum,Elduvíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Eysturkommuna,
+1996,municipalities,Tal av sætum,Fámjins kommuna,5.0
+1996,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+1996,municipalities,Tal av sætum,Fugloyar kommuna,5.0
+1996,municipalities,Tal av sætum,Funnings kommuna,5.0
+1996,municipalities,Tal av sætum,Gjáar kommuna,5.0
+1996,municipalities,Tal av sætum,Gøtu kommuna,5.0
+1996,municipalities,Tal av sætum,Haldórsvíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Hests kommuna,5.0
+1996,municipalities,Tal av sætum,Hósvíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Hovs kommuna,5.0
+1996,municipalities,Tal av sætum,Húsa kommuna,5.0
+1996,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Hvalbiar kommuna,5.0
+1996,municipalities,Tal av sætum,Hvalvíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+1996,municipalities,Tal av sætum,Kirkjubøar kommuna,5.0
+1996,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+1996,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+1996,municipalities,Tal av sætum,Kvívíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Leirvíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Miðvágs kommuna,7.0
+1996,municipalities,Tal av sætum,Mikladals kommuna,5.0
+1996,municipalities,Tal av sætum,Mykines kommuna,3.0
+1996,municipalities,Tal av sætum,Nes kommuna,7.0
+1996,municipalities,Tal av sætum,Nólsoyar kommuna,5.0
+1996,municipalities,Tal av sætum,Oyndarfjarðar kommuna,5.0
+1996,municipalities,Tal av sætum,Porkeris kommuna,5.0
+1996,municipalities,Tal av sætum,Runavíkar kommuna,9.0
+1996,municipalities,Tal av sætum,Saksunar kommuna,3.0
+1996,municipalities,Tal av sætum,Sandavágs kommuna,7.0
+1996,municipalities,Tal av sætum,Sands kommuna,5.0
+1996,municipalities,Tal av sætum,Sjóvar kommuna,5.0
+1996,municipalities,Tal av sætum,Skála kommuna,5.0
+1996,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+1996,municipalities,Tal av sætum,Skopunar kommuna,5.0
+1996,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+1996,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+1996,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+1996,municipalities,Tal av sætum,Sunda kommuna,5.0
+1996,municipalities,Tal av sætum,Svínoyar kommuna,5.0
+1996,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+1996,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+1996,municipalities,Tal av sætum,Vága kommuna,
+1996,municipalities,Tal av sætum,Vágs kommuna,9.0
+1996,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+1996,municipalities,Tal av sætum,Viðareiðis kommuna,5.0
+2000,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,22.8
+2000,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,14.3
+2000,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,
+2000,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,11.1
+2000,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,33.3
+2000,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,33.3
+2000,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,28.6
+2000,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,40.0
+2000,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,40.0
+2000,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,33.3
+2000,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,14.3
+2000,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,40.0
+2000,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,27.3
+2000,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,28.6
+2000,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,42.9
+2000,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,57.1
+2000,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,33.3
+2000,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,33.3
+2000,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,28.6
+2000,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,60.0
+2000,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,22.2
+2000,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,14.3
+2000,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,14.3
+2000,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,20.0
+2000,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,40.0
+2000,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,33.3
+2000,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,14.3
+2000,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,60.0
+2000,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,23.1
+2000,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,0.0
+2000,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,
+2000,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,22.2
+2000,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,57.1
+2000,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,62.0
+2000,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,
+2000,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,3.0
+2000,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,3.0
+2000,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,4.0
+2000,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,3.0
+2000,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,1.0
+2000,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,3.0
+2000,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,3.0
+2000,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,0.0
+2000,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,
+2000,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,2.0
+2000,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,4.0
+2000,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,0.0
+2000,municipalities,Tal av sætum,Allar kommunur,272.0
+2000,municipalities,Tal av sætum,Bíggjar kommuna,3.0
+2000,municipalities,Tal av sætum,Eiðis kommuna,7.0
+2000,municipalities,Tal av sætum,Elduvíkar kommuna,5.0
+2000,municipalities,Tal av sætum,Eysturkommuna,
+2000,municipalities,Tal av sætum,Fámjins kommuna,5.0
+2000,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+2000,municipalities,Tal av sætum,Fugloyar kommuna,3.0
+2000,municipalities,Tal av sætum,Funnings kommuna,3.0
+2000,municipalities,Tal av sætum,Gjáar kommuna,3.0
+2000,municipalities,Tal av sætum,Gøtu kommuna,7.0
+2000,municipalities,Tal av sætum,Haldórsvíkar kommuna,5.0
+2000,municipalities,Tal av sætum,Hests kommuna,3.0
+2000,municipalities,Tal av sætum,Hósvíkar kommuna,5.0
+2000,municipalities,Tal av sætum,Hovs kommuna,5.0
+2000,municipalities,Tal av sætum,Húsa kommuna,3.0
+2000,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+2000,municipalities,Tal av sætum,Hvalbiar kommuna,7.0
+2000,municipalities,Tal av sætum,Hvalvíkar kommuna,5.0
+2000,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+2000,municipalities,Tal av sætum,Kirkjubøar kommuna,5.0
+2000,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+2000,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+2000,municipalities,Tal av sætum,Kvívíkar kommuna,7.0
+2000,municipalities,Tal av sætum,Leirvíkar kommuna,7.0
+2000,municipalities,Tal av sætum,Miðvágs kommuna,7.0
+2000,municipalities,Tal av sætum,Mikladals kommuna,3.0
+2000,municipalities,Tal av sætum,Mykines kommuna,3.0
+2000,municipalities,Tal av sætum,Nes kommuna,7.0
+2000,municipalities,Tal av sætum,Nólsoyar kommuna,5.0
+2000,municipalities,Tal av sætum,Oyndarfjarðar kommuna,5.0
+2000,municipalities,Tal av sætum,Porkeris kommuna,5.0
+2000,municipalities,Tal av sætum,Runavíkar kommuna,9.0
+2000,municipalities,Tal av sætum,Saksunar kommuna,3.0
+2000,municipalities,Tal av sætum,Sandavágs kommuna,7.0
+2000,municipalities,Tal av sætum,Sands kommuna,7.0
+2000,municipalities,Tal av sætum,Sjóvar kommuna,7.0
+2000,municipalities,Tal av sætum,Skála kommuna,7.0
+2000,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+2000,municipalities,Tal av sætum,Skopunar kommuna,5.0
+2000,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+2000,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+2000,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+2000,municipalities,Tal av sætum,Sunda kommuna,5.0
+2000,municipalities,Tal av sætum,Svínoyar kommuna,3.0
+2000,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+2000,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+2000,municipalities,Tal av sætum,Vága kommuna,
+2000,municipalities,Tal av sætum,Vágs kommuna,9.0
+2000,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+2000,municipalities,Tal av sætum,Viðareiðis kommuna,5.0
+2004,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,22.7
+2004,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,40.0
+2004,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,11.1
+2004,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,33.3
+2004,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,33.3
+2004,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,42.9
+2004,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,40.0
+2004,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,33.3
+2004,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,20.0
+2004,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,20.0
+2004,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,27.3
+2004,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,20.0
+2004,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,28.6
+2004,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,28.6
+2004,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,28.6
+2004,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,20.0
+2004,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,0.0
+2004,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,20.0
+2004,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,40.0
+2004,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,33.3
+2004,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,28.6
+2004,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2004,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,18.2
+2004,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,33.3
+2004,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,46.2
+2004,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,
+2004,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,22.2
+2004,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,14.3
+2004,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,20.0
+2004,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,50.0
+2004,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,3.0
+2004,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,3.0
+2004,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,0.0
+2004,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2004,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,6.0
+2004,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,
+2004,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,2.0
+2004,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,1.0
+2004,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,1.0
+2004,municipalities,Tal av sætum,Allar kommunur,220.0
+2004,municipalities,Tal av sætum,Bíggjar kommuna,
+2004,municipalities,Tal av sætum,Eiðis kommuna,7.0
+2004,municipalities,Tal av sætum,Elduvíkar kommuna,
+2004,municipalities,Tal av sætum,Eysturkommuna,
+2004,municipalities,Tal av sætum,Fámjins kommuna,5.0
+2004,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+2004,municipalities,Tal av sætum,Fugloyar kommuna,3.0
+2004,municipalities,Tal av sætum,Funnings kommuna,3.0
+2004,municipalities,Tal av sætum,Gjáar kommuna,
+2004,municipalities,Tal av sætum,Gøtu kommuna,7.0
+2004,municipalities,Tal av sætum,Haldórsvíkar kommuna,
+2004,municipalities,Tal av sætum,Hests kommuna,
+2004,municipalities,Tal av sætum,Hósvíkar kommuna,
+2004,municipalities,Tal av sætum,Hovs kommuna,5.0
+2004,municipalities,Tal av sætum,Húsa kommuna,3.0
+2004,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+2004,municipalities,Tal av sætum,Hvalbiar kommuna,7.0
+2004,municipalities,Tal av sætum,Hvalvíkar kommuna,
+2004,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+2004,municipalities,Tal av sætum,Kirkjubøar kommuna,
+2004,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+2004,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+2004,municipalities,Tal av sætum,Kvívíkar kommuna,7.0
+2004,municipalities,Tal av sætum,Leirvíkar kommuna,7.0
+2004,municipalities,Tal av sætum,Miðvágs kommuna,7.0
+2004,municipalities,Tal av sætum,Mikladals kommuna,
+2004,municipalities,Tal av sætum,Mykines kommuna,
+2004,municipalities,Tal av sætum,Nes kommuna,7.0
+2004,municipalities,Tal av sætum,Nólsoyar kommuna,
+2004,municipalities,Tal av sætum,Oyndarfjarðar kommuna,
+2004,municipalities,Tal av sætum,Porkeris kommuna,5.0
+2004,municipalities,Tal av sætum,Runavíkar kommuna,11.0
+2004,municipalities,Tal av sætum,Saksunar kommuna,
+2004,municipalities,Tal av sætum,Sandavágs kommuna,7.0
+2004,municipalities,Tal av sætum,Sands kommuna,7.0
+2004,municipalities,Tal av sætum,Sjóvar kommuna,7.0
+2004,municipalities,Tal av sætum,Skála kommuna,
+2004,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+2004,municipalities,Tal av sætum,Skopunar kommuna,5.0
+2004,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+2004,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+2004,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+2004,municipalities,Tal av sætum,Sunda kommuna,11.0
+2004,municipalities,Tal av sætum,Svínoyar kommuna,3.0
+2004,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+2004,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+2004,municipalities,Tal av sætum,Vága kommuna,
+2004,municipalities,Tal av sætum,Vágs kommuna,9.0
+2004,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+2004,municipalities,Tal av sætum,Viðareiðis kommuna,5.0
+2008,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,30.8
+2008,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,14.3
+2008,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,33.3
+2008,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,60.0
+2008,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,22.2
+2008,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,33.3
+2008,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,60.0
+2008,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,33.3
+2008,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,20.0
+2008,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,14.3
+2008,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,60.0
+2008,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,36.4
+2008,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,40.0
+2008,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,42.9
+2008,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,28.6
+2008,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,20.0
+2008,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,27.3
+2008,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,14.3
+2008,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,28.6
+2008,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,20.0
+2008,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,42.9
+2008,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,33.3
+2008,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,28.6
+2008,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,20.0
+2008,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,36.4
+2008,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,
+2008,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,30.8
+2008,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,14.3
+2008,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,36.4
+2008,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,33.3
+2008,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,42.9
+2008,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,0.0
+2008,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,64.0
+2008,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,2.0
+2008,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,4.0
+2008,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,2.0
+2008,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,2.0
+2008,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,2.0
+2008,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,2.0
+2008,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,4.0
+2008,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,
+2008,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,4.0
+2008,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,1.0
+2008,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,4.0
+2008,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,3.0
+2008,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,0.0
+2008,municipalities,Tal av sætum,Allar kommunur,208.0
+2008,municipalities,Tal av sætum,Bíggjar kommuna,
+2008,municipalities,Tal av sætum,Eiðis kommuna,7.0
+2008,municipalities,Tal av sætum,Elduvíkar kommuna,
+2008,municipalities,Tal av sætum,Eysturkommuna,9.0
+2008,municipalities,Tal av sætum,Fámjins kommuna,5.0
+2008,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+2008,municipalities,Tal av sætum,Fugloyar kommuna,3.0
+2008,municipalities,Tal av sætum,Funnings kommuna,
+2008,municipalities,Tal av sætum,Gjáar kommuna,
+2008,municipalities,Tal av sætum,Gøtu kommuna,
+2008,municipalities,Tal av sætum,Haldórsvíkar kommuna,
+2008,municipalities,Tal av sætum,Hests kommuna,
+2008,municipalities,Tal av sætum,Hósvíkar kommuna,
+2008,municipalities,Tal av sætum,Hovs kommuna,5.0
+2008,municipalities,Tal av sætum,Húsa kommuna,3.0
+2008,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+2008,municipalities,Tal av sætum,Hvalbiar kommuna,7.0
+2008,municipalities,Tal av sætum,Hvalvíkar kommuna,
+2008,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+2008,municipalities,Tal av sætum,Kirkjubøar kommuna,
+2008,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+2008,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+2008,municipalities,Tal av sætum,Kvívíkar kommuna,7.0
+2008,municipalities,Tal av sætum,Leirvíkar kommuna,
+2008,municipalities,Tal av sætum,Miðvágs kommuna,
+2008,municipalities,Tal av sætum,Mikladals kommuna,
+2008,municipalities,Tal av sætum,Mykines kommuna,
+2008,municipalities,Tal av sætum,Nes kommuna,7.0
+2008,municipalities,Tal av sætum,Nólsoyar kommuna,
+2008,municipalities,Tal av sætum,Oyndarfjarðar kommuna,
+2008,municipalities,Tal av sætum,Porkeris kommuna,5.0
+2008,municipalities,Tal av sætum,Runavíkar kommuna,11.0
+2008,municipalities,Tal av sætum,Saksunar kommuna,
+2008,municipalities,Tal av sætum,Sandavágs kommuna,
+2008,municipalities,Tal av sætum,Sands kommuna,7.0
+2008,municipalities,Tal av sætum,Sjóvar kommuna,7.0
+2008,municipalities,Tal av sætum,Skála kommuna,
+2008,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+2008,municipalities,Tal av sætum,Skopunar kommuna,7.0
+2008,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+2008,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+2008,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+2008,municipalities,Tal av sætum,Sunda kommuna,11.0
+2008,municipalities,Tal av sætum,Svínoyar kommuna,
+2008,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+2008,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+2008,municipalities,Tal av sætum,Vága kommuna,11.0
+2008,municipalities,Tal av sætum,Vágs kommuna,9.0
+2008,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+2008,municipalities,Tal av sætum,Viðareiðis kommuna,5.0
+2012,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,27.8
+2012,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,14.3
+2012,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,33.3
+2012,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,42.9
+2012,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,11.1
+2012,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,33.3
+2012,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,40.0
+2012,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,40.0
+2012,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,0.0
+2012,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,40.0
+2012,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,45.5
+2012,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,40.0
+2012,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,42.9
+2012,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,28.6
+2012,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,20.0
+2012,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,9.1
+2012,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,0.0
+2012,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,14.3
+2012,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,60.0
+2012,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,40.0
+2012,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,33.3
+2012,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,14.3
+2012,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2012,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,27.3
+2012,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,
+2012,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,46.2
+2012,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,42.9
+2012,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,18.2
+2012,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,33.3
+2012,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,42.9
+2012,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,0.0
+2012,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,57.0
+2012,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,0.0
+2012,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,5.0
+2012,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,0.0
+2012,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,1.0
+2012,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2012,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,
+2012,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,6.0
+2012,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,2.0
+2012,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,3.0
+2012,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,0.0
+2012,municipalities,Tal av sætum,Allar kommunur,205.0
+2012,municipalities,Tal av sætum,Bíggjar kommuna,
+2012,municipalities,Tal av sætum,Eiðis kommuna,7.0
+2012,municipalities,Tal av sætum,Elduvíkar kommuna,
+2012,municipalities,Tal av sætum,Eysturkommuna,9.0
+2012,municipalities,Tal av sætum,Fámjins kommuna,7.0
+2012,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+2012,municipalities,Tal av sætum,Fugloyar kommuna,3.0
+2012,municipalities,Tal av sætum,Funnings kommuna,
+2012,municipalities,Tal av sætum,Gjáar kommuna,
+2012,municipalities,Tal av sætum,Gøtu kommuna,
+2012,municipalities,Tal av sætum,Haldórsvíkar kommuna,
+2012,municipalities,Tal av sætum,Hests kommuna,
+2012,municipalities,Tal av sætum,Hósvíkar kommuna,
+2012,municipalities,Tal av sætum,Hovs kommuna,5.0
+2012,municipalities,Tal av sætum,Húsa kommuna,
+2012,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+2012,municipalities,Tal av sætum,Hvalbiar kommuna,7.0
+2012,municipalities,Tal av sætum,Hvalvíkar kommuna,
+2012,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+2012,municipalities,Tal av sætum,Kirkjubøar kommuna,
+2012,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+2012,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+2012,municipalities,Tal av sætum,Kvívíkar kommuna,7.0
+2012,municipalities,Tal av sætum,Leirvíkar kommuna,
+2012,municipalities,Tal av sætum,Miðvágs kommuna,
+2012,municipalities,Tal av sætum,Mikladals kommuna,
+2012,municipalities,Tal av sætum,Mykines kommuna,
+2012,municipalities,Tal av sætum,Nes kommuna,7.0
+2012,municipalities,Tal av sætum,Nólsoyar kommuna,
+2012,municipalities,Tal av sætum,Oyndarfjarðar kommuna,
+2012,municipalities,Tal av sætum,Porkeris kommuna,5.0
+2012,municipalities,Tal av sætum,Runavíkar kommuna,11.0
+2012,municipalities,Tal av sætum,Saksunar kommuna,
+2012,municipalities,Tal av sætum,Sandavágs kommuna,
+2012,municipalities,Tal av sætum,Sands kommuna,7.0
+2012,municipalities,Tal av sætum,Sjóvar kommuna,7.0
+2012,municipalities,Tal av sætum,Skála kommuna,
+2012,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+2012,municipalities,Tal av sætum,Skopunar kommuna,5.0
+2012,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+2012,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+2012,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+2012,municipalities,Tal av sætum,Sunda kommuna,11.0
+2012,municipalities,Tal av sætum,Svínoyar kommuna,
+2012,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+2012,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+2012,municipalities,Tal av sætum,Vága kommuna,11.0
+2012,municipalities,Tal av sætum,Vágs kommuna,9.0
+2012,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+2012,municipalities,Tal av sætum,Viðareiðis kommuna,5.0
+2016,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,33.8
+2016,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,14.3
+2016,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,22.2
+2016,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,0.0
+2016,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,11.1
+2016,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,66.7
+2016,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,40.0
+2016,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,60.0
+2016,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,28.6
+2016,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,40.0
+2016,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,36.4
+2016,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,40.0
+2016,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,42.9
+2016,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,14.3
+2016,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,40.0
+2016,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,27.3
+2016,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,14.3
+2016,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,14.3
+2016,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,60.0
+2016,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,40.0
+2016,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,0.0
+2016,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,57.1
+2016,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2016,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,36.4
+2016,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,
+2016,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,61.5
+2016,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,42.9
+2016,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,27.3
+2016,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,44.4
+2016,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,42.9
+2016,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,40.0
+2016,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,68.0
+2016,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,1.0
+2016,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,0.0
+2016,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,1.0
+2016,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,4.0
+2016,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,1.0
+2016,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,1.0
+2016,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,1.0
+2016,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,2.0
+2016,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,0.0
+2016,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,4.0
+2016,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,0.0
+2016,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,4.0
+2016,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,
+2016,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,8.0
+2016,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,4.0
+2016,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,3.0
+2016,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,2.0
+2016,municipalities,Tal av sætum,Allar kommunur,201.0
+2016,municipalities,Tal av sætum,Bíggjar kommuna,
+2016,municipalities,Tal av sætum,Eiðis kommuna,7.0
+2016,municipalities,Tal av sætum,Elduvíkar kommuna,
+2016,municipalities,Tal av sætum,Eysturkommuna,9.0
+2016,municipalities,Tal av sætum,Fámjins kommuna,3.0
+2016,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+2016,municipalities,Tal av sætum,Fugloyar kommuna,3.0
+2016,municipalities,Tal av sætum,Funnings kommuna,
+2016,municipalities,Tal av sætum,Gjáar kommuna,
+2016,municipalities,Tal av sætum,Gøtu kommuna,
+2016,municipalities,Tal av sætum,Haldórsvíkar kommuna,
+2016,municipalities,Tal av sætum,Hests kommuna,
+2016,municipalities,Tal av sætum,Hósvíkar kommuna,
+2016,municipalities,Tal av sætum,Hovs kommuna,5.0
+2016,municipalities,Tal av sætum,Húsa kommuna,
+2016,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+2016,municipalities,Tal av sætum,Hvalbiar kommuna,7.0
+2016,municipalities,Tal av sætum,Hvalvíkar kommuna,
+2016,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+2016,municipalities,Tal av sætum,Kirkjubøar kommuna,
+2016,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+2016,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+2016,municipalities,Tal av sætum,Kvívíkar kommuna,7.0
+2016,municipalities,Tal av sætum,Leirvíkar kommuna,
+2016,municipalities,Tal av sætum,Miðvágs kommuna,
+2016,municipalities,Tal av sætum,Mikladals kommuna,
+2016,municipalities,Tal av sætum,Mykines kommuna,
+2016,municipalities,Tal av sætum,Nes kommuna,7.0
+2016,municipalities,Tal av sætum,Nólsoyar kommuna,
+2016,municipalities,Tal av sætum,Oyndarfjarðar kommuna,
+2016,municipalities,Tal av sætum,Porkeris kommuna,5.0
+2016,municipalities,Tal av sætum,Runavíkar kommuna,11.0
+2016,municipalities,Tal av sætum,Saksunar kommuna,
+2016,municipalities,Tal av sætum,Sandavágs kommuna,
+2016,municipalities,Tal av sætum,Sands kommuna,7.0
+2016,municipalities,Tal av sætum,Sjóvar kommuna,7.0
+2016,municipalities,Tal av sætum,Skála kommuna,
+2016,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+2016,municipalities,Tal av sætum,Skopunar kommuna,5.0
+2016,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+2016,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+2016,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+2016,municipalities,Tal av sætum,Sunda kommuna,11.0
+2016,municipalities,Tal av sætum,Svínoyar kommuna,
+2016,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+2016,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+2016,municipalities,Tal av sætum,Vága kommuna,11.0
+2016,municipalities,Tal av sætum,Vágs kommuna,9.0
+2016,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+2016,municipalities,Tal av sætum,Viðareiðis kommuna,5.0
+2020,municipalities,Partur av sætum hjá kvinnum,Allar kommunur,35.7
+2020,municipalities,Partur av sætum hjá kvinnum,Bíggjar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Eiðis kommuna,57.1
+2020,municipalities,Partur av sætum hjá kvinnum,Elduvíkar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Eysturkommuna,44.4
+2020,municipalities,Partur av sætum hjá kvinnum,Fámjins kommuna,0.0
+2020,municipalities,Partur av sætum hjá kvinnum,Fuglafjarðar kommuna,22.2
+2020,municipalities,Partur av sætum hjá kvinnum,Fugloyar kommuna,66.7
+2020,municipalities,Partur av sætum hjá kvinnum,Funnings kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Gjáar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Gøtu kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Hests kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Hósvíkar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Hovs kommuna,33.3
+2020,municipalities,Partur av sætum hjá kvinnum,Húsa kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Húsavíkar kommuna,40.0
+2020,municipalities,Partur av sætum hjá kvinnum,Hvalbiar kommuna,28.6
+2020,municipalities,Partur av sætum hjá kvinnum,Hvalvíkar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Hvannasunds kommuna,80.0
+2020,municipalities,Partur av sætum hjá kvinnum,Kirkjubøar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Klaksvíkar kommuna,36.4
+2020,municipalities,Partur av sætum hjá kvinnum,Kunoyar kommuna,20.0
+2020,municipalities,Partur av sætum hjá kvinnum,Kvívíkar kommuna,42.9
+2020,municipalities,Partur av sætum hjá kvinnum,Leirvíkar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Miðvágs kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Mikladals kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Mykines kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Nes kommuna,28.6
+2020,municipalities,Partur av sætum hjá kvinnum,Nólsoyar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Porkeris kommuna,40.0
+2020,municipalities,Partur av sætum hjá kvinnum,Runavíkar kommuna,36.4
+2020,municipalities,Partur av sætum hjá kvinnum,Saksunar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Sandavágs kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Sands kommuna,42.9
+2020,municipalities,Partur av sætum hjá kvinnum,Sjóvar kommuna,0.0
+2020,municipalities,Partur av sætum hjá kvinnum,Skála kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Skálavíkar kommuna,20.0
+2020,municipalities,Partur av sætum hjá kvinnum,Skopunar kommuna,40.0
+2020,municipalities,Partur av sætum hjá kvinnum,Skúgvoyar kommuna,0.0
+2020,municipalities,Partur av sætum hjá kvinnum,Sørvágs kommuna,28.6
+2020,municipalities,Partur av sætum hjá kvinnum,Sumbiar kommuna,40.0
+2020,municipalities,Partur av sætum hjá kvinnum,Sunda kommuna,9.1
+2020,municipalities,Partur av sætum hjá kvinnum,Svínoyar kommuna,
+2020,municipalities,Partur av sætum hjá kvinnum,Tórshavnar kommuna,53.8
+2020,municipalities,Partur av sætum hjá kvinnum,Tvøroyrar kommuna,42.9
+2020,municipalities,Partur av sætum hjá kvinnum,Vága kommuna,45.5
+2020,municipalities,Partur av sætum hjá kvinnum,Vágs kommuna,33.3
+2020,municipalities,Partur av sætum hjá kvinnum,Vestmanna kommuna,57.1
+2020,municipalities,Partur av sætum hjá kvinnum,Viðareiðis kommuna,20.0
+2020,municipalities,Tal av sætum hjá kvinnum,Allar kommunur,71.0
+2020,municipalities,Tal av sætum hjá kvinnum,Bíggjar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Eiðis kommuna,4.0
+2020,municipalities,Tal av sætum hjá kvinnum,Elduvíkar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Eysturkommuna,4.0
+2020,municipalities,Tal av sætum hjá kvinnum,Fámjins kommuna,0.0
+2020,municipalities,Tal av sætum hjá kvinnum,Fuglafjarðar kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Fugloyar kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Funnings kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Gjáar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Gøtu kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Haldórsvíkar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Hests kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Hósvíkar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Hovs kommuna,1.0
+2020,municipalities,Tal av sætum hjá kvinnum,Húsa kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Húsavíkar kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Hvalbiar kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Hvalvíkar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Hvannasunds kommuna,4.0
+2020,municipalities,Tal av sætum hjá kvinnum,Kirkjubøar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Klaksvíkar kommuna,4.0
+2020,municipalities,Tal av sætum hjá kvinnum,Kunoyar kommuna,1.0
+2020,municipalities,Tal av sætum hjá kvinnum,Kvívíkar kommuna,3.0
+2020,municipalities,Tal av sætum hjá kvinnum,Leirvíkar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Miðvágs kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Mikladals kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Mykines kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Nes kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Nólsoyar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Oyndarfjarðar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Porkeris kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Runavíkar kommuna,4.0
+2020,municipalities,Tal av sætum hjá kvinnum,Saksunar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Sandavágs kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Sands kommuna,3.0
+2020,municipalities,Tal av sætum hjá kvinnum,Sjóvar kommuna,0.0
+2020,municipalities,Tal av sætum hjá kvinnum,Skála kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Skálavíkar kommuna,1.0
+2020,municipalities,Tal av sætum hjá kvinnum,Skopunar kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Skúgvoyar kommuna,0.0
+2020,municipalities,Tal av sætum hjá kvinnum,Sørvágs kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Sumbiar kommuna,2.0
+2020,municipalities,Tal av sætum hjá kvinnum,Sunda kommuna,1.0
+2020,municipalities,Tal av sætum hjá kvinnum,Svínoyar kommuna,
+2020,municipalities,Tal av sætum hjá kvinnum,Tórshavnar kommuna,7.0
+2020,municipalities,Tal av sætum hjá kvinnum,Tvøroyrar kommuna,3.0
+2020,municipalities,Tal av sætum hjá kvinnum,Vága kommuna,5.0
+2020,municipalities,Tal av sætum hjá kvinnum,Vágs kommuna,3.0
+2020,municipalities,Tal av sætum hjá kvinnum,Vestmanna kommuna,4.0
+2020,municipalities,Tal av sætum hjá kvinnum,Viðareiðis kommuna,1.0
+2020,municipalities,Tal av sætum,Allar kommunur,199.0
+2020,municipalities,Tal av sætum,Bíggjar kommuna,
+2020,municipalities,Tal av sætum,Eiðis kommuna,7.0
+2020,municipalities,Tal av sætum,Elduvíkar kommuna,
+2020,municipalities,Tal av sætum,Eysturkommuna,9.0
+2020,municipalities,Tal av sætum,Fámjins kommuna,3.0
+2020,municipalities,Tal av sætum,Fuglafjarðar kommuna,9.0
+2020,municipalities,Tal av sætum,Fugloyar kommuna,3.0
+2020,municipalities,Tal av sætum,Funnings kommuna,
+2020,municipalities,Tal av sætum,Gjáar kommuna,
+2020,municipalities,Tal av sætum,Gøtu kommuna,
+2020,municipalities,Tal av sætum,Haldórsvíkar kommuna,
+2020,municipalities,Tal av sætum,Hests kommuna,
+2020,municipalities,Tal av sætum,Hósvíkar kommuna,
+2020,municipalities,Tal av sætum,Hovs kommuna,3.0
+2020,municipalities,Tal av sætum,Húsa kommuna,
+2020,municipalities,Tal av sætum,Húsavíkar kommuna,5.0
+2020,municipalities,Tal av sætum,Hvalbiar kommuna,7.0
+2020,municipalities,Tal av sætum,Hvalvíkar kommuna,
+2020,municipalities,Tal av sætum,Hvannasunds kommuna,5.0
+2020,municipalities,Tal av sætum,Kirkjubøar kommuna,
+2020,municipalities,Tal av sætum,Klaksvíkar kommuna,11.0
+2020,municipalities,Tal av sætum,Kunoyar kommuna,5.0
+2020,municipalities,Tal av sætum,Kvívíkar kommuna,7.0
+2020,municipalities,Tal av sætum,Leirvíkar kommuna,
+2020,municipalities,Tal av sætum,Miðvágs kommuna,
+2020,municipalities,Tal av sætum,Mikladals kommuna,
+2020,municipalities,Tal av sætum,Mykines kommuna,
+2020,municipalities,Tal av sætum,Nes kommuna,7.0
+2020,municipalities,Tal av sætum,Nólsoyar kommuna,
+2020,municipalities,Tal av sætum,Oyndarfjarðar kommuna,
+2020,municipalities,Tal av sætum,Porkeris kommuna,5.0
+2020,municipalities,Tal av sætum,Runavíkar kommuna,11.0
+2020,municipalities,Tal av sætum,Saksunar kommuna,
+2020,municipalities,Tal av sætum,Sandavágs kommuna,
+2020,municipalities,Tal av sætum,Sands kommuna,7.0
+2020,municipalities,Tal av sætum,Sjóvar kommuna,7.0
+2020,municipalities,Tal av sætum,Skála kommuna,
+2020,municipalities,Tal av sætum,Skálavíkar kommuna,5.0
+2020,municipalities,Tal av sætum,Skopunar kommuna,5.0
+2020,municipalities,Tal av sætum,Skúgvoyar kommuna,3.0
+2020,municipalities,Tal av sætum,Sørvágs kommuna,7.0
+2020,municipalities,Tal av sætum,Sumbiar kommuna,5.0
+2020,municipalities,Tal av sætum,Sunda kommuna,11.0
+2020,municipalities,Tal av sætum,Svínoyar kommuna,
+2020,municipalities,Tal av sætum,Tórshavnar kommuna,13.0
+2020,municipalities,Tal av sætum,Tvøroyrar kommuna,7.0
+2020,municipalities,Tal av sætum,Vága kommuna,11.0
+2020,municipalities,Tal av sætum,Vágs kommuna,9.0
+2020,municipalities,Tal av sætum,Vestmanna kommuna,7.0
+2020,municipalities,Tal av sætum,Viðareiðis kommuna,5.0

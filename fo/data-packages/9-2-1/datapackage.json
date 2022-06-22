@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.manufacturingvalueaddedasaproportionofgdp",
-                "data.manufacturingvalueaddedpercapita"
+                "Virðisøking frá ídnaðarvinnu sum partur av BTÚ",
+                "Virðisøking frá ídnaðarvinnu fyri hvørt fólkið"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       }

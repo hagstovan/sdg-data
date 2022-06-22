@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.lowersecondaryeducation",
-                "data.primaryeducation",
-                "data.uppersecondaryeducation"
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Barnaskúlin 1. - 7. flokk",
+                "Miðnáms- ella yrkisútbúgving"
               ]
             },
-            "title": "data.education"
+            "title": "Útbúgving"
           },
           {
             "name": "data.sex",
@@ -39,11 +39,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       }

@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.education",
-                "data.health",
-                "data.socialprotection"
+                "Útbúgving",
+                "Heilsa",
+                "Almannavernd"
               ]
             },
-            "title": "essentialservice"
+            "title": "Grundleggjandi tænasta"
           }
         ]
       }

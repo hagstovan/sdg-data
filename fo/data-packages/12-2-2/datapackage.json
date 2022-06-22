@@ -26,14 +26,14 @@
             "constraints": {
               "enum": [
                 "",
-                "data.biomass",
-                "data.fossilenergyandotherproducts",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.total"
+                "Biomassi",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Tilsamans"
               ]
             },
-            "title": "data.materialtype"
+            "title": "Slag av tilfari"
           },
           {
             "name": "data.measure",
@@ -41,12 +41,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp"
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       }
