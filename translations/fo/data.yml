@@ -85,6 +85,7 @@ socialprotection: Almannavernd
 primaryeducation: Barnaskúlin 1. - 7. flokk
 lowersecondaryeducation: Framhaldsskúlin 8. - 10. flokk
 uppersecondaryeducation: Miðnáms- ella yrkisútbúgving
+data.indicator-1-1-1-answer: Hagstovan metir, at sera fá ella eingi fólk liva av minni enn altjóða fátækamarkinum. Øll í Føroyum hava rætt til almannaveiting, ið er væl hægri enn markið fyri ógvisligari fátækt.   Einki alment fátækamark er ásett í Føroyum. Í staðin er roknað eitt fátækaváðamark, ið er 60% (ella 50%) av miðinntøkuni (medianini) av javnvirðisinntøkuni hjá húskjum. Hetta svarar til meira enn 300 krónur um dagin, og er sostatt munandi hægri enn $1,25.
 disease: Sjúkubólkur
 cardiovasculardisease: Hjarta-æðra-sjúkur
 cancer: Krabbamein
@@ -116,7 +117,6 @@ urban: Býur
 rural: Bygd
 levelofgovernment: Stjórnarstig
 parliament: Løgtingið
-municipality: Kommunustýri
 localgovernment: Kommunustýri
 conservativeparty: Fólkaflokkurin
 progress: Framsókn
@@ -210,22 +210,8 @@ mainsource: Høvuðskelda
 technology: Tøkni
 3gmobntwk: 3G fartelefonnet ella betri
 4gmobntwk: 4G fartelefonnet ella betri
-1000dkk: 1.000 kr.
+1000kr: 1.000 kr.
 1000000t: Milliónir tons
 3-2-1-footnote: Sannlíkindini fyri at eitt barn, sum er føtt eitt ávíst ár ella tíðarskeið, doyr áðrenn tað fyllir 5 ár, um tað er fyri aldurstreytaða deyðatíttleikan í tíðarskeiðnum, lýst sum deyð fyri hvørji 1.000 livandi fødd.
 9-b-1-footnote: Tølini verða heintað úr tjóðarroknskaparskipan, ið ger upp virðisøking á 92 vinnurgreinar (fastir karmar). Tjóðarrokniskapurin og virðisøkingin verður uppgjørt í ársins prísum
 maternaldeaths100000: Deyðar í barnferð fyri hvørji 100.000 livandi fødd
-importexport: Innflutningur/Útflutningur
-merchandiseimport: Vøruinnflutningur
-merchandiseexport: Vøruútflutningur
-countrygroup: Landabólkur
-developed-leastdeveloped: Menningarlond og minst mentu londini
-developed-ex-china: Menningarlond og minst mentu londini uttan Kina
-leastdeveloped: Minst mentu londini
-percent: %
-dkkmill: mió. kr.
-outcome: Avleiðing
-lethal: Deyðilig
-non-lethal: Ikki-deyðilig
-persons: Persónar
-per100000 -employee: Pr. 100.000 arbeiðsvirkin
