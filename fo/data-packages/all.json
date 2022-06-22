@@ -618,9 +618,9 @@
             "constraints": {
               "enum": [
                 "",
+                "data.womenseats-proportion",
                 "seats-number",
-                "womenseats-number",
-                "womenseats-proportion"
+                "womenseats-number"
               ]
             },
             "title": "Units"

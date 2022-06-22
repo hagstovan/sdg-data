@@ -572,7 +572,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "womenseats-proportion",
+                "data.womenseats-proportion",
                 "womenseats-number",
                 "seats-number",
                 ""
