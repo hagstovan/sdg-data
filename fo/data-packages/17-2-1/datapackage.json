@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.disasterrelief",
-                "data.officialdevelopmentassistance"
+                "Neyðhjálp sum partur av BTI",
+                "Netto almennur menningarstuðul sum partur av bruttotjóðarinntøkuni (BTI)"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       }

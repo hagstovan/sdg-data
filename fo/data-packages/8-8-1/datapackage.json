@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "data.persons",
+                "Persónar",
                 "data.pr100000"
               ]
             },
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.lethal",
-                "data.non-lethal"
+                "Deyðilig",
+                "Ikki-deyðilig"
               ]
             },
-            "title": "data.outcome"
+            "title": "Avleiðing"
           },
           {
             "name": "data.sex",
@@ -50,11 +50,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       }

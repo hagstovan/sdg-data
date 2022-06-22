@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.15-24years",
-                "data.25-54years",
-                "data.55-74years"
+                "15-24 ár",
+                "25-54 ár",
+                "55-74 ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
@@ -39,11 +39,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       }

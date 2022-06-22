@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       }

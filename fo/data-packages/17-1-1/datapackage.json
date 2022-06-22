@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "data.grants",
-                "data.otherrevenue",
-                "data.socialcontributions",
-                "data.taxes"
+                "Ríkisstudningur",
+                "Onnur inntøka",
+                "Sosial gjøld",
+                "Skattir"
               ]
             },
-            "title": "data.source"
+            "title": "Kelda"
           }
         ]
       }

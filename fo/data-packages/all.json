@@ -52,11 +52,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.chiefmedicalofficer",
-                "data.police"
+                "Landslæknin",
+                "Løgreglan"
               ]
             },
-            "title": "data.source"
+            "title": "Kelda"
           }
         ]
       },
@@ -136,14 +136,14 @@
             "constraints": {
               "enum": [
                 "",
-                "data.biomass",
-                "data.fossilenergyandotherproducts",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.total"
+                "Biomassi",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Tilsamans"
               ]
             },
-            "title": "data.materialtype"
+            "title": "Slag av tilfari"
           },
           {
             "name": "data.measure",
@@ -151,12 +151,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp"
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -193,7 +193,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -212,11 +212,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.3gmobntwk",
-                "data.4gmobntwk"
+                "3G fartelefonnet ella betri",
+                "4G fartelefonnet ella betri"
               ]
             },
-            "title": "data.technology"
+            "title": "Tøkni"
           }
         ]
       },
@@ -248,14 +248,14 @@
             "constraints": {
               "enum": [
                 "",
-                "data.biofuel",
-                "data.hydro",
-                "data.ocean",
-                "data.solar",
-                "data.wind"
+                "Lívfrøðilig brennievni",
+                "Vatn",
+                "Havið",
+                "Sólin",
+                "Vindur"
               ]
             },
-            "title": "data.energysource"
+            "title": "Orkukelda"
           }
         ]
       },
@@ -287,12 +287,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.15-24years",
-                "data.25-54years",
-                "data.55-74years"
+                "15-24 ár",
+                "25-54 ár",
+                "55-74 ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
@@ -300,11 +300,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -360,11 +360,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.disasterrelief",
-                "data.officialdevelopmentassistance"
+                "Neyðhjálp sum partur av BTI",
+                "Netto almennur menningarstuðul sum partur av bruttotjóðarinntøkuni (BTI)"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -396,10 +396,10 @@
             "constraints": {
               "enum": [
                 "",
-                "data.officialdevelopmentassistanceforscholarships"
+                "Menningarstuðul latin sum lestrarstuðul"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -431,14 +431,14 @@
             "constraints": {
               "enum": [
                 "",
-                "00-17years",
-                "18-24years",
-                "25-54years",
-                "55-66years",
-                "67years"
+                "00-17 ár",
+                "18-24 ár",
+                "25-54 ár",
+                "55-66 ár",
+                "67+ ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
@@ -446,11 +446,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -506,12 +506,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.15-19years",
-                "data.15-24years",
-                "data.20-24years"
+                "15-19 ár",
+                "15-24 ár",
+                "20-24 ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
@@ -519,11 +519,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -545,8 +545,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.dkkmill",
-                "data.percent"
+                "mió. kr.",
+                "Prosent"
               ]
             },
             "title": "Units"
@@ -567,12 +567,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.developed-ex-china",
-                "data.developed-leastdeveloped",
-                "data.leastdeveloped"
+                "Menningarlond og minst mentu londini uttan Kina",
+                "Menningarlond og minst mentu londini",
+                "Minst mentu londini"
               ]
             },
-            "title": "data.countrygroup"
+            "title": "Landabólkur"
           },
           {
             "name": "data.importexport",
@@ -580,11 +580,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.merchandiseexport",
-                "data.merchandiseimport"
+                "Vøruútflutningur",
+                "Vøruinnflutningur"
               ]
             },
-            "title": "data.importexport"
+            "title": "Innflutningur/Útflutningur"
           }
         ]
       },
@@ -607,7 +607,7 @@
               "enum": [
                 "",
                 "municipalities",
-                "parliament"
+                "Løgtingið"
               ]
             },
             "title": "Series"
@@ -618,9 +618,9 @@
             "constraints": {
               "enum": [
                 "",
-                "data.womenseats-proportion",
-                "seats-number",
-                "womenseats-number"
+                "Partur av sætum hjá kvinnum",
+                "Tal av sætum",
+                "Tal av sætum hjá kvinnum"
               ]
             },
             "title": "Units"
@@ -641,71 +641,71 @@
             "constraints": {
               "enum": [
                 "",
-                "all-municipalities",
-                "all-parties",
-                "biggjarmunicipality",
-                "christianparty",
-                "conservativeparty",
-                "eidismunicipality",
-                "elduvikarmunicipality",
-                "eysturmunicipality",
-                "famjinsmunicipality",
-                "fuglafjardarmunicipality",
-                "fugloyarmunicipality",
-                "funningsmunicipality",
-                "gjaarmunicipality",
-                "gotumunicipality",
-                "haldorsvikarmunicipality",
-                "hestsmunicipality",
-                "hosvikarmunicipality",
-                "hovsmunicipality",
-                "husamunicipality",
-                "husavikarmunicipality",
-                "hvalbiarmunicipality",
-                "hvalvikarmunicipality",
-                "hvannasundsmunicipality",
-                "independenceparty",
-                "kirkjuboarmunicipality",
-                "klaksvikarmunicipality",
-                "kunoyarmunicipality",
-                "kvivikarmunicipality",
-                "leirvikarmunicipality",
-                "midvagsmunicipality",
-                "mikladalsmunicipality",
-                "mykinesmunicipality",
-                "nesmunicipality",
-                "nolsoyarmunicipality",
-                "oyndarfjardarmunicipality",
-                "porkerismunicipality",
-                "progress",
-                "republicanparty",
-                "runavikarmunicipality",
-                "saksunarmunicipality",
-                "sandavagsmunicipality",
-                "sandsmunicipality",
-                "sjovarmunicipality",
-                "skalamunicipality",
-                "skalavikarmunicipality",
-                "skopunarmunicipality",
-                "skugvoyarmunicipality",
-                "socialdemocraticparty",
-                "sorvagsmunicipality",
-                "sumbiarmunicipality",
-                "sundamunicipality",
-                "svinoyarmunicipality",
-                "thecentreparty",
-                "theprogressparty",
-                "torshavnarmunicipality",
-                "tvoroyrarmunicipality",
-                "unionistparty",
-                "vagamunicipality",
-                "vagsmunicipality",
-                "vestmannamunicipality",
-                "vidareidismunicipality",
-                "workersmovement"
+                "Allar kommunur",
+                "Allir flokkar",
+                "Bíggjar kommuna",
+                "Kristiligi Fólkaflokkurin",
+                "Fólkaflokkurin",
+                "Eiðis kommuna",
+                "Elduvíkar kommuna",
+                "Eysturkommuna",
+                "Fámjins kommuna",
+                "Fuglafjarðar kommuna",
+                "Fugloyar kommuna",
+                "Funnings kommuna",
+                "Gjáar kommuna",
+                "Gøtu kommuna",
+                "Haldórsvíkar kommuna",
+                "Hests kommuna",
+                "Hósvíkar kommuna",
+                "Hovs kommuna",
+                "Húsa kommuna",
+                "Húsavíkar kommuna",
+                "Hvalbiar kommuna",
+                "Hvalvíkar kommuna",
+                "Hvannasunds kommuna",
+                "Sjálvstýri",
+                "Kirkjubøar kommuna",
+                "Klaksvíkar kommuna",
+                "Kunoyar kommuna",
+                "Kvívíkar kommuna",
+                "Leirvíkar kommuna",
+                "Miðvágs kommuna",
+                "Mikladals kommuna",
+                "Mykines kommuna",
+                "Nes kommuna",
+                "Nólsoyar kommuna",
+                "Oyndarfjarðar kommuna",
+                "Porkeris kommuna",
+                "Framsókn",
+                "Tjóðveldi",
+                "Runavíkar kommuna",
+                "Saksunar kommuna",
+                "Sandavágs kommuna",
+                "Sands kommuna",
+                "Sjóvar kommuna",
+                "Skála kommuna",
+                "Skálavíkar kommuna",
+                "Skopunar kommuna",
+                "Skúgvoyar kommuna",
+                "Javnaðarflokkurin",
+                "Sørvágs kommuna",
+                "Sumbiar kommuna",
+                "Sunda kommuna",
+                "Svínoyar kommuna",
+                "Miðflokkurin",
+                "Framburðsflokkurin",
+                "Tórshavnar kommuna",
+                "Tvøroyrar kommuna",
+                "Sambandsflokkurin",
+                "Vága kommuna",
+                "Vágs kommuna",
+                "Vestmanna kommuna",
+                "Viðareiðis kommuna",
+                "Verkamannafylkingin"
               ]
             },
-            "title": "data.party-municipality"
+            "title": "Flokkur/Kommuna"
           }
         ]
       },
@@ -737,10 +737,10 @@
             "constraints": {
               "enum": [
                 "",
-                "data.netofficialdevelopmentassistance"
+                "Netto almennur menningarstuðul, samantalda upphæddin og til minst mentu londini sum partur av samlaðu bruttotjóðarinntøkuni (BTI) hjá gevaralondunum í Felagsskapinum fyri búskaparligum samstarvi og menning (OECD)"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -772,12 +772,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.lowersecondaryeducation",
-                "data.primaryeducation",
-                "data.uppersecondaryeducation"
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Barnaskúlin 1. - 7. flokk",
+                "Miðnáms- ella yrkisútbúgving"
               ]
             },
-            "title": "data.education"
+            "title": "Útbúgving"
           },
           {
             "name": "data.sex",
@@ -785,11 +785,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -845,13 +845,13 @@
             "constraints": {
               "enum": [
                 "",
-                "data.grants",
-                "data.otherrevenue",
-                "data.socialcontributions",
-                "data.taxes"
+                "Ríkisstudningur",
+                "Onnur inntøka",
+                "Sosial gjøld",
+                "Skattir"
               ]
             },
-            "title": "data.source"
+            "title": "Kelda"
           }
         ]
       },
@@ -883,14 +883,14 @@
             "constraints": {
               "enum": [
                 "",
-                "data.00-17years",
-                "data.18-24years",
-                "data.25-54years",
-                "data.55-66years",
-                "data.67years"
+                "00-17 ár",
+                "18-24 ár",
+                "25-54 ár",
+                "55-66 ár",
+                "67+ ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
@@ -898,11 +898,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -934,12 +934,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.education",
-                "data.health",
-                "data.socialprotection"
+                "Útbúgving",
+                "Heilsa",
+                "Almannavernd"
               ]
             },
-            "title": "essentialservice"
+            "title": "Grundleggjandi tænasta"
           }
         ]
       },
@@ -995,15 +995,15 @@
             "constraints": {
               "enum": [
                 "",
-                "data.15-24years",
-                "data.25-44years",
-                "data.45-54years",
-                "data.55-64years",
-                "data.ge15years",
-                "data.ge65years"
+                "15-24 ár",
+                "25-44 ár",
+                "45-54 ár",
+                "55-64 ár",
+                "15+ ár",
+                "65+ ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.location",
@@ -1011,12 +1011,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.rural",
-                "data.total",
-                "data.urban"
+                "Bygd",
+                "Tilsamans",
+                "Býur"
               ]
             },
-            "title": "data.location"
+            "title": "Staðseting"
           },
           {
             "name": "data.sex",
@@ -1024,11 +1024,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -1060,14 +1060,14 @@
             "constraints": {
               "enum": [
                 "",
-                "data.biomass",
-                "data.fossilenergyandotherproducts",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.total"
+                "Biomassi",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Tilsamans"
               ]
             },
-            "title": "data.materialtype"
+            "title": "Slag av tilfari"
           },
           {
             "name": "data.measure",
@@ -1075,12 +1075,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp"
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -1112,33 +1112,33 @@
             "constraints": {
               "enum": [
                 "",
-                "data.DECalternativeconversionfactor",
-                "data.annualGDPgrowth",
-                "data.annualbroadmoneygrowth",
-                "data.annualgrowthofexportsofgoodsandservices",
-                "data.annualgrowthofhouseholdsandNPISHs",
-                "data.annualgrowthofimportsofgoodsandservices",
-                "data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure",
-                "data.annualgrowthofthegrosscapitalformation",
-                "data.annualinflationconsumerprices",
-                "data.bankcapitaltoassetsratio",
-                "data.banknonperformingloans",
-                "data.broadmoney",
-                "data.cashsurplusdeficit",
-                "data.currentaccountbalance",
-                "data.debtservice",
-                "data.externaldebtstocks",
-                "data.foreigndirectinvestment",
-                "data.grossPSD",
-                "data.merchandisetrade",
-                "data.personalremittances",
-                "data.portfolioinvestment",
-                "data.reservesinmonthsofimports",
-                "data.taxrevenuegdp",
-                "data.totalunemploymentoutoftotallabourforce"
+                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
+                "Árligur vøkstur av BTÚ (%)",
+                "Árligur vøkstur av peninganøgdini (%)",
+                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
+                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
+                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
+                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
+                "Árligur vøkstur av bruttoíløgum (%)",
+                "Árligur prísvøkstur, brúkaraprístalið (%)",
+                "Kapitalur í mun til ognir",
+                "Mishildin lán í mun til útlán áðrenn niðurskrivingar (%)",
+                "Peninganøgdin í mun til gjaldoyragoymslu",
+                "Fíggjarkrav netto fyri (% av BTÚ)",
+                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
+                "Samlað skuldarafturgjalding (% av útflutningi)",
+                "Uttanlandsskuld, brutto (% av BTI)",
+                "Beinleiðis íløgur, netto (% av BTÚ)",
+                "Almenn skuld (% a BTÚ)",
+                "Vøruhandil við umheimin, ársins prísir (% av BTÚ)",
+                "Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)",
+                "Íløgur í virðisbrøv, netto (mió USD)",
+                "Samlaða gjaldoyragoymslan í mánaðum av innflutningi",
+                "Skattainntøkur samanlagt (% av BTÚ)",
+                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -1160,7 +1160,7 @@
             "constraints": {
               "enum": [
                 "",
-                "data.persons",
+                "Persónar",
                 "data.pr100000"
               ]
             },
@@ -1182,11 +1182,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.lethal",
-                "data.non-lethal"
+                "Deyðilig",
+                "Ikki-deyðilig"
               ]
             },
-            "title": "data.outcome"
+            "title": "Avleiðing"
           },
           {
             "name": "data.sex",
@@ -1194,11 +1194,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -1254,11 +1254,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -1362,13 +1362,13 @@
             "constraints": {
               "enum": [
                 "",
-                "data.cancer",
-                "data.cardiovasculardisease",
-                "data.cronicalrespiratorydiseases",
-                "data.diabetes"
+                "Krabbamein",
+                "Hjarta-æðra-sjúkur",
+                "Kroniskar sjúkur í andaleiðini",
+                "Sukursjúka"
               ]
             },
-            "title": "data.disease"
+            "title": "Sjúkubólkur"
           },
           {
             "name": "data.sex",
@@ -1376,11 +1376,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -1484,11 +1484,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       },
@@ -1568,16 +1568,16 @@
             "constraints": {
               "enum": [
                 "",
-                "data.biofuel",
-                "data.geothermal",
-                "data.hydro",
-                "data.ocean",
-                "data.solar",
-                "data.totalrenewable",
-                "data.wind"
+                "Lívfrøðilig brennievni",
+                "Jarðhiti",
+                "Vatn",
+                "Havið",
+                "Sólin",
+                "Varandi orkukeldur tilsamans",
+                "Vindur"
               ]
             },
-            "title": "data.energysource"
+            "title": "Orkukelda"
           }
         ]
       },
@@ -1609,11 +1609,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.manufacturingvalueaddedasaproportionofgdp",
-                "data.manufacturingvalueaddedpercapita"
+                "Virðisøking frá ídnaðarvinnu sum partur av BTÚ",
+                "Virðisøking frá ídnaðarvinnu fyri hvørt fólkið"
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           }
         ]
       },
@@ -1635,8 +1635,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.fulltimeequivalent",
-                "data.per10000population"
+                "Ársverk",
+                "Fyri hvørjar 10.000 íbúgvar"
               ]
             },
             "title": "Units"
@@ -1657,13 +1657,13 @@
             "constraints": {
               "enum": [
                 "",
-                "data.dentists",
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists"
+                "Tannlæknar",
+                "Læknar",
+                "Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
+                "Heiliráðfrøðingar"
               ]
             },
-            "title": "data.occupation"
+            "title": "Starv"
           }
         ]
       },
@@ -1695,10 +1695,10 @@
             "constraints": {
               "enum": [
                 "",
-                "data.bottom40percentofthepopulation"
+                "Lægstu 40 prosentini av íbúgvunum"
               ]
             },
-            "title": "data.growthrateofdisposableincome"
+            "title": "Inntøkubólkur"
           }
         ]
       },
@@ -1754,11 +1754,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.10-14years",
-                "data.15-19years"
+                "10-14 ár",
+                "15-19 ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           }
         ]
       },
@@ -1934,11 +1934,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.00-14years",
-                "data.15-17years"
+                "yngri enn 15 ár",
+                "15-17 ár"
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           }
         ]
       },
@@ -1970,11 +1970,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.bunkers",
-                "data.fuelcombustion"
+                "Bunkring",
+                "Nýtsla av brennievni"
               ]
             },
-            "title": "data.mainsource"
+            "title": "Høvuðskelda"
           },
           {
             "name": "source",
@@ -1983,15 +1983,15 @@
               "enum": [
                 "",
                 "Navigation",
-                "data.aviation",
-                "data.energyindustries",
-                "data.manufacturingindustriesandconstruction",
-                "data.navigation",
-                "data.othersectors",
-                "data.transportsector"
+                "Flogfør",
+                "El- og hitaframleiðsla",
+                "Framleiðslu- og byggivinna",
+                "Skip",
+                "Aðrar vinnur",
+                "Flutningsvinna"
               ]
             },
-            "title": "source"
+            "title": "Kelda"
           }
         ]
       },
@@ -2037,8 +2037,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.fixedbroadbandsubscriptions",
-                "data.fixedbroadbandsubscriptionsper100inhabitants"
+                "Breiðbandshald",
+                "Breiðsbandshald fyri hvørjar 100 íbúgvar"
               ]
             },
             "title": "Units"
@@ -2059,12 +2059,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.10mbit",
-                "data.256kbit",
-                "data.2mbit"
+                "10 Mbit/s ella meir",
+                "256 Kbit/s upp til men undir 2 Mbit/s",
+                "2 Mbit/s upp til men undir 10Mbit/s"
               ]
             },
-            "title": "data.bandwidth"
+            "title": "Bandbreidd"
           }
         ]
       },

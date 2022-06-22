@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "data.cancer",
-                "data.cardiovasculardisease",
-                "data.cronicalrespiratorydiseases",
-                "data.diabetes"
+                "Krabbamein",
+                "Hjarta-æðra-sjúkur",
+                "Kroniskar sjúkur í andaleiðini",
+                "Sukursjúka"
               ]
             },
-            "title": "data.disease"
+            "title": "Sjúkubólkur"
           },
           {
             "name": "data.sex",
@@ -40,11 +40,11 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "Kvinnur",
+                "Menn"
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           }
         ]
       }

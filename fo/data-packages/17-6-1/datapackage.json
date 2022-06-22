@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.fixedbroadbandsubscriptions",
-                "data.fixedbroadbandsubscriptionsper100inhabitants"
+                "Breiðbandshald",
+                "Breiðsbandshald fyri hvørjar 100 íbúgvar"
               ]
             },
             "title": "Units"
@@ -38,12 +38,12 @@
             "constraints": {
               "enum": [
                 "",
-                "data.10mbit",
-                "data.256kbit",
-                "data.2mbit"
+                "10 Mbit/s ella meir",
+                "256 Kbit/s upp til men undir 2 Mbit/s",
+                "2 Mbit/s upp til men undir 10Mbit/s"
               ]
             },
-            "title": "data.bandwidth"
+            "title": "Bandbreidd"
           }
         ]
       }
