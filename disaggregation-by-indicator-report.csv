@@ -26,6 +26,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-4-2,"data.materialtype, data.measure",2
 #8-5-2,"data.sex, data.age",2
 #8-6-1,"data.sex, data.age",2
+#8-8-1,"data.sex, data.outcome",2
 #9-2-1,data.measure,1
 #9-4-1,"data.mainsource, source",2
 #9-c-1,data.technology,1

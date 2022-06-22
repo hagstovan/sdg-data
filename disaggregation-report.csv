@@ -12,8 +12,9 @@ data.mainsource,1,2
 data.materialtype,2,5
 data.measure,7,33
 data.occupation,1,4
+data.outcome,1,2
 data.party-municipality,1,62
-data.sex,9,2
+data.sex,10,2
 data.source,2,6
 data.technology,1,2
 essentialservice,1,3
