@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "yngri enn 15 ár",
-                "15-17 ár"
+                "data.00-14years",
+                "data.15-17years"
               ]
             },
-            "title": "Aldur"
+            "title": "data.age"
           }
         ]
       }

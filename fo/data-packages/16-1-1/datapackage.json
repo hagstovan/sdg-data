@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Landslæknin",
-                "Løgreglan"
+                "data.chiefmedicalofficer",
+                "data.police"
               ]
             },
-            "title": "Kelda"
+            "title": "data.source"
           }
         ]
       }

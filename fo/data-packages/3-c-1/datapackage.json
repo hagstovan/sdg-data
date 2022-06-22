@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Ársverk",
-                "Fyri hvørjar 10.000 íbúgvar"
+                "data.fulltimeequivalent",
+                "data.per10000population"
               ]
             },
             "title": "Units"
@@ -38,13 +38,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Tannlæknar",
-                "Læknar",
-                "Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
-                "Heiliráðfrøðingar"
+                "data.dentists",
+                "data.medicaldoctors",
+                "data.nursingandmidwiferypersonnel",
+                "data.pharmacists"
               ]
             },
-            "title": "Starv"
+            "title": "data.occupation"
           }
         ]
       }

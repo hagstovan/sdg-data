@@ -26,16 +26,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Lívfrøðilig brennievni",
-                "Jarðhiti",
-                "Vatn",
-                "Havið",
-                "Sólin",
-                "Varandi orkukeldur tilsamans",
-                "Vindur"
+                "data.biofuel",
+                "data.geothermal",
+                "data.hydro",
+                "data.ocean",
+                "data.solar",
+                "data.totalrenewable",
+                "data.wind"
               ]
             },
-            "title": "Orkukelda"
+            "title": "data.energysource"
           }
         ]
       }
