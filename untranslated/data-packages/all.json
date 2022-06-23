@@ -3,6 +3,53 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "16-1-4/data.csv",
+      "name": "16-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.male",
+                "data.female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.15-24years",
+                "data.25-39years",
+                "data.40-49years",
+                "data.50-59years",
+                "data.60years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of population that feel safe walking alone around the area they live"
+    },
+    {
       "path": "10-4-1/data.csv",
       "name": "10-4-1",
       "profile": "tabular-data-resource",
@@ -2193,28 +2240,6 @@
         ]
       },
       "title": "The agriculture orientation index for government expenditures"
-    },
-    {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
       "path": "10-a-1/data.csv",

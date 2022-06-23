@@ -6,6 +6,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-2-2,"data.materialtype, data.measure",2
 #12-a-1,data.energysource,1
 #16-1-1,data.source,1
+#16-1-4,"data.sex, data.age",2
 #17-1-1,data.source,1
 #17-11-1,"data.importexport, data.countrygroup",2
 #17-13-1,data.measure,1
