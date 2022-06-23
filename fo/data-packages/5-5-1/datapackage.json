@@ -28,9 +28,9 @@
             "constraints": {
               "enum": [
                 "",
-                "data.foseats-number",
-                "data.fowomenseats-number",
-                "data.fowomenseats-proportion"
+                "Tal av sætum",
+                "Tal av sætum hjá kvinnum",
+                "Partur av sætum hjá kvinnum"
               ]
             },
             "title": "Units"
