@@ -10,7 +10,6 @@ data_show_map: false
 data_start_values: 
   - field: data.age
     value: data.15-19years
-    value: data.10-14years
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
