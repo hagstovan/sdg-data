@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Parliament",
-                "municipalities",
+                "Local governments",
                 ""
               ]
             },
