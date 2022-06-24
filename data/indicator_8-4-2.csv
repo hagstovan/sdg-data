@@ -1,4 +1,4 @@
-"Year","Units","material type","Value"
+"Year","Units","data.materialtype","Value"
 "1998","data.domesticmaterialconsumption","",817.0
 "1998","data.domesticmaterialconsumption","data.biomass",357.4
 "1998","data.domesticmaterialconsumption","data.metallicminerals",2.6
