@@ -15,7 +15,7 @@ data_start_values:
  - field: data.importexport
    value: data.merchandiseexport
  - field: data.countrygroup
-   value: 	data.developed-leastdeveloped
+   value: data.developed-leastdeveloped
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
