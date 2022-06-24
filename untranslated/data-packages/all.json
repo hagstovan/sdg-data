@@ -163,27 +163,26 @@
             "type": "integer"
           },
           {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.total",
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "data.domesticmaterialconsumption",
                 "data.domesticmaterialconsumptionpercapita",
                 "data.domesticmaterialconsumptionperunitofgdp",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.materialtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.biomass",
+                "data.metallicminerals",
+                "data.non-metallicminerals",
+                "data.fossilenergyandotherproducts",
                 ""
               ]
             }

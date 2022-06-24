@@ -11,6 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Innlendis tilfarsnýtsla (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -29,24 +42,10 @@
                 "Biomassi",
                 "Lívrunnin brennievni og aðrar framleiðslur",
                 "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Tilsamans"
+                "Ikki-metalhavin steinsløg"
               ]
             },
             "title": "Slag av tilfari"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Innlendis tilfarsnýtsla (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons)"
-              ]
-            },
-            "title": "Mát"
           }
         ]
       }

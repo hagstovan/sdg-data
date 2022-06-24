@@ -15,9 +15,6 @@ data.currentaccountbalance,1,1
 data.debtservice,1,1
 data.DECalternativeconversionfactor,1,1
 data.disasterrelief,1,1
-data.domesticmaterialconsumption,5,1
-data.domesticmaterialconsumptionpercapita,5,1
-data.domesticmaterialconsumptionperunitofgdp,5,1
 data.externaldebtstocks,1,1
 data.foreigndirectinvestment,1,1
 data.grossPSD,1,1
