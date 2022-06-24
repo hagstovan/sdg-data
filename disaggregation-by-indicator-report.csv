@@ -24,7 +24,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"data.sex, data.age, data.location",3
 #5-5-1,data.party-municipality,1
 #7-b-1,data.energysource,1
-#8-4-2,"data.materialtype, data.measure",2
+#8-4-2,material type,1
 #8-5-2,"data.sex, data.age",2
 #8-6-1,"data.sex, data.age",2
 #8-8-1,"data.sex, data.outcome",2

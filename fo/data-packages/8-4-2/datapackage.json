@@ -11,9 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -26,7 +34,7 @@
             "title": "Ár"
           },
           {
-            "name": "data.materialtype",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,20 +46,7 @@
                 "Tilsamans"
               ]
             },
-            "title": "Slag av tilfari"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Innlendis tilfarsnýtsla",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
-              ]
-            },
-            "title": "Mát"
+            "title": "material type"
           }
         ]
       }

@@ -1017,21 +1017,7 @@
             "type": "integer"
           },
           {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.total",
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1043,8 +1029,18 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "material type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.total",
+                "data.biomass",
+                "data.metallicminerals",
+                "data.non-metallicminerals",
+                "data.fossilenergyandotherproducts",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

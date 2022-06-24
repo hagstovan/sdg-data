@@ -16,7 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "data.materialtype",
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,25 +41,7 @@
                 ""
               ]
             },
-            "title": "Material type"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Domestic material consumption",
-                "Domestic material consumption per capita",
-                "Domestic material consumption per unit of GDP",
-                ""
-              ]
-            },
-            "title": "Measure"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "material type"
           },
           {
             "name": "Value",
