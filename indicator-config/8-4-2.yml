@@ -13,11 +13,11 @@ data_start_values:
  - field: data.materialtype
    value: data.biomass
  - field: data.materialtype
-   value: data.metallisminerals
+   value: 	data.metallicminerals
  - field: data.materialtype
    value: data.non-metallicminerals
  - field: data.materialtype
-   value: data..fossilenergyandotherproducts
+   value: data.fossilenergyandotherproduct
  - field: data.measure
    value: data.domesticmaterialconsumptionpercapita
 embedded_feature_footer: ''
