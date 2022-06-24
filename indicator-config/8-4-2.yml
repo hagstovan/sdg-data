@@ -17,7 +17,7 @@ data_start_values:
  - field: data.materialtype
    value: data.non-metallicminerals
  - field: data.materialtype
-   value: data.fossilenergyandotherproduct
+   value: data.fossilenergyandotherproducts
  - field: data.measure
    value: data.domesticmaterialconsumptionpercapita
 embedded_feature_footer: ''
