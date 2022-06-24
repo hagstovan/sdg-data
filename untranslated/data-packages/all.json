@@ -1043,6 +1043,10 @@
             }
           },
           {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
