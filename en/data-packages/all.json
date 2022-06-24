@@ -196,9 +196,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption (1,000 tonnes)",
-                "Domestic material consumption (1,000 tonnes per capita)",
-                "Domestic material consumption (1,000 tonnes per unit of GDP)",
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
                 ""
               ]
             },
@@ -1105,9 +1105,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption (1,000 tonnes)",
-                "Domestic material consumption (1,000 tonnes per capita)",
-                "Domestic material consumption (1,000 tonnes per unit of GDP)",
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
                 ""
               ]
             },
