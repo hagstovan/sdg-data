@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Ár"
@@ -25,34 +20,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
-                "Árligur vøkstur av BTÚ (%)",
-                "Árligur vøkstur av peninganøgdini (%)",
-                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
-                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
-                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
-                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
-                "Árligur vøkstur av bruttoíløgum (%)",
-                "Árligur prísvøkstur, brúkaraprístalið (%)",
-                "Kapitalur í mun til ognir",
-                "Mishildin lán í mun til útlán áðrenn niðurskrivingar (%)",
-                "Peninganøgdin í mun til gjaldoyragoymslu",
-                "Fíggjarkrav netto fyri (% av BTÚ)",
-                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
-                "Samlað skuldarafturgjalding (% av útflutningi)",
-                "Uttanlandsskuld, brutto (% av BTI)",
-                "Beinleiðis íløgur, netto (% av BTÚ)",
-                "Almenn skuld (% a BTÚ)",
                 "Vøruhandil við umheimin, ársins prísir (% av BTÚ)",
                 "Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)",
+                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
+                "Beinleiðis íløgur, netto (% av BTÚ)",
                 "Íløgur í virðisbrøv, netto (mió USD)",
                 "Samlaða gjaldoyragoymslan í mánaðum av innflutningi",
+                "Samlað skuldarafturgjalding (% av útflutningi)",
+                "Uttanlandsskuld, brutto (% av BTI)",
+                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
+                "Árligur vøkstur av peninganøgdini (%)",
+                "Peninganøgdin í mun til gjaldoyragoymslu",
+                "Mishildin lán í mun til útlán áðrenn niðurskrivingar (%)",
+                "Kapitalur í mun til ognir",
                 "Skattainntøkur samanlagt (% av BTÚ)",
-                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)"
+                "Fíggjarkrav netto fyri (% av BTÚ)",
+                "Almenn skuld (% a BTÚ)",
+                "Árligur vøkstur av BTÚ (%)",
+                "Árligur vøkstur av bruttoíløgum (%)",
+                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
+                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
+                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
+                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
+                "Árligur prísvøkstur, brúkaraprístalið (%)",
+                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)",
+                ""
               ]
             },
             "title": "Mát"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
           }
         ]
       }

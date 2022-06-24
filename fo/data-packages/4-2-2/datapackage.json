@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Ár"
@@ -25,12 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Kvinnur",
-                "Menn"
+                "Menn",
+                ""
               ]
             },
             "title": "Kyn"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

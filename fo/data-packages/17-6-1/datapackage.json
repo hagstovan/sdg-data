@@ -11,39 +11,39 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Breiðsbandshald fyri hvørjar 100 íbúgvar",
                 "Breiðbandshald",
-                "Breiðsbandshald fyri hvørjar 100 íbúgvar"
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
           },
           {
             "name": "data.bandwidth",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "10 Mbit/s ella meir",
                 "256 Kbit/s upp til men undir 2 Mbit/s",
-                "2 Mbit/s upp til men undir 10Mbit/s"
+                "2 Mbit/s upp til men undir 10Mbit/s",
+                "10 Mbit/s ella meir",
+                ""
               ]
             },
             "title": "Bandbreidd"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
           }
         ]
       }

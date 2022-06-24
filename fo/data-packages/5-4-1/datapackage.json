@@ -11,55 +11,55 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Ár"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15-24 ár",
-                "25-44 ár",
-                "45-54 ár",
-                "55-64 ár",
-                "15+ ár",
-                "65+ ár"
-              ]
-            },
-            "title": "Aldur"
           },
           {
             "name": "data.location",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Bygd",
                 "Tilsamans",
-                "Býur"
+                "Býur",
+                "Bygd",
+                ""
               ]
             },
             "title": "Staðseting"
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+ ár",
+                "15-24 ár",
+                "25-44 ár",
+                "45-54 ár",
+                "55-64 ár",
+                "65+ ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Menn",
                 "Kvinnur",
-                "Menn"
+                ""
               ]
             },
             "title": "Kyn"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

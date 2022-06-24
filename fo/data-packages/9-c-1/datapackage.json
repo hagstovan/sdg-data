@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Ár"
@@ -25,12 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "3G fartelefonnet ella betri",
-                "4G fartelefonnet ella betri"
+                "4G fartelefonnet ella betri",
+                ""
               ]
             },
             "title": "Tøkni"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }

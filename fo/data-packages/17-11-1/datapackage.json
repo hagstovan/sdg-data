@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "mió. kr.",
-                "Prosent"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Ár"
           },
           {
-            "name": "data.countrygroup",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Menningarlond og minst mentu londini uttan Kina",
-                "Menningarlond og minst mentu londini",
-                "Minst mentu londini"
+                "Prosent",
+                "mió. kr.",
+                ""
               ]
             },
-            "title": "Landabólkur"
+            "title": "Units"
           },
           {
             "name": "data.importexport",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Vøruinnflutningur",
                 "Vøruútflutningur",
-                "Vøruinnflutningur"
+                ""
               ]
             },
             "title": "Innflutningur/Útflutningur"
+          },
+          {
+            "name": "data.countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menningarlond og minst mentu londini",
+                "Menningarlond og minst mentu londini uttan Kina",
+                "Minst mentu londini",
+                ""
+              ]
+            },
+            "title": "Landabólkur"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
