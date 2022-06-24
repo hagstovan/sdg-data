@@ -41,9 +41,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Innlendis tilfarsnýtsla",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
+                "Innlendis tilfarsnýtsla (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons)"
               ]
             },
             "title": "Mát"
