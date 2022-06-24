@@ -11,8 +11,6 @@ data_start_values:
  - field: Units
    value: data.domesticmaterialconsumptionpercapita
  - field: data.materialtype
-   value: data.total
- - field: data.materialtype
    value: data.biomass
  - field: data.materialtype
    value: data.metallicminerals
