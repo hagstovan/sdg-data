@@ -1114,7 +1114,7 @@
             "title": "Units"
           },
           {
-            "name": "material type",
+            "name": "data.materialtype",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1126,7 +1126,7 @@
                 ""
               ]
             },
-            "title": "material type"
+            "title": "Material type"
           },
           {
             "name": "Value",

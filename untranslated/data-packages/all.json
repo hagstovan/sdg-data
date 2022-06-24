@@ -1029,7 +1029,7 @@
             }
           },
           {
-            "name": "material type",
+            "name": "data.materialtype",
             "type": "string",
             "constraints": {
               "enum": [

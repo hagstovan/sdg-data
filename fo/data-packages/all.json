@@ -1119,7 +1119,7 @@
             "title": "Ár"
           },
           {
-            "name": "material type",
+            "name": "data.materialtype",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1131,7 +1131,7 @@
                 "Tilsamans"
               ]
             },
-            "title": "material type"
+            "title": "Slag av tilfari"
           }
         ]
       },
