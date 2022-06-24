@@ -202,9 +202,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Innlendis tilfarsnýtsla (1.000 t)",
-                "Innlendis tilfarsnýtsla (1.000 t fyri hvønn íbúgva)",
-                "Innlendis tilfarsnýtsla (1.000 t fyri hvørja BTÚ-eind)"
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
               ]
             },
             "title": "Mát"
@@ -1101,9 +1101,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Innlendis tilfarsnýtsla (1.000 t)",
-                "Innlendis tilfarsnýtsla (1.000 t fyri hvønn íbúgva)",
-                "Innlendis tilfarsnýtsla (1.000 t fyri hvørja BTÚ-eind)"
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind"
               ]
             },
             "title": "Units"
