@@ -192,9 +192,9 @@ biomass: Biomassi
 metallicminerals: Metalmálmur
 non-metallicminerals: Ikki-metalhavin steinsløg
 fossilenergyandotherproducts: Lívrunnin brennievni og aðrar framleiðslur
-domesticmaterialconsumption: Innlendis tilfarsnýtsla
-domesticmaterialconsumptionpercapita: Innlendis tilfarsnýtsla fyri hvønn íbúgva
-domesticmaterialconsumptionperunitofgdp: Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind
+domesticmaterialconsumption: Innlendis tilfarsnýtsla (1.000 tons)
+domesticmaterialconsumptionpercapita: Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+domesticmaterialconsumptionperunitofgdp: Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons)
 manufacturingvalueaddedasaproportionofgdp: Virðisøking frá ídnaðarvinnu sum partur av BTÚ
 manufacturingvalueaddedpercapita: Virðisøking frá ídnaðarvinnu fyri hvørt fólkið
 energyindustries: El- og hitaframleiðsla
