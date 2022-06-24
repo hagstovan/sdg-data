@@ -1114,11 +1114,10 @@
             "title": "Units"
           },
           {
-            "name": "data.materialtype",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Biomass",
                 "Metallic minerals",
                 "Non-metallic minerals",
@@ -1126,7 +1125,7 @@
                 ""
               ]
             },
-            "title": "Material type"
+            "title": "material type"
           },
           {
             "name": "Value",

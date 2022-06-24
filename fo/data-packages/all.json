@@ -1119,7 +1119,7 @@
             "title": "Ár"
           },
           {
-            "name": "data.materialtype",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1127,11 +1127,10 @@
                 "Biomassi",
                 "Lívrunnin brennievni og aðrar framleiðslur",
                 "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Tilsamans"
+                "Ikki-metalhavin steinsløg"
               ]
             },
-            "title": "Slag av tilfari"
+            "title": "material type"
           }
         ]
       },

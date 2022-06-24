@@ -27,11 +27,10 @@
             }
           },
           {
-            "name": "data.materialtype",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.total",
                 "data.biomass",
                 "data.metallicminerals",
                 "data.non-metallicminerals",
