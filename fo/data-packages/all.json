@@ -1119,7 +1119,7 @@
             "title": "Ár"
           },
           {
-            "name": "material type",
+            "name": "data.materialtype",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1130,7 +1130,7 @@
                 "Ikki-metalhavin steinsløg"
               ]
             },
-            "title": "material type"
+            "title": "Slag av tilfari"
           }
         ]
       },
