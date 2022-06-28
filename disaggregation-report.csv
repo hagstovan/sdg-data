@@ -14,7 +14,7 @@ data.measure,5,30
 data.occupation,1,4
 data.outcome,1,2
 data.party-municipality,1,62
-data.sex,11,2
+data.sex,11,3
 data.source,2,6
 data.technology,1,2
 essentialservice,1,3

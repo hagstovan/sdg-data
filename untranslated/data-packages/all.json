@@ -1123,7 +1123,7 @@
             "constraints": {
               "enum": [
                 "data.persons",
-                "data.pr100000",
+                "data.pr.100.000",
                 ""
               ]
             }
@@ -1146,6 +1146,7 @@
               "enum": [
                 "data.male",
                 "data.female",
+                "¤",
                 ""
               ]
             }

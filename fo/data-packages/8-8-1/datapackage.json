@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Persónar",
-                "Pr. 100.000 arbeiðsvirkin",
+                "data.pr.100.000",
                 ""
               ]
             },
@@ -46,6 +46,7 @@
               "enum": [
                 "Menn",
                 "Kvinnur",
+                "¤",
                 ""
               ]
             },

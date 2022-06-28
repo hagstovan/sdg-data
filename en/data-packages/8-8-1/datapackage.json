@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Persons",
-                "Per 100,000 employee",
+                "data.pr.100.000",
                 ""
               ]
             },
@@ -46,6 +46,7 @@
               "enum": [
                 "Males",
                 "Females",
+                "¤",
                 ""
               ]
             },
