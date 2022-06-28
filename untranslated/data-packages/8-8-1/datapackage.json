@@ -43,7 +43,6 @@
               "enum": [
                 "data.male",
                 "data.female",
-                "¤",
                 ""
               ]
             }

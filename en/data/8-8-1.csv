@@ -146,12 +146,12 @@ Year,Units,Outcome,Sex,Value
 2021,Persons,Lethal,,-
 2021,Persons,Lethal,,-
 2021,Persons,Lethal,Females,-
-2021,Persons,Non-lethal,¤,170
-2021,Persons,Non-lethal,¤,211
+2021,Persons,Non-lethal,,170
+2021,Persons,Non-lethal,,211
 2021,Persons,Non-lethal,Males,101
 2021,Persons,Non-lethal,,110.0
 2021,data.pr.100.000,Lethal,,-
 2021,data.pr.100.000,Lethal,Males,-
 2021,data.pr.100.000,Lethal,Females,-
-2021,data.pr.100.000,Non-lethal,¤,674.0
+2021,data.pr.100.000,Non-lethal,,674.0
 2021,data.pr.100.000,Non-lethal,Males,604.8

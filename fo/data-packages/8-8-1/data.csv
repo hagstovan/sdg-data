@@ -146,12 +146,12 @@ Year,Units,Avleiðing,Kyn,Value
 2021,Persónar,Deyðilig,,-
 2021,Persónar,Deyðilig,,-
 2021,Persónar,Deyðilig,Kvinnur,-
-2021,Persónar,Ikki-deyðilig,¤,170
-2021,Persónar,Ikki-deyðilig,¤,211
+2021,Persónar,Ikki-deyðilig,,170
+2021,Persónar,Ikki-deyðilig,,211
 2021,Persónar,Ikki-deyðilig,Menn,101
 2021,Persónar,Ikki-deyðilig,,110.0
 2021,data.pr.100.000,Deyðilig,,-
 2021,data.pr.100.000,Deyðilig,Menn,-
 2021,data.pr.100.000,Deyðilig,Kvinnur,-
-2021,data.pr.100.000,Ikki-deyðilig,¤,674.0
+2021,data.pr.100.000,Ikki-deyðilig,,674.0
 2021,data.pr.100.000,Ikki-deyðilig,Menn,604.8
