@@ -1123,7 +1123,7 @@
             "constraints": {
               "enum": [
                 "data.persons",
-                "data.pr.100.000",
+                "data.pr100000",
                 ""
               ]
             }
@@ -1144,15 +1144,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
                 "data.female",
+                "data.male",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
