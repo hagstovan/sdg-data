@@ -1410,8 +1410,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.female",
                 "data.male",
+                "data.female",
                 ""
               ]
             }

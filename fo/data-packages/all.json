@@ -1527,8 +1527,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kvinnur",
                 "Menn",
+                "Kvinnur",
                 ""
               ]
             },
