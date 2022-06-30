@@ -1,62 +1,62 @@
 Year,Source,Value
-1998,,76.7
-1998,Taxes,41.0
+1998,,76.3
+1998,Taxes,40.8
 1998,Social contributions,3.6
-1998,Grants,14.8
-1998,Other revenue,17.2
-1999,,65.3
-1999,Taxes,42.8
-1999,Social contributions,3.5
-1999,Grants,14.4
+1998,Grants,14.7
+1998,Other revenue,17.1
+1999,,64.7
+1999,Taxes,42.3
+1999,Social contributions,3.4
+1999,Grants,14.3
 1999,Other revenue,4.6
-2000,,63.3
-2000,Taxes,42.3
+2000,,62.7
+2000,Taxes,41.9
 2000,Social contributions,3.1
-2000,Grants,13.6
+2000,Grants,13.5
 2000,Other revenue,4.3
-2001,,61.5
-2001,Taxes,41.8
+2001,,60.8
+2001,Taxes,41.3
 2001,Social contributions,2.9
-2001,Grants,12.5
-2001,Other revenue,4.4
-2002,,58.0
-2002,Taxes,42.6
-2002,Social contributions,3.1
-2002,Grants,8.2
-2002,Other revenue,4.2
-2003,,57.6
-2003,Taxes,43.0
+2001,Grants,12.3
+2001,Other revenue,4.3
+2002,,57.4
+2002,Taxes,42.1
+2002,Social contributions,3.0
+2002,Grants,8.1
+2002,Other revenue,4.1
+2003,,57.3
+2003,Taxes,42.8
 2003,Social contributions,2.5
 2003,Grants,8.2
 2003,Other revenue,3.9
-2004,,55.8
-2004,Taxes,41.5
+2004,,55.1
+2004,Taxes,41.0
 2004,Social contributions,2.8
-2004,Grants,8.2
-2004,Other revenue,3.3
-2005,,56.0
-2005,Taxes,40.9
-2005,Social contributions,3.3
-2005,Grants,8.0
-2005,Other revenue,3.8
-2006,,54.8
-2006,Taxes,40.4
-2006,Social contributions,3.7
-2006,Grants,7.0
+2004,Grants,8.1
+2004,Other revenue,3.2
+2005,,55.1
+2005,Taxes,40.3
+2005,Social contributions,3.2
+2005,Grants,7.9
+2005,Other revenue,3.7
+2006,,53.9
+2006,Taxes,39.8
+2006,Social contributions,3.6
+2006,Grants,6.9
 2006,Other revenue,3.7
-2007,,55.4
-2007,Taxes,41.4
-2007,Social contributions,4.3
-2007,Grants,6.6
-2007,Other revenue,3.2
-2008,,56.6
-2008,Taxes,41.5
-2008,Social contributions,4.7
-2008,Grants,6.7
-2008,Other revenue,3.7
-2009,,54.8
-2009,Taxes,39.5
-2009,Social contributions,4.7
+2007,,54.4
+2007,Taxes,40.7
+2007,Social contributions,4.2
+2007,Grants,6.4
+2007,Other revenue,3.1
+2008,,55.3
+2008,Taxes,40.6
+2008,Social contributions,4.6
+2008,Grants,6.5
+2008,Other revenue,3.6
+2009,,54.1
+2009,Taxes,39.0
+2009,Social contributions,4.6
 2009,Grants,6.8
 2009,Other revenue,3.8
 2010,,52.6
@@ -64,53 +64,53 @@ Year,Source,Value
 2010,Social contributions,4.6
 2010,Grants,6.5
 2010,Other revenue,3.1
-2011,,53.7
-2011,Taxes,39.4
+2011,,53.6
+2011,Taxes,39.2
 2011,Social contributions,4.5
 2011,Grants,6.3
 2011,Other revenue,3.5
-2012,,53.2
-2012,Taxes,39.0
-2012,Social contributions,4.8
-2012,Grants,6.2
-2012,Other revenue,3.2
-2013,,50.2
-2013,Taxes,36.4
-2013,Social contributions,4.6
-2013,Grants,5.8
-2013,Other revenue,3.5
-2014,,49.5
-2014,Taxes,36.1
-2014,Social contributions,4.4
-2014,Grants,5.4
-2014,Other revenue,3.7
-2015,,49.9
-2015,Taxes,37.0
-2015,Social contributions,4.5
+2012,,52.1
+2012,Taxes,38.2
+2012,Social contributions,4.7
+2012,Grants,6.1
+2012,Other revenue,3.1
+2013,,49.3
+2013,Taxes,35.7
+2013,Social contributions,4.5
+2013,Grants,5.7
+2013,Other revenue,3.4
+2014,,48.6
+2014,Taxes,35.4
+2014,Social contributions,4.3
+2014,Grants,5.3
+2014,Other revenue,3.6
+2015,,49.0
+2015,Taxes,36.4
+2015,Social contributions,4.4
 2015,Grants,5.1
 2015,Other revenue,3.2
-2016,,49.1
-2016,Taxes,35.5
-2016,Social contributions,4.8
-2016,Grants,4.7
-2016,Other revenue,4.0
-2017,,51.5
-2017,Taxes,37.0
-2017,Social contributions,4.9
-2017,Grants,4.6
-2017,Other revenue,5.1
-2018,,54.1
-2018,Taxes,38.3
-2018,Social contributions,5.3
-2018,Grants,4.5
-2018,Other revenue,6.0
-2019,,53.4
-2019,Taxes,37.6
-2019,Social contributions,5.6
-2019,Grants,4.5
-2019,Other revenue,5.7
-2020,,54.1
-2020,Taxes,39.7
-2020,Social contributions,6.0
-2020,Grants,4.5
-2020,Other revenue,3.9
+2016,,47.9
+2016,Taxes,34.7
+2016,Social contributions,4.7
+2016,Grants,4.6
+2016,Other revenue,3.9
+2017,,50.3
+2017,Taxes,36.1
+2017,Social contributions,4.7
+2017,Grants,4.5
+2017,Other revenue,4.9
+2018,,51.9
+2018,Taxes,36.8
+2018,Social contributions,5.1
+2018,Grants,4.3
+2018,Other revenue,5.7
+2019,,51.1
+2019,Taxes,36.0
+2019,Social contributions,5.4
+2019,Grants,4.3
+2019,Other revenue,5.4
+2020,,51.9
+2020,Taxes,38.1
+2020,Social contributions,5.7
+2020,Grants,4.4
+2020,Other revenue,3.8
