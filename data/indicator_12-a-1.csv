@@ -1,4 +1,4 @@
-﻿"Year","data.energysource","Value"
+"Year","data.energysource","Value"
 "2000","",704.8
 "2000","data.hydro",701.4
 "2000","data.wind",3.3
@@ -125,3 +125,9 @@
 "2020","data.solar",5.0
 "2020","data.ocean",1.9
 "2020","data.biofuel",6.2
+"2021","",1132.1
+"2021","data.hydro",756.2
+"2021","data.wind",362.9
+"2021","data.solar",5.0
+"2021","data.ocean",1.9
+"2021","data.biofuel",6.1
