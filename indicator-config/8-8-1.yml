@@ -10,10 +10,10 @@ data_show_map: false
 data_start_values: 
  - field: Units
    value: data.pr100000
-  - field: data.outcome
-    value: data.lethal
-  - field: data.outcome
-    value: data.non-lethal
+ - field: data.outcome
+   value: data.lethal
+ - field: data.outcome
+   value: data.non-lethal
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
