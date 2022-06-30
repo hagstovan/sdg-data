@@ -287,6 +287,28 @@
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
+      "path": "15-5-1/data.csv",
+      "name": "15-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Red List Index"
+    },
+    {
       "path": "8-5-2/data.csv",
       "name": "8-5-2",
       "profile": "tabular-data-resource",
@@ -2832,28 +2854,6 @@
         ]
       },
       "title": "Financial Soundness Indicators"
-    },
-    {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Red List Index"
     },
     {
       "path": "16-4-1/data.csv",
