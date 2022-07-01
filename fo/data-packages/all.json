@@ -1724,10 +1724,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.dentist",
                 "Læknar",
                 "Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
                 "Heiliráðfrøðingar",
+                "Tannlæknar",
+                "data.dentist",
                 ""
               ]
             },

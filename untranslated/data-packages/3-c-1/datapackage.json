@@ -30,10 +30,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.dentist",
                 "data.medicaldoctors",
                 "data.nursingandmidwiferypersonnel",
                 "data.pharmacists",
+                "data.dentists",
+                "data.dentist",
                 ""
               ]
             }
