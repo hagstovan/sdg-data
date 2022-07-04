@@ -16,7 +16,7 @@ data_start_values:
    value: data.grants
  - field: data.source
    value: data.otherrevenue
-eembedded_feature_footer: ''
+embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
