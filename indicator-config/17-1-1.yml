@@ -7,8 +7,16 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
+data_start_values: 
+ - field: data.source
+   value: data.taxes
+ - field: data.source
+   value: data.socialcontributions
+ - field: data.source
+   value: data.grants
+ - field: data.source
+   value: data.otherrevenue
+eembedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
