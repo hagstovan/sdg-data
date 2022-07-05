@@ -1,5 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.dentists,2,1
+data.dentist,1,1
+data.dentists,1,1
 data.medicaldoctors,2,1
 data.nursingandmidwiferypersonnel,2,1
 data.pharmacists,2,1

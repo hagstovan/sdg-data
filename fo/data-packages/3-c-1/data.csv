@@ -5,7 +5,7 @@ Year,Units,Starv,Value
 2010,Ársverk,Heiliráðfrøðingar,62.0
 2010,Ársverk,Tannlæknar,39.0
 2010,Fyri hvørjar 10.000 íbúgvar,,149.3
-2010,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,80.5
+2010,Fyri hvørjar 10.000 íbúgvar,data.dentist,80.5
 2010,Fyri hvørjar 10.000 íbúgvar,Læknar,23.4
 2010,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",105.1
 2010,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.8
@@ -15,7 +15,7 @@ Year,Units,Starv,Value
 2011,Ársverk,Heiliráðfrøðingar,56.0
 2011,Ársverk,Tannlæknar,39.0
 2011,Fyri hvørjar 10.000 íbúgvar,,147.4
-2011,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,80.7
+2011,Fyri hvørjar 10.000 íbúgvar,data.dentist,80.7
 2011,Fyri hvørjar 10.000 íbúgvar,Læknar,23.9
 2011,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",103.9
 2011,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,11.6
@@ -25,7 +25,7 @@ Year,Units,Starv,Value
 2012,Ársverk,Heiliráðfrøðingar,58.0
 2012,Ársverk,Tannlæknar,44.0
 2012,Fyri hvørjar 10.000 íbúgvar,,149.0
-2012,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,91.5
+2012,Fyri hvørjar 10.000 íbúgvar,data.dentist,91.5
 2012,Fyri hvørjar 10.000 íbúgvar,Læknar,24.5
 2012,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",103.3
 2012,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.1
@@ -35,7 +35,7 @@ Year,Units,Starv,Value
 2013,Ársverk,Heiliráðfrøðingar,57.7
 2013,Ársverk,Tannlæknar,44.0
 2013,Fyri hvørjar 10.000 íbúgvar,,147.3
-2013,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,91.5
+2013,Fyri hvørjar 10.000 íbúgvar,data.dentist,91.5
 2013,Fyri hvørjar 10.000 íbúgvar,Læknar,25.4
 2013,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",100.8
 2013,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.0
@@ -45,7 +45,7 @@ Year,Units,Starv,Value
 2014,Ársverk,Heiliráðfrøðingar,61.0
 2014,Ársverk,Tannlæknar,46.0
 2014,Fyri hvørjar 10.000 íbúgvar,,148.9
-2014,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,95.1
+2014,Fyri hvørjar 10.000 íbúgvar,data.dentist,95.1
 2014,Fyri hvørjar 10.000 íbúgvar,Læknar,26.2
 2014,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",100.6
 2014,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.6
@@ -55,7 +55,7 @@ Year,Units,Starv,Value
 2015,Ársverk,Heiliráðfrøðingar,64.7
 2015,Ársverk,Tannlæknar,
 2015,Fyri hvørjar 10.000 íbúgvar,,141.8
-2015,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2015,Fyri hvørjar 10.000 íbúgvar,data.dentist,
 2015,Fyri hvørjar 10.000 íbúgvar,Læknar,27.0
 2015,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",101.5
 2015,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.2
@@ -63,9 +63,9 @@ Year,Units,Starv,Value
 2016,Ársverk,Læknar,
 2016,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",513.9
 2016,Ársverk,Heiliráðfrøðingar,63.7
-2016,Ársverk,Tannlæknar,
+2016,Ársverk,Tannlæknar,0.0
 2016,Fyri hvørjar 10.000 íbúgvar,,143.9
-2016,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2016,Fyri hvørjar 10.000 íbúgvar,data.dentist,
 2016,Fyri hvørjar 10.000 íbúgvar,Læknar,27.1
 2016,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",103.9
 2016,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.9
@@ -75,7 +75,7 @@ Year,Units,Starv,Value
 2017,Ársverk,Heiliráðfrøðingar,68.9
 2017,Ársverk,Tannlæknar,
 2017,Fyri hvørjar 10.000 íbúgvar,,139.4
-2017,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2017,Fyri hvørjar 10.000 íbúgvar,data.dentist,
 2017,Fyri hvørjar 10.000 íbúgvar,Læknar,26.0
 2017,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",99.6
 2017,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.7
@@ -85,7 +85,7 @@ Year,Units,Starv,Value
 2018,Ársverk,Heiliráðfrøðingar,65.6
 2018,Ársverk,Tannlæknar,
 2018,Fyri hvørjar 10.000 íbúgvar,,143.3
-2018,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2018,Fyri hvørjar 10.000 íbúgvar,data.dentist,
 2018,Fyri hvørjar 10.000 íbúgvar,Læknar,27.8
 2018,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",102.6
 2018,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.9
@@ -95,17 +95,17 @@ Year,Units,Starv,Value
 2019,Ársverk,Heiliráðfrøðingar,69.1
 2019,Ársverk,Tannlæknar,
 2019,Fyri hvørjar 10.000 íbúgvar,,145.5
-2019,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,
+2019,Fyri hvørjar 10.000 íbúgvar,data.dentist,
 2019,Fyri hvørjar 10.000 íbúgvar,Læknar,28.4
 2019,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",103.8
 2019,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,13.4
 2020,Ársverk,,789.0
 2020,Ársverk,Læknar,117.9
-2020,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
+2020,Ársverk,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",553.4
 2020,Ársverk,Heiliráðfrøðingar,66.7
 2020,Ársverk,Tannlæknar,51.0
 2020,Fyri hvørjar 10.000 íbúgvar,,150.3
-2020,Fyri hvørjar 10.000 íbúgvar,Tannlæknar,97.1
+2020,Fyri hvørjar 10.000 íbúgvar,data.dentist,97.1
 2020,Fyri hvørjar 10.000 íbúgvar,Læknar,
 2020,Fyri hvørjar 10.000 íbúgvar,"Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",105.4
 2020,Fyri hvørjar 10.000 íbúgvar,Heiliráðfrøðingar,12.7
