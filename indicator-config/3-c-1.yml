@@ -11,7 +11,7 @@ data_start_values:
  - field: Units
    value: data.per10000population
  - field: data.occupation
-   value: data.dentist
+   value: data.dentists
  - field: data.occupation
    value: data.medicaldoctors
  - field: data.occupation
