@@ -7,7 +7,7 @@
 "1990","data.fuelcombustion","data.othersectors",0.4
 "1990","data.bunkers","",""
 "1990","data.bunkers","data.aviation",""
-"1990","data.bunkers","Navigation",""
+"1990","data.bunkers","data.navigation",""
 "1991","","",0.6
 "1991","data.fuelcombustion","",0.6
 "1991","data.fuelcombustion","data.energyindustries",0.1
