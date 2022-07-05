@@ -53,7 +53,7 @@ Year,Units,Occupation,Value
 2015,Full-time equivalent,Medical doctors,
 2015,Full-time equivalent,Nursing and midwifery personnel,495.7
 2015,Full-time equivalent,Pharmacists,64.7
-2015,Full-time equivalent,Dentists,0.0
+2015,Full-time equivalent,Dentists,
 2015,"Per 10,000 population",,141.8
 2015,"Per 10,000 population",Dentists,
 2015,"Per 10,000 population",Medical doctors,27.0
@@ -63,7 +63,7 @@ Year,Units,Occupation,Value
 2016,Full-time equivalent,Medical doctors,
 2016,Full-time equivalent,Nursing and midwifery personnel,513.9
 2016,Full-time equivalent,Pharmacists,63.7
-2016,Full-time equivalent,Dentists,0.0
+2016,Full-time equivalent,Dentists,
 2016,"Per 10,000 population",,143.9
 2016,"Per 10,000 population",Dentists,
 2016,"Per 10,000 population",Medical doctors,27.1
@@ -73,7 +73,7 @@ Year,Units,Occupation,Value
 2017,Full-time equivalent,Medical doctors,
 2017,Full-time equivalent,Nursing and midwifery personnel,499.5
 2017,Full-time equivalent,Pharmacists,68.9
-2017,Full-time equivalent,Dentists,0.0
+2017,Full-time equivalent,Dentists,
 2017,"Per 10,000 population",,139.4
 2017,"Per 10,000 population",Dentists,
 2017,"Per 10,000 population",Medical doctors,26.0
@@ -83,7 +83,7 @@ Year,Units,Occupation,Value
 2018,Full-time equivalent,Medical doctors,
 2018,Full-time equivalent,Nursing and midwifery personnel,522.1
 2018,Full-time equivalent,Pharmacists,65.6
-2018,Full-time equivalent,Dentists,0.0
+2018,Full-time equivalent,Dentists,
 2018,"Per 10,000 population",,143.3
 2018,"Per 10,000 population",Dentists,
 2018,"Per 10,000 population",Medical doctors,27.8
@@ -93,7 +93,7 @@ Year,Units,Occupation,Value
 2019,Full-time equivalent,Medical doctors,
 2019,Full-time equivalent,Nursing and midwifery personnel,536.3
 2019,Full-time equivalent,Pharmacists,69.1
-2019,Full-time equivalent,Dentists,0.0
+2019,Full-time equivalent,Dentists,
 2019,"Per 10,000 population",,145.5
 2019,"Per 10,000 population",Dentists,
 2019,"Per 10,000 population",Medical doctors,28.4

@@ -53,7 +53,7 @@ Year,Units,data.occupation,Value
 2015,data.fulltimeequivalent,data.medicaldoctors,
 2015,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,495.7
 2015,data.fulltimeequivalent,data.pharmacists,64.7
-2015,data.fulltimeequivalent,data.dentists,0.0
+2015,data.fulltimeequivalent,data.dentists,
 2015,data.per10000population,,141.8
 2015,data.per10000population,data.dentists,
 2015,data.per10000population,data.medicaldoctors,27.0
@@ -63,7 +63,7 @@ Year,Units,data.occupation,Value
 2016,data.fulltimeequivalent,data.medicaldoctors,
 2016,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,513.9
 2016,data.fulltimeequivalent,data.pharmacists,63.7
-2016,data.fulltimeequivalent,data.dentists,0.0
+2016,data.fulltimeequivalent,data.dentists,
 2016,data.per10000population,,143.9
 2016,data.per10000population,data.dentists,
 2016,data.per10000population,data.medicaldoctors,27.1
@@ -73,7 +73,7 @@ Year,Units,data.occupation,Value
 2017,data.fulltimeequivalent,data.medicaldoctors,
 2017,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,499.5
 2017,data.fulltimeequivalent,data.pharmacists,68.9
-2017,data.fulltimeequivalent,data.dentists,0.0
+2017,data.fulltimeequivalent,data.dentists,
 2017,data.per10000population,,139.4
 2017,data.per10000population,data.dentists,
 2017,data.per10000population,data.medicaldoctors,26.0
@@ -83,7 +83,7 @@ Year,Units,data.occupation,Value
 2018,data.fulltimeequivalent,data.medicaldoctors,
 2018,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,522.1
 2018,data.fulltimeequivalent,data.pharmacists,65.6
-2018,data.fulltimeequivalent,data.dentists,0.0
+2018,data.fulltimeequivalent,data.dentists,
 2018,data.per10000population,,143.3
 2018,data.per10000population,data.dentists,
 2018,data.per10000population,data.medicaldoctors,27.8
@@ -93,7 +93,7 @@ Year,Units,data.occupation,Value
 2019,data.fulltimeequivalent,data.medicaldoctors,
 2019,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,536.3
 2019,data.fulltimeequivalent,data.pharmacists,69.1
-2019,data.fulltimeequivalent,data.dentists,0.0
+2019,data.fulltimeequivalent,data.dentists,
 2019,data.per10000population,,145.5
 2019,data.per10000population,data.dentists,
 2019,data.per10000population,data.medicaldoctors,28.4
