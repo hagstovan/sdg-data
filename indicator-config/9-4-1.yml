@@ -23,7 +23,7 @@ data_start_values:
  - field: source
    value: data.aviation
  - field: source
-   value: data.naviagtion
+   value: data.navigation
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
