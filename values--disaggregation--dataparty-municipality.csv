@@ -1,6 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 data.all-municipalities,3,1
 data.all-parties,3,1
+data.argjamunicipality,3,1
 data.biggjarmunicipality,3,1
 data.christianparty,3,1
 data.conservativeparty,3,1
@@ -25,6 +26,7 @@ data.hvannasundsmunicipality,3,1
 data.independenceparty,3,1
 data.kirkjuboarmunicipality,3,1
 data.klaksvikarmunicipality,3,1
+data.kollafjardarmunicipality,3,1
 data.kunoyarmunicipality,3,1
 data.kvivikarmunicipality,3,1
 data.leirvikarmunicipality,3,1
