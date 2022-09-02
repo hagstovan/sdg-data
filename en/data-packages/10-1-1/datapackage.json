@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.bottom40percentofthepopulation",
+                "Bottom 40 per cent of the population",
                 ""
               ]
             },
-            "title": "data.growthrateofdisposableincome"
+            "title": "Growth rate of disposable income"
           },
           {
             "name": "Value",

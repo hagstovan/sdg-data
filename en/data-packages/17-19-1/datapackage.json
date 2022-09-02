@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.netofficialdevelopmentassistance",
+                "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "Value",

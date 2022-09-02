@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.dkkmill",
+                "per cent",
+                "DKK mill.",
                 ""
               ]
             },
@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.merchandiseimport",
-                "data.merchandiseexport",
+                "Merchandise import",
+                "Merchandise export",
                 ""
               ]
             },
-            "title": "data.importexport"
+            "title": "Import/Export"
           },
           {
             "name": "data.countrygroup",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.developed-leastdeveloped",
-                "data.developed-ex-china",
-                "data.leastdeveloped",
+                "Developing countries and least developed countries",
+                "Developing countries and least developed countries excluding China",
+                "Least developed countries",
                 ""
               ]
             },
-            "title": "data.countrygroup"
+            "title": "Country group"
           },
           {
             "name": "Value",

@@ -1,55 +1,55 @@
-Year,data.location,data.age,data.sex,Value
-2011,data.total,data.ge15years,,7.6
-2011,data.total,data.ge15years,data.male,4.7
-2011,data.total,data.ge15years,data.female,10.6
-2011,data.total,data.15-24years,,2.9
-2011,data.total,data.15-24years,data.male,1.9
-2011,data.total,data.15-24years,data.female,4.0
-2011,data.total,data.25-44years,,8.2
-2011,data.total,data.25-44years,data.male,5.2
-2011,data.total,data.25-44years,data.female,11.7
-2011,data.total,data.45-54years,,9.0
-2011,data.total,data.45-54years,data.male,5.7
-2011,data.total,data.45-54years,data.female,12.8
-2011,data.total,data.55-64years,,9.1
-2011,data.total,data.55-64years,data.male,5.4
-2011,data.total,data.55-64years,data.female,13.2
-2011,data.total,data.ge65years,,8.3
-2011,data.total,data.ge65years,data.male,5.3
-2011,data.total,data.ge65years,data.female,11.0
-2011,data.urban,data.ge15years,,7.1
-2011,data.urban,data.ge15years,data.male,4.7
-2011,data.urban,data.ge15years,data.female,9.6
-2011,data.urban,data.15-24years,,2.6
-2011,data.urban,data.15-24years,data.male,1.9
-2011,data.urban,data.15-24years,data.female,3.4
-2011,data.urban,data.25-44years,,7.8
-2011,data.urban,data.25-44years,data.male,5.1
-2011,data.urban,data.25-44years,data.female,10.6
-2011,data.urban,data.45-54years,,8.4
-2011,data.urban,data.45-54years,data.male,5.6
-2011,data.urban,data.45-54years,data.female,11.5
-2011,data.urban,data.55-64years,,8.4
-2011,data.urban,data.55-64years,data.male,5.3
-2011,data.urban,data.55-64years,data.female,11.6
-2011,data.urban,data.ge65years,,8.1
-2011,data.urban,data.ge65years,data.male,5.4
-2011,data.urban,data.ge65years,data.female,10.3
-2011,data.rural,data.ge15years,,7.9
-2011,data.rural,data.ge15years,data.male,4.8
-2011,data.rural,data.ge15years,data.female,11.3
-2011,data.rural,data.15-24years,,3.1
-2011,data.rural,data.15-24years,data.male,2.0
-2011,data.rural,data.15-24years,data.female,4.4
-2011,data.rural,data.25-44years,,8.5
-2011,data.rural,data.25-44years,data.male,5.3
-2011,data.rural,data.25-44years,data.female,12.4
-2011,data.rural,data.45-54years,,9.5
-2011,data.rural,data.45-54years,data.male,5.7
-2011,data.rural,data.45-54years,data.female,13.7
-2011,data.rural,data.55-64years,,9.6
-2011,data.rural,data.55-64years,data.male,5.5
-2011,data.rural,data.55-64years,data.female,14.2
-2011,data.rural,data.ge65years,,8.4
-2011,data.rural,data.ge65years,data.male,5.2
-2011,data.rural,data.ge65years,data.female,11.3
+Year,Location,Age,Sex,Value
+2011,Total,15+ years,,7.6
+2011,Total,15+ years,Males,4.7
+2011,Total,15+ years,Females,10.6
+2011,Total,15-24 years,,2.9
+2011,Total,15-24 years,Males,1.9
+2011,Total,15-24 years,Females,4.0
+2011,Total,25-44 years,,8.2
+2011,Total,25-44 years,Males,5.2
+2011,Total,25-44 years,Females,11.7
+2011,Total,45-54 years,,9.0
+2011,Total,45-54 years,Males,5.7
+2011,Total,45-54 years,Females,12.8
+2011,Total,55-64 years,,9.1
+2011,Total,55-64 years,Males,5.4
+2011,Total,55-64 years,Females,13.2
+2011,Total,65+ years,,8.3
+2011,Total,65+ years,Males,5.3
+2011,Total,65+ years,Females,11.0
+2011,Urban,15+ years,,7.1
+2011,Urban,15+ years,Males,4.7
+2011,Urban,15+ years,Females,9.6
+2011,Urban,15-24 years,,2.6
+2011,Urban,15-24 years,Males,1.9
+2011,Urban,15-24 years,Females,3.4
+2011,Urban,25-44 years,,7.8
+2011,Urban,25-44 years,Males,5.1
+2011,Urban,25-44 years,Females,10.6
+2011,Urban,45-54 years,,8.4
+2011,Urban,45-54 years,Males,5.6
+2011,Urban,45-54 years,Females,11.5
+2011,Urban,55-64 years,,8.4
+2011,Urban,55-64 years,Males,5.3
+2011,Urban,55-64 years,Females,11.6
+2011,Urban,65+ years,,8.1
+2011,Urban,65+ years,Males,5.4
+2011,Urban,65+ years,Females,10.3
+2011,Rural,15+ years,,7.9
+2011,Rural,15+ years,Males,4.8
+2011,Rural,15+ years,Females,11.3
+2011,Rural,15-24 years,,3.1
+2011,Rural,15-24 years,Males,2.0
+2011,Rural,15-24 years,Females,4.4
+2011,Rural,25-44 years,,8.5
+2011,Rural,25-44 years,Males,5.3
+2011,Rural,25-44 years,Females,12.4
+2011,Rural,45-54 years,,9.5
+2011,Rural,45-54 years,Males,5.7
+2011,Rural,45-54 years,Females,13.7
+2011,Rural,55-64 years,,9.6
+2011,Rural,55-64 years,Males,5.5
+2011,Rural,55-64 years,Females,14.2
+2011,Rural,65+ years,,8.4
+2011,Rural,65+ years,Males,5.2
+2011,Rural,65+ years,Females,11.3

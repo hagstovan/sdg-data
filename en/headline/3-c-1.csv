@@ -1,23 +1,23 @@
 Year,Value,Units
-2010,723.4,data.fulltimeequivalent
-2010,149.3,data.per10000population
-2011,712.1,data.fulltimeequivalent
-2011,147.4,data.per10000population
-2012,716.6,data.fulltimeequivalent
-2012,149.0,data.per10000population
-2013,708.2,data.fulltimeequivalent
-2013,147.3,data.per10000population
-2014,720.2,data.fulltimeequivalent
-2014,148.9,data.per10000population
-2015,692.5,data.fulltimeequivalent
-2015,141.8,data.per10000population
-2016,711.4,data.fulltimeequivalent
-2016,143.9,data.per10000population
-2017,698.8,data.fulltimeequivalent
-2017,139.4,data.per10000population
-2018,728.9,data.fulltimeequivalent
-2018,143.3,data.per10000population
-2019,752.0,data.fulltimeequivalent
-2019,145.5,data.per10000population
-2020,789.0,data.fulltimeequivalent
-2020,150.3,data.per10000population
+2010,723.4,Full-time equivalent
+2010,149.3,"Per 10,000 population"
+2011,712.1,Full-time equivalent
+2011,147.4,"Per 10,000 population"
+2012,716.6,Full-time equivalent
+2012,149.0,"Per 10,000 population"
+2013,708.2,Full-time equivalent
+2013,147.3,"Per 10,000 population"
+2014,720.2,Full-time equivalent
+2014,148.9,"Per 10,000 population"
+2015,692.5,Full-time equivalent
+2015,141.8,"Per 10,000 population"
+2016,711.4,Full-time equivalent
+2016,143.9,"Per 10,000 population"
+2017,698.8,Full-time equivalent
+2017,139.4,"Per 10,000 population"
+2018,728.9,Full-time equivalent
+2018,143.3,"Per 10,000 population"
+2019,752.0,Full-time equivalent
+2019,145.5,"Per 10,000 population"
+2020,789.0,Full-time equivalent
+2020,150.3,"Per 10,000 population"

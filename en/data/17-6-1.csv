@@ -1,113 +1,113 @@
-Year,Units,data.bandwidth,Value
-2008,data.fixedbroadbandsubscriptionsper100inhabitants,,25.4
-2008,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,23.7
-2008,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,1.7
-2008,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,..
-2008,data.fixedbroadbandsubscriptions,,12265
-2008,data.fixedbroadbandsubscriptions,data.256kbit,11436
-2008,data.fixedbroadbandsubscriptions,data.2mbit,829
-2008,data.fixedbroadbandsubscriptions,data.10mbit,..
-2009,data.fixedbroadbandsubscriptionsper100inhabitants,,29.5
-2009,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,17.8
-2009,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,11.7
-2009,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,..
-2009,data.fixedbroadbandsubscriptions,,14328
-2009,data.fixedbroadbandsubscriptions,data.256kbit,8657
-2009,data.fixedbroadbandsubscriptions,data.2mbit,5671
-2009,data.fixedbroadbandsubscriptions,data.10mbit,..
-2010,data.fixedbroadbandsubscriptionsper100inhabitants,,31.3
-2010,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,8.8
-2010,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,22.5
-2010,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,..
-2010,data.fixedbroadbandsubscriptions,,15157
-2010,data.fixedbroadbandsubscriptions,data.256kbit,4272
-2010,data.fixedbroadbandsubscriptions,data.2mbit,10885
-2010,data.fixedbroadbandsubscriptions,data.10mbit,..
-2011,data.fixedbroadbandsubscriptionsper100inhabitants,,32.6
-2011,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,5.3
-2011,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,27.3
-2011,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,..
-2011,data.fixedbroadbandsubscriptions,,15775
-2011,data.fixedbroadbandsubscriptions,data.256kbit,2549
-2011,data.fixedbroadbandsubscriptions,data.2mbit,13226
-2011,data.fixedbroadbandsubscriptions,data.10mbit,..
-2012,data.fixedbroadbandsubscriptionsper100inhabitants,,33.1
-2012,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,3.4
-2012,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,24.7
-2012,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,4.9
-2012,data.fixedbroadbandsubscriptions,,15944
-2012,data.fixedbroadbandsubscriptions,data.256kbit,1657
-2012,data.fixedbroadbandsubscriptions,data.2mbit,11910
-2012,data.fixedbroadbandsubscriptions,data.10mbit,2377
-2013,data.fixedbroadbandsubscriptionsper100inhabitants,,34.0
-2013,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,2.6
-2013,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,24.1
-2013,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,7.3
-2013,data.fixedbroadbandsubscriptions,,16324
-2013,data.fixedbroadbandsubscriptions,data.256kbit,1243
-2013,data.fixedbroadbandsubscriptions,data.2mbit,11598
-2013,data.fixedbroadbandsubscriptions,data.10mbit,3483
-2014,data.fixedbroadbandsubscriptionsper100inhabitants,,35.0
-2014,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,2.1
-2014,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,23.1
-2014,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,9.8
-2014,data.fixedbroadbandsubscriptions,,16826
-2014,data.fixedbroadbandsubscriptions,data.256kbit,1022
-2014,data.fixedbroadbandsubscriptions,data.2mbit,11110
-2014,data.fixedbroadbandsubscriptions,data.10mbit,4694
-2015,data.fixedbroadbandsubscriptionsper100inhabitants,,35.7
-2015,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,1.3
-2015,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,23.2
-2015,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,11.2
-2015,data.fixedbroadbandsubscriptions,,17330
-2015,data.fixedbroadbandsubscriptions,data.256kbit,633
-2015,data.fixedbroadbandsubscriptions,data.2mbit,11278
-2015,data.fixedbroadbandsubscriptions,data.10mbit,5419
-2016,data.fixedbroadbandsubscriptionsper100inhabitants,,36.2
-2016,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,0.7
-2016,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,11.2
-2016,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,24.4
-2016,data.fixedbroadbandsubscriptions,,17792
-2016,data.fixedbroadbandsubscriptions,data.256kbit,323
-2016,data.fixedbroadbandsubscriptions,data.2mbit,5477
-2016,data.fixedbroadbandsubscriptions,data.10mbit,11992
-2017,data.fixedbroadbandsubscriptionsper100inhabitants,,36.1
-2017,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,0.4
-2017,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,8.0
-2017,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,27.7
-2017,data.fixedbroadbandsubscriptions,,17973
-2017,data.fixedbroadbandsubscriptions,data.256kbit,186
-2017,data.fixedbroadbandsubscriptions,data.2mbit,3972
-2017,data.fixedbroadbandsubscriptions,data.10mbit,13815
-2018,data.fixedbroadbandsubscriptionsper100inhabitants,,35.8
-2018,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,0.4
-2018,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,5.1
-2018,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,30.3
-2018,data.fixedbroadbandsubscriptions,,18041
-2018,data.fixedbroadbandsubscriptions,data.256kbit,178
-2018,data.fixedbroadbandsubscriptions,data.2mbit,2550
-2018,data.fixedbroadbandsubscriptions,data.10mbit,15313
-2019,data.fixedbroadbandsubscriptionsper100inhabitants,,35.5
-2019,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,0.2
-2019,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,4.1
-2019,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,31.1
-2019,data.fixedbroadbandsubscriptions,,18181
-2019,data.fixedbroadbandsubscriptions,data.256kbit,124
-2019,data.fixedbroadbandsubscriptions,data.2mbit,2094
-2019,data.fixedbroadbandsubscriptions,data.10mbit,15963
-2020,data.fixedbroadbandsubscriptionsper100inhabitants,,34.9
-2020,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,0.2
-2020,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,3.1
-2020,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,31.6
-2020,data.fixedbroadbandsubscriptions,,18180
-2020,data.fixedbroadbandsubscriptions,data.256kbit,97
-2020,data.fixedbroadbandsubscriptions,data.2mbit,1614
-2020,data.fixedbroadbandsubscriptions,data.10mbit,16469
-2021,data.fixedbroadbandsubscriptionsper100inhabitants,,34.9
-2021,data.fixedbroadbandsubscriptionsper100inhabitants,data.256kbit,0.1
-2021,data.fixedbroadbandsubscriptionsper100inhabitants,data.2mbit,2.4
-2021,data.fixedbroadbandsubscriptionsper100inhabitants,data.10mbit,32.3
-2021,data.fixedbroadbandsubscriptions,,18443
-2021,data.fixedbroadbandsubscriptions,data.256kbit,74
-2021,data.fixedbroadbandsubscriptions,data.2mbit,1270
-2021,data.fixedbroadbandsubscriptions,data.10mbit,17099
+Year,Units,Bandbreidd,Value
+2008,Fixed broadband subscriptions per 100 inhabitants,,25.4
+2008,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,23.7
+2008,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,1.7
+2008,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,..
+2008,Fixed broadband subscriptions (number),,12265
+2008,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,11436
+2008,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,829
+2008,Fixed broadband subscriptions (number),10 Mbit/s or more,..
+2009,Fixed broadband subscriptions per 100 inhabitants,,29.5
+2009,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,17.8
+2009,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,11.7
+2009,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,..
+2009,Fixed broadband subscriptions (number),,14328
+2009,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,8657
+2009,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,5671
+2009,Fixed broadband subscriptions (number),10 Mbit/s or more,..
+2010,Fixed broadband subscriptions per 100 inhabitants,,31.3
+2010,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,8.8
+2010,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,22.5
+2010,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,..
+2010,Fixed broadband subscriptions (number),,15157
+2010,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,4272
+2010,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,10885
+2010,Fixed broadband subscriptions (number),10 Mbit/s or more,..
+2011,Fixed broadband subscriptions per 100 inhabitants,,32.6
+2011,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,5.3
+2011,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,27.3
+2011,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,..
+2011,Fixed broadband subscriptions (number),,15775
+2011,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,2549
+2011,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,13226
+2011,Fixed broadband subscriptions (number),10 Mbit/s or more,..
+2012,Fixed broadband subscriptions per 100 inhabitants,,33.1
+2012,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,3.4
+2012,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,24.7
+2012,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,4.9
+2012,Fixed broadband subscriptions (number),,15944
+2012,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,1657
+2012,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,11910
+2012,Fixed broadband subscriptions (number),10 Mbit/s or more,2377
+2013,Fixed broadband subscriptions per 100 inhabitants,,34.0
+2013,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,2.6
+2013,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,24.1
+2013,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,7.3
+2013,Fixed broadband subscriptions (number),,16324
+2013,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,1243
+2013,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,11598
+2013,Fixed broadband subscriptions (number),10 Mbit/s or more,3483
+2014,Fixed broadband subscriptions per 100 inhabitants,,35.0
+2014,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,2.1
+2014,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,23.1
+2014,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,9.8
+2014,Fixed broadband subscriptions (number),,16826
+2014,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,1022
+2014,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,11110
+2014,Fixed broadband subscriptions (number),10 Mbit/s or more,4694
+2015,Fixed broadband subscriptions per 100 inhabitants,,35.7
+2015,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,1.3
+2015,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,23.2
+2015,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,11.2
+2015,Fixed broadband subscriptions (number),,17330
+2015,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,633
+2015,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,11278
+2015,Fixed broadband subscriptions (number),10 Mbit/s or more,5419
+2016,Fixed broadband subscriptions per 100 inhabitants,,36.2
+2016,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,0.7
+2016,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,11.2
+2016,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,24.4
+2016,Fixed broadband subscriptions (number),,17792
+2016,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,323
+2016,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,5477
+2016,Fixed broadband subscriptions (number),10 Mbit/s or more,11992
+2017,Fixed broadband subscriptions per 100 inhabitants,,36.1
+2017,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,0.4
+2017,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,8.0
+2017,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,27.7
+2017,Fixed broadband subscriptions (number),,17973
+2017,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,186
+2017,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,3972
+2017,Fixed broadband subscriptions (number),10 Mbit/s or more,13815
+2018,Fixed broadband subscriptions per 100 inhabitants,,35.8
+2018,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,0.4
+2018,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,5.1
+2018,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,30.3
+2018,Fixed broadband subscriptions (number),,18041
+2018,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,178
+2018,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,2550
+2018,Fixed broadband subscriptions (number),10 Mbit/s or more,15313
+2019,Fixed broadband subscriptions per 100 inhabitants,,35.5
+2019,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,0.2
+2019,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,4.1
+2019,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,31.1
+2019,Fixed broadband subscriptions (number),,18181
+2019,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,124
+2019,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,2094
+2019,Fixed broadband subscriptions (number),10 Mbit/s or more,15963
+2020,Fixed broadband subscriptions per 100 inhabitants,,34.9
+2020,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,0.2
+2020,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,3.1
+2020,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,31.6
+2020,Fixed broadband subscriptions (number),,18180
+2020,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,97
+2020,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,1614
+2020,Fixed broadband subscriptions (number),10 Mbit/s or more,16469
+2021,Fixed broadband subscriptions per 100 inhabitants,,34.9
+2021,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,0.1
+2021,Fixed broadband subscriptions per 100 inhabitants,2 Mbit/s to less than 10 Mbit/s,2.4
+2021,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,32.3
+2021,Fixed broadband subscriptions (number),,18443
+2021,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,74
+2021,Fixed broadband subscriptions (number),2 Mbit/s to less than 10 Mbit/s,1270
+2021,Fixed broadband subscriptions (number),10 Mbit/s or more,17099
