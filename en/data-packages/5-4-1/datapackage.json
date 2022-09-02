@@ -20,41 +20,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "data.total",
+                "data.urban",
+                "data.rural",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "data.location"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+ years",
-                "15-24 years",
-                "25-44 years",
-                "45-54 years",
-                "55-64 years",
-                "65+ years",
+                "data.ge15years",
+                "data.15-24years",
+                "data.25-44years",
+                "data.45-54years",
+                "data.55-64years",
+                "data.ge65years",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "data.age"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Females",
+                "data.male",
+                "data.female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "data.sex"
           },
           {
             "name": "Value",

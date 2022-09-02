@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
+                "data.hydro",
+                "data.wind",
+                "data.solar",
+                "data.ocean",
+                "data.biofuel",
                 ""
               ]
             },
-            "title": "Energy source"
+            "title": "data.energysource"
           },
           {
             "name": "Value",

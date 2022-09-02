@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons",
-                "Per 100,000 employee",
+                "data.persons",
+                "data.pr100000",
                 ""
               ]
             },
@@ -32,24 +32,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lethal",
-                "Non-lethal",
+                "data.lethal",
+                "data.non-lethal",
                 ""
               ]
             },
-            "title": "Outcome"
+            "title": "data.outcome"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Females",
-                "Males",
+                "data.female",
+                "data.male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "data.sex"
           },
           {
             "name": "Value",

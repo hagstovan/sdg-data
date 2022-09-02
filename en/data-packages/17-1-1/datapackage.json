@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Taxes",
-                "Social contributions",
-                "Grants",
-                "Other revenue",
+                "data.taxes",
+                "data.socialcontributions",
+                "data.grants",
+                "data.otherrevenue",
                 ""
               ]
             },
-            "title": "Source"
+            "title": "data.source"
           },
           {
             "name": "Value",

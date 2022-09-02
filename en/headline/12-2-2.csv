@@ -1,70 +1,70 @@
 Year,Value,Units
-1998,817.0,"Domestic material consumption (1,000 tonnes)"
-1998,18.4,"Domestic material consumption per capita (1,000 tonnes)"
-1998,109.5,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-1999,876.2,"Domestic material consumption (1,000 tonnes)"
-1999,19.4,"Domestic material consumption per capita (1,000 tonnes)"
-1999,111.0,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2000,1134.9,"Domestic material consumption (1,000 tonnes)"
-2000,24.8,"Domestic material consumption per capita (1,000 tonnes)"
-2000,131.4,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2001,1171.6,"Domestic material consumption (1,000 tonnes)"
-2001,25.2,"Domestic material consumption per capita (1,000 tonnes)"
-2001,121.1,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2002,1121.0,"Domestic material consumption (1,000 tonnes)"
-2002,23.7,"Domestic material consumption per capita (1,000 tonnes)"
-2002,111.2,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2003,1183.3,"Domestic material consumption (1,000 tonnes)"
-2003,24.7,"Domestic material consumption per capita (1,000 tonnes)"
-2003,119.7,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2004,1141.9,"Domestic material consumption (1,000 tonnes)"
-2004,23.7,"Domestic material consumption per capita (1,000 tonnes)"
-2004,111.6,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2005,1201.5,"Domestic material consumption (1,000 tonnes)"
-2005,24.9,"Domestic material consumption per capita (1,000 tonnes)"
-2005,114.2,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2006,1333.3,"Domestic material consumption (1,000 tonnes)"
-2006,27.7,"Domestic material consumption per capita (1,000 tonnes)"
-2006,111.3,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2007,1565.8,"Domestic material consumption (1,000 tonnes)"
-2007,32.4,"Domestic material consumption per capita (1,000 tonnes)"
-2007,123.3,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2008,1496.3,"Domestic material consumption (1,000 tonnes)"
-2008,30.9,"Domestic material consumption per capita (1,000 tonnes)"
-2008,117.9,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2009,830.0,"Domestic material consumption (1,000 tonnes)"
-2009,17.1,"Domestic material consumption per capita (1,000 tonnes)"
-2009,67.4,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2010,756.4,"Domestic material consumption (1,000 tonnes)"
-2010,15.6,"Domestic material consumption per capita (1,000 tonnes)"
-2010,57.9,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2011,876.7,"Domestic material consumption (1,000 tonnes)"
-2011,18.1,"Domestic material consumption per capita (1,000 tonnes)"
-2011,65.3,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2012,905.2,"Domestic material consumption (1,000 tonnes)"
-2012,18.8,"Domestic material consumption per capita (1,000 tonnes)"
-2012,64.7,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2013,1044.4,"Domestic material consumption (1,000 tonnes)"
-2013,21.7,"Domestic material consumption per capita (1,000 tonnes)"
-2013,69.5,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2014,1407.2,"Domestic material consumption (1,000 tonnes)"
-2014,29.1,"Domestic material consumption per capita (1,000 tonnes)"
-2014,86.4,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2015,1132.6,"Domestic material consumption (1,000 tonnes)"
-2015,23.2,"Domestic material consumption per capita (1,000 tonnes)"
-2015,65.7,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2016,1251.4,"Domestic material consumption (1,000 tonnes)"
-2016,25.3,"Domestic material consumption per capita (1,000 tonnes)"
-2016,66.3,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2017,1524.7,"Domestic material consumption (1,000 tonnes)"
-2017,30.4,"Domestic material consumption per capita (1,000 tonnes)"
-2017,77.8,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2018,1520.7,"Domestic material consumption (1,000 tonnes)"
-2018,29.9,"Domestic material consumption per capita (1,000 tonnes)"
-2018,75.7,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2019,1557.7,"Domestic material consumption (1,000 tonnes)"
-2019,30.1,"Domestic material consumption per capita (1,000 tonnes)"
-2019,71.4,"Domestic material consumption per unit of GDP (1,000 tonnes)"
-2020,1788.9,"Domestic material consumption (1,000 tonnes)"
-2020,34.1,"Domestic material consumption per capita (1,000 tonnes)"
-2020,84.4,"Domestic material consumption per unit of GDP (1,000 tonnes)"
+1998,817.0,data.domesticmaterialconsumption
+1998,18.4,data.domesticmaterialconsumptionpercapita
+1998,109.5,data.domesticmaterialconsumptionperunitofgdp
+1999,876.2,data.domesticmaterialconsumption
+1999,19.4,data.domesticmaterialconsumptionpercapita
+1999,111.0,data.domesticmaterialconsumptionperunitofgdp
+2000,1134.9,data.domesticmaterialconsumption
+2000,24.8,data.domesticmaterialconsumptionpercapita
+2000,131.4,data.domesticmaterialconsumptionperunitofgdp
+2001,1171.6,data.domesticmaterialconsumption
+2001,25.2,data.domesticmaterialconsumptionpercapita
+2001,121.1,data.domesticmaterialconsumptionperunitofgdp
+2002,1121.0,data.domesticmaterialconsumption
+2002,23.7,data.domesticmaterialconsumptionpercapita
+2002,111.2,data.domesticmaterialconsumptionperunitofgdp
+2003,1183.3,data.domesticmaterialconsumption
+2003,24.7,data.domesticmaterialconsumptionpercapita
+2003,119.7,data.domesticmaterialconsumptionperunitofgdp
+2004,1141.9,data.domesticmaterialconsumption
+2004,23.7,data.domesticmaterialconsumptionpercapita
+2004,111.6,data.domesticmaterialconsumptionperunitofgdp
+2005,1201.5,data.domesticmaterialconsumption
+2005,24.9,data.domesticmaterialconsumptionpercapita
+2005,114.2,data.domesticmaterialconsumptionperunitofgdp
+2006,1333.3,data.domesticmaterialconsumption
+2006,27.7,data.domesticmaterialconsumptionpercapita
+2006,111.3,data.domesticmaterialconsumptionperunitofgdp
+2007,1565.8,data.domesticmaterialconsumption
+2007,32.4,data.domesticmaterialconsumptionpercapita
+2007,123.3,data.domesticmaterialconsumptionperunitofgdp
+2008,1496.3,data.domesticmaterialconsumption
+2008,30.9,data.domesticmaterialconsumptionpercapita
+2008,117.9,data.domesticmaterialconsumptionperunitofgdp
+2009,830.0,data.domesticmaterialconsumption
+2009,17.1,data.domesticmaterialconsumptionpercapita
+2009,67.4,data.domesticmaterialconsumptionperunitofgdp
+2010,756.4,data.domesticmaterialconsumption
+2010,15.6,data.domesticmaterialconsumptionpercapita
+2010,57.9,data.domesticmaterialconsumptionperunitofgdp
+2011,876.7,data.domesticmaterialconsumption
+2011,18.1,data.domesticmaterialconsumptionpercapita
+2011,65.3,data.domesticmaterialconsumptionperunitofgdp
+2012,905.2,data.domesticmaterialconsumption
+2012,18.8,data.domesticmaterialconsumptionpercapita
+2012,64.7,data.domesticmaterialconsumptionperunitofgdp
+2013,1044.4,data.domesticmaterialconsumption
+2013,21.7,data.domesticmaterialconsumptionpercapita
+2013,69.5,data.domesticmaterialconsumptionperunitofgdp
+2014,1407.2,data.domesticmaterialconsumption
+2014,29.1,data.domesticmaterialconsumptionpercapita
+2014,86.4,data.domesticmaterialconsumptionperunitofgdp
+2015,1132.6,data.domesticmaterialconsumption
+2015,23.2,data.domesticmaterialconsumptionpercapita
+2015,65.7,data.domesticmaterialconsumptionperunitofgdp
+2016,1251.4,data.domesticmaterialconsumption
+2016,25.3,data.domesticmaterialconsumptionpercapita
+2016,66.3,data.domesticmaterialconsumptionperunitofgdp
+2017,1524.7,data.domesticmaterialconsumption
+2017,30.4,data.domesticmaterialconsumptionpercapita
+2017,77.8,data.domesticmaterialconsumptionperunitofgdp
+2018,1520.7,data.domesticmaterialconsumption
+2018,29.9,data.domesticmaterialconsumptionpercapita
+2018,75.7,data.domesticmaterialconsumptionperunitofgdp
+2019,1557.7,data.domesticmaterialconsumption
+2019,30.1,data.domesticmaterialconsumptionpercapita
+2019,71.4,data.domesticmaterialconsumptionperunitofgdp
+2020,1788.9,data.domesticmaterialconsumption
+2020,34.1,data.domesticmaterialconsumptionpercapita
+2020,84.4,data.domesticmaterialconsumptionperunitofgdp
