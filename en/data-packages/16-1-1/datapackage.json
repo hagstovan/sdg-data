@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Police",
-                "Chief Medical Officer",
+                "data.police",
+                "data.chiefmedicalofficer",
                 ""
               ]
             },
-            "title": "Source"
+            "title": "data.source"
           },
           {
             "name": "Value",

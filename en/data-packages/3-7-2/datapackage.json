@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-19 years",
-                "10-14 years",
+                "data.15-19years",
+                "data.10-14years",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "data.age"
           },
           {
             "name": "Value",

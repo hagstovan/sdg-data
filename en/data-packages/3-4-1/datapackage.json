@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Females",
+                "data.male",
+                "data.female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "data.sex"
           },
           {
             "name": "data.disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cardiovascular disease",
-                "Cancer",
-                "Diabetes",
-                "Cronical respiratory diseases",
+                "data.cardiovasculardisease",
+                "data.cancer",
+                "data.diabetes",
+                "data.cronicalrespiratorydiseases",
                 ""
               ]
             },
-            "title": "Sjúkubólkur"
+            "title": "data.disease"
           },
           {
             "name": "Value",

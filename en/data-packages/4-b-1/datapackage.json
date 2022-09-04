@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Official development assistance for scholarships",
+                "data.officialdevelopmentassistanceforscholarships",
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "data.measure"
           },
           {
             "name": "Value",

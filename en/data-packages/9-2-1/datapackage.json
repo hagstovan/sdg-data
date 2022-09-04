@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing value added as a proportion of GDP",
-                "Manufacturing value added per capita",
+                "data.manufacturingvalueaddedasaproportionofgdp",
+                "data.manufacturingvalueaddedpercapita",
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "data.measure"
           },
           {
             "name": "Value",

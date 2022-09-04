@@ -20,17 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total renewable",
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                "Geothermal",
+                "data.totalrenewable",
+                "data.hydro",
+                "data.wind",
+                "data.solar",
+                "data.ocean",
+                "data.biofuel",
+                "data.geothermal",
                 ""
               ]
             },
-            "title": "Energy source"
+            "title": "data.energysource"
           },
           {
             "name": "Value",

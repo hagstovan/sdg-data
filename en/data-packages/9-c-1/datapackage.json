@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "At least a 3G mobile network",
-                "At least a 4G mobile network",
+                "data.3gmobntwk",
+                "data.4gmobntwk",
                 ""
               ]
             },
-            "title": "Technology"
+            "title": "data.technology"
           },
           {
             "name": "Value",
