@@ -779,7 +779,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
                 "Brenning",
                 "Tyrving",
                 "Endurnýtsla",

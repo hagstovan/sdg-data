@@ -30,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.total",
                 "data.incineration",
                 "data.landfill",
                 "data.recycling",
