@@ -2150,7 +2150,7 @@
           }
         ]
       },
-      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+      "title": "global_indicators.15-c-1-title"
     },
     {
       "path": "5-a-1/data.csv",
@@ -2920,7 +2920,7 @@
           }
         ]
       },
-      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+      "title": "global_indicators.11-4-1-title"
     },
     {
       "path": "3-8-2/data.csv",
@@ -3426,7 +3426,7 @@
           }
         ]
       },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+      "title": "Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "17-18-1/data.csv",
@@ -4526,7 +4526,7 @@
           }
         ]
       },
-      "title": "Additional financial resources mobilized for developing countries from multiple sources"
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "7-a-1/data.csv",
@@ -6133,28 +6133,6 @@
         ]
       },
       "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     }
   ]
 }
