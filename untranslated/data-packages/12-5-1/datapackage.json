@@ -30,9 +30,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "data.recycling",
                 "data.incineration",
                 "data.landfill",
-                "data.recycling",
                 "data.extraordinarypolluting",
                 ""
               ]

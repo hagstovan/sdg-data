@@ -779,9 +779,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Endurnýtsla",
                 "Brenning",
                 "Tyrving",
-                "Endurnýtsla",
                 "Serliga dálkandi",
                 ""
               ]
