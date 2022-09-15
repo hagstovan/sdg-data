@@ -1,4 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
+data.bokjarabrekka-urban,2,1
+data.havnardalur-rural,2,1
+data.kaldbak-rural,2,1
 data.rural,18,1
 data.total,18,1
 data.urban,18,1
