@@ -693,6 +693,53 @@
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
     },
     {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "prosent",
+                "tons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.wastemanagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.total",
+                "data.incineration",
+                "data.landfill",
+                "data.recycling",
+                "data.extraordinarypolluting",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "National recycling rate, tons of material recycled"
+    },
+    {
       "path": "12-a-1/data.csv",
       "name": "12-a-1",
       "profile": "tabular-data-resource",
@@ -3120,28 +3167,6 @@
         ]
       },
       "title": "Change in the extent of water-related ecosystems over time"
-    },
-    {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "National recycling rate, tons of material recycled"
     },
     {
       "path": "16-10-1/data.csv",

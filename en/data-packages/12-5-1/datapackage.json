@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "prosent",
+                "tons",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "data.wastemanagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.total",
+                "data.incineration",
+                "data.landfill",
+                "data.recycling",
+                "data.extraordinarypolluting",
+                ""
+              ]
+            },
+            "title": "data.wastemanagement"
           },
           {
             "name": "Value",

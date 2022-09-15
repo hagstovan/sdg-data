@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "prosent",
+                "tons",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "data.wastemanagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Brenning",
+                "Tyrving",
+                "Endurnýtsla",
+                "Serliga dálkandi",
+                ""
+              ]
+            },
+            "title": "Viðgerð av burturkasti"
           },
           {
             "name": "Value",
