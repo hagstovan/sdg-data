@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "prosent",
-                "tons",
+                "data.prosent",
+                "data.tons",
                 ""
               ]
             },
