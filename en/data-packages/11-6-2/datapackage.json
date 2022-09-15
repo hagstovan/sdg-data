@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.havnardalur-rural",
+                "data.bokjarabrekka-urban",
+                "data.kaldbak-rural",
+                ""
+              ]
+            },
+            "title": "data.location"
+          },
+          {
+            "name": "data.sizeofparticulatematter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.pm10",
+                "data.pm25",
+                ""
+              ]
+            },
+            "title": "data.sizeofparticulatematter"
           },
           {
             "name": "Value",

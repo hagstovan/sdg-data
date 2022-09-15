@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (land)",
+                "Bøkjarabrekka (býur)",
+                "Kaldbak (land)",
+                ""
+              ]
+            },
+            "title": "Staðseting"
+          },
+          {
+            "name": "data.sizeofparticulatematter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 μg/m³",
+                "2,5 μg/m³",
+                ""
+              ]
+            },
+            "title": "Bitlastødd"
           },
           {
             "name": "Value",
