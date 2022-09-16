@@ -711,8 +711,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.prosent",
-                "data.tons",
+                "data.percent",
+                "data.tonnes",
                 ""
               ]
             }
