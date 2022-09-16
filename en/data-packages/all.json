@@ -22,17 +22,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.totalrenewable",
-                "data.hydro",
-                "data.wind",
-                "data.solar",
-                "data.ocean",
-                "data.biofuel",
-                "data.geothermal",
+                "Total renewable",
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Ocean",
+                "Biofuel",
+                "Geothermal",
                 ""
               ]
             },
-            "title": "data.energysource"
+            "title": "Energy source"
           },
           {
             "name": "Value",
@@ -63,25 +63,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.15-24years",
-                "data.15-19years",
-                "data.20-24years",
+                "15-24 years",
+                "15-19 years",
+                "20-24 years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -112,8 +112,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.parliament",
-                "data.municipalities",
+                "Parliament",
+                "Local governments",
                 ""
               ]
             },
@@ -124,9 +124,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.womenseats-proportion",
-                "data.womenseats-number",
-                "data.seats-number",
+                "Proportion of seats held by women",
+                "Seats held by women",
+                "Number og seats",
                 ""
               ]
             },
@@ -137,74 +137,74 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.all-parties",
-                "data.conservativeparty",
-                "data.theprogressparty",
-                "data.progress",
-                "data.socialdemocraticparty",
-                "data.christianparty",
-                "data.thecentreparty",
-                "data.unionistparty",
-                "data.independenceparty",
-                "data.republicanparty",
-                "data.workersmovement",
-                "data.all-municipalities",
-                "data.argjamunicipality",
-                "data.biggjarmunicipality",
-                "data.eidismunicipality",
-                "data.elduvikarmunicipality",
-                "data.eysturmunicipality",
-                "data.famjinsmunicipality",
-                "data.fuglafjardarmunicipality",
-                "data.fugloyarmunicipality",
-                "data.funningsmunicipality",
-                "data.gjaarmunicipality",
-                "data.gotumunicipality",
-                "data.haldorsvikarmunicipality",
-                "data.hestsmunicipality",
-                "data.hosvikarmunicipality",
-                "data.hovsmunicipality",
-                "data.husamunicipality",
-                "data.husavikarmunicipality",
-                "data.hvalbiarmunicipality",
-                "data.hvalvikarmunicipality",
-                "data.hvannasundsmunicipality",
-                "data.kirkjuboarmunicipality",
-                "data.klaksvikarmunicipality",
-                "data.kollafjardarmunicipality",
-                "data.kunoyarmunicipality",
-                "data.kvivikarmunicipality",
-                "data.leirvikarmunicipality",
-                "data.midvagsmunicipality",
-                "data.mikladalsmunicipality",
-                "data.mykinesmunicipality",
-                "data.nesmunicipality",
-                "data.nolsoyarmunicipality",
-                "data.oyndarfjardarmunicipality",
-                "data.porkerismunicipality",
-                "data.runavikarmunicipality",
-                "data.saksunarmunicipality",
-                "data.sandavagsmunicipality",
-                "data.sandsmunicipality",
-                "data.sjovarmunicipality",
-                "data.skalamunicipality",
-                "data.skalavikarmunicipality",
-                "data.skopunarmunicipality",
-                "data.skugvoyarmunicipality",
-                "data.sorvagsmunicipality",
-                "data.sumbiarmunicipality",
-                "data.sundamunicipality",
-                "data.svinoyarmunicipality",
-                "data.torshavnarmunicipality",
-                "data.tvoroyrarmunicipality",
-                "data.vagamunicipality",
-                "data.vagsmunicipality",
-                "data.vestmannamunicipality",
-                "data.vidareidismunicipality",
+                "All parties",
+                "Conservative Party",
+                "The Progress Party",
+                "Progress",
+                "Social Democratic Party",
+                "Christian Party",
+                "The Centre Party",
+                "Unionist Party",
+                "Independence Party",
+                "Republican Party",
+                "Workers´ Movement",
+                "All municipalities",
+                "Argja municipality",
+                "Bíggjar municipality",
+                "Eiðis municipality",
+                "Elduvíkar municipality",
+                "Eysturmunicipality",
+                "Fámjins municipality",
+                "Fuglafjarðar municipality",
+                "Fugloyar municipality",
+                "Funnings municipality",
+                "Gjáar municipality",
+                "Gøtu municipality",
+                "Haldórsvíkar municipality",
+                "Hests municipality",
+                "Hósvíkar municipality",
+                "Hovs municipality",
+                "Húsa municipality",
+                "Húsavíkar municipality",
+                "Hvalbiar municipality",
+                "Hvalvíkar municipality",
+                "Hvannasunds municipality",
+                "Kirkjubøar municipality",
+                "Klaksvíkar municipality",
+                "Kollafjarðar municipality",
+                "Kunoyar municipality",
+                "Kvívíkar municipality",
+                "Leirvíkar municipality",
+                "Miðvágs municipality",
+                "Mikladals municipality",
+                "Mykines municipality",
+                "Nes municipality",
+                "Nólsoyar municipality",
+                "Oyndarfjarðar municipality",
+                "Porkeris municipality",
+                "Runavíkar municipality",
+                "Saksunar municipality",
+                "Sandavágs municipality",
+                "Sands municipality",
+                "Sjóvar municipality",
+                "Skála municipality",
+                "Skálavíkar municipality",
+                "Skopunar municipality",
+                "Skúgvoyar municipality",
+                "Sørvágs municipality",
+                "Sumbiar municipality",
+                "Sunda municipality",
+                "Svínoyar municipality",
+                "Tórshavnar municipality",
+                "Tvøroyrar municipality",
+                "Vága municipality",
+                "Vágs municipality",
+                "Vestmanna municipality",
+                "Viðareiðis municipality",
                 ""
               ]
             },
-            "title": "data.party-municipality"
+            "title": "Party/Municipality"
           },
           {
             "name": "Value",
@@ -235,8 +235,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.persons",
-                "data.pr100000",
+                "Persons",
+                "Per 100,000 employee",
                 ""
               ]
             },
@@ -247,24 +247,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.lethal",
-                "data.non-lethal",
+                "Lethal",
+                "Non-lethal",
                 ""
               ]
             },
-            "title": "data.outcome"
+            "title": "Outcome"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.female",
-                "data.male",
+                "Females",
+                "Males",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -343,28 +343,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.fuelcombustion",
-                "data.bunkers",
+                "Fuel combustion",
+                "International Bunkers",
                 ""
               ]
             },
-            "title": "data.mainsource"
+            "title": "Main source"
           },
           {
             "name": "source",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.energyindustries",
-                "data.manufacturingindustriesandconstruction",
-                "data.transportsector",
-                "data.othersectors",
-                "data.aviation",
-                "data.navigation",
+                "Energy industries",
+                "Manufacturing industries and construction",
+                "Transport sector",
+                "Other sectors",
+                "Aviation",
+                "Navigation",
                 ""
               ]
             },
-            "title": "source"
+            "title": "Source"
           },
           {
             "name": "Value",
@@ -419,27 +419,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.00-17years",
-                "data.18-24years",
-                "data.25-54years",
-                "data.55-66years",
-                "data.67years",
+                "00-17 years",
+                "18-24 years",
+                "25-54 years",
+                "55-66 years",
+                "67+ years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -470,9 +470,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp",
+                "Domestic material consumption (1,000 tonnes)",
+                "Domestic material consumption per capita (1,000 tonnes)",
+                "Domestic material consumption per unit of GDP (1,000 tonnes)",
                 ""
               ]
             },
@@ -483,14 +483,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
+                "Biomass",
+                "Metallic minerals",
+                "Non-metallic minerals",
+                "Fossil energy and other products",
                 ""
               ]
             },
-            "title": "data.materialtype"
+            "title": "Material type"
           },
           {
             "name": "Value",
@@ -569,25 +569,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.15-24years",
-                "data.25-54years",
-                "data.55-74years",
+                "15-24 years",
+                "25-54 years",
+                "55-74 years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -618,12 +618,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.officialdevelopmentassistance",
-                "data.disasterrelief",
+                "Net official development assistance as a proportion of the gross national income (GNI)",
+                "Disaster relief as a proportion og GNI",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -702,41 +702,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.total",
-                "data.urban",
-                "data.rural",
+                "Total",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "data.location"
+            "title": "Location"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ge15years",
-                "data.15-24years",
-                "data.25-44years",
-                "data.45-54years",
-                "data.55-64years",
-                "data.ge65years",
+                "15+ years",
+                "15-24 years",
+                "25-44 years",
+                "45-54 years",
+                "55-64 years",
+                "65+ years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -767,8 +767,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.tonnes",
+                "per cent",
+                "tonnes",
                 ""
               ]
             },
@@ -779,14 +779,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.recycling",
-                "data.incineration",
-                "data.landfill",
-                "data.extraordinarypolluting",
+                "Recycling",
+                "Incineration",
+                "Landfill",
+                "Extraordinary polluting",
                 ""
               ]
             },
-            "title": "data.wastemanagement"
+            "title": "Waste management"
           },
           {
             "name": "Value",
@@ -817,15 +817,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.hydro",
-                "data.wind",
-                "data.solar",
-                "data.ocean",
-                "data.biofuel",
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Ocean",
+                "Biofuel",
                 ""
               ]
             },
-            "title": "data.energysource"
+            "title": "Energy source"
           },
           {
             "name": "Value",
@@ -856,27 +856,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.15-24years",
-                "data.25-39years",
-                "data.40-49years",
-                "data.50-59years",
-                "data.60years",
+                "15-24 years",
+                "25-39 ár",
+                "40-49 ár",
+                "50-59 ár",
+                "60+ ár",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -1027,11 +1027,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.netofficialdevelopmentassistance",
+                "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -1062,14 +1062,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.taxes",
-                "data.socialcontributions",
-                "data.grants",
-                "data.otherrevenue",
+                "Taxes",
+                "Social contributions",
+                "Grants",
+                "Other revenue",
                 ""
               ]
             },
-            "title": "data.source"
+            "title": "Source"
           },
           {
             "name": "Value",
@@ -1100,26 +1100,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "data.disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.cardiovasculardisease",
-                "data.cancer",
-                "data.diabetes",
-                "data.cronicalrespiratorydiseases",
+                "Cardiovascular disease",
+                "Cancer",
+                "Diabetes",
+                "Cronical respiratory diseases",
                 ""
               ]
             },
-            "title": "data.disease"
+            "title": "Sjúkubólkur"
           },
           {
             "name": "Value",
@@ -1174,25 +1174,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.havnardalur-rural",
-                "data.bokjarabrekka-urban",
-                "data.kaldbak-rural",
+                "Havnardalur (rural)",
+                "Bøkjarabrekka (urban)",
+                "Kaldbak (rural)",
                 ""
               ]
             },
-            "title": "data.location"
+            "title": "Location"
           },
           {
             "name": "data.sizeofparticulatematter",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.pm10",
-                "data.pm25",
+                "10 μg/m³",
+                "2.5 μg/m³",
                 ""
               ]
             },
-            "title": "data.sizeofparticulatematter"
+            "title": "Size of particulate matter"
           },
           {
             "name": "Value",
@@ -1223,12 +1223,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.3gmobntwk",
-                "data.4gmobntwk",
+                "At least a 3G mobile network",
+                "At least a 4G mobile network",
                 ""
               ]
             },
-            "title": "data.technology"
+            "title": "Technology"
           },
           {
             "name": "Value",
@@ -1259,34 +1259,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.merchandisetrade",
-                "data.personalremittances",
-                "data.currentaccountbalance",
-                "data.foreigndirectinvestment",
-                "data.portfolioinvestment",
-                "data.reservesinmonthsofimports",
-                "data.debtservice",
-                "data.externaldebtstocks",
-                "data.DECalternativeconversionfactor",
-                "data.annualbroadmoneygrowth",
-                "data.broadmoney",
-                "data.banknonperformingloans",
-                "data.bankcapitaltoassetsratio",
-                "data.taxrevenuegdp",
-                "data.cashsurplusdeficit",
-                "data.grossPSD",
-                "data.annualGDPgrowth",
-                "data.annualgrowthofthegrosscapitalformation",
-                "data.annualgrowthofhouseholdsandNPISHs",
-                "data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure",
-                "data.annualgrowthofexportsofgoodsandservices",
-                "data.annualgrowthofimportsofgoodsandservices",
-                "data.annualinflationconsumerprices",
-                "data.totalunemploymentoutoftotallabourforce",
+                "Merchandise trade as a proportion of GDP (%)",
+                "Personal remittances, received, as a proportion of GDP (%)",
+                "Current account balance as a proportion of GDP (%)",
+                "Foreign direct investment, net inflows, as a proportion of GDP (%)",
+                "Portfolio investment, net (BoP, current US$)",
+                "Total reserves in months of imports",
+                "Debt service (PPG and IMF only, % of exports of goods, services and primary income)",
+                "External debt stocks as a proportion of GNI (%)",
+                "DEC alternative conversion factor (LCU per US$)",
+                "Annual broad money growth (%)",
+                "Broad money to total reserves ratio",
+                "Bank nonperforming loans to total gross loans (%)",
+                "Bank capital to assets ratio (%)",
+                "Tax revenue as a proportion of GDP (%)",
+                "Cash surplus/deficit as a proportion of GDP (%)",
+                "Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, as a proportion of GDP (%)",
+                "Annual GDP growth (%)",
+                "Annual growth of the gross capital formation (%)",
+                "Annual growth of households and NPISHs final consumption expenditure (%)",
+                "Annual growth of the general government final consumption expenditure (%)",
+                "Annual growth of exports of goods and services (%)",
+                "Annual growth of imports of goods and services (%)",
+                "Annual inflation, consumer prices (%)",
+                "Total unemployment out of total labour force (national estimate) (%)",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -1317,9 +1317,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp",
+                "Domestic material consumption (1,000 tonnes)",
+                "Domestic material consumption per capita (1,000 tonnes)",
+                "Domestic material consumption per unit of GDP (1,000 tonnes)",
                 ""
               ]
             },
@@ -1330,14 +1330,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
+                "Biomass",
+                "Metallic minerals",
+                "Non-metallic minerals",
+                "Fossil energy and other products",
                 ""
               ]
             },
-            "title": "data.materialtype"
+            "title": "Material type"
           },
           {
             "name": "Value",
@@ -1368,25 +1368,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.primaryeducation",
-                "data.lowersecondaryeducation",
-                "data.uppersecondaryeducation",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
                 ""
               ]
             },
-            "title": "data.education"
+            "title": "Education"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1417,12 +1417,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1573,8 +1573,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.fulltimeequivalent",
-                "data.per10000population",
+                "Full-time equivalent",
+                "Per 10,000 population",
                 ""
               ]
             },
@@ -1585,14 +1585,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists",
-                "data.dentists",
+                "Medical doctors",
+                "Nursing and midwifery personnel",
+                "Pharmacists",
+                "Dentists",
                 ""
               ]
             },
-            "title": "data.occupation"
+            "title": "Occupation"
           },
           {
             "name": "Value",
@@ -1647,11 +1647,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.officialdevelopmentassistanceforscholarships",
+                "Official development assistance for scholarships",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -1730,13 +1730,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.education",
-                "data.health",
-                "data.socialprotection",
+                "Education",
+                "Health",
+                "Social protection",
                 ""
               ]
             },
-            "title": "essentialservice"
+            "title": "Essential Service"
           },
           {
             "name": "Value",
@@ -1767,8 +1767,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.fixedbroadbandsubscriptionsper100inhabitants",
-                "data.fixedbroadbandsubscriptions",
+                "Fixed broadband subscriptions per 100 inhabitants",
+                "Fixed broadband subscriptions (number)",
                 ""
               ]
             },
@@ -1779,13 +1779,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.256kbit",
-                "data.2mbit",
-                "data.10mbit",
+                "256 Kbit/s to less than 2 Mbit/s",
+                "2 Mbit/s to less than 10 Mbit/s",
+                "10 Mbit/s or more",
                 ""
               ]
             },
-            "title": "data.bandwidth"
+            "title": "Bandbreidd"
           },
           {
             "name": "Value",
@@ -1816,12 +1816,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.police",
-                "data.chiefmedicalofficer",
+                "Police",
+                "Chief Medical Officer",
                 ""
               ]
             },
-            "title": "data.source"
+            "title": "Source"
           },
           {
             "name": "Value",
@@ -1876,27 +1876,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "00-17years",
-                "18-24years",
-                "25-54years",
-                "55-66years",
-                "67years",
+                "00-17 years",
+                "18-24 years",
+                "25-54 years",
+                "55-66 years",
+                "67+ years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -1951,12 +1951,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.15-19years",
-                "data.10-14years",
+                "15-19 years",
+                "10-14 years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -1987,12 +1987,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -2071,8 +2071,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.dkkmill",
+                "per cent",
+                "DKK mill.",
                 ""
               ]
             },
@@ -2083,25 +2083,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.merchandiseimport",
-                "data.merchandiseexport",
+                "Merchandise import",
+                "Merchandise export",
                 ""
               ]
             },
-            "title": "data.importexport"
+            "title": "Import/Export"
           },
           {
             "name": "data.countrygroup",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.developed-leastdeveloped",
-                "data.developed-ex-china",
-                "data.leastdeveloped",
+                "Developing countries and least developed countries",
+                "Developing countries and least developed countries excluding China",
+                "Least developed countries",
                 ""
               ]
             },
-            "title": "data.countrygroup"
+            "title": "Country group"
           },
           {
             "name": "Value",
@@ -2156,12 +2156,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.15-17years",
-                "data.00-14years",
+                "15-17 years",
+                "younger than 15 years",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -2192,11 +2192,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.bottom40percentofthepopulation",
+                "Bottom 40 per cent of the population",
                 ""
               ]
             },
-            "title": "data.growthrateofdisposableincome"
+            "title": "Growth rate of disposable income"
           },
           {
             "name": "Value",
@@ -2227,12 +2227,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.manufacturingvalueaddedasaproportionofgdp",
-                "data.manufacturingvalueaddedpercapita",
+                "Manufacturing value added as a proportion of GDP",
+                "Manufacturing value added per capita",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Measure"
           },
           {
             "name": "Value",

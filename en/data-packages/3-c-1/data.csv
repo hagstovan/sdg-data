@@ -1,111 +1,111 @@
-Year,Units,data.occupation,Value
-2010,data.fulltimeequivalent,,723.4
-2010,data.fulltimeequivalent,data.medicaldoctors,113.3
-2010,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,509.1
-2010,data.fulltimeequivalent,data.pharmacists,62.0
-2010,data.fulltimeequivalent,data.dentists,39.0
-2010,data.per10000population,,149.3
-2010,data.per10000population,data.medicaldoctors,23.4
-2010,data.per10000population,data.nursingandmidwiferypersonnel,105.1
-2010,data.per10000population,data.pharmacists,12.8
-2010,data.per10000population,data.dentists,80.5
-2011,data.fulltimeequivalent,,712.1
-2011,data.fulltimeequivalent,data.medicaldoctors,115.4
-2011,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,501.7
-2011,data.fulltimeequivalent,data.pharmacists,56.0
-2011,data.fulltimeequivalent,data.dentists,39.0
-2011,data.per10000population,,147.4
-2011,data.per10000population,data.medicaldoctors,23.9
-2011,data.per10000population,data.nursingandmidwiferypersonnel,103.9
-2011,data.per10000population,data.pharmacists,11.6
-2011,data.per10000population,data.dentists,80.7
-2012,data.fulltimeequivalent,,716.6
-2012,data.fulltimeequivalent,data.medicaldoctors,117.7
-2012,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,496.9
-2012,data.fulltimeequivalent,data.pharmacists,58.0
-2012,data.fulltimeequivalent,data.dentists,44.0
-2012,data.per10000population,,149.0
-2012,data.per10000population,data.medicaldoctors,24.5
-2012,data.per10000population,data.nursingandmidwiferypersonnel,103.3
-2012,data.per10000population,data.pharmacists,12.1
-2012,data.per10000population,data.dentists,91.5
-2013,data.fulltimeequivalent,,708.2
-2013,data.fulltimeequivalent,data.medicaldoctors,121.9
-2013,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,484.6
-2013,data.fulltimeequivalent,data.pharmacists,57.7
-2013,data.fulltimeequivalent,data.dentists,44.0
-2013,data.per10000population,,147.3
-2013,data.per10000population,data.medicaldoctors,25.4
-2013,data.per10000population,data.nursingandmidwiferypersonnel,100.8
-2013,data.per10000population,data.pharmacists,12.0
-2013,data.per10000population,data.dentists,91.5
-2014,data.fulltimeequivalent,,720.2
-2014,data.fulltimeequivalent,data.medicaldoctors,126.9
-2014,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,486.3
-2014,data.fulltimeequivalent,data.pharmacists,61.0
-2014,data.fulltimeequivalent,data.dentists,46.0
-2014,data.per10000population,,148.9
-2014,data.per10000population,data.medicaldoctors,26.2
-2014,data.per10000population,data.nursingandmidwiferypersonnel,100.6
-2014,data.per10000population,data.pharmacists,12.6
-2014,data.per10000population,data.dentists,95.1
-2015,data.fulltimeequivalent,,692.5
-2015,data.fulltimeequivalent,data.medicaldoctors,132.1
-2015,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,495.7
-2015,data.fulltimeequivalent,data.pharmacists,64.7
-2015,data.fulltimeequivalent,data.dentists,
-2015,data.per10000population,,141.8
-2015,data.per10000population,data.medicaldoctors,27.0
-2015,data.per10000population,data.nursingandmidwiferypersonnel,101.5
-2015,data.per10000population,data.pharmacists,13.2
-2015,data.per10000population,data.dentists,
-2016,data.fulltimeequivalent,,711.4
-2016,data.fulltimeequivalent,data.medicaldoctors,133.8
-2016,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,513.9
-2016,data.fulltimeequivalent,data.pharmacists,63.7
-2016,data.fulltimeequivalent,data.dentists,
-2016,data.per10000population,,143.9
-2016,data.per10000population,data.medicaldoctors,27.1
-2016,data.per10000population,data.nursingandmidwiferypersonnel,103.9
-2016,data.per10000population,data.pharmacists,12.9
-2016,data.per10000population,data.dentists,
-2017,data.fulltimeequivalent,,698.8
-2017,data.fulltimeequivalent,data.medicaldoctors,130.4
-2017,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,499.5
-2017,data.fulltimeequivalent,data.pharmacists,68.9
-2017,data.fulltimeequivalent,data.dentists,
-2017,data.per10000population,,139.4
-2017,data.per10000population,data.medicaldoctors,26.0
-2017,data.per10000population,data.nursingandmidwiferypersonnel,99.6
-2017,data.per10000population,data.pharmacists,13.7
-2017,data.per10000population,data.dentists,
-2018,data.fulltimeequivalent,,728.9
-2018,data.fulltimeequivalent,data.medicaldoctors,141.2
-2018,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,522.1
-2018,data.fulltimeequivalent,data.pharmacists,65.6
-2018,data.fulltimeequivalent,data.dentists,
-2018,data.per10000population,,143.3
-2018,data.per10000population,data.medicaldoctors,27.8
-2018,data.per10000population,data.nursingandmidwiferypersonnel,102.6
-2018,data.per10000population,data.pharmacists,12.9
-2018,data.per10000population,data.dentists,
-2019,data.fulltimeequivalent,,752.0
-2019,data.fulltimeequivalent,data.medicaldoctors,146.6
-2019,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,536.3
-2019,data.fulltimeequivalent,data.pharmacists,69.1
-2019,data.fulltimeequivalent,data.dentists,
-2019,data.per10000population,,145.5
-2019,data.per10000population,data.medicaldoctors,28.4
-2019,data.per10000population,data.nursingandmidwiferypersonnel,103.8
-2019,data.per10000population,data.pharmacists,13.4
-2019,data.per10000population,data.dentists,
-2020,data.fulltimeequivalent,,789.0
-2020,data.fulltimeequivalent,data.medicaldoctors,
-2020,data.fulltimeequivalent,data.nursingandmidwiferypersonnel,553.4
-2020,data.fulltimeequivalent,data.pharmacists,66.7
-2020,data.fulltimeequivalent,data.dentists,51.0
-2020,data.per10000population,,150.3
-2020,data.per10000population,data.medicaldoctors,
-2020,data.per10000population,data.nursingandmidwiferypersonnel,
-2020,data.per10000population,data.pharmacists,12.7
-2020,data.per10000population,data.dentists,97.1
+Year,Units,Occupation,Value
+2010,Full-time equivalent,,723.4
+2010,Full-time equivalent,Medical doctors,113.3
+2010,Full-time equivalent,Nursing and midwifery personnel,509.1
+2010,Full-time equivalent,Pharmacists,62.0
+2010,Full-time equivalent,Dentists,39.0
+2010,"Per 10,000 population",,149.3
+2010,"Per 10,000 population",Medical doctors,23.4
+2010,"Per 10,000 population",Nursing and midwifery personnel,105.1
+2010,"Per 10,000 population",Pharmacists,12.8
+2010,"Per 10,000 population",Dentists,80.5
+2011,Full-time equivalent,,712.1
+2011,Full-time equivalent,Medical doctors,115.4
+2011,Full-time equivalent,Nursing and midwifery personnel,501.7
+2011,Full-time equivalent,Pharmacists,56.0
+2011,Full-time equivalent,Dentists,39.0
+2011,"Per 10,000 population",,147.4
+2011,"Per 10,000 population",Medical doctors,23.9
+2011,"Per 10,000 population",Nursing and midwifery personnel,103.9
+2011,"Per 10,000 population",Pharmacists,11.6
+2011,"Per 10,000 population",Dentists,80.7
+2012,Full-time equivalent,,716.6
+2012,Full-time equivalent,Medical doctors,117.7
+2012,Full-time equivalent,Nursing and midwifery personnel,496.9
+2012,Full-time equivalent,Pharmacists,58.0
+2012,Full-time equivalent,Dentists,44.0
+2012,"Per 10,000 population",,149.0
+2012,"Per 10,000 population",Medical doctors,24.5
+2012,"Per 10,000 population",Nursing and midwifery personnel,103.3
+2012,"Per 10,000 population",Pharmacists,12.1
+2012,"Per 10,000 population",Dentists,91.5
+2013,Full-time equivalent,,708.2
+2013,Full-time equivalent,Medical doctors,121.9
+2013,Full-time equivalent,Nursing and midwifery personnel,484.6
+2013,Full-time equivalent,Pharmacists,57.7
+2013,Full-time equivalent,Dentists,44.0
+2013,"Per 10,000 population",,147.3
+2013,"Per 10,000 population",Medical doctors,25.4
+2013,"Per 10,000 population",Nursing and midwifery personnel,100.8
+2013,"Per 10,000 population",Pharmacists,12.0
+2013,"Per 10,000 population",Dentists,91.5
+2014,Full-time equivalent,,720.2
+2014,Full-time equivalent,Medical doctors,126.9
+2014,Full-time equivalent,Nursing and midwifery personnel,486.3
+2014,Full-time equivalent,Pharmacists,61.0
+2014,Full-time equivalent,Dentists,46.0
+2014,"Per 10,000 population",,148.9
+2014,"Per 10,000 population",Medical doctors,26.2
+2014,"Per 10,000 population",Nursing and midwifery personnel,100.6
+2014,"Per 10,000 population",Pharmacists,12.6
+2014,"Per 10,000 population",Dentists,95.1
+2015,Full-time equivalent,,692.5
+2015,Full-time equivalent,Medical doctors,132.1
+2015,Full-time equivalent,Nursing and midwifery personnel,495.7
+2015,Full-time equivalent,Pharmacists,64.7
+2015,Full-time equivalent,Dentists,
+2015,"Per 10,000 population",,141.8
+2015,"Per 10,000 population",Medical doctors,27.0
+2015,"Per 10,000 population",Nursing and midwifery personnel,101.5
+2015,"Per 10,000 population",Pharmacists,13.2
+2015,"Per 10,000 population",Dentists,
+2016,Full-time equivalent,,711.4
+2016,Full-time equivalent,Medical doctors,133.8
+2016,Full-time equivalent,Nursing and midwifery personnel,513.9
+2016,Full-time equivalent,Pharmacists,63.7
+2016,Full-time equivalent,Dentists,
+2016,"Per 10,000 population",,143.9
+2016,"Per 10,000 population",Medical doctors,27.1
+2016,"Per 10,000 population",Nursing and midwifery personnel,103.9
+2016,"Per 10,000 population",Pharmacists,12.9
+2016,"Per 10,000 population",Dentists,
+2017,Full-time equivalent,,698.8
+2017,Full-time equivalent,Medical doctors,130.4
+2017,Full-time equivalent,Nursing and midwifery personnel,499.5
+2017,Full-time equivalent,Pharmacists,68.9
+2017,Full-time equivalent,Dentists,
+2017,"Per 10,000 population",,139.4
+2017,"Per 10,000 population",Medical doctors,26.0
+2017,"Per 10,000 population",Nursing and midwifery personnel,99.6
+2017,"Per 10,000 population",Pharmacists,13.7
+2017,"Per 10,000 population",Dentists,
+2018,Full-time equivalent,,728.9
+2018,Full-time equivalent,Medical doctors,141.2
+2018,Full-time equivalent,Nursing and midwifery personnel,522.1
+2018,Full-time equivalent,Pharmacists,65.6
+2018,Full-time equivalent,Dentists,
+2018,"Per 10,000 population",,143.3
+2018,"Per 10,000 population",Medical doctors,27.8
+2018,"Per 10,000 population",Nursing and midwifery personnel,102.6
+2018,"Per 10,000 population",Pharmacists,12.9
+2018,"Per 10,000 population",Dentists,
+2019,Full-time equivalent,,752.0
+2019,Full-time equivalent,Medical doctors,146.6
+2019,Full-time equivalent,Nursing and midwifery personnel,536.3
+2019,Full-time equivalent,Pharmacists,69.1
+2019,Full-time equivalent,Dentists,
+2019,"Per 10,000 population",,145.5
+2019,"Per 10,000 population",Medical doctors,28.4
+2019,"Per 10,000 population",Nursing and midwifery personnel,103.8
+2019,"Per 10,000 population",Pharmacists,13.4
+2019,"Per 10,000 population",Dentists,
+2020,Full-time equivalent,,789.0
+2020,Full-time equivalent,Medical doctors,
+2020,Full-time equivalent,Nursing and midwifery personnel,553.4
+2020,Full-time equivalent,Pharmacists,66.7
+2020,Full-time equivalent,Dentists,51.0
+2020,"Per 10,000 population",,150.3
+2020,"Per 10,000 population",Medical doctors,
+2020,"Per 10,000 population",Nursing and midwifery personnel,
+2020,"Per 10,000 population",Pharmacists,12.7
+2020,"Per 10,000 population",Dentists,97.1

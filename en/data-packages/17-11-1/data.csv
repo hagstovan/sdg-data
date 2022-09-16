@@ -1,409 +1,409 @@
-Year,Units,data.importexport,data.countrygroup,Value
-1988,data.percent,data.merchandiseimport,data.developed-leastdeveloped,1.7
-1988,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,56.3
-1988,data.percent,data.merchandiseimport,data.developed-ex-china,1.6
-1988,data.dkkmill,data.merchandiseimport,data.developed-ex-china,51.7
-1988,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1988,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1988,data.percent,data.merchandiseexport,data.developed-leastdeveloped,3.9
-1988,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,92.3
-1988,data.percent,data.merchandiseexport,data.developed-ex-china,3.9
-1988,data.dkkmill,data.merchandiseexport,data.developed-ex-china,92.3
-1988,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1988,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1989,data.percent,data.merchandiseimport,data.developed-leastdeveloped,1.8
-1989,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,45.0
-1989,data.percent,data.merchandiseimport,data.developed-ex-china,1.6
-1989,data.dkkmill,data.merchandiseimport,data.developed-ex-china,41.4
-1989,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1989,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1989,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.9
-1989,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,23.1
-1989,data.percent,data.merchandiseexport,data.developed-ex-china,0.9
-1989,data.dkkmill,data.merchandiseexport,data.developed-ex-china,23.1
-1989,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1989,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1990,data.percent,data.merchandiseimport,data.developed-leastdeveloped,1.6
-1990,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,33.4
-1990,data.percent,data.merchandiseimport,data.developed-ex-china,1.4
-1990,data.dkkmill,data.merchandiseimport,data.developed-ex-china,29.8
-1990,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1990,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1990,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.4
-1990,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,9.7
-1990,data.percent,data.merchandiseexport,data.developed-ex-china,0.4
-1990,data.dkkmill,data.merchandiseexport,data.developed-ex-china,9.7
-1990,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1990,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1991,data.percent,data.merchandiseimport,data.developed-leastdeveloped,1.7
-1991,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,33.2
-1991,data.percent,data.merchandiseimport,data.developed-ex-china,1.5
-1991,data.dkkmill,data.merchandiseimport,data.developed-ex-china,28.8
-1991,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1991,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1991,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.7
-1991,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,18.7
-1991,data.percent,data.merchandiseexport,data.developed-ex-china,0.7
-1991,data.dkkmill,data.merchandiseexport,data.developed-ex-china,18.7
-1991,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1991,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1992,data.percent,data.merchandiseimport,data.developed-leastdeveloped,2.9
-1992,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,57.2
-1992,data.percent,data.merchandiseimport,data.developed-ex-china,2.4
-1992,data.dkkmill,data.merchandiseimport,data.developed-ex-china,48.3
-1992,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1992,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1992,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.9
-1992,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,22.7
-1992,data.percent,data.merchandiseexport,data.developed-ex-china,0.9
-1992,data.dkkmill,data.merchandiseexport,data.developed-ex-china,22.7
-1992,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1992,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1993,data.percent,data.merchandiseimport,data.developed-leastdeveloped,3.2
-1993,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,45.6
-1993,data.percent,data.merchandiseimport,data.developed-ex-china,2.4
-1993,data.dkkmill,data.merchandiseimport,data.developed-ex-china,34.9
-1993,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1993,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1993,data.percent,data.merchandiseexport,data.developed-leastdeveloped,1.8
-1993,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,37.8
-1993,data.percent,data.merchandiseexport,data.developed-ex-china,1.8
-1993,data.dkkmill,data.merchandiseexport,data.developed-ex-china,37.8
-1993,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1993,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1994,data.percent,data.merchandiseimport,data.developed-leastdeveloped,4.2
-1994,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,65.9
-1994,data.percent,data.merchandiseimport,data.developed-ex-china,3.1
-1994,data.dkkmill,data.merchandiseimport,data.developed-ex-china,48.8
-1994,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1994,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1994,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.4
-1994,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,7.4
-1994,data.percent,data.merchandiseexport,data.developed-ex-china,0.4
-1994,data.dkkmill,data.merchandiseexport,data.developed-ex-china,7.4
-1994,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1994,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1995,data.percent,data.merchandiseimport,data.developed-leastdeveloped,3.8
-1995,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,68.4
-1995,data.percent,data.merchandiseimport,data.developed-ex-china,2.5
-1995,data.dkkmill,data.merchandiseimport,data.developed-ex-china,45.3
-1995,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1995,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1995,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.5
-1995,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,10.5
-1995,data.percent,data.merchandiseexport,data.developed-ex-china,0.5
-1995,data.dkkmill,data.merchandiseexport,data.developed-ex-china,10.5
-1995,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1995,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1996,data.percent,data.merchandiseimport,data.developed-leastdeveloped,4.1
-1996,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,87.7
-1996,data.percent,data.merchandiseimport,data.developed-ex-china,3.0
-1996,data.dkkmill,data.merchandiseimport,data.developed-ex-china,64.0
-1996,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1996,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1996,data.percent,data.merchandiseexport,data.developed-leastdeveloped,3.8
-1996,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,91.3
-1996,data.percent,data.merchandiseexport,data.developed-ex-china,3.6
-1996,data.dkkmill,data.merchandiseexport,data.developed-ex-china,86.4
-1996,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1996,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1997,data.percent,data.merchandiseimport,data.developed-leastdeveloped,4.1
-1997,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,98.2
-1997,data.percent,data.merchandiseimport,data.developed-ex-china,2.9
-1997,data.dkkmill,data.merchandiseimport,data.developed-ex-china,68.1
-1997,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1997,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1997,data.percent,data.merchandiseexport,data.developed-leastdeveloped,2.0
-1997,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,51.1
-1997,data.percent,data.merchandiseexport,data.developed-ex-china,1.9
-1997,data.dkkmill,data.merchandiseexport,data.developed-ex-china,47.7
-1997,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1997,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1998,data.percent,data.merchandiseimport,data.developed-leastdeveloped,8.8
-1998,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,228.5
-1998,data.percent,data.merchandiseimport,data.developed-ex-china,7.5
-1998,data.dkkmill,data.merchandiseimport,data.developed-ex-china,194.6
-1998,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1998,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1998,data.percent,data.merchandiseexport,data.developed-leastdeveloped,1.2
-1998,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,36.0
-1998,data.percent,data.merchandiseexport,data.developed-ex-china,1.2
-1998,data.dkkmill,data.merchandiseexport,data.developed-ex-china,34.0
-1998,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1998,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-1999,data.percent,data.merchandiseimport,data.developed-leastdeveloped,7.1
-1999,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,235.1
-1999,data.percent,data.merchandiseimport,data.developed-ex-china,5.8
-1999,data.dkkmill,data.merchandiseimport,data.developed-ex-china,192.9
-1999,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-1999,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-1999,data.percent,data.merchandiseexport,data.developed-leastdeveloped,0.9
-1999,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,29.2
-1999,data.percent,data.merchandiseexport,data.developed-ex-china,0.6
-1999,data.dkkmill,data.merchandiseexport,data.developed-ex-china,20.3
-1999,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-1999,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2000,data.percent,data.merchandiseimport,data.developed-leastdeveloped,8.9
-2000,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,382.1
-2000,data.percent,data.merchandiseimport,data.developed-ex-china,7.8
-2000,data.dkkmill,data.merchandiseimport,data.developed-ex-china,336.9
-2000,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2000,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2000,data.percent,data.merchandiseexport,data.developed-leastdeveloped,1.1
-2000,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,42.6
-2000,data.percent,data.merchandiseexport,data.developed-ex-china,0.5
-2000,data.dkkmill,data.merchandiseexport,data.developed-ex-china,20.2
-2000,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2000,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2001,data.percent,data.merchandiseimport,data.developed-leastdeveloped,4.7
-2001,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,196.0
-2001,data.percent,data.merchandiseimport,data.developed-ex-china,3.4
-2001,data.dkkmill,data.merchandiseimport,data.developed-ex-china,142.9
-2001,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2001,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2001,data.percent,data.merchandiseexport,data.developed-leastdeveloped,1.7
-2001,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,72.7
-2001,data.percent,data.merchandiseexport,data.developed-ex-china,0.6
-2001,data.dkkmill,data.merchandiseexport,data.developed-ex-china,24.9
-2001,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2001,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2002,data.percent,data.merchandiseimport,data.developed-leastdeveloped,5.7
-2002,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,222.4
-2002,data.percent,data.merchandiseimport,data.developed-ex-china,4.1
-2002,data.dkkmill,data.merchandiseimport,data.developed-ex-china,161.1
-2002,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2002,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2002,data.percent,data.merchandiseexport,data.developed-leastdeveloped,1.5
-2002,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,64.4
-2002,data.percent,data.merchandiseexport,data.developed-ex-china,1.0
-2002,data.dkkmill,data.merchandiseexport,data.developed-ex-china,41.4
-2002,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2002,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2003,data.percent,data.merchandiseimport,data.developed-leastdeveloped,4.8
-2003,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,234.1
-2003,data.percent,data.merchandiseimport,data.developed-ex-china,3.3
-2003,data.dkkmill,data.merchandiseimport,data.developed-ex-china,160.6
-2003,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2003,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2003,data.percent,data.merchandiseexport,data.developed-leastdeveloped,2.5
-2003,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,96.3
-2003,data.percent,data.merchandiseexport,data.developed-ex-china,1.1
-2003,data.dkkmill,data.merchandiseexport,data.developed-ex-china,44.8
-2003,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2003,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2004,data.percent,data.merchandiseimport,data.developed-leastdeveloped,6.9
-2004,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,257.8
-2004,data.percent,data.merchandiseimport,data.developed-ex-china,4.6
-2004,data.dkkmill,data.merchandiseimport,data.developed-ex-china,171.6
-2004,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2004,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2004,data.percent,data.merchandiseexport,data.developed-leastdeveloped,2.7
-2004,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,100.7
-2004,data.percent,data.merchandiseexport,data.developed-ex-china,1.6
-2004,data.dkkmill,data.merchandiseexport,data.developed-ex-china,57.8
-2004,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2004,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2005,data.percent,data.merchandiseimport,data.developed-leastdeveloped,9.1
-2005,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,408.4
-2005,data.percent,data.merchandiseimport,data.developed-ex-china,6.6
-2005,data.dkkmill,data.merchandiseimport,data.developed-ex-china,295.6
-2005,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2005,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2005,data.percent,data.merchandiseexport,data.developed-leastdeveloped,3.7
-2005,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,131.6
-2005,data.percent,data.merchandiseexport,data.developed-ex-china,1.5
-2005,data.dkkmill,data.merchandiseexport,data.developed-ex-china,55.3
-2005,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2005,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2006,data.percent,data.merchandiseimport,data.developed-leastdeveloped,9.2
-2006,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,430.9
-2006,data.percent,data.merchandiseimport,data.developed-ex-china,6.0
-2006,data.dkkmill,data.merchandiseimport,data.developed-ex-china,283.6
-2006,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2006,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2006,data.percent,data.merchandiseexport,data.developed-leastdeveloped,3.6
-2006,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,137.5
-2006,data.percent,data.merchandiseexport,data.developed-ex-china,1.5
-2006,data.dkkmill,data.merchandiseexport,data.developed-ex-china,59.1
-2006,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2006,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2007,data.percent,data.merchandiseimport,data.developed-leastdeveloped,12.8
-2007,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,709.1
-2007,data.percent,data.merchandiseimport,data.developed-ex-china,9.4
-2007,data.dkkmill,data.merchandiseimport,data.developed-ex-china,520.3
-2007,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2007,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2007,data.percent,data.merchandiseexport,data.developed-leastdeveloped,6.4
-2007,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,258.5
-2007,data.percent,data.merchandiseexport,data.developed-ex-china,5.0
-2007,data.dkkmill,data.merchandiseexport,data.developed-ex-china,201.1
-2007,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2007,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2008,data.percent,data.merchandiseimport,data.developed-leastdeveloped,8.8
-2008,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,441.8
-2008,data.percent,data.merchandiseimport,data.developed-ex-china,4.9
-2008,data.dkkmill,data.merchandiseimport,data.developed-ex-china,247.4
-2008,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2008,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2008,data.percent,data.merchandiseexport,data.developed-leastdeveloped,7.2
-2008,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,312.0
-2008,data.percent,data.merchandiseexport,data.developed-ex-china,6.7
-2008,data.dkkmill,data.merchandiseexport,data.developed-ex-china,290.3
-2008,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2008,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2009,data.percent,data.merchandiseimport,data.developed-leastdeveloped,15.8
-2009,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,666.8
-2009,data.percent,data.merchandiseimport,data.developed-ex-china,11.5
-2009,data.dkkmill,data.merchandiseimport,data.developed-ex-china,484.6
-2009,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2009,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2009,data.percent,data.merchandiseexport,data.developed-leastdeveloped,11.8
-2009,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,484.6
-2009,data.percent,data.merchandiseexport,data.developed-ex-china,9.4
-2009,data.dkkmill,data.merchandiseexport,data.developed-ex-china,387.6
-2009,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2009,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2010,data.percent,data.merchandiseimport,data.developed-leastdeveloped,9.2
-2010,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,401.9
-2010,data.percent,data.merchandiseimport,data.developed-ex-china,4.8
-2010,data.dkkmill,data.merchandiseimport,data.developed-ex-china,209.7
-2010,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2010,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2010,data.percent,data.merchandiseexport,data.developed-leastdeveloped,14.3
-2010,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,673.5
-2010,data.percent,data.merchandiseexport,data.developed-ex-china,13.0
-2010,data.dkkmill,data.merchandiseexport,data.developed-ex-china,609.9
-2010,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2010,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2011,data.percent,data.merchandiseimport,data.developed-leastdeveloped,10.3
-2011,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,545.6
-2011,data.percent,data.merchandiseimport,data.developed-ex-china,6.4
-2011,data.dkkmill,data.merchandiseimport,data.developed-ex-china,337.0
-2011,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2011,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2011,data.percent,data.merchandiseexport,data.developed-leastdeveloped,13.8
-2011,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,746.5
-2011,data.percent,data.merchandiseexport,data.developed-ex-china,11.9
-2011,data.dkkmill,data.merchandiseexport,data.developed-ex-china,644.3
-2011,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2011,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2012,data.percent,data.merchandiseimport,data.developed-leastdeveloped,10.3
-2012,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,685.4
-2012,data.percent,data.merchandiseimport,data.developed-ex-china,6.4
-2012,data.dkkmill,data.merchandiseimport,data.developed-ex-china,426.1
-2012,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2012,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2012,data.percent,data.merchandiseexport,data.developed-leastdeveloped,14.9
-2012,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,828.4
-2012,data.percent,data.merchandiseexport,data.developed-ex-china,11.4
-2012,data.dkkmill,data.merchandiseexport,data.developed-ex-china,630.5
-2012,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2012,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2013,data.percent,data.merchandiseimport,data.developed-leastdeveloped,8.4
-2013,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,529.5
-2013,data.percent,data.merchandiseimport,data.developed-ex-china,4.1
-2013,data.dkkmill,data.merchandiseimport,data.developed-ex-china,255.4
-2013,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2013,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2013,data.percent,data.merchandiseexport,data.developed-leastdeveloped,17.9
-2013,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,1104.5
-2013,data.percent,data.merchandiseexport,data.developed-ex-china,11.3
-2013,data.dkkmill,data.merchandiseexport,data.developed-ex-china,699.1
-2013,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2013,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2014,data.percent,data.merchandiseimport,data.developed-leastdeveloped,9.1
-2014,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,549.2
-2014,data.percent,data.merchandiseimport,data.developed-ex-china,4.3
-2014,data.dkkmill,data.merchandiseimport,data.developed-ex-china,258.2
-2014,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2014,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2014,data.percent,data.merchandiseexport,data.developed-leastdeveloped,15.9
-2014,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,1029.1
-2014,data.percent,data.merchandiseexport,data.developed-ex-china,9.9
-2014,data.dkkmill,data.merchandiseexport,data.developed-ex-china,640.4
-2014,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2014,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2015,data.percent,data.merchandiseimport,data.developed-leastdeveloped,13.6
-2015,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,832.6
-2015,data.percent,data.merchandiseimport,data.developed-ex-china,7.6
-2015,data.dkkmill,data.merchandiseimport,data.developed-ex-china,467.5
-2015,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2015,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2015,data.percent,data.merchandiseexport,data.developed-leastdeveloped,13.3
-2015,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,921.7
-2015,data.percent,data.merchandiseexport,data.developed-ex-china,8.5
-2015,data.dkkmill,data.merchandiseexport,data.developed-ex-china,591.5
-2015,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2015,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2016,data.percent,data.merchandiseimport,data.developed-leastdeveloped,9.7
-2016,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,639.5
-2016,data.percent,data.merchandiseimport,data.developed-ex-china,4.1
-2016,data.dkkmill,data.merchandiseimport,data.developed-ex-china,268.8
-2016,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2016,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2016,data.percent,data.merchandiseexport,data.developed-leastdeveloped,10.3
-2016,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,831.3
-2016,data.percent,data.merchandiseexport,data.developed-ex-china,3.2
-2016,data.dkkmill,data.merchandiseexport,data.developed-ex-china,262.3
-2016,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2016,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2017,data.percent,data.merchandiseimport,data.developed-leastdeveloped,9.5
-2017,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,691.7
-2017,data.percent,data.merchandiseimport,data.developed-ex-china,4.0
-2017,data.dkkmill,data.merchandiseimport,data.developed-ex-china,288.4
-2017,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2017,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2017,data.percent,data.merchandiseexport,data.developed-leastdeveloped,8.8
-2017,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,773.3
-2017,data.percent,data.merchandiseexport,data.developed-ex-china,3.6
-2017,data.dkkmill,data.merchandiseexport,data.developed-ex-china,313.2
-2017,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2017,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2018,data.percent,data.merchandiseimport,data.developed-leastdeveloped,10.0
-2018,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,775.6
-2018,data.percent,data.merchandiseimport,data.developed-ex-china,3.8
-2018,data.dkkmill,data.merchandiseimport,data.developed-ex-china,295.6
-2018,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2018,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.1
-2018,data.percent,data.merchandiseexport,data.developed-leastdeveloped,11.8
-2018,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,946.9
-2018,data.percent,data.merchandiseexport,data.developed-ex-china,3.8
-2018,data.dkkmill,data.merchandiseexport,data.developed-ex-china,302.7
-2018,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2018,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2019,data.percent,data.merchandiseimport,data.developed-leastdeveloped,10.6
-2019,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,871.9
-2019,data.percent,data.merchandiseimport,data.developed-ex-china,4.6
-2019,data.dkkmill,data.merchandiseimport,data.developed-ex-china,378.0
-2019,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2019,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2019,data.percent,data.merchandiseexport,data.developed-leastdeveloped,12.2
-2019,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,1162.7
-2019,data.percent,data.merchandiseexport,data.developed-ex-china,3.3
-2019,data.dkkmill,data.merchandiseexport,data.developed-ex-china,317.6
-2019,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2019,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2020,data.percent,data.merchandiseimport,data.developed-leastdeveloped,11.4
-2020,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,930.8
-2020,data.percent,data.merchandiseimport,data.developed-ex-china,5.1
-2020,data.dkkmill,data.merchandiseimport,data.developed-ex-china,413.1
-2020,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2020,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2020,data.percent,data.merchandiseexport,data.developed-leastdeveloped,8.8
-2020,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,736.9
-2020,data.percent,data.merchandiseexport,data.developed-ex-china,5.0
-2020,data.dkkmill,data.merchandiseexport,data.developed-ex-china,417.7
-2020,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2020,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
-2021,data.percent,data.merchandiseimport,data.developed-leastdeveloped,10.9
-2021,data.dkkmill,data.merchandiseimport,data.developed-leastdeveloped,1012.7
-2021,data.percent,data.merchandiseimport,data.developed-ex-china,4.0
-2021,data.dkkmill,data.merchandiseimport,data.developed-ex-china,370.0
-2021,data.percent,data.merchandiseimport,data.leastdeveloped,0.0
-2021,data.dkkmill,data.merchandiseimport,data.leastdeveloped,0.0
-2021,data.percent,data.merchandiseexport,data.developed-leastdeveloped,8.6
-2021,data.dkkmill,data.merchandiseexport,data.developed-leastdeveloped,869.1
-2021,data.percent,data.merchandiseexport,data.developed-ex-china,4.2
-2021,data.dkkmill,data.merchandiseexport,data.developed-ex-china,422.0
-2021,data.percent,data.merchandiseexport,data.leastdeveloped,0.0
-2021,data.dkkmill,data.merchandiseexport,data.leastdeveloped,0.0
+Year,Units,Import/Export,Country group,Value
+1988,per cent,Merchandise import,Developing countries and least developed countries,1.7
+1988,DKK mill.,Merchandise import,Developing countries and least developed countries,56.3
+1988,per cent,Merchandise import,Developing countries and least developed countries excluding China,1.6
+1988,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,51.7
+1988,per cent,Merchandise import,Least developed countries,0.0
+1988,DKK mill.,Merchandise import,Least developed countries,0.0
+1988,per cent,Merchandise export,Developing countries and least developed countries,3.9
+1988,DKK mill.,Merchandise export,Developing countries and least developed countries,92.3
+1988,per cent,Merchandise export,Developing countries and least developed countries excluding China,3.9
+1988,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,92.3
+1988,per cent,Merchandise export,Least developed countries,0.0
+1988,DKK mill.,Merchandise export,Least developed countries,0.0
+1989,per cent,Merchandise import,Developing countries and least developed countries,1.8
+1989,DKK mill.,Merchandise import,Developing countries and least developed countries,45.0
+1989,per cent,Merchandise import,Developing countries and least developed countries excluding China,1.6
+1989,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,41.4
+1989,per cent,Merchandise import,Least developed countries,0.0
+1989,DKK mill.,Merchandise import,Least developed countries,0.0
+1989,per cent,Merchandise export,Developing countries and least developed countries,0.9
+1989,DKK mill.,Merchandise export,Developing countries and least developed countries,23.1
+1989,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.9
+1989,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,23.1
+1989,per cent,Merchandise export,Least developed countries,0.0
+1989,DKK mill.,Merchandise export,Least developed countries,0.0
+1990,per cent,Merchandise import,Developing countries and least developed countries,1.6
+1990,DKK mill.,Merchandise import,Developing countries and least developed countries,33.4
+1990,per cent,Merchandise import,Developing countries and least developed countries excluding China,1.4
+1990,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,29.8
+1990,per cent,Merchandise import,Least developed countries,0.0
+1990,DKK mill.,Merchandise import,Least developed countries,0.0
+1990,per cent,Merchandise export,Developing countries and least developed countries,0.4
+1990,DKK mill.,Merchandise export,Developing countries and least developed countries,9.7
+1990,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.4
+1990,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,9.7
+1990,per cent,Merchandise export,Least developed countries,0.0
+1990,DKK mill.,Merchandise export,Least developed countries,0.0
+1991,per cent,Merchandise import,Developing countries and least developed countries,1.7
+1991,DKK mill.,Merchandise import,Developing countries and least developed countries,33.2
+1991,per cent,Merchandise import,Developing countries and least developed countries excluding China,1.5
+1991,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,28.8
+1991,per cent,Merchandise import,Least developed countries,0.0
+1991,DKK mill.,Merchandise import,Least developed countries,0.0
+1991,per cent,Merchandise export,Developing countries and least developed countries,0.7
+1991,DKK mill.,Merchandise export,Developing countries and least developed countries,18.7
+1991,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.7
+1991,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,18.7
+1991,per cent,Merchandise export,Least developed countries,0.0
+1991,DKK mill.,Merchandise export,Least developed countries,0.0
+1992,per cent,Merchandise import,Developing countries and least developed countries,2.9
+1992,DKK mill.,Merchandise import,Developing countries and least developed countries,57.2
+1992,per cent,Merchandise import,Developing countries and least developed countries excluding China,2.4
+1992,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,48.3
+1992,per cent,Merchandise import,Least developed countries,0.0
+1992,DKK mill.,Merchandise import,Least developed countries,0.0
+1992,per cent,Merchandise export,Developing countries and least developed countries,0.9
+1992,DKK mill.,Merchandise export,Developing countries and least developed countries,22.7
+1992,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.9
+1992,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,22.7
+1992,per cent,Merchandise export,Least developed countries,0.0
+1992,DKK mill.,Merchandise export,Least developed countries,0.0
+1993,per cent,Merchandise import,Developing countries and least developed countries,3.2
+1993,DKK mill.,Merchandise import,Developing countries and least developed countries,45.6
+1993,per cent,Merchandise import,Developing countries and least developed countries excluding China,2.4
+1993,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,34.9
+1993,per cent,Merchandise import,Least developed countries,0.0
+1993,DKK mill.,Merchandise import,Least developed countries,0.0
+1993,per cent,Merchandise export,Developing countries and least developed countries,1.8
+1993,DKK mill.,Merchandise export,Developing countries and least developed countries,37.8
+1993,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.8
+1993,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,37.8
+1993,per cent,Merchandise export,Least developed countries,0.0
+1993,DKK mill.,Merchandise export,Least developed countries,0.0
+1994,per cent,Merchandise import,Developing countries and least developed countries,4.2
+1994,DKK mill.,Merchandise import,Developing countries and least developed countries,65.9
+1994,per cent,Merchandise import,Developing countries and least developed countries excluding China,3.1
+1994,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,48.8
+1994,per cent,Merchandise import,Least developed countries,0.0
+1994,DKK mill.,Merchandise import,Least developed countries,0.0
+1994,per cent,Merchandise export,Developing countries and least developed countries,0.4
+1994,DKK mill.,Merchandise export,Developing countries and least developed countries,7.4
+1994,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.4
+1994,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,7.4
+1994,per cent,Merchandise export,Least developed countries,0.0
+1994,DKK mill.,Merchandise export,Least developed countries,0.0
+1995,per cent,Merchandise import,Developing countries and least developed countries,3.8
+1995,DKK mill.,Merchandise import,Developing countries and least developed countries,68.4
+1995,per cent,Merchandise import,Developing countries and least developed countries excluding China,2.5
+1995,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,45.3
+1995,per cent,Merchandise import,Least developed countries,0.0
+1995,DKK mill.,Merchandise import,Least developed countries,0.0
+1995,per cent,Merchandise export,Developing countries and least developed countries,0.5
+1995,DKK mill.,Merchandise export,Developing countries and least developed countries,10.5
+1995,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.5
+1995,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,10.5
+1995,per cent,Merchandise export,Least developed countries,0.0
+1995,DKK mill.,Merchandise export,Least developed countries,0.0
+1996,per cent,Merchandise import,Developing countries and least developed countries,4.1
+1996,DKK mill.,Merchandise import,Developing countries and least developed countries,87.7
+1996,per cent,Merchandise import,Developing countries and least developed countries excluding China,3.0
+1996,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,64.0
+1996,per cent,Merchandise import,Least developed countries,0.0
+1996,DKK mill.,Merchandise import,Least developed countries,0.0
+1996,per cent,Merchandise export,Developing countries and least developed countries,3.8
+1996,DKK mill.,Merchandise export,Developing countries and least developed countries,91.3
+1996,per cent,Merchandise export,Developing countries and least developed countries excluding China,3.6
+1996,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,86.4
+1996,per cent,Merchandise export,Least developed countries,0.0
+1996,DKK mill.,Merchandise export,Least developed countries,0.0
+1997,per cent,Merchandise import,Developing countries and least developed countries,4.1
+1997,DKK mill.,Merchandise import,Developing countries and least developed countries,98.2
+1997,per cent,Merchandise import,Developing countries and least developed countries excluding China,2.9
+1997,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,68.1
+1997,per cent,Merchandise import,Least developed countries,0.0
+1997,DKK mill.,Merchandise import,Least developed countries,0.0
+1997,per cent,Merchandise export,Developing countries and least developed countries,2.0
+1997,DKK mill.,Merchandise export,Developing countries and least developed countries,51.1
+1997,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.9
+1997,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,47.7
+1997,per cent,Merchandise export,Least developed countries,0.0
+1997,DKK mill.,Merchandise export,Least developed countries,0.0
+1998,per cent,Merchandise import,Developing countries and least developed countries,8.8
+1998,DKK mill.,Merchandise import,Developing countries and least developed countries,228.5
+1998,per cent,Merchandise import,Developing countries and least developed countries excluding China,7.5
+1998,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,194.6
+1998,per cent,Merchandise import,Least developed countries,0.0
+1998,DKK mill.,Merchandise import,Least developed countries,0.0
+1998,per cent,Merchandise export,Developing countries and least developed countries,1.2
+1998,DKK mill.,Merchandise export,Developing countries and least developed countries,36.0
+1998,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.2
+1998,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,34.0
+1998,per cent,Merchandise export,Least developed countries,0.0
+1998,DKK mill.,Merchandise export,Least developed countries,0.0
+1999,per cent,Merchandise import,Developing countries and least developed countries,7.1
+1999,DKK mill.,Merchandise import,Developing countries and least developed countries,235.1
+1999,per cent,Merchandise import,Developing countries and least developed countries excluding China,5.8
+1999,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,192.9
+1999,per cent,Merchandise import,Least developed countries,0.0
+1999,DKK mill.,Merchandise import,Least developed countries,0.0
+1999,per cent,Merchandise export,Developing countries and least developed countries,0.9
+1999,DKK mill.,Merchandise export,Developing countries and least developed countries,29.2
+1999,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.6
+1999,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,20.3
+1999,per cent,Merchandise export,Least developed countries,0.0
+1999,DKK mill.,Merchandise export,Least developed countries,0.0
+2000,per cent,Merchandise import,Developing countries and least developed countries,8.9
+2000,DKK mill.,Merchandise import,Developing countries and least developed countries,382.1
+2000,per cent,Merchandise import,Developing countries and least developed countries excluding China,7.8
+2000,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,336.9
+2000,per cent,Merchandise import,Least developed countries,0.0
+2000,DKK mill.,Merchandise import,Least developed countries,0.0
+2000,per cent,Merchandise export,Developing countries and least developed countries,1.1
+2000,DKK mill.,Merchandise export,Developing countries and least developed countries,42.6
+2000,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.5
+2000,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,20.2
+2000,per cent,Merchandise export,Least developed countries,0.0
+2000,DKK mill.,Merchandise export,Least developed countries,0.0
+2001,per cent,Merchandise import,Developing countries and least developed countries,4.7
+2001,DKK mill.,Merchandise import,Developing countries and least developed countries,196.0
+2001,per cent,Merchandise import,Developing countries and least developed countries excluding China,3.4
+2001,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,142.9
+2001,per cent,Merchandise import,Least developed countries,0.0
+2001,DKK mill.,Merchandise import,Least developed countries,0.0
+2001,per cent,Merchandise export,Developing countries and least developed countries,1.7
+2001,DKK mill.,Merchandise export,Developing countries and least developed countries,72.7
+2001,per cent,Merchandise export,Developing countries and least developed countries excluding China,0.6
+2001,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,24.9
+2001,per cent,Merchandise export,Least developed countries,0.0
+2001,DKK mill.,Merchandise export,Least developed countries,0.0
+2002,per cent,Merchandise import,Developing countries and least developed countries,5.7
+2002,DKK mill.,Merchandise import,Developing countries and least developed countries,222.4
+2002,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.1
+2002,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,161.1
+2002,per cent,Merchandise import,Least developed countries,0.0
+2002,DKK mill.,Merchandise import,Least developed countries,0.0
+2002,per cent,Merchandise export,Developing countries and least developed countries,1.5
+2002,DKK mill.,Merchandise export,Developing countries and least developed countries,64.4
+2002,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.0
+2002,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,41.4
+2002,per cent,Merchandise export,Least developed countries,0.0
+2002,DKK mill.,Merchandise export,Least developed countries,0.0
+2003,per cent,Merchandise import,Developing countries and least developed countries,4.8
+2003,DKK mill.,Merchandise import,Developing countries and least developed countries,234.1
+2003,per cent,Merchandise import,Developing countries and least developed countries excluding China,3.3
+2003,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,160.6
+2003,per cent,Merchandise import,Least developed countries,0.0
+2003,DKK mill.,Merchandise import,Least developed countries,0.0
+2003,per cent,Merchandise export,Developing countries and least developed countries,2.5
+2003,DKK mill.,Merchandise export,Developing countries and least developed countries,96.3
+2003,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.1
+2003,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,44.8
+2003,per cent,Merchandise export,Least developed countries,0.0
+2003,DKK mill.,Merchandise export,Least developed countries,0.0
+2004,per cent,Merchandise import,Developing countries and least developed countries,6.9
+2004,DKK mill.,Merchandise import,Developing countries and least developed countries,257.8
+2004,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.6
+2004,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,171.6
+2004,per cent,Merchandise import,Least developed countries,0.0
+2004,DKK mill.,Merchandise import,Least developed countries,0.0
+2004,per cent,Merchandise export,Developing countries and least developed countries,2.7
+2004,DKK mill.,Merchandise export,Developing countries and least developed countries,100.7
+2004,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.6
+2004,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,57.8
+2004,per cent,Merchandise export,Least developed countries,0.0
+2004,DKK mill.,Merchandise export,Least developed countries,0.0
+2005,per cent,Merchandise import,Developing countries and least developed countries,9.1
+2005,DKK mill.,Merchandise import,Developing countries and least developed countries,408.4
+2005,per cent,Merchandise import,Developing countries and least developed countries excluding China,6.6
+2005,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,295.6
+2005,per cent,Merchandise import,Least developed countries,0.0
+2005,DKK mill.,Merchandise import,Least developed countries,0.0
+2005,per cent,Merchandise export,Developing countries and least developed countries,3.7
+2005,DKK mill.,Merchandise export,Developing countries and least developed countries,131.6
+2005,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.5
+2005,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,55.3
+2005,per cent,Merchandise export,Least developed countries,0.0
+2005,DKK mill.,Merchandise export,Least developed countries,0.0
+2006,per cent,Merchandise import,Developing countries and least developed countries,9.2
+2006,DKK mill.,Merchandise import,Developing countries and least developed countries,430.9
+2006,per cent,Merchandise import,Developing countries and least developed countries excluding China,6.0
+2006,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,283.6
+2006,per cent,Merchandise import,Least developed countries,0.0
+2006,DKK mill.,Merchandise import,Least developed countries,0.0
+2006,per cent,Merchandise export,Developing countries and least developed countries,3.6
+2006,DKK mill.,Merchandise export,Developing countries and least developed countries,137.5
+2006,per cent,Merchandise export,Developing countries and least developed countries excluding China,1.5
+2006,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,59.1
+2006,per cent,Merchandise export,Least developed countries,0.0
+2006,DKK mill.,Merchandise export,Least developed countries,0.0
+2007,per cent,Merchandise import,Developing countries and least developed countries,12.8
+2007,DKK mill.,Merchandise import,Developing countries and least developed countries,709.1
+2007,per cent,Merchandise import,Developing countries and least developed countries excluding China,9.4
+2007,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,520.3
+2007,per cent,Merchandise import,Least developed countries,0.0
+2007,DKK mill.,Merchandise import,Least developed countries,0.0
+2007,per cent,Merchandise export,Developing countries and least developed countries,6.4
+2007,DKK mill.,Merchandise export,Developing countries and least developed countries,258.5
+2007,per cent,Merchandise export,Developing countries and least developed countries excluding China,5.0
+2007,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,201.1
+2007,per cent,Merchandise export,Least developed countries,0.0
+2007,DKK mill.,Merchandise export,Least developed countries,0.0
+2008,per cent,Merchandise import,Developing countries and least developed countries,8.8
+2008,DKK mill.,Merchandise import,Developing countries and least developed countries,441.8
+2008,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.9
+2008,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,247.4
+2008,per cent,Merchandise import,Least developed countries,0.0
+2008,DKK mill.,Merchandise import,Least developed countries,0.0
+2008,per cent,Merchandise export,Developing countries and least developed countries,7.2
+2008,DKK mill.,Merchandise export,Developing countries and least developed countries,312.0
+2008,per cent,Merchandise export,Developing countries and least developed countries excluding China,6.7
+2008,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,290.3
+2008,per cent,Merchandise export,Least developed countries,0.0
+2008,DKK mill.,Merchandise export,Least developed countries,0.0
+2009,per cent,Merchandise import,Developing countries and least developed countries,15.8
+2009,DKK mill.,Merchandise import,Developing countries and least developed countries,666.8
+2009,per cent,Merchandise import,Developing countries and least developed countries excluding China,11.5
+2009,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,484.6
+2009,per cent,Merchandise import,Least developed countries,0.0
+2009,DKK mill.,Merchandise import,Least developed countries,0.1
+2009,per cent,Merchandise export,Developing countries and least developed countries,11.8
+2009,DKK mill.,Merchandise export,Developing countries and least developed countries,484.6
+2009,per cent,Merchandise export,Developing countries and least developed countries excluding China,9.4
+2009,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,387.6
+2009,per cent,Merchandise export,Least developed countries,0.0
+2009,DKK mill.,Merchandise export,Least developed countries,0.0
+2010,per cent,Merchandise import,Developing countries and least developed countries,9.2
+2010,DKK mill.,Merchandise import,Developing countries and least developed countries,401.9
+2010,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.8
+2010,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,209.7
+2010,per cent,Merchandise import,Least developed countries,0.0
+2010,DKK mill.,Merchandise import,Least developed countries,0.1
+2010,per cent,Merchandise export,Developing countries and least developed countries,14.3
+2010,DKK mill.,Merchandise export,Developing countries and least developed countries,673.5
+2010,per cent,Merchandise export,Developing countries and least developed countries excluding China,13.0
+2010,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,609.9
+2010,per cent,Merchandise export,Least developed countries,0.0
+2010,DKK mill.,Merchandise export,Least developed countries,0.0
+2011,per cent,Merchandise import,Developing countries and least developed countries,10.3
+2011,DKK mill.,Merchandise import,Developing countries and least developed countries,545.6
+2011,per cent,Merchandise import,Developing countries and least developed countries excluding China,6.4
+2011,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,337.0
+2011,per cent,Merchandise import,Least developed countries,0.0
+2011,DKK mill.,Merchandise import,Least developed countries,0.1
+2011,per cent,Merchandise export,Developing countries and least developed countries,13.8
+2011,DKK mill.,Merchandise export,Developing countries and least developed countries,746.5
+2011,per cent,Merchandise export,Developing countries and least developed countries excluding China,11.9
+2011,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,644.3
+2011,per cent,Merchandise export,Least developed countries,0.0
+2011,DKK mill.,Merchandise export,Least developed countries,0.0
+2012,per cent,Merchandise import,Developing countries and least developed countries,10.3
+2012,DKK mill.,Merchandise import,Developing countries and least developed countries,685.4
+2012,per cent,Merchandise import,Developing countries and least developed countries excluding China,6.4
+2012,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,426.1
+2012,per cent,Merchandise import,Least developed countries,0.0
+2012,DKK mill.,Merchandise import,Least developed countries,0.1
+2012,per cent,Merchandise export,Developing countries and least developed countries,14.9
+2012,DKK mill.,Merchandise export,Developing countries and least developed countries,828.4
+2012,per cent,Merchandise export,Developing countries and least developed countries excluding China,11.4
+2012,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,630.5
+2012,per cent,Merchandise export,Least developed countries,0.0
+2012,DKK mill.,Merchandise export,Least developed countries,0.0
+2013,per cent,Merchandise import,Developing countries and least developed countries,8.4
+2013,DKK mill.,Merchandise import,Developing countries and least developed countries,529.5
+2013,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.1
+2013,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,255.4
+2013,per cent,Merchandise import,Least developed countries,0.0
+2013,DKK mill.,Merchandise import,Least developed countries,0.0
+2013,per cent,Merchandise export,Developing countries and least developed countries,17.9
+2013,DKK mill.,Merchandise export,Developing countries and least developed countries,1104.5
+2013,per cent,Merchandise export,Developing countries and least developed countries excluding China,11.3
+2013,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,699.1
+2013,per cent,Merchandise export,Least developed countries,0.0
+2013,DKK mill.,Merchandise export,Least developed countries,0.0
+2014,per cent,Merchandise import,Developing countries and least developed countries,9.1
+2014,DKK mill.,Merchandise import,Developing countries and least developed countries,549.2
+2014,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.3
+2014,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,258.2
+2014,per cent,Merchandise import,Least developed countries,0.0
+2014,DKK mill.,Merchandise import,Least developed countries,0.1
+2014,per cent,Merchandise export,Developing countries and least developed countries,15.9
+2014,DKK mill.,Merchandise export,Developing countries and least developed countries,1029.1
+2014,per cent,Merchandise export,Developing countries and least developed countries excluding China,9.9
+2014,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,640.4
+2014,per cent,Merchandise export,Least developed countries,0.0
+2014,DKK mill.,Merchandise export,Least developed countries,0.0
+2015,per cent,Merchandise import,Developing countries and least developed countries,13.6
+2015,DKK mill.,Merchandise import,Developing countries and least developed countries,832.6
+2015,per cent,Merchandise import,Developing countries and least developed countries excluding China,7.6
+2015,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,467.5
+2015,per cent,Merchandise import,Least developed countries,0.0
+2015,DKK mill.,Merchandise import,Least developed countries,0.0
+2015,per cent,Merchandise export,Developing countries and least developed countries,13.3
+2015,DKK mill.,Merchandise export,Developing countries and least developed countries,921.7
+2015,per cent,Merchandise export,Developing countries and least developed countries excluding China,8.5
+2015,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,591.5
+2015,per cent,Merchandise export,Least developed countries,0.0
+2015,DKK mill.,Merchandise export,Least developed countries,0.0
+2016,per cent,Merchandise import,Developing countries and least developed countries,9.7
+2016,DKK mill.,Merchandise import,Developing countries and least developed countries,639.5
+2016,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.1
+2016,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,268.8
+2016,per cent,Merchandise import,Least developed countries,0.0
+2016,DKK mill.,Merchandise import,Least developed countries,0.1
+2016,per cent,Merchandise export,Developing countries and least developed countries,10.3
+2016,DKK mill.,Merchandise export,Developing countries and least developed countries,831.3
+2016,per cent,Merchandise export,Developing countries and least developed countries excluding China,3.2
+2016,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,262.3
+2016,per cent,Merchandise export,Least developed countries,0.0
+2016,DKK mill.,Merchandise export,Least developed countries,0.0
+2017,per cent,Merchandise import,Developing countries and least developed countries,9.5
+2017,DKK mill.,Merchandise import,Developing countries and least developed countries,691.7
+2017,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.0
+2017,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,288.4
+2017,per cent,Merchandise import,Least developed countries,0.0
+2017,DKK mill.,Merchandise import,Least developed countries,0.0
+2017,per cent,Merchandise export,Developing countries and least developed countries,8.8
+2017,DKK mill.,Merchandise export,Developing countries and least developed countries,773.3
+2017,per cent,Merchandise export,Developing countries and least developed countries excluding China,3.6
+2017,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,313.2
+2017,per cent,Merchandise export,Least developed countries,0.0
+2017,DKK mill.,Merchandise export,Least developed countries,0.0
+2018,per cent,Merchandise import,Developing countries and least developed countries,10.0
+2018,DKK mill.,Merchandise import,Developing countries and least developed countries,775.6
+2018,per cent,Merchandise import,Developing countries and least developed countries excluding China,3.8
+2018,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,295.6
+2018,per cent,Merchandise import,Least developed countries,0.0
+2018,DKK mill.,Merchandise import,Least developed countries,0.1
+2018,per cent,Merchandise export,Developing countries and least developed countries,11.8
+2018,DKK mill.,Merchandise export,Developing countries and least developed countries,946.9
+2018,per cent,Merchandise export,Developing countries and least developed countries excluding China,3.8
+2018,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,302.7
+2018,per cent,Merchandise export,Least developed countries,0.0
+2018,DKK mill.,Merchandise export,Least developed countries,0.0
+2019,per cent,Merchandise import,Developing countries and least developed countries,10.6
+2019,DKK mill.,Merchandise import,Developing countries and least developed countries,871.9
+2019,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.6
+2019,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,378.0
+2019,per cent,Merchandise import,Least developed countries,0.0
+2019,DKK mill.,Merchandise import,Least developed countries,0.0
+2019,per cent,Merchandise export,Developing countries and least developed countries,12.2
+2019,DKK mill.,Merchandise export,Developing countries and least developed countries,1162.7
+2019,per cent,Merchandise export,Developing countries and least developed countries excluding China,3.3
+2019,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,317.6
+2019,per cent,Merchandise export,Least developed countries,0.0
+2019,DKK mill.,Merchandise export,Least developed countries,0.0
+2020,per cent,Merchandise import,Developing countries and least developed countries,11.4
+2020,DKK mill.,Merchandise import,Developing countries and least developed countries,930.8
+2020,per cent,Merchandise import,Developing countries and least developed countries excluding China,5.1
+2020,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,413.1
+2020,per cent,Merchandise import,Least developed countries,0.0
+2020,DKK mill.,Merchandise import,Least developed countries,0.0
+2020,per cent,Merchandise export,Developing countries and least developed countries,8.8
+2020,DKK mill.,Merchandise export,Developing countries and least developed countries,736.9
+2020,per cent,Merchandise export,Developing countries and least developed countries excluding China,5.0
+2020,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,417.7
+2020,per cent,Merchandise export,Least developed countries,0.0
+2020,DKK mill.,Merchandise export,Least developed countries,0.0
+2021,per cent,Merchandise import,Developing countries and least developed countries,10.9
+2021,DKK mill.,Merchandise import,Developing countries and least developed countries,1012.7
+2021,per cent,Merchandise import,Developing countries and least developed countries excluding China,4.0
+2021,DKK mill.,Merchandise import,Developing countries and least developed countries excluding China,370.0
+2021,per cent,Merchandise import,Least developed countries,0.0
+2021,DKK mill.,Merchandise import,Least developed countries,0.0
+2021,per cent,Merchandise export,Developing countries and least developed countries,8.6
+2021,DKK mill.,Merchandise export,Developing countries and least developed countries,869.1
+2021,per cent,Merchandise export,Developing countries and least developed countries excluding China,4.2
+2021,DKK mill.,Merchandise export,Developing countries and least developed countries excluding China,422.0
+2021,per cent,Merchandise export,Least developed countries,0.0
+2021,DKK mill.,Merchandise export,Least developed countries,0.0
