@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: data.measure</h1>
                     <div>
@@ -81,7 +107,7 @@
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">30</span>
+                    Total rows: <span class="total">32</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
@@ -149,6 +175,16 @@
     </tr>
     <tr>
       <td><a href="disaggregation-value--datacashsurplusdeficit.html">data.cashsurplusdeficit</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--datachlorophyll-adeviationsremotesensing.html">data.chlorophyll-adeviationsremotesensing</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--datachlorophyllaanomalyremotesensing.html">data.chlorophyllaanomalyremotesensing</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -247,7 +283,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--dataannualbroadmoneygrowth.html\">data.annualbroadmoneygrowth<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgdpgrowth.html\">data.annualGDPgrowth<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofexportsofgoodsandservices.html\">data.annualgrowthofexportsofgoodsandservices<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofhouseholdsandnpishs.html\">data.annualgrowthofhouseholdsandNPISHs<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofimportsofgoodsandservices.html\">data.annualgrowthofimportsofgoodsandservices<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofthegeneralgovernmentfinalconsumptionexpenditure.html\">data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofthegrosscapitalformation.html\">data.annualgrowthofthegrosscapitalformation<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualinflationconsumerprices.html\">data.annualinflationconsumerprices<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--databankcapitaltoassetsratio.html\">data.bankcapitaltoassetsratio<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--databanknonperformingloans.html\">data.banknonperformingloans<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--databroadmoney.html\">data.broadmoney<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datacashsurplusdeficit.html\">data.cashsurplusdeficit<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datacurrentaccountbalance.html\">data.currentaccountbalance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datadebtservice.html\">data.debtservice<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datadecalternativeconversionfactor.html\">data.DECalternativeconversionfactor<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datadisasterrelief.html\">data.disasterrelief<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataexternaldebtstocks.html\">data.externaldebtstocks<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataforeigndirectinvestment.html\">data.foreigndirectinvestment<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datagrosspsd.html\">data.grossPSD<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datamanufacturingvalueaddedasaproportionofgdp.html\">data.manufacturingvalueaddedasaproportionofgdp<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datamanufacturingvalueaddedpercapita.html\">data.manufacturingvalueaddedpercapita<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datamerchandisetrade.html\">data.merchandisetrade<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datanetofficialdevelopmentassistance.html\">data.netofficialdevelopmentassistance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataofficialdevelopmentassistance.html\">data.officialdevelopmentassistance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataofficialdevelopmentassistanceforscholarships.html\">data.officialdevelopmentassistanceforscholarships<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datapersonalremittances.html\">data.personalremittances<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataportfolioinvestment.html\">data.portfolioinvestment<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datareservesinmonthsofimports.html\">data.reservesinmonthsofimports<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datataxrevenuegdp.html\">data.taxrevenuegdp<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datatotalunemploymentoutoftotallabourforce.html\">data.totalunemploymentoutoftotallabourforce<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--dataannualbroadmoneygrowth.html\">data.annualbroadmoneygrowth<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgdpgrowth.html\">data.annualGDPgrowth<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofexportsofgoodsandservices.html\">data.annualgrowthofexportsofgoodsandservices<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofhouseholdsandnpishs.html\">data.annualgrowthofhouseholdsandNPISHs<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofimportsofgoodsandservices.html\">data.annualgrowthofimportsofgoodsandservices<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofthegeneralgovernmentfinalconsumptionexpenditure.html\">data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualgrowthofthegrosscapitalformation.html\">data.annualgrowthofthegrosscapitalformation<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataannualinflationconsumerprices.html\">data.annualinflationconsumerprices<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--databankcapitaltoassetsratio.html\">data.bankcapitaltoassetsratio<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--databanknonperformingloans.html\">data.banknonperformingloans<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--databroadmoney.html\">data.broadmoney<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datacashsurplusdeficit.html\">data.cashsurplusdeficit<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datachlorophyll-adeviationsremotesensing.html\">data.chlorophyll-adeviationsremotesensing<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datachlorophyllaanomalyremotesensing.html\">data.chlorophyllaanomalyremotesensing<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datacurrentaccountbalance.html\">data.currentaccountbalance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datadebtservice.html\">data.debtservice<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datadecalternativeconversionfactor.html\">data.DECalternativeconversionfactor<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datadisasterrelief.html\">data.disasterrelief<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataexternaldebtstocks.html\">data.externaldebtstocks<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataforeigndirectinvestment.html\">data.foreigndirectinvestment<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datagrosspsd.html\">data.grossPSD<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datamanufacturingvalueaddedasaproportionofgdp.html\">data.manufacturingvalueaddedasaproportionofgdp<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datamanufacturingvalueaddedpercapita.html\">data.manufacturingvalueaddedpercapita<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datamerchandisetrade.html\">data.merchandisetrade<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datanetofficialdevelopmentassistance.html\">data.netofficialdevelopmentassistance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataofficialdevelopmentassistance.html\">data.officialdevelopmentassistance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataofficialdevelopmentassistanceforscholarships.html\">data.officialdevelopmentassistanceforscholarships<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datapersonalremittances.html\">data.personalremittances<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dataportfolioinvestment.html\">data.portfolioinvestment<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datareservesinmonthsofimports.html\">data.reservesinmonthsofimports<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datataxrevenuegdp.html\">data.taxrevenuegdp<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--datatotalunemploymentoutoftotallabourforce.html\">data.totalunemploymentoutoftotallabourforce<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
             </script>
             
         </div>
@@ -256,12 +292,12 @@
             
         <div class="my-3">
             <a href="indicators--disaggregation--datameasure.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--datameasure">Download CSV of indicators using this disaggregation</a>
-            <div id="indicators--disaggregation--datameasure" class="download-info">Size: 50 Bytes</div>
+            <div id="indicators--disaggregation--datameasure" class="download-info">Size: 58 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">5</span>
+                    Total rows: <span class="total">6</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
@@ -270,6 +306,9 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>#14-c-1</td>
+    </tr>
     <tr>
       <td>#17-13-1</td>
     </tr>
@@ -290,7 +329,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicators-table'] = [{"Indicator":"#17-13-1"},{"Indicator":"#17-19-1"},{"Indicator":"#17-2-1"},{"Indicator":"#4-b-1"},{"Indicator":"#9-2-1"}];
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#14-c-1"},{"Indicator":"#17-13-1"},{"Indicator":"#17-19-1"},{"Indicator":"#17-2-1"},{"Indicator":"#4-b-1"},{"Indicator":"#9-2-1"}];
             </script>
             
         </div>
