@@ -11,6 +11,8 @@ data.bankcapitaltoassetsratio,1,1
 data.banknonperformingloans,1,1
 data.broadmoney,1,1
 data.cashsurplusdeficit,1,1
+data.chlorophyll-aanomalyremotesensing,3,1
+data.chlorophyll-adeviationsremotesensing,2,1
 data.currentaccountbalance,1,1
 data.debtservice,1,1
 data.DECalternativeconversionfactor,1,1
