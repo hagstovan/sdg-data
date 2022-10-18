@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Stórur títtleiki",
-                "Nakað av títtleiki",
+                "Nakað av títtleika",
                 ""
               ]
             },
