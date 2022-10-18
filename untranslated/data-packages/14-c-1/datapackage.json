@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.chlorophyllaanomalyremotesensing",
-                "data.chlorophyll-adeviationsremotesensing",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Chlorophyll-a anomaly, remote sensing (%)",
-                "Chlorophyll-a deviations, remote sensing (%)",
-                ""
-              ]
-            },
-            "title": "Measure"
           },
           {
             "name": "Value",

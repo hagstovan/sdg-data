@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Blaðgrøni-a mánaðarligt frávik, fjarmáting (%)",
-                "Blaðgrøni-a grundfrávik, fjarmáting (%)",
-                ""
-              ]
-            },
-            "title": "Mát"
           },
           {
             "name": "Value",
