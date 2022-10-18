@@ -258,3 +258,6 @@ wastemanagement: Waste management
 tonnes: tonnes
 chlorophyllaanomalyremotesensing: Chlorophyll-a anomaly, remote sensing (%)
 chlorophyll-adeviationsremotesensing: Chlorophyll-a deviations, remote sensing (%)
+highfrequency: High frequency
+moderatefrequency: Moderate frequency
+frequencyofchlorophyll-aconcentration: Frequency of Chlorophyll-a concentration
