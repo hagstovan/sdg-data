@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "data.chlorophyll-adeviationsremotesensing",
-                "data.chlorophyll-aanomalyremotesensing",
+                "data.chlorophyllaanomalyremotesensing",
                 ""
               ]
             }

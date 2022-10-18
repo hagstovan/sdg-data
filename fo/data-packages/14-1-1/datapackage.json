@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Blaðgrøni-a grundfrávik, fjarmáting (%)",
-                "data.chlorophyll-aanomalyremotesensing",
+                "Blaðgrøni-a mánaðarligt frávik, fjarmáting (%)",
                 ""
               ]
             },
