@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Blaðgrøni-a grundfrávik, fjarmáting (%)",
+                "data.chlorophyll-aanomalyremotesensing",
+                ""
+              ]
+            },
+            "title": "Mát"
+          },
+          {
+            "name": "data.frequencyofchlorophyll-aconcentration",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stórur títtleiki",
+                "Nakað av títtleiki",
+                ""
+              ]
+            },
+            "title": "Títtleiki av blaðgrøna-a vøkstri"
           },
           {
             "name": "Value",

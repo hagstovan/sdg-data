@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.chlorophyll-adeviationsremotesensing",
+                "data.chlorophyll-aanomalyremotesensing",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.frequencyofchlorophyll-aconcentration",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.highfrequency",
+                "data.moderatefrequency",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

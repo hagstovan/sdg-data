@@ -1139,6 +1139,54 @@
       "title": "Neonatal mortality rate"
     },
     {
+      "path": "14-1-1/data.csv",
+      "name": "14-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "data.measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Blaðgrøni-a grundfrávik, fjarmáting (%)",
+                "data.chlorophyll-aanomalyremotesensing",
+                ""
+              ]
+            },
+            "title": "Mát"
+          },
+          {
+            "name": "data.frequencyofchlorophyll-aconcentration",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stórur títtleiki",
+                "Nakað av títtleiki",
+                ""
+              ]
+            },
+            "title": "Títtleiki av blaðgrøna-a vøkstri"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+    },
+    {
       "path": "9-4-1/data.csv",
       "name": "9-4-1",
       "profile": "tabular-data-resource",
@@ -2458,30 +2506,6 @@
         ]
       },
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
-    },
-    {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Ár"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "2-a-1/data.csv",
