@@ -23,13 +23,13 @@ Indicator,Disaggregations,Number of disaggregations
 #4-2-2,data.sex,1
 #4-b-1,data.measure,1
 #5-3-1,data.age,1
-#5-4-1,"data.age, data.location, data.sex",3
+#5-4-1,"data.age, data.sex, data.location",3
 #5-5-1,data.party-municipality,1
 #7-b-1,data.energysource,1
 #8-4-2,data.materialtype,1
 #8-5-2,"data.age, data.sex",2
 #8-6-1,"data.age, data.sex",2
-#8-8-1,"data.outcome, data.sex",2
+#8-8-1,"data.sex, data.outcome",2
 #9-2-1,data.measure,1
 #9-4-1,"data.mainsource, source",2
 #9-c-1,data.technology,1
