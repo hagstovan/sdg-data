@@ -30,7 +30,7 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-GOAL_META_LINK_TEXT__GLOBAL: Lýsigögn Sameinuðu Þjóðanna (pdf 288kB)
+GOAL_META_LINK__GLOBAL: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf
 GOAL_META_LINK_TEXT__GLOBAL: Lýsigögn Sameinuðu Þjóðanna (X)
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf
 goal_meta_link_text: Lýsigögn Sameinuðu Þjóðanna (pdf 894kB)
