@@ -53,6 +53,21 @@ prose:
             label: Related indicators (global)
             translation_key: metadata_fields.SDG_RELATED_INDICATORS
             scope: global
+            
+            
+      - name: "GOAL_META_LINK__GLOBAL"
+        field:
+            element: text
+            label: "Link to UN metadata"
+            scope: global
+      - name: "GOAL_META_LINK_TEXT__GLOBAL"
+        field:
+            element: text
+            label: "Link to UN metadata text"
+            value: "UN metadata"
+            scope: global
+            
+            
 #      - name: CONTACT__GLOBAL
 #        field:
 #            element: text
