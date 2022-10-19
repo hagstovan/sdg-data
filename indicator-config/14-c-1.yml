@@ -30,7 +30,5 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-GOAL_META_LINK__GLOBAL: https://unstats.un.org/sdgs/metadata/files/Metadata-14-0c-01.pdf
-GOAL_META_LINK_TEXT__GLOBAL: Metadátur Sameindu Tjóða
-goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf
-goal_meta_link_text: Lýsigögn Sameinuðu Þjóðanna (pdf 894kB)
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-0c-01.pdf
+goal_meta_link_text: Metadátur Sameindu Tjóða
