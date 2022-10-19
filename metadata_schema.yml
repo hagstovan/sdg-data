@@ -55,12 +55,12 @@ prose:
             scope: global
             
             
-      - name: "goal_meta_link"
+      - name: "GOAL_META_LINK__GLOBAL"
         field:
             element: text
             label: "Link to UN metadata"
             scope: global
-      - name: "goal_meta_link_text"
+      - name: "GOAL_META_LINK_TEXT__GLOBAL"
         field:
             element: text
             label: "Link to UN metadata text"
