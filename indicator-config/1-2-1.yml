@@ -43,3 +43,5 @@ sort: ''
 standalone: false
 tags: []
 x_axis_label: ''
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-1-2-1.pdf
+goal_meta_link_text: data.metadataonthisindicator
