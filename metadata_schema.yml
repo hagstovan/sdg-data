@@ -78,7 +78,20 @@ prose:
             label: "Link to UN metadata text"
             value: "UN metadata"
             scope: global
-            
+
+      - name: "goal_meta3_link"
+        field:
+            element: text
+            label: "Link to UN metadata"
+            scope: global
+      - name: "goal_meta3_link_text"
+      
+        field:
+            element: text
+            label: "Link to UN metadata text"
+            value: "UN metadata"
+            scope: global
+
 #      - name: CONTACT__GLOBAL
 #        field:
 #            element: text
