@@ -31,6 +31,6 @@ sort: ''
 standalone: false
 tags: []
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01A.pdf
-goal_meta_link_text: data.metadataonthisindicator
+goal_meta_link_text: data.metadataonthisindicator-1
 goal_meta2_link: https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01B.pdf
-goal_meta2_link_text: data.metadataonthisindicator
+goal_meta2_link_text: data.metadataonthisindicator-2
