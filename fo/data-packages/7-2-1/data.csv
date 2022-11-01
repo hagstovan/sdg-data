@@ -6,7 +6,7 @@ Year,Varandi orkukelda,Value
 2012,Lívfrøðilig brennievni,0.0
 2012,Havið,0.0
 2012,data.districtheatingfromincinerator,0.0
-2012,data.heatpumps,0.0
+2012,Hitapumpur,0.0
 2013,,5.66751627459578
 2013,Vatn,3.84201445222375
 2013,Vindur,0.926427861765987
@@ -14,7 +14,7 @@ Year,Varandi orkukelda,Value
 2013,Lívfrøðilig brennievni,0.0
 2013,Havið,0.0
 2013,data.districtheatingfromincinerator,0.89907396060604
-2013,data.heatpumps,0.0
+2013,Hitapumpur,0.0
 2014,,7.01798135358697
 2014,Vatn,4.7804662938922
 2014,Vindur,1.36608517523639
@@ -22,7 +22,7 @@ Year,Varandi orkukelda,Value
 2014,Lívfrøðilig brennievni,0.0
 2014,Havið,0.0
 2014,data.districtheatingfromincinerator,0.871429884458379
-2014,data.heatpumps,0.0
+2014,Hitapumpur,0.0
 2015,,8.57619532347439
 2015,Vatn,5.35659008702912
 2015,Vindur,2.24554071854936
@@ -30,7 +30,7 @@ Year,Varandi orkukelda,Value
 2015,Lívfrøðilig brennievni,0.0
 2015,Havið,0.0
 2015,data.districtheatingfromincinerator,0.974064517895904
-2015,data.heatpumps,0.0
+2015,Hitapumpur,0.0
 2016,,7.21650988627583
 2016,Vatn,4.1653264227173
 2016,Vindur,2.04067624474759
@@ -38,7 +38,7 @@ Year,Varandi orkukelda,Value
 2016,Lívfrøðilig brennievni,0.0
 2016,Havið,0.0
 2016,data.districtheatingfromincinerator,1.01050721881094
-2016,data.heatpumps,0.0
+2016,Hitapumpur,0.0
 2017,,8.6019408074778
 2017,Vatn,3.82600437885658
 2017,Vindur,2.05201831343802
@@ -46,7 +46,7 @@ Year,Varandi orkukelda,Value
 2017,Lívfrøðilig brennievni,0.0
 2017,Havið,0.0
 2017,data.districtheatingfromincinerator,1.34820189539371
-2017,data.heatpumps,1.3757162197895
+2017,Hitapumpur,1.3757162197895
 2018,,8.01615721371945
 2018,Vatn,3.5746650987248
 2018,Vindur,2.10980053397192
@@ -54,7 +54,7 @@ Year,Varandi orkukelda,Value
 2018,Lívfrøðilig brennievni,0.0
 2018,Havið,0.0
 2018,data.districtheatingfromincinerator,1.17411420037315
-2018,data.heatpumps,1.15757738064958
+2018,Hitapumpur,1.15757738064958
 2019,,7.92758304955724
 2019,Vatn,3.39290877542146
 2019,Vindur,1.72533453139053
@@ -62,7 +62,7 @@ Year,Varandi orkukelda,Value
 2019,Lívfrøðilig brennievni,0.0
 2019,Havið,0.0
 2019,data.districtheatingfromincinerator,1.66200145807683
-2019,data.heatpumps,1.14733828466842
+2019,Hitapumpur,1.14733828466842
 2020,,7.98498436760728
 2020,Vatn,3.41399465801118
 2020,Vindur,1.48081040436102
@@ -70,7 +70,7 @@ Year,Varandi orkukelda,Value
 2020,Lívfrøðilig brennievni,0.0437010920453639
 2020,Havið,0.0
 2020,data.districtheatingfromincinerator,1.59598524507871
-2020,data.heatpumps,1.4451834896382
+2020,Hitapumpur,1.4451834896382
 2021,,8.15567887814746
 2021,Vatn,3.12284727220785
 2021,Vindur,1.68476193548787
@@ -78,4 +78,4 @@ Year,Varandi orkukelda,Value
 2021,Lívfrøðilig brennievni,0.212985096638765
 2021,Havið,0.0001868290321392
 2021,data.districtheatingfromincinerator,1.41678682705611
-2021,data.heatpumps,1.71259946127662
+2021,Hitapumpur,1.71259946127662
