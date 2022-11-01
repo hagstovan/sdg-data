@@ -12,8 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.renewablesource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Biofuel",
+                "Ocean",
+                "data.districtheatingfromincinerator",
+                "data.heatpumps",
+                ""
+              ]
+            },
+            "title": "Renewable source"
           },
           {
             "name": "Value",

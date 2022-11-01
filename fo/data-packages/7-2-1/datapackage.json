@@ -12,8 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "data.renewablesource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vatn",
+                "Vindur",
+                "Sólin",
+                "Lívfrøðilig brennievni",
+                "Havið",
+                "data.districtheatingfromincinerator",
+                "data.heatpumps",
+                ""
+              ]
+            },
+            "title": "Varandi orkukelda"
           },
           {
             "name": "Value",
