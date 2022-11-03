@@ -17,8 +17,6 @@ Year,Renewable source,Value
 2012,Solar,0.0
 2012,Biofuel,0.0
 2012,Ocean,0.0
-2012,Municipal solid waste,0.0
-2012,Heat pumps,0.0
 2013,,5.66751627459578
 2013,Hydro,3.84201445222375
 2013,Wind,0.926427861765987
@@ -26,7 +24,6 @@ Year,Renewable source,Value
 2013,Biofuel,0.0
 2013,Ocean,0.0
 2013,Municipal solid waste,0.89907396060604
-2013,Heat pumps,0.0
 2014,,7.01798135358697
 2014,Hydro,4.7804662938922
 2014,Wind,1.36608517523639
@@ -34,7 +31,6 @@ Year,Renewable source,Value
 2014,Biofuel,0.0
 2014,Ocean,0.0
 2014,Municipal solid waste,0.871429884458379
-2014,Heat pumps,0.0
 2015,,8.57619532347439
 2015,Hydro,5.35659008702912
 2015,Wind,2.24554071854936
@@ -42,7 +38,6 @@ Year,Renewable source,Value
 2015,Biofuel,0.0
 2015,Ocean,0.0
 2015,Municipal solid waste,0.974064517895904
-2015,Heat pumps,0.0
 2016,,7.21650988627583
 2016,Hydro,4.1653264227173
 2016,Wind,2.04067624474759
@@ -50,7 +45,6 @@ Year,Renewable source,Value
 2016,Biofuel,0.0
 2016,Ocean,0.0
 2016,Municipal solid waste,1.01050721881094
-2016,Heat pumps,0.0
 2017,,8.6019408074778
 2017,Hydro,3.82600437885658
 2017,Wind,2.05201831343802

@@ -17,8 +17,6 @@ Year,data.renewablesource,Value
 2012,data.solar,0.0
 2012,data.biofuel,0.0
 2012,data.ocean,0.0
-2012,data.districtheatingfromincinerator,0.0
-2012,data.heatpumps,0.0
 2013,,5.66751627459578
 2013,data.hydro,3.84201445222375
 2013,data.wind,0.926427861765987
@@ -26,7 +24,6 @@ Year,data.renewablesource,Value
 2013,data.biofuel,0.0
 2013,data.ocean,0.0
 2013,data.districtheatingfromincinerator,0.89907396060604
-2013,data.heatpumps,0.0
 2014,,7.01798135358697
 2014,data.hydro,4.7804662938922
 2014,data.wind,1.36608517523639
@@ -34,7 +31,6 @@ Year,data.renewablesource,Value
 2014,data.biofuel,0.0
 2014,data.ocean,0.0
 2014,data.districtheatingfromincinerator,0.871429884458379
-2014,data.heatpumps,0.0
 2015,,8.57619532347439
 2015,data.hydro,5.35659008702912
 2015,data.wind,2.24554071854936
@@ -42,7 +38,6 @@ Year,data.renewablesource,Value
 2015,data.biofuel,0.0
 2015,data.ocean,0.0
 2015,data.districtheatingfromincinerator,0.974064517895904
-2015,data.heatpumps,0.0
 2016,,7.21650988627583
 2016,data.hydro,4.1653264227173
 2016,data.wind,2.04067624474759
@@ -50,7 +45,6 @@ Year,data.renewablesource,Value
 2016,data.biofuel,0.0
 2016,data.ocean,0.0
 2016,data.districtheatingfromincinerator,1.01050721881094
-2016,data.heatpumps,0.0
 2017,,8.6019408074778
 2017,data.hydro,3.82600437885658
 2017,data.wind,2.05201831343802
