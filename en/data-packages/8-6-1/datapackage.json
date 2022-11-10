@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 years",
-                "15-19 years",
-                "20-24 years",
+                "data.15-24years",
+                "data.15-19years",
+                "data.20-24years",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "data.age"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Females",
+                "data.male",
+                "data.female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "data.sex"
           },
           {
             "name": "Value",

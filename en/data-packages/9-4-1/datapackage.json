@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fuel combustion",
-                "International Bunkers",
+                "data.fuelcombustion",
+                "data.bunkers",
                 ""
               ]
             },
-            "title": "Main source"
+            "title": "data.mainsource"
           },
           {
             "name": "source",
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy industries",
-                "Manufacturing industries and construction",
-                "Transport sector",
-                "Other sectors",
-                "Aviation",
-                "Navigation",
+                "data.energyindustries",
+                "data.manufacturingindustriesandconstruction",
+                "data.transportsector",
+                "data.othersectors",
+                "data.aviation",
+                "data.navigation",
                 ""
               ]
             },
-            "title": "Source"
+            "title": "source"
           },
           {
             "name": "Value",

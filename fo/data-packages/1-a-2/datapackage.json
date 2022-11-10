@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Útbúgving",
-                "Heilsa",
-                "Almannavernd",
+                "data.education",
+                "data.health",
+                "data.socialprotection",
                 ""
               ]
             },
-            "title": "Grundleggjandi tænasta"
+            "title": "essentialservice"
           },
           {
             "name": "Value",

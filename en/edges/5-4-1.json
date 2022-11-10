@@ -1,1 +1,1 @@
-{"From":["Location","Age"],"To":["Age","Sex"]}
+{"From":["data.location","data.age"],"To":["data.age","data.sex"]}

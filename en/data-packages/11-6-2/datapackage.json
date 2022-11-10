@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Havnardalur (rural)",
-                "Bøkjarabrekka (urban)",
-                "Kaldbak (rural)",
+                "data.havnardalur-rural",
+                "data.bokjarabrekka-urban",
+                "data.kaldbak-rural",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "data.location"
           },
           {
             "name": "data.sizeofparticulatematter",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 μg/m³",
-                "2.5 μg/m³",
+                "data.pm10",
+                "data.pm25",
                 ""
               ]
             },
-            "title": "Size of particulate matter"
+            "title": "data.sizeofparticulatematter"
           },
           {
             "name": "Value",

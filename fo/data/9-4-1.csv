@@ -1,280 +1,280 @@
-Year,Høvuðskelda,Kelda,Value
+Year,data.mainsource,source,Value
 1990,,,
-1990,Nýtsla av brennievni,,0.7
-1990,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1990,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-1990,Nýtsla av brennievni,Flutningsvinna,0.1
-1990,Nýtsla av brennievni,Aðrar vinnur,0.4
-1990,Bunkring,,
-1990,Bunkring,Flogfør,
-1990,Bunkring,Skip,
+1990,data.fuelcombustion,,0.7
+1990,data.fuelcombustion,data.energyindustries,0.1
+1990,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+1990,data.fuelcombustion,data.transportsector,0.1
+1990,data.fuelcombustion,data.othersectors,0.4
+1990,data.bunkers,,
+1990,data.bunkers,data.aviation,
+1990,data.bunkers,data.navigation,
 1991,,,0.6
-1991,Nýtsla av brennievni,,0.6
-1991,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1991,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-1991,Nýtsla av brennievni,Flutningsvinna,0.1
-1991,Nýtsla av brennievni,Aðrar vinnur,0.4
-1991,Bunkring,,0.0
-1991,Bunkring,Flogfør,0.0
-1991,Bunkring,Skip,
+1991,data.fuelcombustion,,0.6
+1991,data.fuelcombustion,data.energyindustries,0.1
+1991,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+1991,data.fuelcombustion,data.transportsector,0.1
+1991,data.fuelcombustion,data.othersectors,0.4
+1991,data.bunkers,,0.0
+1991,data.bunkers,data.aviation,0.0
+1991,data.bunkers,data.navigation,
 1992,,,0.7
-1992,Nýtsla av brennievni,,0.6
-1992,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1992,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-1992,Nýtsla av brennievni,Flutningsvinna,0.1
-1992,Nýtsla av brennievni,Aðrar vinnur,0.4
-1992,Bunkring,,0.1
-1992,Bunkring,Flogfør,0.0
-1992,Bunkring,Skip,0.1
+1992,data.fuelcombustion,,0.6
+1992,data.fuelcombustion,data.energyindustries,0.1
+1992,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+1992,data.fuelcombustion,data.transportsector,0.1
+1992,data.fuelcombustion,data.othersectors,0.4
+1992,data.bunkers,,0.1
+1992,data.bunkers,data.aviation,0.0
+1992,data.bunkers,data.navigation,0.1
 1993,,,0.7
-1993,Nýtsla av brennievni,,0.5
-1993,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1993,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-1993,Nýtsla av brennievni,Flutningsvinna,0.1
-1993,Nýtsla av brennievni,Aðrar vinnur,0.3
-1993,Bunkring,,0.1
-1993,Bunkring,Flogfør,0.0
-1993,Bunkring,Skip,0.1
+1993,data.fuelcombustion,,0.5
+1993,data.fuelcombustion,data.energyindustries,0.1
+1993,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+1993,data.fuelcombustion,data.transportsector,0.1
+1993,data.fuelcombustion,data.othersectors,0.3
+1993,data.bunkers,,0.1
+1993,data.bunkers,data.aviation,0.0
+1993,data.bunkers,data.navigation,0.1
 1994,,,0.7
-1994,Nýtsla av brennievni,,0.5
-1994,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1994,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-1994,Nýtsla av brennievni,Flutningsvinna,0.1
-1994,Nýtsla av brennievni,Aðrar vinnur,0.3
-1994,Bunkring,,0.1
-1994,Bunkring,Flogfør,0.0
-1994,Bunkring,Skip,0.1
+1994,data.fuelcombustion,,0.5
+1994,data.fuelcombustion,data.energyindustries,0.1
+1994,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+1994,data.fuelcombustion,data.transportsector,0.1
+1994,data.fuelcombustion,data.othersectors,0.3
+1994,data.bunkers,,0.1
+1994,data.bunkers,data.aviation,0.0
+1994,data.bunkers,data.navigation,0.1
 1995,,,0.7
-1995,Nýtsla av brennievni,,0.5
-1995,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1995,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-1995,Nýtsla av brennievni,Flutningsvinna,0.1
-1995,Nýtsla av brennievni,Aðrar vinnur,0.3
-1995,Bunkring,,0.1
-1995,Bunkring,Flogfør,0.0
-1995,Bunkring,Skip,0.1
+1995,data.fuelcombustion,,0.5
+1995,data.fuelcombustion,data.energyindustries,0.1
+1995,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+1995,data.fuelcombustion,data.transportsector,0.1
+1995,data.fuelcombustion,data.othersectors,0.3
+1995,data.bunkers,,0.1
+1995,data.bunkers,data.aviation,0.0
+1995,data.bunkers,data.navigation,0.1
 1996,,,0.7
-1996,Nýtsla av brennievni,,0.6
-1996,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1996,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-1996,Nýtsla av brennievni,Flutningsvinna,0.1
-1996,Nýtsla av brennievni,Aðrar vinnur,0.3
-1996,Bunkring,,0.1
-1996,Bunkring,Flogfør,0.0
-1996,Bunkring,Skip,0.1
+1996,data.fuelcombustion,,0.6
+1996,data.fuelcombustion,data.energyindustries,0.1
+1996,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+1996,data.fuelcombustion,data.transportsector,0.1
+1996,data.fuelcombustion,data.othersectors,0.3
+1996,data.bunkers,,0.1
+1996,data.bunkers,data.aviation,0.0
+1996,data.bunkers,data.navigation,0.1
 1997,,,0.7
-1997,Nýtsla av brennievni,,0.6
-1997,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1997,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-1997,Nýtsla av brennievni,Flutningsvinna,0.1
-1997,Nýtsla av brennievni,Aðrar vinnur,0.3
-1997,Bunkring,,0.1
-1997,Bunkring,Flogfør,0.0
-1997,Bunkring,Skip,0.1
+1997,data.fuelcombustion,,0.6
+1997,data.fuelcombustion,data.energyindustries,0.1
+1997,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+1997,data.fuelcombustion,data.transportsector,0.1
+1997,data.fuelcombustion,data.othersectors,0.3
+1997,data.bunkers,,0.1
+1997,data.bunkers,data.aviation,0.0
+1997,data.bunkers,data.navigation,0.1
 1998,,,0.7
-1998,Nýtsla av brennievni,,0.6
-1998,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1998,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-1998,Nýtsla av brennievni,Flutningsvinna,0.1
-1998,Nýtsla av brennievni,Aðrar vinnur,0.4
-1998,Bunkring,,0.1
-1998,Bunkring,Flogfør,0.0
-1998,Bunkring,Skip,0.1
+1998,data.fuelcombustion,,0.6
+1998,data.fuelcombustion,data.energyindustries,0.1
+1998,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+1998,data.fuelcombustion,data.transportsector,0.1
+1998,data.fuelcombustion,data.othersectors,0.4
+1998,data.bunkers,,0.1
+1998,data.bunkers,data.aviation,0.0
+1998,data.bunkers,data.navigation,0.1
 1999,,,0.8
-1999,Nýtsla av brennievni,,0.6
-1999,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-1999,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-1999,Nýtsla av brennievni,Flutningsvinna,0.1
-1999,Nýtsla av brennievni,Aðrar vinnur,0.4
-1999,Bunkring,,0.1
-1999,Bunkring,Flogfør,0.0
-1999,Bunkring,Skip,0.1
+1999,data.fuelcombustion,,0.6
+1999,data.fuelcombustion,data.energyindustries,0.1
+1999,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+1999,data.fuelcombustion,data.transportsector,0.1
+1999,data.fuelcombustion,data.othersectors,0.4
+1999,data.bunkers,,0.1
+1999,data.bunkers,data.aviation,0.0
+1999,data.bunkers,data.navigation,0.1
 2000,,,0.8
-2000,Nýtsla av brennievni,,0.7
-2000,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2000,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2000,Nýtsla av brennievni,Flutningsvinna,0.1
-2000,Nýtsla av brennievni,Aðrar vinnur,0.4
-2000,Bunkring,,0.1
-2000,Bunkring,Flogfør,0.0
-2000,Bunkring,Skip,0.1
+2000,data.fuelcombustion,,0.7
+2000,data.fuelcombustion,data.energyindustries,0.1
+2000,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2000,data.fuelcombustion,data.transportsector,0.1
+2000,data.fuelcombustion,data.othersectors,0.4
+2000,data.bunkers,,0.1
+2000,data.bunkers,data.aviation,0.0
+2000,data.bunkers,data.navigation,0.1
 2001,,,1.0
-2001,Nýtsla av brennievni,,0.8
-2001,Nýtsla av brennievni,El- og hitaframleiðsla,0.2
-2001,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2001,Nýtsla av brennievni,Flutningsvinna,0.1
-2001,Nýtsla av brennievni,Aðrar vinnur,0.5
-2001,Bunkring,,0.1
-2001,Bunkring,Flogfør,0.0
-2001,Bunkring,Skip,0.1
+2001,data.fuelcombustion,,0.8
+2001,data.fuelcombustion,data.energyindustries,0.2
+2001,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2001,data.fuelcombustion,data.transportsector,0.1
+2001,data.fuelcombustion,data.othersectors,0.5
+2001,data.bunkers,,0.1
+2001,data.bunkers,data.aviation,0.0
+2001,data.bunkers,data.navigation,0.1
 2002,,,0.9
-2002,Nýtsla av brennievni,,0.8
-2002,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2002,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2002,Nýtsla av brennievni,Flutningsvinna,0.1
-2002,Nýtsla av brennievni,Aðrar vinnur,0.5
-2002,Bunkring,,0.1
-2002,Bunkring,Flogfør,0.0
-2002,Bunkring,Skip,0.1
+2002,data.fuelcombustion,,0.8
+2002,data.fuelcombustion,data.energyindustries,0.1
+2002,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2002,data.fuelcombustion,data.transportsector,0.1
+2002,data.fuelcombustion,data.othersectors,0.5
+2002,data.bunkers,,0.1
+2002,data.bunkers,data.aviation,0.0
+2002,data.bunkers,data.navigation,0.1
 2003,,,0.9
-2003,Nýtsla av brennievni,,0.8
-2003,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2003,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2003,Nýtsla av brennievni,Flutningsvinna,0.1
-2003,Nýtsla av brennievni,Aðrar vinnur,0.5
-2003,Bunkring,,0.1
-2003,Bunkring,Flogfør,0.0
-2003,Bunkring,Skip,0.1
+2003,data.fuelcombustion,,0.8
+2003,data.fuelcombustion,data.energyindustries,0.1
+2003,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2003,data.fuelcombustion,data.transportsector,0.1
+2003,data.fuelcombustion,data.othersectors,0.5
+2003,data.bunkers,,0.1
+2003,data.bunkers,data.aviation,0.0
+2003,data.bunkers,data.navigation,0.1
 2004,,,0.9
-2004,Nýtsla av brennievni,,0.8
-2004,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2004,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2004,Nýtsla av brennievni,Flutningsvinna,0.1
-2004,Nýtsla av brennievni,Aðrar vinnur,0.5
-2004,Bunkring,,0.1
-2004,Bunkring,Flogfør,0.0
-2004,Bunkring,Skip,0.1
+2004,data.fuelcombustion,,0.8
+2004,data.fuelcombustion,data.energyindustries,0.1
+2004,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2004,data.fuelcombustion,data.transportsector,0.1
+2004,data.fuelcombustion,data.othersectors,0.5
+2004,data.bunkers,,0.1
+2004,data.bunkers,data.aviation,0.0
+2004,data.bunkers,data.navigation,0.1
 2005,,,0.9
-2005,Nýtsla av brennievni,,0.8
-2005,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2005,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2005,Nýtsla av brennievni,Flutningsvinna,0.1
-2005,Nýtsla av brennievni,Aðrar vinnur,0.5
-2005,Bunkring,,0.1
-2005,Bunkring,Flogfør,0.0
-2005,Bunkring,Skip,0.1
+2005,data.fuelcombustion,,0.8
+2005,data.fuelcombustion,data.energyindustries,0.1
+2005,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2005,data.fuelcombustion,data.transportsector,0.1
+2005,data.fuelcombustion,data.othersectors,0.5
+2005,data.bunkers,,0.1
+2005,data.bunkers,data.aviation,0.0
+2005,data.bunkers,data.navigation,0.1
 2006,,,0.8
-2006,Nýtsla av brennievni,,0.8
-2006,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2006,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2006,Nýtsla av brennievni,Flutningsvinna,0.1
-2006,Nýtsla av brennievni,Aðrar vinnur,0.5
-2006,Bunkring,,0.0
-2006,Bunkring,Flogfør,0.0
-2006,Bunkring,Skip,0.0
+2006,data.fuelcombustion,,0.8
+2006,data.fuelcombustion,data.energyindustries,0.1
+2006,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2006,data.fuelcombustion,data.transportsector,0.1
+2006,data.fuelcombustion,data.othersectors,0.5
+2006,data.bunkers,,0.0
+2006,data.bunkers,data.aviation,0.0
+2006,data.bunkers,data.navigation,0.0
 2007,,,0.8
-2007,Nýtsla av brennievni,,0.8
-2007,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2007,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2007,Nýtsla av brennievni,Flutningsvinna,0.1
-2007,Nýtsla av brennievni,Aðrar vinnur,0.5
-2007,Bunkring,,0.0
-2007,Bunkring,Flogfør,0.0
-2007,Bunkring,Skip,0.0
+2007,data.fuelcombustion,,0.8
+2007,data.fuelcombustion,data.energyindustries,0.1
+2007,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2007,data.fuelcombustion,data.transportsector,0.1
+2007,data.fuelcombustion,data.othersectors,0.5
+2007,data.bunkers,,0.0
+2007,data.bunkers,data.aviation,0.0
+2007,data.bunkers,data.navigation,0.0
 2008,,,0.8
-2008,Nýtsla av brennievni,,0.7
-2008,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2008,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2008,Nýtsla av brennievni,Flutningsvinna,0.1
-2008,Nýtsla av brennievni,Aðrar vinnur,0.4
-2008,Bunkring,,0.0
-2008,Bunkring,Flogfør,0.0
-2008,Bunkring,Skip,0.0
+2008,data.fuelcombustion,,0.7
+2008,data.fuelcombustion,data.energyindustries,0.1
+2008,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2008,data.fuelcombustion,data.transportsector,0.1
+2008,data.fuelcombustion,data.othersectors,0.4
+2008,data.bunkers,,0.0
+2008,data.bunkers,data.aviation,0.0
+2008,data.bunkers,data.navigation,0.0
 2009,,,0.8
-2009,Nýtsla av brennievni,,0.8
-2009,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2009,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-2009,Nýtsla av brennievni,Flutningsvinna,0.1
-2009,Nýtsla av brennievni,Aðrar vinnur,0.5
-2009,Bunkring,,0.1
-2009,Bunkring,Flogfør,0.0
-2009,Bunkring,Skip,0.1
+2009,data.fuelcombustion,,0.8
+2009,data.fuelcombustion,data.energyindustries,0.1
+2009,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+2009,data.fuelcombustion,data.transportsector,0.1
+2009,data.fuelcombustion,data.othersectors,0.5
+2009,data.bunkers,,0.1
+2009,data.bunkers,data.aviation,0.0
+2009,data.bunkers,data.navigation,0.1
 2010,,,0.9
-2010,Nýtsla av brennievni,,0.8
-2010,Nýtsla av brennievni,El- og hitaframleiðsla,0.2
-2010,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-2010,Nýtsla av brennievni,Flutningsvinna,0.1
-2010,Nýtsla av brennievni,Aðrar vinnur,0.5
-2010,Bunkring,,0.0
-2010,Bunkring,Flogfør,0.0
-2010,Bunkring,Skip,0.0
+2010,data.fuelcombustion,,0.8
+2010,data.fuelcombustion,data.energyindustries,0.2
+2010,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+2010,data.fuelcombustion,data.transportsector,0.1
+2010,data.fuelcombustion,data.othersectors,0.5
+2010,data.bunkers,,0.0
+2010,data.bunkers,data.aviation,0.0
+2010,data.bunkers,data.navigation,0.0
 2011,,,0.8
-2011,Nýtsla av brennievni,,0.7
-2011,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2011,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-2011,Nýtsla av brennievni,Flutningsvinna,0.1
-2011,Nýtsla av brennievni,Aðrar vinnur,0.4
-2011,Bunkring,,0.0
-2011,Bunkring,Flogfør,0.0
-2011,Bunkring,Skip,0.0
+2011,data.fuelcombustion,,0.7
+2011,data.fuelcombustion,data.energyindustries,0.1
+2011,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+2011,data.fuelcombustion,data.transportsector,0.1
+2011,data.fuelcombustion,data.othersectors,0.4
+2011,data.bunkers,,0.0
+2011,data.bunkers,data.aviation,0.0
+2011,data.bunkers,data.navigation,0.0
 2012,,,0.9
-2012,Nýtsla av brennievni,,0.8
-2012,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2012,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-2012,Nýtsla av brennievni,Flutningsvinna,0.1
-2012,Nýtsla av brennievni,Aðrar vinnur,0.5
-2012,Bunkring,,0.1
-2012,Bunkring,Flogfør,0.0
-2012,Bunkring,Skip,0.1
+2012,data.fuelcombustion,,0.8
+2012,data.fuelcombustion,data.energyindustries,0.1
+2012,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+2012,data.fuelcombustion,data.transportsector,0.1
+2012,data.fuelcombustion,data.othersectors,0.5
+2012,data.bunkers,,0.1
+2012,data.bunkers,data.aviation,0.0
+2012,data.bunkers,data.navigation,0.1
 2013,,,0.8
-2013,Nýtsla av brennievni,,0.8
-2013,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2013,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.0
-2013,Nýtsla av brennievni,Flutningsvinna,0.1
-2013,Nýtsla av brennievni,Aðrar vinnur,0.5
-2013,Bunkring,,0.0
-2013,Bunkring,Flogfør,0.0
-2013,Bunkring,Skip,0.0
+2013,data.fuelcombustion,,0.8
+2013,data.fuelcombustion,data.energyindustries,0.1
+2013,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.0
+2013,data.fuelcombustion,data.transportsector,0.1
+2013,data.fuelcombustion,data.othersectors,0.5
+2013,data.bunkers,,0.0
+2013,data.bunkers,data.aviation,0.0
+2013,data.bunkers,data.navigation,0.0
 2014,,,0.8
-2014,Nýtsla av brennievni,,0.8
-2014,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2014,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2014,Nýtsla av brennievni,Flutningsvinna,0.1
-2014,Nýtsla av brennievni,Aðrar vinnur,0.5
-2014,Bunkring,,0.0
-2014,Bunkring,Flogfør,0.0
-2014,Bunkring,Skip,0.0
+2014,data.fuelcombustion,,0.8
+2014,data.fuelcombustion,data.energyindustries,0.1
+2014,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2014,data.fuelcombustion,data.transportsector,0.1
+2014,data.fuelcombustion,data.othersectors,0.5
+2014,data.bunkers,,0.0
+2014,data.bunkers,data.aviation,0.0
+2014,data.bunkers,data.navigation,0.0
 2015,,,0.8
-2015,Nýtsla av brennievni,,0.8
-2015,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2015,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2015,Nýtsla av brennievni,Flutningsvinna,0.1
-2015,Nýtsla av brennievni,Aðrar vinnur,0.5
-2015,Bunkring,,0.0
-2015,Bunkring,Flogfør,0.0
-2015,Bunkring,Skip,0.0
+2015,data.fuelcombustion,,0.8
+2015,data.fuelcombustion,data.energyindustries,0.1
+2015,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2015,data.fuelcombustion,data.transportsector,0.1
+2015,data.fuelcombustion,data.othersectors,0.5
+2015,data.bunkers,,0.0
+2015,data.bunkers,data.aviation,0.0
+2015,data.bunkers,data.navigation,0.0
 2016,,,0.8
-2016,Nýtsla av brennievni,,0.8
-2016,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2016,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2016,Nýtsla av brennievni,Flutningsvinna,0.1
-2016,Nýtsla av brennievni,Aðrar vinnur,0.5
-2016,Bunkring,,0.0
-2016,Bunkring,Flogfør,0.0
-2016,Bunkring,Skip,0.0
+2016,data.fuelcombustion,,0.8
+2016,data.fuelcombustion,data.energyindustries,0.1
+2016,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2016,data.fuelcombustion,data.transportsector,0.1
+2016,data.fuelcombustion,data.othersectors,0.5
+2016,data.bunkers,,0.0
+2016,data.bunkers,data.aviation,0.0
+2016,data.bunkers,data.navigation,0.0
 2017,,,1.0
-2017,Nýtsla av brennievni,,0.9
-2017,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2017,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2017,Nýtsla av brennievni,Flutningsvinna,0.2
-2017,Nýtsla av brennievni,Aðrar vinnur,0.6
-2017,Bunkring,,0.1
-2017,Bunkring,Flogfør,0.0
-2017,Bunkring,Skip,0.1
+2017,data.fuelcombustion,,0.9
+2017,data.fuelcombustion,data.energyindustries,0.1
+2017,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2017,data.fuelcombustion,data.transportsector,0.2
+2017,data.fuelcombustion,data.othersectors,0.6
+2017,data.bunkers,,0.1
+2017,data.bunkers,data.aviation,0.0
+2017,data.bunkers,data.navigation,0.1
 2018,,,1.1
-2018,Nýtsla av brennievni,,1.0
-2018,Nýtsla av brennievni,El- og hitaframleiðsla,0.1
-2018,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2018,Nýtsla av brennievni,Flutningsvinna,0.2
-2018,Nýtsla av brennievni,Aðrar vinnur,0.7
-2018,Bunkring,,0.1
-2018,Bunkring,Flogfør,0.0
-2018,Bunkring,Skip,0.1
+2018,data.fuelcombustion,,1.0
+2018,data.fuelcombustion,data.energyindustries,0.1
+2018,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2018,data.fuelcombustion,data.transportsector,0.2
+2018,data.fuelcombustion,data.othersectors,0.7
+2018,data.bunkers,,0.1
+2018,data.bunkers,data.aviation,0.0
+2018,data.bunkers,data.navigation,0.1
 2019,,,1.1
-2019,Nýtsla av brennievni,,1.1
-2019,Nýtsla av brennievni,El- og hitaframleiðsla,0.2
-2019,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2019,Nýtsla av brennievni,Flutningsvinna,0.2
-2019,Nýtsla av brennievni,Aðrar vinnur,0.7
-2019,Bunkring,,0.0
-2019,Bunkring,Flogfør,0.0
-2019,Bunkring,Skip,0.0
+2019,data.fuelcombustion,,1.1
+2019,data.fuelcombustion,data.energyindustries,0.2
+2019,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2019,data.fuelcombustion,data.transportsector,0.2
+2019,data.fuelcombustion,data.othersectors,0.7
+2019,data.bunkers,,0.0
+2019,data.bunkers,data.aviation,0.0
+2019,data.bunkers,data.navigation,0.0
 2020,,,1.2
-2020,Nýtsla av brennievni,,1.1
-2020,Nýtsla av brennievni,El- og hitaframleiðsla,0.2
-2020,Nýtsla av brennievni,Framleiðslu- og byggivinna,0.1
-2020,Nýtsla av brennievni,Flutningsvinna,0.2
-2020,Nýtsla av brennievni,Aðrar vinnur,0.7
-2020,Bunkring,,0.1
-2020,Bunkring,Flogfør,0.0
-2020,Bunkring,Skip,0.1
+2020,data.fuelcombustion,,1.1
+2020,data.fuelcombustion,data.energyindustries,0.2
+2020,data.fuelcombustion,data.manufacturingindustriesandconstruction,0.1
+2020,data.fuelcombustion,data.transportsector,0.2
+2020,data.fuelcombustion,data.othersectors,0.7
+2020,data.bunkers,,0.1
+2020,data.bunkers,data.aviation,0.0
+2020,data.bunkers,data.navigation,0.1

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fixed broadband subscriptions per 100 inhabitants",
-                "Fixed broadband subscriptions (number)",
+                "data.fixedbroadbandsubscriptionsper100inhabitants",
+                "data.fixedbroadbandsubscriptions",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "256 Kbit/s to less than 2 Mbit/s",
-                "2 Mbit/s to less than 10 Mbit/s",
-                "10 Mbit/s or more",
+                "data.256kbit",
+                "data.2mbit",
+                "data.10mbit",
                 ""
               ]
             },
-            "title": "Bandbreidd"
+            "title": "data.bandwidth"
           },
           {
             "name": "Value",

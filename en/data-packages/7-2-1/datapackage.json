@@ -20,17 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Biofuel",
-                "Ocean",
-                "Municipal solid waste",
-                "Heat pumps",
+                "data.hydro",
+                "data.wind",
+                "data.solar",
+                "data.biofuel",
+                "data.ocean",
+                "data.districtheatingfromincinerator",
+                "data.heatpumps",
                 ""
               ]
             },
-            "title": "Renewable source"
+            "title": "data.renewablesource"
           },
           {
             "name": "Value",

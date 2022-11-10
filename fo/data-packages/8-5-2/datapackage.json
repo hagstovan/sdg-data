@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menn",
-                "Kvinnur",
+                "data.male",
+                "data.female",
                 ""
               ]
             },
-            "title": "Kyn"
+            "title": "data.sex"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 ár",
-                "25-54 ár",
-                "55-74 ár",
+                "data.15-24years",
+                "data.25-54years",
+                "data.55-74years",
                 ""
               ]
             },
-            "title": "Aldur"
+            "title": "data.age"
           },
           {
             "name": "Value",

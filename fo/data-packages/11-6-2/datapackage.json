@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Havnardalur (land)",
-                "Bøkjarabrekka (býur)",
-                "Kaldbak (land)",
+                "data.havnardalur-rural",
+                "data.bokjarabrekka-urban",
+                "data.kaldbak-rural",
                 ""
               ]
             },
-            "title": "Staðseting"
+            "title": "data.location"
           },
           {
             "name": "data.sizeofparticulatematter",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 μg/m³",
-                "2,5 μg/m³",
+                "data.pm10",
+                "data.pm25",
                 ""
               ]
             },
-            "title": "Bitlastødd"
+            "title": "data.sizeofparticulatematter"
           },
           {
             "name": "Value",

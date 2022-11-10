@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Virðisøking frá ídnaðarvinnu sum partur av BTÚ",
-                "Virðisøking frá ídnaðarvinnu fyri hvørt fólkið",
+                "data.manufacturingvalueaddedasaproportionofgdp",
+                "data.manufacturingvalueaddedpercapita",
                 ""
               ]
             },
-            "title": "Mát"
+            "title": "data.measure"
           },
           {
             "name": "Value",
