@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.tonnes",
+                "per cent",
+                "tonnes",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.recycling",
-                "data.incineration",
-                "data.landfill",
-                "data.extraordinarypolluting",
+                "Recycling",
+                "Incineration",
+                "Landfill",
+                "Extraordinarily polluting",
                 ""
               ]
             },
-            "title": "data.wastemanagement"
+            "title": "Waste management"
           },
           {
             "name": "Value",

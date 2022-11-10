@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.chlorophyll-adeviationsremotesensing",
-                "data.chlorophyllaanomalyremotesensing",
+                "Chlorophyll-a deviations, remote sensing (%)",
+                "Chlorophyll-a anomaly, remote sensing (%)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.highfrequency",
-                "data.moderatefrequency",
+                "High frequency",
+                "Moderate frequency",
                 ""
               ]
             },
-            "title": "data.frequencyofchlorophyll-aconcentration"
+            "title": "Frequency of Chlorophyll-a concentration"
           },
           {
             "name": "Value",

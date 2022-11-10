@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.primaryeducation",
-                "data.lowersecondaryeducation",
-                "data.uppersecondaryeducation",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
                 ""
               ]
             },
-            "title": "data.education"
+            "title": "Education"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Males",
+                "Females",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

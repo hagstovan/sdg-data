@@ -1,157 +1,157 @@
-Year,Units,data.outcome,data.sex,Value
-2009,data.persons,data.lethal,,1.0
-2009,data.persons,data.lethal,data.female,0.0
-2009,data.persons,data.lethal,data.male,1.0
-2009,data.persons,data.non-lethal,,141.0
-2009,data.persons,data.non-lethal,data.female,68.0
-2009,data.persons,data.non-lethal,data.male,73.0
-2009,data.pr100000,data.lethal,,3.6
-2009,data.pr100000,data.lethal,data.female,0.0
-2009,data.pr100000,data.lethal,data.male,6.7
-2009,data.pr100000,data.non-lethal,,514.3
-2009,data.pr100000,data.non-lethal,data.female,540.3
-2009,data.pr100000,data.non-lethal,data.male,492.2
-2010,data.persons,data.lethal,,0.0
-2010,data.persons,data.lethal,data.female,0.0
-2010,data.persons,data.lethal,data.male,0.0
-2010,data.persons,data.non-lethal,,83.0
-2010,data.persons,data.non-lethal,data.female,42.0
-2010,data.persons,data.non-lethal,data.male,41.0
-2010,data.pr100000,data.lethal,,0.0
-2010,data.pr100000,data.lethal,data.female,0.0
-2010,data.pr100000,data.lethal,data.male,0.0
-2010,data.pr100000,data.non-lethal,,314.5
-2010,data.pr100000,data.non-lethal,data.female,363.7
-2010,data.pr100000,data.non-lethal,data.male,276.3
-2011,data.persons,data.lethal,,0.0
-2011,data.persons,data.lethal,data.female,0.0
-2011,data.persons,data.lethal,data.male,0.0
-2011,data.persons,data.non-lethal,,127.0
-2011,data.persons,data.non-lethal,data.female,62.0
-2011,data.persons,data.non-lethal,data.male,65.0
-2011,data.pr100000,data.lethal,,0.0
-2011,data.pr100000,data.lethal,data.female,0.0
-2011,data.pr100000,data.lethal,data.male,0.0
-2011,data.pr100000,data.non-lethal,,497.5
-2011,data.pr100000,data.non-lethal,data.female,530.7
-2011,data.pr100000,data.non-lethal,data.male,469.4
-2012,data.persons,data.lethal,,1.0
-2012,data.persons,data.lethal,data.female,0.0
-2012,data.persons,data.lethal,data.male,1.0
-2012,data.persons,data.non-lethal,,127.0
-2012,data.persons,data.non-lethal,data.female,57.0
-2012,data.persons,data.non-lethal,data.male,70.0
-2012,data.pr100000,data.lethal,,3.6
-2012,data.pr100000,data.lethal,data.female,0.0
-2012,data.pr100000,data.lethal,data.male,6.7
-2012,data.pr100000,data.non-lethal,,457.0
-2012,data.pr100000,data.non-lethal,data.female,441.2
-2012,data.pr100000,data.non-lethal,data.male,470.8
-2013,data.persons,data.lethal,,1.0
-2013,data.persons,data.lethal,data.female,0.0
-2013,data.persons,data.lethal,data.male,1.0
-2013,data.persons,data.non-lethal,,145.0
-2013,data.persons,data.non-lethal,data.female,76.0
-2013,data.persons,data.non-lethal,data.male,69.0
-2013,data.pr100000,data.lethal,,3.6
-2013,data.pr100000,data.lethal,data.female,0.0
-2013,data.pr100000,data.lethal,data.male,6.6
-2013,data.pr100000,data.non-lethal,,529.1
-2013,data.pr100000,data.non-lethal,data.female,618.1
-2013,data.pr100000,data.non-lethal,data.male,456.7
-2014,data.persons,data.lethal,,1.0
-2014,data.persons,data.lethal,data.female,0.0
-2014,data.persons,data.lethal,data.male,1.0
-2014,data.persons,data.non-lethal,,168.0
-2014,data.persons,data.non-lethal,data.female,91.0
-2014,data.persons,data.non-lethal,data.male,77.0
-2014,data.pr100000,data.lethal,,3.6
-2014,data.pr100000,data.lethal,data.female,0.0
-2014,data.pr100000,data.lethal,data.male,6.6
-2014,data.pr100000,data.non-lethal,,604.4
-2014,data.pr100000,data.non-lethal,data.female,725.4
-2014,data.pr100000,data.non-lethal,data.male,504.9
-2015,data.persons,data.lethal,,0.0
-2015,data.persons,data.lethal,data.female,0.0
-2015,data.persons,data.lethal,data.male,0.0
-2015,data.persons,data.non-lethal,,188.0
-2015,data.persons,data.non-lethal,data.female,74.0
-2015,data.persons,data.non-lethal,data.male,114.0
-2015,data.pr100000,data.lethal,,0.0
-2015,data.pr100000,data.lethal,data.female,0.0
-2015,data.pr100000,data.lethal,data.male,0.0
-2015,data.pr100000,data.non-lethal,,658.2
-2015,data.pr100000,data.non-lethal,data.female,565.1
-2015,data.pr100000,data.non-lethal,data.male,737.0
-2016,data.persons,data.lethal,,2.0
-2016,data.persons,data.lethal,data.female,0.0
-2016,data.persons,data.lethal,data.male,2.0
-2016,data.persons,data.non-lethal,,186.0
-2016,data.persons,data.non-lethal,data.female,76.0
-2016,data.persons,data.non-lethal,data.male,110.0
-2016,data.pr100000,data.lethal,,7.0
-2016,data.pr100000,data.lethal,data.female,0.0
-2016,data.pr100000,data.lethal,data.male,13.0
-2016,data.pr100000,data.non-lethal,,650.9
-2016,data.pr100000,data.non-lethal,data.female,576.4
-2016,data.pr100000,data.non-lethal,data.male,714.7
-2017,data.persons,data.lethal,,0.0
-2017,data.persons,data.lethal,data.female,0.0
-2017,data.persons,data.lethal,data.male,0.0
-2017,data.persons,data.non-lethal,,178.0
-2017,data.persons,data.non-lethal,data.female,56.0
-2017,data.persons,data.non-lethal,data.male,122.0
-2017,data.pr100000,data.lethal,,0.0
-2017,data.pr100000,data.lethal,data.female,0.0
-2017,data.pr100000,data.lethal,data.male,0.0
-2017,data.pr100000,data.non-lethal,,610.8
-2017,data.pr100000,data.non-lethal,data.female,413.3
-2017,data.pr100000,data.non-lethal,data.male,782.5
-2018,data.persons,data.lethal,,1.0
-2018,data.persons,data.lethal,data.female,0.0
-2018,data.persons,data.lethal,data.male,1.0
-2018,data.persons,data.non-lethal,,216.0
-2018,data.persons,data.non-lethal,data.female,84.0
-2018,data.persons,data.non-lethal,data.male,132.0
-2018,data.pr100000,data.lethal,,3.3
-2018,data.pr100000,data.lethal,data.female,0.0
-2018,data.pr100000,data.lethal,data.male,6.1
-2018,data.pr100000,data.non-lethal,,708.9
-2018,data.pr100000,data.non-lethal,data.female,600.1
-2018,data.pr100000,data.non-lethal,data.male,801.3
-2019,data.persons,data.lethal,,1.0
-2019,data.persons,data.lethal,data.female,1.0
-2019,data.persons,data.lethal,data.male,0.0
-2019,data.persons,data.non-lethal,,227.0
-2019,data.persons,data.non-lethal,data.female,108.0
-2019,data.persons,data.non-lethal,data.male,119.0
-2019,data.pr100000,data.lethal,,3.2
-2019,data.pr100000,data.lethal,data.female,6.9
-2019,data.pr100000,data.lethal,data.male,0.0
-2019,data.pr100000,data.non-lethal,,727.4
-2019,data.pr100000,data.non-lethal,data.female,749.1
-2019,data.pr100000,data.non-lethal,data.male,708.8
-2020,data.persons,data.lethal,,3.0
-2020,data.persons,data.lethal,data.female,0.0
-2020,data.persons,data.lethal,data.male,3.0
-2020,data.persons,data.non-lethal,,173.0
-2020,data.persons,data.non-lethal,data.female,70.0
-2020,data.persons,data.non-lethal,data.male,103.0
-2020,data.pr100000,data.lethal,,9.6
-2020,data.pr100000,data.lethal,data.female,0.0
-2020,data.pr100000,data.lethal,data.male,17.8
-2020,data.pr100000,data.non-lethal,,553.8
-2020,data.pr100000,data.non-lethal,data.female,485.5
-2020,data.pr100000,data.non-lethal,data.male,612.3
-2021,data.persons,data.lethal,,0.0
-2021,data.persons,data.lethal,data.female,0.0
-2021,data.persons,data.lethal,data.male,0.0
-2021,data.persons,data.non-lethal,,211.0
-2021,data.persons,data.non-lethal,data.female,110.0
-2021,data.persons,data.non-lethal,data.male,101.0
-2021,data.pr100000,data.lethal,,0.0
-2021,data.pr100000,data.lethal,data.female,0.0
-2021,data.pr100000,data.lethal,data.male,0.0
-2021,data.pr100000,data.non-lethal,,674.0
-2021,data.pr100000,data.non-lethal,data.female,753.3
-2021,data.pr100000,data.non-lethal,data.male,604.8
+Year,Units,Outcome,Sex,Value
+2009,Persons,Lethal,,1.0
+2009,Persons,Lethal,Females,0.0
+2009,Persons,Lethal,Males,1.0
+2009,Persons,Non-lethal,,141.0
+2009,Persons,Non-lethal,Females,68.0
+2009,Persons,Non-lethal,Males,73.0
+2009,"Per 100,000 employee",Lethal,,3.6
+2009,"Per 100,000 employee",Lethal,Females,0.0
+2009,"Per 100,000 employee",Lethal,Males,6.7
+2009,"Per 100,000 employee",Non-lethal,,514.3
+2009,"Per 100,000 employee",Non-lethal,Females,540.3
+2009,"Per 100,000 employee",Non-lethal,Males,492.2
+2010,Persons,Lethal,,0.0
+2010,Persons,Lethal,Females,0.0
+2010,Persons,Lethal,Males,0.0
+2010,Persons,Non-lethal,,83.0
+2010,Persons,Non-lethal,Females,42.0
+2010,Persons,Non-lethal,Males,41.0
+2010,"Per 100,000 employee",Lethal,,0.0
+2010,"Per 100,000 employee",Lethal,Females,0.0
+2010,"Per 100,000 employee",Lethal,Males,0.0
+2010,"Per 100,000 employee",Non-lethal,,314.5
+2010,"Per 100,000 employee",Non-lethal,Females,363.7
+2010,"Per 100,000 employee",Non-lethal,Males,276.3
+2011,Persons,Lethal,,0.0
+2011,Persons,Lethal,Females,0.0
+2011,Persons,Lethal,Males,0.0
+2011,Persons,Non-lethal,,127.0
+2011,Persons,Non-lethal,Females,62.0
+2011,Persons,Non-lethal,Males,65.0
+2011,"Per 100,000 employee",Lethal,,0.0
+2011,"Per 100,000 employee",Lethal,Females,0.0
+2011,"Per 100,000 employee",Lethal,Males,0.0
+2011,"Per 100,000 employee",Non-lethal,,497.5
+2011,"Per 100,000 employee",Non-lethal,Females,530.7
+2011,"Per 100,000 employee",Non-lethal,Males,469.4
+2012,Persons,Lethal,,1.0
+2012,Persons,Lethal,Females,0.0
+2012,Persons,Lethal,Males,1.0
+2012,Persons,Non-lethal,,127.0
+2012,Persons,Non-lethal,Females,57.0
+2012,Persons,Non-lethal,Males,70.0
+2012,"Per 100,000 employee",Lethal,,3.6
+2012,"Per 100,000 employee",Lethal,Females,0.0
+2012,"Per 100,000 employee",Lethal,Males,6.7
+2012,"Per 100,000 employee",Non-lethal,,457.0
+2012,"Per 100,000 employee",Non-lethal,Females,441.2
+2012,"Per 100,000 employee",Non-lethal,Males,470.8
+2013,Persons,Lethal,,1.0
+2013,Persons,Lethal,Females,0.0
+2013,Persons,Lethal,Males,1.0
+2013,Persons,Non-lethal,,145.0
+2013,Persons,Non-lethal,Females,76.0
+2013,Persons,Non-lethal,Males,69.0
+2013,"Per 100,000 employee",Lethal,,3.6
+2013,"Per 100,000 employee",Lethal,Females,0.0
+2013,"Per 100,000 employee",Lethal,Males,6.6
+2013,"Per 100,000 employee",Non-lethal,,529.1
+2013,"Per 100,000 employee",Non-lethal,Females,618.1
+2013,"Per 100,000 employee",Non-lethal,Males,456.7
+2014,Persons,Lethal,,1.0
+2014,Persons,Lethal,Females,0.0
+2014,Persons,Lethal,Males,1.0
+2014,Persons,Non-lethal,,168.0
+2014,Persons,Non-lethal,Females,91.0
+2014,Persons,Non-lethal,Males,77.0
+2014,"Per 100,000 employee",Lethal,,3.6
+2014,"Per 100,000 employee",Lethal,Females,0.0
+2014,"Per 100,000 employee",Lethal,Males,6.6
+2014,"Per 100,000 employee",Non-lethal,,604.4
+2014,"Per 100,000 employee",Non-lethal,Females,725.4
+2014,"Per 100,000 employee",Non-lethal,Males,504.9
+2015,Persons,Lethal,,0.0
+2015,Persons,Lethal,Females,0.0
+2015,Persons,Lethal,Males,0.0
+2015,Persons,Non-lethal,,188.0
+2015,Persons,Non-lethal,Females,74.0
+2015,Persons,Non-lethal,Males,114.0
+2015,"Per 100,000 employee",Lethal,,0.0
+2015,"Per 100,000 employee",Lethal,Females,0.0
+2015,"Per 100,000 employee",Lethal,Males,0.0
+2015,"Per 100,000 employee",Non-lethal,,658.2
+2015,"Per 100,000 employee",Non-lethal,Females,565.1
+2015,"Per 100,000 employee",Non-lethal,Males,737.0
+2016,Persons,Lethal,,2.0
+2016,Persons,Lethal,Females,0.0
+2016,Persons,Lethal,Males,2.0
+2016,Persons,Non-lethal,,186.0
+2016,Persons,Non-lethal,Females,76.0
+2016,Persons,Non-lethal,Males,110.0
+2016,"Per 100,000 employee",Lethal,,7.0
+2016,"Per 100,000 employee",Lethal,Females,0.0
+2016,"Per 100,000 employee",Lethal,Males,13.0
+2016,"Per 100,000 employee",Non-lethal,,650.9
+2016,"Per 100,000 employee",Non-lethal,Females,576.4
+2016,"Per 100,000 employee",Non-lethal,Males,714.7
+2017,Persons,Lethal,,0.0
+2017,Persons,Lethal,Females,0.0
+2017,Persons,Lethal,Males,0.0
+2017,Persons,Non-lethal,,178.0
+2017,Persons,Non-lethal,Females,56.0
+2017,Persons,Non-lethal,Males,122.0
+2017,"Per 100,000 employee",Lethal,,0.0
+2017,"Per 100,000 employee",Lethal,Females,0.0
+2017,"Per 100,000 employee",Lethal,Males,0.0
+2017,"Per 100,000 employee",Non-lethal,,610.8
+2017,"Per 100,000 employee",Non-lethal,Females,413.3
+2017,"Per 100,000 employee",Non-lethal,Males,782.5
+2018,Persons,Lethal,,1.0
+2018,Persons,Lethal,Females,0.0
+2018,Persons,Lethal,Males,1.0
+2018,Persons,Non-lethal,,216.0
+2018,Persons,Non-lethal,Females,84.0
+2018,Persons,Non-lethal,Males,132.0
+2018,"Per 100,000 employee",Lethal,,3.3
+2018,"Per 100,000 employee",Lethal,Females,0.0
+2018,"Per 100,000 employee",Lethal,Males,6.1
+2018,"Per 100,000 employee",Non-lethal,,708.9
+2018,"Per 100,000 employee",Non-lethal,Females,600.1
+2018,"Per 100,000 employee",Non-lethal,Males,801.3
+2019,Persons,Lethal,,1.0
+2019,Persons,Lethal,Females,1.0
+2019,Persons,Lethal,Males,0.0
+2019,Persons,Non-lethal,,227.0
+2019,Persons,Non-lethal,Females,108.0
+2019,Persons,Non-lethal,Males,119.0
+2019,"Per 100,000 employee",Lethal,,3.2
+2019,"Per 100,000 employee",Lethal,Females,6.9
+2019,"Per 100,000 employee",Lethal,Males,0.0
+2019,"Per 100,000 employee",Non-lethal,,727.4
+2019,"Per 100,000 employee",Non-lethal,Females,749.1
+2019,"Per 100,000 employee",Non-lethal,Males,708.8
+2020,Persons,Lethal,,3.0
+2020,Persons,Lethal,Females,0.0
+2020,Persons,Lethal,Males,3.0
+2020,Persons,Non-lethal,,173.0
+2020,Persons,Non-lethal,Females,70.0
+2020,Persons,Non-lethal,Males,103.0
+2020,"Per 100,000 employee",Lethal,,9.6
+2020,"Per 100,000 employee",Lethal,Females,0.0
+2020,"Per 100,000 employee",Lethal,Males,17.8
+2020,"Per 100,000 employee",Non-lethal,,553.8
+2020,"Per 100,000 employee",Non-lethal,Females,485.5
+2020,"Per 100,000 employee",Non-lethal,Males,612.3
+2021,Persons,Lethal,,0.0
+2021,Persons,Lethal,Females,0.0
+2021,Persons,Lethal,Males,0.0
+2021,Persons,Non-lethal,,211.0
+2021,Persons,Non-lethal,Females,110.0
+2021,Persons,Non-lethal,Males,101.0
+2021,"Per 100,000 employee",Lethal,,0.0
+2021,"Per 100,000 employee",Lethal,Females,0.0
+2021,"Per 100,000 employee",Lethal,Males,0.0
+2021,"Per 100,000 employee",Non-lethal,,674.0
+2021,"Per 100,000 employee",Non-lethal,Females,753.3
+2021,"Per 100,000 employee",Non-lethal,Males,604.8

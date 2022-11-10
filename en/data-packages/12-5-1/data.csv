@@ -1,31 +1,31 @@
-Year,Units,data.wastemanagement,Value
-2012,data.percent,data.recycling,13.7
-2012,data.tonnes,,43866.0
-2012,data.tonnes,data.incineration,30638.0
-2012,data.tonnes,data.landfill,6222.0
-2012,data.tonnes,data.recycling,6008.0
-2012,data.tonnes,data.extraordinarypolluting,998.0
-2013,data.percent,data.recycling,15.6
-2013,data.tonnes,,45300.0
-2013,data.tonnes,data.incineration,30490.0
-2013,data.tonnes,data.landfill,6993.0
-2013,data.tonnes,data.recycling,7084.0
-2013,data.tonnes,data.extraordinarypolluting,733.0
-2014,data.percent,data.recycling,15.4
-2014,data.tonnes,,51079.0
-2014,data.tonnes,data.incineration,33396.0
-2014,data.tonnes,data.landfill,8487.0
-2014,data.tonnes,data.recycling,7869.0
-2014,data.tonnes,data.extraordinarypolluting,1327.0
-2015,data.percent,data.recycling,18.8
-2015,data.tonnes,,49902.0
-2015,data.tonnes,data.incineration,33282.0
-2015,data.tonnes,data.landfill,6237.0
-2015,data.tonnes,data.recycling,9385.0
-2015,data.tonnes,data.extraordinarypolluting,998.0
-2016,data.percent,data.recycling,16.3
-2016,data.tonnes,,51885.0
-2016,data.tonnes,data.incineration,33677.0
-2016,data.tonnes,data.landfill,8691.0
-2016,data.tonnes,data.recycling,8482.0
-2016,data.tonnes,data.extraordinarypolluting,1035.0
+Year,Units,Waste management,Value
+2012,per cent,Recycling,13.7
+2012,tonnes,,43866.0
+2012,tonnes,Incineration,30638.0
+2012,tonnes,Landfill,6222.0
+2012,tonnes,Recycling,6008.0
+2012,tonnes,Extraordinarily polluting,998.0
+2013,per cent,Recycling,15.6
+2013,tonnes,,45300.0
+2013,tonnes,Incineration,30490.0
+2013,tonnes,Landfill,6993.0
+2013,tonnes,Recycling,7084.0
+2013,tonnes,Extraordinarily polluting,733.0
+2014,per cent,Recycling,15.4
+2014,tonnes,,51079.0
+2014,tonnes,Incineration,33396.0
+2014,tonnes,Landfill,8487.0
+2014,tonnes,Recycling,7869.0
+2014,tonnes,Extraordinarily polluting,1327.0
+2015,per cent,Recycling,18.8
+2015,tonnes,,49902.0
+2015,tonnes,Incineration,33282.0
+2015,tonnes,Landfill,6237.0
+2015,tonnes,Recycling,9385.0
+2015,tonnes,Extraordinarily polluting,998.0
+2016,per cent,Recycling,16.3
+2016,tonnes,,51885.0
+2016,tonnes,Incineration,33677.0
+2016,tonnes,Landfill,8691.0
+2016,tonnes,Recycling,8482.0
+2016,tonnes,Extraordinarily polluting,1035.0

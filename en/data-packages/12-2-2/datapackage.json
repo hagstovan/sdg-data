@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp",
+                "Domestic material consumption (1,000 tonnes)",
+                "Domestic material consumption per capita (1,000 tonnes)",
+                "Domestic material consumption per unit of GDP (1,000 tonnes)",
                 ""
               ]
             },
@@ -33,14 +33,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
+                "Biomass",
+                "Metallic minerals",
+                "Non-metallic minerals",
+                "Fossil energy and other products",
                 ""
               ]
             },
-            "title": "data.materialtype"
+            "title": "Material type"
           },
           {
             "name": "Value",
