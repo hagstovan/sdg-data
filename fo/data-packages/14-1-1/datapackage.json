@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.chlorophyll-adeviationsremotesensing",
-                "data.chlorophyllaanomalyremotesensing",
+                "Blaðgrøni-a grundfrávik, fjarmáting (%)",
+                "Blaðgrøni-a mánaðarligt frávik, fjarmáting (%)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.highfrequency",
-                "data.moderatefrequency",
+                "Stórur títtleiki",
+                "Nakað av títtleika",
                 ""
               ]
             },
-            "title": "data.frequencyofchlorophyll-aconcentration"
+            "title": "Títtleiki av blaðgrøna-a vøkstri"
           },
           {
             "name": "Value",

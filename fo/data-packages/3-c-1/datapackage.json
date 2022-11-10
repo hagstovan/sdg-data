@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.fulltimeequivalent",
-                "data.per10000population",
+                "Ársverk",
+                "Fyri hvørjar 10.000 íbúgvar",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists",
-                "data.dentists",
+                "Læknar",
+                "Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
+                "Heiliráðfrøðingar",
+                "Tannlæknar",
                 ""
               ]
             },
-            "title": "data.occupation"
+            "title": "Starv"
           },
           {
             "name": "Value",

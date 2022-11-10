@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.primaryeducation",
-                "data.lowersecondaryeducation",
-                "data.uppersecondaryeducation",
+                "Barnaskúlin 1. - 7. flokk",
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Miðnáms- ella yrkisútbúgving",
                 ""
               ]
             },
-            "title": "data.education"
+            "title": "Útbúgving"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Menn",
+                "Kvinnur",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",

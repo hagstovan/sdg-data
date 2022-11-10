@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.tonnes",
+                "Prosent",
+                "tons",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.recycling",
-                "data.incineration",
-                "data.landfill",
-                "data.extraordinarypolluting",
+                "Endurnýtsla",
+                "Brenning",
+                "Tyrving",
+                "Serliga dálkandi",
                 ""
               ]
             },
-            "title": "data.wastemanagement"
+            "title": "Viðgerð av burturkasti"
           },
           {
             "name": "Value",
