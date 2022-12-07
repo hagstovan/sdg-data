@@ -76,10 +76,13 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.1.0-beta2
+    tag: 2.1.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+
+
+
 
 # Reporting status extra fields
 # -----------------------------
