@@ -20,11 +20,11 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-2,data.age,1
 #3-a-1,data.sex,1
 #3-c-1,data.occupation,1
-#4-1-2,"data.sex, data.education",2
+#4-1-2,"data.education, data.sex",2
 #4-2-2,data.sex,1
 #4-b-1,data.measure,1
 #5-3-1,data.age,1
-#5-4-1,"data.location, data.sex, data.age",3
+#5-4-1,"data.sex, data.age, data.location",3
 #5-5-1,data.party-municipality,1
 #7-2-1,data.renewablesource,1
 #7-b-1,data.energysource,1
