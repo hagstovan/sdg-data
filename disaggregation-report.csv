@@ -16,7 +16,7 @@ data.occupation,1,4
 data.outcome,1,2
 data.party-municipality,1,64
 data.renewablesource,1,7
-data.sex,11,2
+data.sex,12,2
 data.sizeofparticulatematter,1,2
 data.source,2,6
 data.technology,1,2

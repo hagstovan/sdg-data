@@ -16,6 +16,18 @@
             "title": "Ár"
           },
           {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
