@@ -534,13 +534,13 @@ Year,data.measure,Value
 2020,data.portfolioinvestment,..
 2020,data.reservesinmonthsofimports,..
 2020,data.debtservice,..
-2020,data.externaldebtstocks,..
+2020,data.externaldebtstocks,159.087707744514
 2020,data.DECalternativeconversionfactor,653.4273
 2020,data.annualbroadmoneygrowth,..
 2020,data.broadmoney,..
 2020,data.banknonperformingloans,..
 2020,data.bankcapitaltoassetsratio,..
-2020,data.taxrevenuegdp,..
+2020,data.taxrevenuegdp,43.7386194143968
 2020,data.cashsurplusdeficit,6.5368672159147
 2020,data.grossPSD,..
 2020,data.annualGDPgrowth,-2.71753558841031
@@ -564,8 +564,8 @@ Year,data.measure,Value
 2021,data.broadmoney,..
 2021,data.banknonperformingloans,..
 2021,data.bankcapitaltoassetsratio,..
-2021,data.taxrevenuegdp,..
-2021,data.cashsurplusdeficit,..
+2021,data.taxrevenuegdp,41.5933098591549
+2021,data.cashsurplusdeficit,6.15325617068749
 2021,data.grossPSD,..
 2021,data.annualGDPgrowth,7.97005641476853
 2021,data.annualgrowthofthegrosscapitalformation,4.03112433386734
