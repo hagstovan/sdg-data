@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: data.12-a-1-graphtitle
+graph_title: data.12-a-1-graphtitle 
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.12-a-1-title
