@@ -28,19 +28,8 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources:
+sources: 
   - organisation: SDG Indicators Database
-    periodicity: Discontinuous
-    earliest_available: "1919"
-    geographical_coverage: United Kingdom
-    url: "https://unstats.un.org/sdgs/dataportal/database"
-    url_text: World Environment Situation Room
-    release_date: 04/03/2022
-    next_release: TBC
-    statistical_classification: Official Statistic 
-    contact: hcinfo@parliament.uk
-    other_info: "This is *some* markdown."
-    logo: "https://onsdigital.github.io/sdg-indicators/assets/img/SDG_logo.png"
 standalone: false
 tags: []
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-01-01.pdf
