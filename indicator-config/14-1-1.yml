@@ -28,8 +28,6 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-sources: 
-  - organisation: SDG Indicators Database
 standalone: false
 tags: []
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-01-01.pdf
