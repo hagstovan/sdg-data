@@ -164,3 +164,33 @@ Year,Sex,Disease,Value
 2019,Females,Cancer,98.8
 2019,Females,Diabetes,0.0
 2019,Females,Cronical respiratory diseases,16.5
+2020,,,127.3
+2020,,Cardiovascular disease,23.2
+2020,,Cancer,88.7
+2020,,Diabetes,0.0
+2020,,Cronical respiratory diseases,15.4
+2020,Males,,161.7
+2020,Males,Cardiovascular disease,36.7
+2020,Males,Cancer,117.6
+2020,Males,Diabetes,0.0
+2020,Males,Cronical respiratory diseases,7.3
+2020,Females,,89.4
+2020,Females,Cardiovascular disease,8.1
+2020,Females,Cancer,56.9
+2020,Females,Diabetes,0.0
+2020,Females,Cronical respiratory diseases,24.4
+2021,,,176.3
+2021,,Cardiovascular disease,53.7
+2021,,Cancer,107.3
+2021,,Diabetes,0.0
+2021,,Cronical respiratory diseases,15.3
+2021,Males,,218.9
+2021,Males,Cardiovascular disease,65.7
+2021,Males,Cancer,131.3
+2021,Males,Diabetes,0.0
+2021,Males,Cronical respiratory diseases,21.9
+2021,Females,,129.2
+2021,Females,Cardiovascular disease,40.4
+2021,Females,Cancer,80.8
+2021,Females,Diabetes,0.0
+2021,Females,Cronical respiratory diseases,8.1
