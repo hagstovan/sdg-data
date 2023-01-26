@@ -661,7 +661,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Varandi orkukeldur tilsamans",
                 "Vatn",
                 "Vindur",
                 "Sólin",

@@ -613,7 +613,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.totalrenewable",
                 "data.hydro",
                 "data.wind",
                 "data.solar",
