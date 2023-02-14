@@ -2152,6 +2152,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.dkkpercapita",
+                "data.percent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {

@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                null,
+                "per cent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {

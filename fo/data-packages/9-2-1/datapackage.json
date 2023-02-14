@@ -16,6 +16,18 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DKK/íbúgva",
+                "Prosent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {
