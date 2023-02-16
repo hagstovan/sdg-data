@@ -2339,7 +2339,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                null,
+                "DKK per capita",
                 "per cent",
                 ""
               ]
