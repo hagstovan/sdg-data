@@ -10,9 +10,9 @@ data_show_map: false
 data_start_values: 
   - field: Units
     value: data.dkkpercapita
-  - field: Series
+  - field: data.measure
     value: data.manufacturingvalueaddedasaproportionofgdp
-  - field: Series
+  - field: data.measure
     value: data.manufacturingvalueaddedpercapita
 embedded_feature_footer: ''
 embedded_feature_html: ''
