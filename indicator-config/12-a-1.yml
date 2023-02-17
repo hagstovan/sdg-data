@@ -7,7 +7,21 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values: 
+ - field: data.energysource
+   value: data.totalrenewable
+ - field: data.energysource
+   value: data.hydro
+ - field: data.energysource
+   value: data.wind
+ - field: data.energysource
+   value: data.solar
+ - field: data.energysource
+   value: data.ocean
+ - field: data.energysource
+   value: data.biofuel
+ - field: data.energysource
+   value: data.geothermal
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
