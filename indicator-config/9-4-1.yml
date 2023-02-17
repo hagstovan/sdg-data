@@ -12,18 +12,6 @@ data_start_values:
    value: data.fuelcombustion
  - field: data.mainsource
    value: data.bunkers
- - field: source
-   value: data.energyindustries
- - field: source
-   value: data.manufacturingindustriesandconstruction
- - field: source
-   value: data.transportsector
- - field: source
-   value: data.othersectors
- - field: source
-   value: data.aviation
- - field: source
-   value: data.navigation
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
