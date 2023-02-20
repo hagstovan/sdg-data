@@ -24,6 +24,7 @@
               "enum": [
                 "Blaðgrøni-a grundfrávik, fjarmáting (%)",
                 "Blaðgrøni-a mánaðarligt frávik, fjarmáting (%)",
+                "data.skopunnutrients",
                 ""
               ]
             },
@@ -40,6 +41,19 @@
               ]
             },
             "title": "Títtleiki av blaðgrøna-a vøkstri"
+          },
+          {
+            "name": "data.nutrient",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nitrat",
+                "Silikat",
+                "Fosfat",
+                ""
+              ]
+            },
+            "title": "Taðevni"
           },
           {
             "name": "Value",

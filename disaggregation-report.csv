@@ -12,6 +12,7 @@ data.location,2,6
 data.mainsource,1,2
 data.materialtype,2,4
 data.measure,5,30
+data.nutrient,1,3
 data.occupation,1,4
 data.outcome,1,2
 data.party-municipality,1,64

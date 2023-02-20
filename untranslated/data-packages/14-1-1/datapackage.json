@@ -21,6 +21,7 @@
               "enum": [
                 "data.chlorophyll-adeviationsremotesensing",
                 "data.chlorophyllaanomalyremotesensing",
+                "data.skopunnutrients",
                 ""
               ]
             }
@@ -32,6 +33,18 @@
               "enum": [
                 "data.highfrequency",
                 "data.moderatefrequency",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.nutrient",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.nitrogen",
+                "data.silica",
+                "data.phosphate",
                 ""
               ]
             }

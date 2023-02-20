@@ -1,24 +1,85 @@
-Year,Series,Frequency of Chlorophyll-a concentration,Value
-2005,"Chlorophyll-a deviations, remote sensing (%)",,4.89118
-2006,"Chlorophyll-a deviations, remote sensing (%)",,3.70124
-2007,"Chlorophyll-a deviations, remote sensing (%)",,3.06608
-2008,"Chlorophyll-a deviations, remote sensing (%)",,5.38985
-2009,"Chlorophyll-a deviations, remote sensing (%)",,8.33331
-2010,"Chlorophyll-a deviations, remote sensing (%)",,10.04076
-2011,"Chlorophyll-a deviations, remote sensing (%)",,11.6396
-2012,"Chlorophyll-a deviations, remote sensing (%)",,3.69643
-2013,"Chlorophyll-a deviations, remote sensing (%)",,6.30942
-2014,"Chlorophyll-a deviations, remote sensing (%)",,7.05934
-2015,"Chlorophyll-a deviations, remote sensing (%)",,4.37811
-2016,"Chlorophyll-a deviations, remote sensing (%)",,2.52618
-2017,"Chlorophyll-a deviations, remote sensing (%)",,4.39161
-2018,"Chlorophyll-a deviations, remote sensing (%)",,3.87649
-2019,"Chlorophyll-a deviations, remote sensing (%)",,6.09887
-2020,"Chlorophyll-a deviations, remote sensing (%)",,6.08639
-2021,"Chlorophyll-a deviations, remote sensing (%)",,3.59289
-2018,"Chlorophyll-a anomaly, remote sensing (%)",High frequency,5.31634
-2018,"Chlorophyll-a anomaly, remote sensing (%)",Moderate frequency,4.91874
-2019,"Chlorophyll-a anomaly, remote sensing (%)",High frequency,4.5185
-2019,"Chlorophyll-a anomaly, remote sensing (%)",Moderate frequency,5.19455
-2020,"Chlorophyll-a anomaly, remote sensing (%)",High frequency,5.90088
-2020,"Chlorophyll-a anomaly, remote sensing (%)",Moderate frequency,5.17124
+Year,Series,Frequency of Chlorophyll-a concentration,Nutrient,Value
+2005,"Chlorophyll-a deviations, remote sensing (%)",,,4.89118
+2006,"Chlorophyll-a deviations, remote sensing (%)",,,3.70124
+2007,"Chlorophyll-a deviations, remote sensing (%)",,,3.06608
+2008,"Chlorophyll-a deviations, remote sensing (%)",,,5.38985
+2009,"Chlorophyll-a deviations, remote sensing (%)",,,8.33331
+2010,"Chlorophyll-a deviations, remote sensing (%)",,,10.04076
+2011,"Chlorophyll-a deviations, remote sensing (%)",,,11.6396
+2012,"Chlorophyll-a deviations, remote sensing (%)",,,3.69643
+2013,"Chlorophyll-a deviations, remote sensing (%)",,,6.30942
+2014,"Chlorophyll-a deviations, remote sensing (%)",,,7.05934
+2015,"Chlorophyll-a deviations, remote sensing (%)",,,4.37811
+2016,"Chlorophyll-a deviations, remote sensing (%)",,,2.52618
+2017,"Chlorophyll-a deviations, remote sensing (%)",,,4.39161
+2018,"Chlorophyll-a deviations, remote sensing (%)",,,3.87649
+2019,"Chlorophyll-a deviations, remote sensing (%)",,,6.09887
+2020,"Chlorophyll-a deviations, remote sensing (%)",,,6.08639
+2021,"Chlorophyll-a deviations, remote sensing (%)",,,3.59289
+2018,"Chlorophyll-a anomaly, remote sensing (%)",High frequency,,5.31634
+2018,"Chlorophyll-a anomaly, remote sensing (%)",Moderate frequency,,4.91874
+2019,"Chlorophyll-a anomaly, remote sensing (%)",High frequency,,4.5185
+2019,"Chlorophyll-a anomaly, remote sensing (%)",Moderate frequency,,5.19455
+2020,"Chlorophyll-a anomaly, remote sensing (%)",High frequency,,5.90088
+2020,"Chlorophyll-a anomaly, remote sensing (%)",Moderate frequency,,5.17124
+1996,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-0.197566104175421
+1996,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,22.9182946896709
+1997,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-8.7286874793917
+1997,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,51.4038234364231
+1998,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-5.10588252528154
+1998,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-5.1863755943328
+1999,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-0.197566104175421
+2000,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-0.836669804840281
+2000,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,9.75434967394894
+2001,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,2.61449017874997
+2001,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,13.0881195840666
+2002,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,1.26811174328442
+2002,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,3.46934609363656
+2003,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-0.759977360760495
+2003,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,2.66736219650497
+2004,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-1.93592816998383
+2004,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-5.03705222318012
+2005,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,4.47702095185823
+2005,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,6.28803429596037
+2006,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,0.67891899439505
+2006,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-3.66797511244391
+2007,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,0.562054270956175
+2008,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,5.28338723272642
+2009,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,6.54318844747699
+2009,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,-11.4062390330222
+2010,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-6.73497614175494
+2010,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,23.0827181681397
+2010,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,10.7650663183037
+2011,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-1.0503860823426
+2011,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-7.1336193607715
+2011,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,7.13302112696265
+2012,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-7.18578160872526
+2012,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-1.87833179506403
+2012,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,0.176731184224744
+2013,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,1.68736377092057
+2013,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-13.8264379096641
+2013,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,3.77799633157136
+2014,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,1.80584504837274
+2014,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-16.6983679939903
+2014,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,-7.00486868055228
+2015,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,2.48482881995909
+2015,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-19.8177162712287
+2015,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,4.72602168659936
+2016,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-18.3519984060203
+2017,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-0.480612351125868
+2017,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-10.5692870855625
+2018,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,-2.61286680972806
+2018,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-6.18152911727838
+2018,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,-13.7276406484792
+2019,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,0.0014933678565786
+2019,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-4.00800733823619
+2019,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,-6.69953064412768
+2020,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,4.71893084429922
+2020,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,4.5028651011553
+2020,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,11.7623397437227
+2021,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,1.61646583979172
+2021,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-9.23041018945864
+2021,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,-0.929298355601193
+2022,"Nutrients in Skopun Strait, deviation from mean (%)",,Nitrogen,2.08480103163893
+2022,"Nutrients in Skopun Strait, deviation from mean (%)",,Silica,-15.5878048422747
+2022,"Nutrients in Skopun Strait, deviation from mean (%)",,Prosphate,1.42640097039801

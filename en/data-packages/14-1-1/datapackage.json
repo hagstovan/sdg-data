@@ -22,6 +22,7 @@
               "enum": [
                 "Chlorophyll-a deviations, remote sensing (%)",
                 "Chlorophyll-a anomaly, remote sensing (%)",
+                "Nutrients in Skopun Strait, deviation from mean (%)",
                 ""
               ]
             },
@@ -38,6 +39,19 @@
               ]
             },
             "title": "Frequency of Chlorophyll-a concentration"
+          },
+          {
+            "name": "data.nutrient",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nitrogen",
+                "Silica",
+                "Prosphate",
+                ""
+              ]
+            },
+            "title": "Nutrient"
           },
           {
             "name": "Value",
