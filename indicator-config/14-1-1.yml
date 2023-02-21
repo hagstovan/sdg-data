@@ -10,6 +10,10 @@ data_show_map: false
 data_start_values: 
   - field: Series
     value: data.chlorophyll-adeviationsremotesensing
+  - field: data.frequencyofchlorophyll-aconcentration
+    value: data.highfrequency
+  - field: data.frequencyofchlorophyll-aconcentration
+    value: data.moderatefrequency
   - field: data.nutrient
     value: data.nitrogen
   - field: data.nutrient
