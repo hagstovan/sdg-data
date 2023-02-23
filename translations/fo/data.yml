@@ -297,3 +297,7 @@ nutrient: Taðevni
 nitrogen: Nitrat
 silica: Silikat
 phosphate: Fosfat
+lowerbound: Lowerbound
+rli: Reyðlistavísital
+upperbound: Upperbound
+
