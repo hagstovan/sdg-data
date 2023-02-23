@@ -31,7 +31,13 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: data.14-1-1a-graphtitle
 graph_title_from_series: true
-graph_titles: []
+graph_titles: 
+  - series: data.chlorophyll-adeviationsremotesensing
+    title: data.chlorophyll-adeviationsremotesensing
+  - series: data.chlorophyllaanomalyremotesensing
+    title: data.chlorophyllaanomalyremotesensing
+  - series: data.skopunnutrients
+    title: data.skopunnutrients
 graph_type: line
 indicator_name: global_indicators.14-1-1-title
 indicator_number: '14.1.1'
