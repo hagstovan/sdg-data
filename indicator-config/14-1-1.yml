@@ -29,6 +29,7 @@ expected_disaggregations: []
 footer_fields:
   - series: data.nutrient
     label: data.skopunfootnote
+    value: data.skopunfootnote
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
