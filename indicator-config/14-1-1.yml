@@ -28,7 +28,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 footer_fields:
   - series: data.skopunnutrients
-    label: data.skopunfootnote
+    label: data.skopunlabel
     value: data.skopunfootnote
 graph_annotations: []
 graph_limits: []
