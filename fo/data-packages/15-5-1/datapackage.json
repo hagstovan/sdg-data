@@ -16,6 +16,19 @@
             "title": "Ár"
           },
           {
+            "name": "data.confidenslevel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lowerbound",
+                "Reyðlistavísital",
+                "Upperbound",
+                ""
+              ]
+            },
+            "title": "data.confidenslevel"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

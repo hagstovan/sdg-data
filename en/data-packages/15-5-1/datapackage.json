@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "data.confidenslevel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niðara mark",
+                "Red List Index",
+                "Ovara mark",
+                ""
+              ]
+            },
+            "title": "data.confidenslevel"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -2021,6 +2021,18 @@
             "type": "integer"
           },
           {
+            "name": "data.confidenslevel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.lowerbound",
+                "data.rli",
+                "data.upperbound",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
