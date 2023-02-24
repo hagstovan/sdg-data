@@ -1,4 +1,4 @@
-"Year","data.confidenslevel","Value"
+"Year","data.confidencelevel","Value"
 "1993","data.lowerbound",0.828958038591179
 "1993","data.rli",0.887164353136477
 "1993","data.upperbound",0.927147006943324
