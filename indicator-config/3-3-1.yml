@@ -22,7 +22,7 @@ graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.3-3-1-title
 indicator_number: '3.3.1'
-national_geographical_coverage: ''
+national_geographical_coverage: data.bothsexes
 page_content: ''
 permalink: ''
 precision: []
