@@ -2196,9 +2196,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Niðara mark",
+                "Lowerbound",
                 "Red List Index",
-                "Ovara mark",
+                "Upperbound",
                 ""
               ]
             },
