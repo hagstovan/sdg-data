@@ -16,7 +16,7 @@
             "title": "Ár"
           },
           {
-            "name": "data.confidenslevel",
+            "name": "data.confidencelevel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "data.confidenslevel"
+            "title": "Álitisstig"
           },
           {
             "name": "Value",

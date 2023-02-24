@@ -2021,7 +2021,7 @@
             "type": "integer"
           },
           {
-            "name": "data.confidenslevel",
+            "name": "data.confidencelevel",
             "type": "string",
             "constraints": {
               "enum": [

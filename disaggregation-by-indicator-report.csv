@@ -8,7 +8,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-5-1,data.wastemanagement,1
 #12-a-1,data.energysource,1
 #14-1-1,"data.frequencyofchlorophyll-aconcentration, data.nutrient",2
-#15-5-1,data.confidenslevel,1
+#15-5-1,data.confidencelevel,1
 #16-1-1,data.source,1
 #16-1-4,"data.age, data.sex",2
 #17-1-1,data.source,1

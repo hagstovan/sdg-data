@@ -2192,7 +2192,7 @@
             "title": "Year"
           },
           {
-            "name": "data.confidenslevel",
+            "name": "data.confidencelevel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2202,7 +2202,7 @@
                 ""
               ]
             },
-            "title": "data.confidenslevel"
+            "title": "Confidence level"
           },
           {
             "name": "Value",
