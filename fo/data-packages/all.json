@@ -2196,9 +2196,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lowerbound",
+                "Niðara mark",
                 "Reyðlistavísital",
-                "Upperbound",
+                "Ovara mark",
                 ""
               ]
             },
