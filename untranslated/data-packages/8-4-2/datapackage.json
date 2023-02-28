@@ -22,6 +22,7 @@
                 "data.domesticmaterialconsumption",
                 "data.domesticmaterialconsumptionpercapita",
                 "data.domesticmaterialconsumptionperunitofgdp",
+                "data.domesticmaterialconsumptionperunitofrealgdp",
                 ""
               ]
             }
