@@ -197,6 +197,7 @@ fossilenergyandotherproducts: Fossil energy and other products
 domesticmaterialconsumption: Domestic material consumption (1,000 tonnes)
 domesticmaterialconsumptionpercapita: Domestic material consumption per capita (1,000 tonnes)
 domesticmaterialconsumptionperunitofgdp: Domestic material consumption per unit of GDP (1,000 tonnes)
+domesticmaterialconsumptionperunitofrealgdp: Domestic material consumption per unit of real-GDP (1,000 tonnes)
 manufacturingvalueaddedasaproportionofgdp: Manufacturing value added as a proportion of GDP
 manufacturingvalueaddedpercapita: Manufacturing value added per capita
 energyindustries: Energy industries
