@@ -36,6 +36,8 @@ graph_titles:
     title: data.domesticmaterialconsumptionpercapita
   - unit: data.domesticmaterialconsumptionperunitofgdp
     title: data.domesticmaterialconsumptionperunitofgdp
+  - unit: data.domesticmaterialconsumptionperunitofrealgdp
+    title: data.domesticmaterialconsumptionperunitofrealgdp
 graph_type: line
 indicator_name: global_indicators.8-4-2-title
 indicator_number: '8.4.2'
