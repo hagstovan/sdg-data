@@ -30,7 +30,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-1,data.party-municipality,1
 #7-2-1,data.renewablesource,1
 #7-b-1,data.energysource,1
-#8-4-2,data.materialtype,1
+#8-4-2,material type,1
 #8-5-2,"data.age, data.sex",2
 #8-6-1,"data.age, data.sex",2
 #8-8-1,"data.sex, data.outcome",2

@@ -1057,7 +1057,7 @@
             "title": "Units"
           },
           {
-            "name": "data.materialtype",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1068,7 +1068,7 @@
                 ""
               ]
             },
-            "title": "Slag av tilfari"
+            "title": "material type"
           },
           {
             "name": "Value",
