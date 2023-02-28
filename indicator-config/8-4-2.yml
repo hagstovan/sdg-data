@@ -28,7 +28,14 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.8-4-2-title
-graph_titles: []
+graph_title_from_series: true
+graph_titles: 
+  - unit: data.domesticmaterialconsumption
+    title: data.domesticmaterialconsumption
+  - unit: data.domesticmaterialconsumptionpercapita
+    title: data.domesticmaterialconsumptionpercapita
+  - unit: data.domesticmaterialconsumptionperunitofgdp
+    title: data.domesticmaterialconsumptionperunitofgdp
 graph_type: line
 indicator_name: global_indicators.8-4-2-title
 indicator_number: '8.4.2'
