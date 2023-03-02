@@ -1,9 +1,9 @@
 Year,Units,material type,Value
-2009,"Domestic material consumption (1,000 tonnes)",,926.84
-2009,"Domestic material consumption (1,000 tonnes)",Biomass,298.35
-2009,"Domestic material consumption (1,000 tonnes)",Metallic minerals,-1.59
-2009,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,402.95
-2009,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,227.13
+2009,Domestic material consumption,,926.84
+2009,Domestic material consumption,Biomass,298.35
+2009,Domestic material consumption,Metallic minerals,-1.59
+2009,Domestic material consumption,Non-metallic minerals,402.95
+2009,Domestic material consumption,Fossil energy and other products,227.13
 2009,"Domestic material consumption per capita (1,000 tonnes)",,19.09
 2009,"Domestic material consumption per capita (1,000 tonnes)",Biomass,6.15
 2009,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,-0.03
@@ -14,11 +14,11 @@ Year,Units,material type,Value
 2009,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,-0.12
 2009,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,30.55
 2009,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,17.22
-2010,"Domestic material consumption (1,000 tonnes)",,831.08
-2010,"Domestic material consumption (1,000 tonnes)",Biomass,343.99
-2010,"Domestic material consumption (1,000 tonnes)",Metallic minerals,-3.2
-2010,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,262.13
-2010,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,228.16
+2010,Domestic material consumption,,831.08
+2010,Domestic material consumption,Biomass,343.99
+2010,Domestic material consumption,Metallic minerals,-3.2
+2010,Domestic material consumption,Non-metallic minerals,262.13
+2010,Domestic material consumption,Fossil energy and other products,228.16
 2010,"Domestic material consumption per capita (1,000 tonnes)",,17.15
 2010,"Domestic material consumption per capita (1,000 tonnes)",Biomass,7.1
 2010,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,-0.07
@@ -29,11 +29,11 @@ Year,Units,material type,Value
 2010,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,-0.24
 2010,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,19.99
 2010,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,17.4
-2011,"Domestic material consumption (1,000 tonnes)",,935.44
-2011,"Domestic material consumption (1,000 tonnes)",Biomass,359.57
-2011,"Domestic material consumption (1,000 tonnes)",Metallic minerals,1.04
-2011,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,366.4
-2011,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,208.43
+2011,Domestic material consumption,,935.44
+2011,Domestic material consumption,Biomass,359.57
+2011,Domestic material consumption,Metallic minerals,1.04
+2011,Domestic material consumption,Non-metallic minerals,366.4
+2011,Domestic material consumption,Fossil energy and other products,208.43
 2011,"Domestic material consumption per capita (1,000 tonnes)",,19.37
 2011,"Domestic material consumption per capita (1,000 tonnes)",Biomass,7.44
 2011,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.02
@@ -44,11 +44,11 @@ Year,Units,material type,Value
 2011,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,0.08
 2011,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,26.94
 2011,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,15.33
-2012,"Domestic material consumption (1,000 tonnes)",,943.66
-2012,"Domestic material consumption (1,000 tonnes)",Biomass,225.28
-2012,"Domestic material consumption (1,000 tonnes)",Metallic minerals,3.44
-2012,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,472.73
-2012,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,242.21
+2012,Domestic material consumption,,943.66
+2012,Domestic material consumption,Biomass,225.28
+2012,Domestic material consumption,Metallic minerals,3.44
+2012,Domestic material consumption,Non-metallic minerals,472.73
+2012,Domestic material consumption,Fossil energy and other products,242.21
 2012,"Domestic material consumption per capita (1,000 tonnes)",,19.62
 2012,"Domestic material consumption per capita (1,000 tonnes)",Biomass,4.68
 2012,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.07
@@ -59,11 +59,11 @@ Year,Units,material type,Value
 2012,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,0.24
 2012,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,32.48
 2012,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,16.64
-2013,"Domestic material consumption (1,000 tonnes)",,1090.18
-2013,"Domestic material consumption (1,000 tonnes)",Biomass,342.88
-2013,"Domestic material consumption (1,000 tonnes)",Metallic minerals,4.94
-2013,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,444.55
-2013,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,297.81
+2013,Domestic material consumption,,1090.18
+2013,Domestic material consumption,Biomass,342.88
+2013,Domestic material consumption,Metallic minerals,4.94
+2013,Domestic material consumption,Non-metallic minerals,444.55
+2013,Domestic material consumption,Fossil energy and other products,297.81
 2013,"Domestic material consumption per capita (1,000 tonnes)",,22.68
 2013,"Domestic material consumption per capita (1,000 tonnes)",Biomass,7.13
 2013,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.1
@@ -74,11 +74,11 @@ Year,Units,material type,Value
 2013,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,0.32
 2013,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,28.85
 2013,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,19.33
-2014,"Domestic material consumption (1,000 tonnes)",,1468.98
-2014,"Domestic material consumption (1,000 tonnes)",Biomass,365.42
-2014,"Domestic material consumption (1,000 tonnes)",Metallic minerals,6.06
-2014,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,786.08
-2014,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,311.41
+2014,Domestic material consumption,,1468.98
+2014,Domestic material consumption,Biomass,365.42
+2014,Domestic material consumption,Metallic minerals,6.06
+2014,Domestic material consumption,Non-metallic minerals,786.08
+2014,Domestic material consumption,Fossil energy and other products,311.41
 2014,"Domestic material consumption per capita (1,000 tonnes)",,30.38
 2014,"Domestic material consumption per capita (1,000 tonnes)",Biomass,7.56
 2014,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.13
@@ -89,11 +89,11 @@ Year,Units,material type,Value
 2014,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,0.37
 2014,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,48.39
 2014,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,19.17
-2015,"Domestic material consumption (1,000 tonnes)",,1222.53
-2015,"Domestic material consumption (1,000 tonnes)",Biomass,404.2
-2015,"Domestic material consumption (1,000 tonnes)",Metallic minerals,2.01
-2015,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,463.25
-2015,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,353.07
+2015,Domestic material consumption,,1222.53
+2015,Domestic material consumption,Biomass,404.2
+2015,Domestic material consumption,Metallic minerals,2.01
+2015,Domestic material consumption,Non-metallic minerals,463.25
+2015,Domestic material consumption,Fossil energy and other products,353.07
 2015,"Domestic material consumption per capita (1,000 tonnes)",,25.03
 2015,"Domestic material consumption per capita (1,000 tonnes)",Biomass,8.28
 2015,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.04
@@ -104,11 +104,11 @@ Year,Units,material type,Value
 2015,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,0.12
 2015,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,28.24
 2015,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,21.53
-2016,"Domestic material consumption (1,000 tonnes)",,1356.83
-2016,"Domestic material consumption (1,000 tonnes)",Biomass,304.85
-2016,"Domestic material consumption (1,000 tonnes)",Metallic minerals,18.68
-2016,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,675.06
-2016,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,358.24
+2016,Domestic material consumption,,1356.83
+2016,Domestic material consumption,Biomass,304.85
+2016,Domestic material consumption,Metallic minerals,18.68
+2016,Domestic material consumption,Non-metallic minerals,675.06
+2016,Domestic material consumption,Fossil energy and other products,358.24
 2016,"Domestic material consumption per capita (1,000 tonnes)",,27.44
 2016,"Domestic material consumption per capita (1,000 tonnes)",Biomass,6.17
 2016,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.38
@@ -119,11 +119,11 @@ Year,Units,material type,Value
 2016,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,1.12
 2016,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,40.56
 2016,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,21.52
-2017,"Domestic material consumption (1,000 tonnes)",,1617.55
-2017,"Domestic material consumption (1,000 tonnes)",Biomass,442.7
-2017,"Domestic material consumption (1,000 tonnes)",Metallic minerals,46.62
-2017,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,757.36
-2017,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,370.88
+2017,Domestic material consumption,,1617.55
+2017,Domestic material consumption,Biomass,442.7
+2017,Domestic material consumption,Metallic minerals,46.62
+2017,Domestic material consumption,Non-metallic minerals,757.36
+2017,Domestic material consumption,Fossil energy and other products,370.88
 2017,"Domestic material consumption per capita (1,000 tonnes)",,32.27
 2017,"Domestic material consumption per capita (1,000 tonnes)",Biomass,8.83
 2017,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.93
@@ -134,11 +134,11 @@ Year,Units,material type,Value
 2017,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,2.71
 2017,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,43.96
 2017,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,21.53
-2018,"Domestic material consumption (1,000 tonnes)",,1579.56
-2018,"Domestic material consumption (1,000 tonnes)",Biomass,408.98
-2018,"Domestic material consumption (1,000 tonnes)",Metallic minerals,47.27
-2018,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,764.78
-2018,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,358.54
+2018,Domestic material consumption,,1579.56
+2018,Domestic material consumption,Biomass,408.98
+2018,Domestic material consumption,Metallic minerals,47.27
+2018,Domestic material consumption,Non-metallic minerals,764.78
+2018,Domestic material consumption,Fossil energy and other products,358.54
 2018,"Domestic material consumption per capita (1,000 tonnes)",,31.05
 2018,"Domestic material consumption per capita (1,000 tonnes)",Biomass,8.04
 2018,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.93
@@ -149,11 +149,11 @@ Year,Units,material type,Value
 2018,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,2.67
 2018,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,43.21
 2018,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,20.26
-2019,"Domestic material consumption (1,000 tonnes)",,1614.53
-2019,"Domestic material consumption (1,000 tonnes)",Biomass,374.53
-2019,"Domestic material consumption (1,000 tonnes)",Metallic minerals,26.16
-2019,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,872.56
-2019,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,341.27
+2019,Domestic material consumption,,1614.53
+2019,Domestic material consumption,Biomass,374.53
+2019,Domestic material consumption,Metallic minerals,26.16
+2019,Domestic material consumption,Non-metallic minerals,872.56
+2019,Domestic material consumption,Fossil energy and other products,341.27
 2019,"Domestic material consumption per capita (1,000 tonnes)",,31.24
 2019,"Domestic material consumption per capita (1,000 tonnes)",Biomass,7.25
 2019,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.51
@@ -164,11 +164,11 @@ Year,Units,material type,Value
 2019,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Metallic minerals,1.41
 2019,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Non-metallic minerals,46.97
 2019,"Domestic material consumption per unit of real-GDP (1,000 tonnes)",Fossil energy and other products,18.37
-2020,"Domestic material consumption (1,000 tonnes)",,1857.88
-2020,"Domestic material consumption (1,000 tonnes)",Biomass,415.56
-2020,"Domestic material consumption (1,000 tonnes)",Metallic minerals,24.12
-2020,"Domestic material consumption (1,000 tonnes)",Non-metallic minerals,1041.98
-2020,"Domestic material consumption (1,000 tonnes)",Fossil energy and other products,376.23
+2020,Domestic material consumption,,1857.88
+2020,Domestic material consumption,Biomass,415.56
+2020,Domestic material consumption,Metallic minerals,24.12
+2020,Domestic material consumption,Non-metallic minerals,1041.98
+2020,Domestic material consumption,Fossil energy and other products,376.23
 2020,"Domestic material consumption per capita (1,000 tonnes)",,35.4
 2020,"Domestic material consumption per capita (1,000 tonnes)",Biomass,7.92
 2020,"Domestic material consumption per capita (1,000 tonnes)",Metallic minerals,0.46
