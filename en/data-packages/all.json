@@ -374,8 +374,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DKK per capita",
                 "per cent",
+                "DKK per capita",
                 ""
               ]
             },
@@ -1436,7 +1436,7 @@
               "enum": [
                 "Domestic material consumption (1,000 tonnes)",
                 "Domestic material consumption per capita (1,000 tonnes)",
-                "Domestic material consumption per unit of GDP (1,000 tonnes)",
+                "Domestic material consumption per unit of real-GDP (1,000 tonnes)",
                 ""
               ]
             },

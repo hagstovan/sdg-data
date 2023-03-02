@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DKK per capita",
                 "per cent",
+                "DKK per capita",
                 ""
               ]
             },

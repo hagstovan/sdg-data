@@ -344,8 +344,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.dkkpercapita",
                 "data.percent",
+                "data.dkkpercapita",
                 ""
               ]
             }
@@ -1322,7 +1322,7 @@
               "enum": [
                 "data.domesticmaterialconsumption",
                 "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofgdp",
+                "data.domesticmaterialconsumptionperunitofrealgdp",
                 ""
               ]
             }
