@@ -1,4 +1,4 @@
-Year,Units,data.material type,Value
+Year,Units,data.materialtype,Value
 2009,data.domesticmaterialconsumption,,926.84
 2009,data.domesticmaterialconsumption,data.biomass,298.35
 2009,data.domesticmaterialconsumption,data.metallicminerals,-1.59

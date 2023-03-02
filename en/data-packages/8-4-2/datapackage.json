@@ -29,7 +29,7 @@
             "title": "Units"
           },
           {
-            "name": "data.material type",
+            "name": "data.materialtype",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "data.material type"
+            "title": "Material type"
           },
           {
             "name": "Value",
