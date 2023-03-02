@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Innlendis tilfarsnýtsla (1.000 tons)",
+                "Innlendis tilfarsnýtsla tilsamans",
                 "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
                 "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons)",
                 ""
