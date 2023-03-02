@@ -1,9 +1,9 @@
 Year,Units,Slag av tilfari,Value
-1998,Innlendis tilfarsnýtsla tilsamans,,817.0
-1998,Innlendis tilfarsnýtsla tilsamans,Biomassi,357.4
-1998,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,2.6
-1998,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,287.8
-1998,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,169.1
+1998,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,817.0
+1998,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,357.4
+1998,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,2.6
+1998,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,287.8
+1998,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,169.1
 1998,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,18.4
 1998,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.0
 1998,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -14,11 +14,11 @@ Year,Units,Slag av tilfari,Value
 1998,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.4
 1998,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,38.6
 1998,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,22.7
-1999,Innlendis tilfarsnýtsla tilsamans,,876.2
-1999,Innlendis tilfarsnýtsla tilsamans,Biomassi,364.7
-1999,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,3.8
-1999,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,311.0
-1999,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,196.6
+1999,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,876.2
+1999,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,364.7
+1999,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,3.8
+1999,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,311.0
+1999,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,196.6
 1999,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,19.4
 1999,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.1
 1999,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -29,11 +29,11 @@ Year,Units,Slag av tilfari,Value
 1999,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.5
 1999,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,39.4
 1999,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,24.9
-2000,Innlendis tilfarsnýtsla tilsamans,,1134.9
-2000,Innlendis tilfarsnýtsla tilsamans,Biomassi,430.5
-2000,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,5.5
-2000,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,497.4
-2000,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,201.4
+2000,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1134.9
+2000,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,430.5
+2000,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,5.5
+2000,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,497.4
+2000,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,201.4
 2000,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,24.8
 2000,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,9.4
 2000,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -44,11 +44,11 @@ Year,Units,Slag av tilfari,Value
 2000,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.6
 2000,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,57.6
 2000,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,23.3
-2001,Innlendis tilfarsnýtsla tilsamans,,1171.6
-2001,Innlendis tilfarsnýtsla tilsamans,Biomassi,478.7
-2001,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,7.2
-2001,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,467.5
-2001,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,218.2
+2001,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1171.6
+2001,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,478.7
+2001,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,7.2
+2001,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,467.5
+2001,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,218.2
 2001,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,25.2
 2001,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,10.3
 2001,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.2
@@ -59,11 +59,11 @@ Year,Units,Slag av tilfari,Value
 2001,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.7
 2001,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,48.3
 2001,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,22.6
-2002,Innlendis tilfarsnýtsla tilsamans,,1121.0
-2002,Innlendis tilfarsnýtsla tilsamans,Biomassi,467.9
-2002,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,5.3
-2002,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,456.6
-2002,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,191.2
+2002,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1121.0
+2002,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,467.9
+2002,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,5.3
+2002,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,456.6
+2002,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,191.2
 2002,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,23.7
 2002,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,9.9
 2002,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -74,11 +74,11 @@ Year,Units,Slag av tilfari,Value
 2002,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.5
 2002,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,45.3
 2002,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,19.0
-2003,Innlendis tilfarsnýtsla tilsamans,,1183.3
-2003,Innlendis tilfarsnýtsla tilsamans,Biomassi,565.8
-2003,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,5.1
-2003,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,424.2
-2003,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,188.2
+2003,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1183.3
+2003,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,565.8
+2003,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,5.1
+2003,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,424.2
+2003,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,188.2
 2003,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,24.7
 2003,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,11.8
 2003,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -89,11 +89,11 @@ Year,Units,Slag av tilfari,Value
 2003,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.5
 2003,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,42.9
 2003,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,19.0
-2004,Innlendis tilfarsnýtsla tilsamans,,1141.9
-2004,Innlendis tilfarsnýtsla tilsamans,Biomassi,536.1
-2004,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,6.7
-2004,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,409.0
-2004,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,190.1
+2004,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1141.9
+2004,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,536.1
+2004,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,6.7
+2004,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,409.0
+2004,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,190.1
 2004,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,23.7
 2004,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,11.1
 2004,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -104,11 +104,11 @@ Year,Units,Slag av tilfari,Value
 2004,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.7
 2004,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,40.0
 2004,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,18.6
-2005,Innlendis tilfarsnýtsla tilsamans,,1201.5
-2005,Innlendis tilfarsnýtsla tilsamans,Biomassi,475.1
-2005,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,4.1
-2005,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,533.1
-2005,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,189.3
+2005,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1201.5
+2005,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,475.1
+2005,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,4.1
+2005,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,533.1
+2005,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,189.3
 2005,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,24.9
 2005,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,9.9
 2005,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -119,11 +119,11 @@ Year,Units,Slag av tilfari,Value
 2005,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.4
 2005,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,50.7
 2005,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,18.0
-2006,Innlendis tilfarsnýtsla tilsamans,,1333.3
-2006,Innlendis tilfarsnýtsla tilsamans,Biomassi,547.2
-2006,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,2.5
-2006,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,621.2
-2006,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,162.4
+2006,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1333.3
+2006,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,547.2
+2006,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,2.5
+2006,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,621.2
+2006,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,162.4
 2006,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,27.7
 2006,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,11.4
 2006,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -134,11 +134,11 @@ Year,Units,Slag av tilfari,Value
 2006,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.2
 2006,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,51.8
 2006,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,13.6
-2007,Innlendis tilfarsnýtsla tilsamans,,1565.8
-2007,Innlendis tilfarsnýtsla tilsamans,Biomassi,511.0
-2007,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,2.5
-2007,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,894.2
-2007,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,158.2
+2007,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1565.8
+2007,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,511.0
+2007,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,2.5
+2007,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,894.2
+2007,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,158.2
 2007,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,32.4
 2007,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,10.6
 2007,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -149,11 +149,11 @@ Year,Units,Slag av tilfari,Value
 2007,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.2
 2007,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,70.4
 2007,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,12.5
-2008,Innlendis tilfarsnýtsla tilsamans,,1496.3
-2008,Innlendis tilfarsnýtsla tilsamans,Biomassi,456.2
-2008,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,0.1
-2008,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,891.3
-2008,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,148.8
+2008,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1496.3
+2008,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,456.2
+2008,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,0.1
+2008,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,891.3
+2008,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,148.8
 2008,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,30.9
 2008,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,9.4
 2008,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.0
@@ -164,11 +164,11 @@ Year,Units,Slag av tilfari,Value
 2008,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.0
 2008,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,70.3
 2008,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,11.7
-2009,Innlendis tilfarsnýtsla tilsamans,,830.0
-2009,Innlendis tilfarsnýtsla tilsamans,Biomassi,298.3
-2009,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,-1.6
-2009,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,402.9
-2009,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,130.3
+2009,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,830.0
+2009,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,298.3
+2009,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,-1.6
+2009,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,402.9
+2009,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,130.3
 2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,17.1
 2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,6.1
 2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.0
@@ -179,11 +179,11 @@ Year,Units,Slag av tilfari,Value
 2009,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,-0.1
 2009,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,32.7
 2009,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,10.6
-2010,Innlendis tilfarsnýtsla tilsamans,,756.4
-2010,Innlendis tilfarsnýtsla tilsamans,Biomassi,344.0
-2010,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,-3.2
-2010,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,262.1
-2010,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,153.5
+2010,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,756.4
+2010,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,344.0
+2010,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,-3.2
+2010,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,262.1
+2010,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,153.5
 2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,15.6
 2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.1
 2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,-0.1
@@ -194,11 +194,11 @@ Year,Units,Slag av tilfari,Value
 2010,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,-0.2
 2010,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,20.1
 2010,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,11.8
-2011,Innlendis tilfarsnýtsla tilsamans,,876.7
-2011,Innlendis tilfarsnýtsla tilsamans,Biomassi,359.6
-2011,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,1.0
-2011,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,366.4
-2011,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,149.7
+2011,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,876.7
+2011,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,359.6
+2011,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,1.0
+2011,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,366.4
+2011,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,149.7
 2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,18.1
 2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.4
 2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.0
@@ -209,11 +209,11 @@ Year,Units,Slag av tilfari,Value
 2011,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.1
 2011,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,27.3
 2011,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,11.2
-2012,Innlendis tilfarsnýtsla tilsamans,,905.2
-2012,Innlendis tilfarsnýtsla tilsamans,Biomassi,225.3
-2012,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,3.4
-2012,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,472.7
-2012,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,203.8
+2012,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,905.2
+2012,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,225.3
+2012,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,3.4
+2012,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,472.7
+2012,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,203.8
 2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,18.8
 2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,4.7
 2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -224,11 +224,11 @@ Year,Units,Slag av tilfari,Value
 2012,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.2
 2012,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,33.8
 2012,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,14.6
-2013,Innlendis tilfarsnýtsla tilsamans,,1044.4
-2013,Innlendis tilfarsnýtsla tilsamans,Biomassi,342.9
-2013,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,4.9
-2013,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,444.6
-2013,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,252.0
+2013,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1044.4
+2013,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,342.9
+2013,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,4.9
+2013,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,444.6
+2013,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,252.0
 2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,21.7
 2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.1
 2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -239,11 +239,11 @@ Year,Units,Slag av tilfari,Value
 2013,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.3
 2013,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,29.6
 2013,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,16.8
-2014,Innlendis tilfarsnýtsla tilsamans,,1407.2
-2014,Innlendis tilfarsnýtsla tilsamans,Biomassi,365.4
-2014,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,6.1
-2014,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,786.1
-2014,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,249.6
+2014,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1407.2
+2014,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,365.4
+2014,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,6.1
+2014,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,786.1
+2014,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,249.6
 2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,29.1
 2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.6
 2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
@@ -254,11 +254,11 @@ Year,Units,Slag av tilfari,Value
 2014,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.4
 2014,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,48.3
 2014,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,15.3
-2015,Innlendis tilfarsnýtsla tilsamans,,1132.6
-2015,Innlendis tilfarsnýtsla tilsamans,Biomassi,404.2
-2015,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,2.0
-2015,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,463.2
-2015,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,263.2
+2015,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1132.6
+2015,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,404.2
+2015,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,2.0
+2015,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,463.2
+2015,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,263.2
 2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,23.2
 2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.3
 2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.0
@@ -269,11 +269,11 @@ Year,Units,Slag av tilfari,Value
 2015,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,0.1
 2015,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,26.9
 2015,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,15.3
-2016,Innlendis tilfarsnýtsla tilsamans,,1251.4
-2016,Innlendis tilfarsnýtsla tilsamans,Biomassi,304.9
-2016,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,18.7
-2016,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,675.1
-2016,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,252.8
+2016,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1251.4
+2016,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,304.9
+2016,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,18.7
+2016,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,675.1
+2016,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,252.8
 2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,25.3
 2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,6.2
 2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.4
@@ -284,11 +284,11 @@ Year,Units,Slag av tilfari,Value
 2016,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,1.0
 2016,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,35.8
 2016,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,13.4
-2017,Innlendis tilfarsnýtsla tilsamans,,1524.7
-2017,Innlendis tilfarsnýtsla tilsamans,Biomassi,442.7
-2017,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,46.6
-2017,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,757.4
-2017,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,278.0
+2017,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1524.7
+2017,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,442.7
+2017,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,46.6
+2017,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,757.4
+2017,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,278.0
 2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,30.4
 2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.8
 2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.9
@@ -299,11 +299,11 @@ Year,Units,Slag av tilfari,Value
 2017,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,2.4
 2017,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,38.6
 2017,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,14.2
-2018,Innlendis tilfarsnýtsla tilsamans,,1520.7
-2018,Innlendis tilfarsnýtsla tilsamans,Biomassi,409.0
-2018,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,47.3
-2018,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,764.8
-2018,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,299.7
+2018,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1520.7
+2018,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,409.0
+2018,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,47.3
+2018,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,764.8
+2018,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,299.7
 2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,29.9
 2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.0
 2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.9
@@ -314,11 +314,11 @@ Year,Units,Slag av tilfari,Value
 2018,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,2.4
 2018,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,38.1
 2018,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,14.9
-2019,Innlendis tilfarsnýtsla tilsamans,,1557.7
-2019,Innlendis tilfarsnýtsla tilsamans,Biomassi,374.5
-2019,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,26.2
-2019,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,872.6
-2019,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,284.4
+2019,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1557.7
+2019,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,374.5
+2019,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,26.2
+2019,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,872.6
+2019,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,284.4
 2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,30.1
 2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.2
 2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.5
@@ -329,11 +329,11 @@ Year,Units,Slag av tilfari,Value
 2019,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Metalmálmur,1.2
 2019,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,40.0
 2019,Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,13.0
-2020,Innlendis tilfarsnýtsla tilsamans,,1788.9
-2020,Innlendis tilfarsnýtsla tilsamans,Biomassi,415.6
-2020,Innlendis tilfarsnýtsla tilsamans,Metalmálmur,24.1
-2020,Innlendis tilfarsnýtsla tilsamans,Ikki-metalhavin steinsløg,1042.0
-2020,Innlendis tilfarsnýtsla tilsamans,Lívrunnin brennievni og aðrar framleiðslur,307.3
+2020,Innlendis tilfarsnýtsla tilsamans (1.000 tons),,1788.9
+2020,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Biomassi,415.6
+2020,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Metalmálmur,24.1
+2020,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Ikki-metalhavin steinsløg,1042.0
+2020,Innlendis tilfarsnýtsla tilsamans (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,307.3
 2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,34.1
 2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.9
 2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.5

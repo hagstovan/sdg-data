@@ -1048,7 +1048,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Innlendis tilfarsnýtsla tilsamans",
+                "Innlendis tilfarsnýtsla tilsamans (1.000 tons)",
                 "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
                 "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
                 ""
@@ -1434,7 +1434,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Innlendis tilfarsnýtsla tilsamans",
+                "Innlendis tilfarsnýtsla tilsamans (1.000 tons)",
                 "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
                 "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind (1.000 tons)",
                 ""
