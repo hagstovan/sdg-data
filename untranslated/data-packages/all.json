@@ -973,7 +973,7 @@
             }
           },
           {
-            "name": "material type",
+            "name": "data.material type",
             "type": "string",
             "constraints": {
               "enum": [
