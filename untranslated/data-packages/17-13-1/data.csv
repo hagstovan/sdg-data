@@ -39,7 +39,7 @@ Year,data.measure,Value
 1999,data.taxrevenuegdp,46.0137282318546
 1999,data.cashsurplusdeficit,14.8328460658447
 1999,data.grossPSD,..
-1999,data.annualGDPgrowth,6.27203587880099
+1999,data.annualGDPgrowth,..
 1999,data.annualgrowthofthegrosscapitalformation,13.6863319897398
 1999,data.annualgrowthofhouseholdsandNPISHs,11.2440761430727
 1999,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,9.35587761674719
@@ -63,7 +63,7 @@ Year,data.measure,Value
 2000,data.taxrevenuegdp,45.0635318122797
 2000,data.cashsurplusdeficit,9.27239844184752
 2000,data.grossPSD,..
-2000,data.annualGDPgrowth,9.64281174526505
+2000,data.annualGDPgrowth,..
 2000,data.annualgrowthofthegrosscapitalformation,42.7988181573999
 2000,data.annualgrowthofhouseholdsandNPISHs,5.57856156885144
 2000,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,8.50144799489521
@@ -87,7 +87,7 @@ Year,data.measure,Value
 2001,data.taxrevenuegdp,44.2604616483892
 2001,data.cashsurplusdeficit,12.5394803607858
 2001,data.grossPSD,..
-2001,data.annualGDPgrowth,11.9539510294936
+2001,data.annualGDPgrowth,..
 2001,data.annualgrowthofthegrosscapitalformation,-5.10872018659242
 2001,data.annualgrowthofhouseholdsandNPISHs,9.13168928362114
 2001,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,11.4996607102466
@@ -111,7 +111,7 @@ Year,data.measure,Value
 2002,data.taxrevenuegdp,45.2788953459494
 2002,data.cashsurplusdeficit,10.0759946356728
 2002,data.grossPSD,..
-2002,data.annualGDPgrowth,4.24368573115039
+2002,data.annualGDPgrowth,..
 2002,data.annualgrowthofthegrosscapitalformation,-7.04091341579448
 2002,data.annualgrowthofhouseholdsandNPISHs,5.17009894036726
 2002,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,8.73534304377817
@@ -135,7 +135,7 @@ Year,data.measure,Value
 2003,data.taxrevenuegdp,45.2411994784876
 2003,data.cashsurplusdeficit,-3.49999494658541
 2003,data.grossPSD,..
-2003,data.annualGDPgrowth,-1.71062434808524
+2003,data.annualGDPgrowth,..
 2003,data.annualgrowthofthegrosscapitalformation,32.5315591948141
 2003,data.annualgrowthofhouseholdsandNPISHs,5.64066305287139
 2003,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,6.85820895522389
@@ -159,7 +159,7 @@ Year,data.measure,Value
 2004,data.taxrevenuegdp,43.3737854681996
 2004,data.cashsurplusdeficit,5.25393876050013
 2004,data.grossPSD,..
-2004,data.annualGDPgrowth,4.43588732906826
+2004,data.annualGDPgrowth,..
 2004,data.annualgrowthofthegrosscapitalformation,-32.7165658385893
 2004,data.annualgrowthofhouseholdsandNPISHs,8.31598125976054
 2004,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,6.06187582931768
@@ -183,7 +183,7 @@ Year,data.measure,Value
 2005,data.taxrevenuegdp,43.449256135696
 2005,data.cashsurplusdeficit,-5.68748223254051
 2005,data.grossPSD,..
-2005,data.annualGDPgrowth,2.12712422095769
+2005,data.annualGDPgrowth,..
 2005,data.annualgrowthofthegrosscapitalformation,11.1196135635372
 2005,data.annualgrowthofhouseholdsandNPISHs,16.9770515439144
 2005,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,5.17877131757423
@@ -207,7 +207,7 @@ Year,data.measure,Value
 2006,data.taxrevenuegdp,43.4163701067616
 2006,data.cashsurplusdeficit,-3.11533749489528
 2006,data.grossPSD,..
-2006,data.annualGDPgrowth,13.6994219653179
+2006,data.annualGDPgrowth,..
 2006,data.annualgrowthofthegrosscapitalformation,48.0760953774641
 2006,data.annualgrowthofhouseholdsandNPISHs,1.14450052823101
 2006,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,3.9346417503991
@@ -231,7 +231,7 @@ Year,data.measure,Value
 2007,data.taxrevenuegdp,44.8177555780694
 2007,data.cashsurplusdeficit,-3.44304910900109
 2007,data.grossPSD,..
-2007,data.annualGDPgrowth,6.11899622459098
+2007,data.annualGDPgrowth,..
 2007,data.annualgrowthofthegrosscapitalformation,18.9745378444367
 2007,data.annualgrowthofhouseholdsandNPISHs,1.32304299889747
 2007,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,8.32128659197686
@@ -255,7 +255,7 @@ Year,data.measure,Value
 2008,data.taxrevenuegdp,45.2145552518178
 2008,data.cashsurplusdeficit,-4.74802461063362
 2008,data.grossPSD,..
-2008,data.annualGDPgrowth,-0.3078638801844
+2008,data.annualGDPgrowth,..
 2008,data.annualgrowthofthegrosscapitalformation,-18.853219974592
 2008,data.annualgrowthofhouseholdsandNPISHs,-1.86844968787584
 2008,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,10.7682041871716
@@ -279,7 +279,7 @@ Year,data.measure,Value
 2009,data.taxrevenuegdp,43.69358756672
 2009,data.cashsurplusdeficit,-5.66988114291285
 2009,data.grossPSD,..
-2009,data.annualGDPgrowth,-3.0314250376171
+2009,data.annualGDPgrowth,-4.30300216202099
 2009,data.annualgrowthofthegrosscapitalformation,-35.0052687038988
 2009,data.annualgrowthofhouseholdsandNPISHs,5.10804067757045
 2009,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,3.4312248995984
@@ -303,7 +303,7 @@ Year,data.measure,Value
 2010,data.taxrevenuegdp,42.8825242866511
 2010,data.cashsurplusdeficit,4.0353204922908
 2010,data.grossPSD,..
-2010,data.annualGDPgrowth,6.54242052498599
+2010,data.annualGDPgrowth,-0.576939114349173
 2010,data.annualgrowthofthegrosscapitalformation,18.5843987400408
 2010,data.annualgrowthofhouseholdsandNPISHs,-6.55191560244309
 2010,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,4.64969544009515
@@ -327,7 +327,7 @@ Year,data.measure,Value
 2011,data.taxrevenuegdp,43.6830055156624
 2011,data.cashsurplusdeficit,12.0385650357552
 2011,data.grossPSD,..
-2011,data.annualGDPgrowth,2.58040902228118
+2011,data.annualGDPgrowth,3.70819417120374
 2011,data.annualgrowthofthegrosscapitalformation,-14.56640625
 2011,data.annualgrowthofhouseholdsandNPISHs,4.16072489601902
 2011,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,1.68587528696982
@@ -351,7 +351,7 @@ Year,data.measure,Value
 2012,data.taxrevenuegdp,42.7433408015932
 2012,data.cashsurplusdeficit,-1.31299121590384
 2012,data.grossPSD,..
-2012,data.annualGDPgrowth,4.51139556665625
+2012,data.annualGDPgrowth,7.01665379949266
 2012,data.annualgrowthofthegrosscapitalformation,68.7942938137259
 2012,data.annualgrowthofhouseholdsandNPISHs,8.33273912237418
 2012,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,1.80387685290764
@@ -375,7 +375,7 @@ Year,data.measure,Value
 2013,data.taxrevenuegdp,40.0205182513155
 2013,data.cashsurplusdeficit,7.71221497832346
 2013,data.grossPSD,..
-2013,data.annualGDPgrowth,7.46114726697251
+2013,data.annualGDPgrowth,5.85305191414518
 2013,data.annualgrowthofthegrosscapitalformation,-11.6179537882276
 2013,data.annualgrowthofhouseholdsandNPISHs,1.79295455742194
 2013,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,2.88748011917295
@@ -399,7 +399,7 @@ Year,data.measure,Value
 2014,data.taxrevenuegdp,39.5975493433121
 2014,data.cashsurplusdeficit,9.31897669185805
 2014,data.grossPSD,..
-2014,data.annualGDPgrowth,8.24899890789952
+2014,data.annualGDPgrowth,5.43270135720173
 2014,data.annualgrowthofthegrosscapitalformation,9.06276817457399
 2014,data.annualgrowthofhouseholdsandNPISHs,2.98864547500193
 2014,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,2.7737861963858
@@ -423,7 +423,7 @@ Year,data.measure,Value
 2015,data.taxrevenuegdp,40.6363688860657
 2015,data.cashsurplusdeficit,8.50205000866201
 2015,data.grossPSD,..
-2015,data.annualGDPgrowth,5.88328808667793
+2015,data.annualGDPgrowth,0.976378534447186
 2015,data.annualgrowthofthegrosscapitalformation,16.6362231277223
 2015,data.annualgrowthofhouseholdsandNPISHs,2.09827090422794
 2015,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,3.66494364884331
@@ -447,7 +447,7 @@ Year,data.measure,Value
 2016,data.taxrevenuegdp,39.3104941335502
 2016,data.cashsurplusdeficit,12.6363645964242
 2016,data.grossPSD,..
-2016,data.annualGDPgrowth,9.36189871224808
+2016,data.annualGDPgrowth,1.46991580449085
 2016,data.annualgrowthofthegrosscapitalformation,1.12998433923623
 2016,data.annualgrowthofhouseholdsandNPISHs,6.34623899247306
 2016,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,7.04009482159644
@@ -471,7 +471,7 @@ Year,data.measure,Value
 2017,data.taxrevenuegdp,40.7506225542512
 2017,data.cashsurplusdeficit,14.8051024038217
 2017,data.grossPSD,..
-2017,data.annualGDPgrowth,3.90110992596973
+2017,data.annualGDPgrowth,3.51430597113569
 2017,data.annualgrowthofthegrosscapitalformation,9.97760518416162
 2017,data.annualgrowthofhouseholdsandNPISHs,-1.04894296155802
 2017,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,3.55676893411483
@@ -495,7 +495,7 @@ Year,data.measure,Value
 2018,data.taxrevenuegdp,41.7883465442915
 2018,data.cashsurplusdeficit,8.4718993980571
 2018,data.grossPSD,..
-2018,data.annualGDPgrowth,2.32657417289222
+2018,data.annualGDPgrowth,2.73155215546514
 2018,data.annualgrowthofthegrosscapitalformation,29.5936051297604
 2018,data.annualgrowthofhouseholdsandNPISHs,1.47847734364956
 2018,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,5.44043361232993
@@ -519,7 +519,7 @@ Year,data.measure,Value
 2019,data.taxrevenuegdp,41.3264979173342
 2019,data.cashsurplusdeficit,10.1075662562366
 2019,data.grossPSD,..
-2019,data.annualGDPgrowth,8.50368516200808
+2019,data.annualGDPgrowth,4.95285017712965
 2019,data.annualgrowthofthegrosscapitalformation,1.59971917155608
 2019,data.annualgrowthofhouseholdsandNPISHs,5.02499251376316
 2019,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,5.16671620652878
@@ -543,7 +543,7 @@ Year,data.measure,Value
 2020,data.taxrevenuegdp,43.7386194143968
 2020,data.cashsurplusdeficit,6.5368672159147
 2020,data.grossPSD,..
-2020,data.annualGDPgrowth,-2.71753558841031
+2020,data.annualGDPgrowth,-2.62873139350219
 2020,data.annualgrowthofthegrosscapitalformation,0.648239552484364
 2020,data.annualgrowthofhouseholdsandNPISHs,-0.311441072936425
 2020,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,5.3783999467979
@@ -567,7 +567,7 @@ Year,data.measure,Value
 2021,data.taxrevenuegdp,41.5933098591549
 2021,data.cashsurplusdeficit,6.15325617068749
 2021,data.grossPSD,..
-2021,data.annualGDPgrowth,7.97005641476853
+2021,data.annualGDPgrowth,5.63492414525189
 2021,data.annualgrowthofthegrosscapitalformation,4.03112433386734
 2021,data.annualgrowthofhouseholdsandNPISHs,8.26577195973819
 2021,data.annualgrowthofthegeneralgovernmentfinalconsumptionexpenditure,4.62269062682423
