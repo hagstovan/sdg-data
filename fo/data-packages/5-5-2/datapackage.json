@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stjórar",
+                "Nevndarlimir",
+                "data.membersofboard;\"data.privatecompany\"",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Almennir stovnar og fyritøkur",
+                "Privatar fyritøkur",
+                "18",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

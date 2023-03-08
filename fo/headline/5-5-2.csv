@@ -1,1 +1,5 @@
-Year,Value
+Year,Value,Units,Series
+2022,59.0,Almennir stovnar og fyritøkur,Stjórar
+2022,17.0,Privatar fyritøkur,Stjórar
+2022,40.0,Almennir stovnar og fyritøkur,Nevndarlimir
+2022,,18,"data.membersofboard;""data.privatecompany"""

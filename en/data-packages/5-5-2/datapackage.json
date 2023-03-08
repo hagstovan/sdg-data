@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.managers",
+                "data.membersofboard",
+                "data.membersofboard;\"data.privatecompany\"",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.publiccompany",
+                "data.privatecompany",
+                "18",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
