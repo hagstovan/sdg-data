@@ -1,5 +1,5 @@
 "Year","Series","Units","Value"
-"2022","data.managers","data.publiccompany",59
 "2022","data.managers","data.privatecompany",17
+"2022","data.managers","data.publiccompany",59
+"2022","data.membersofboard","data.privatecompany",18
 "2022","data.membersofboard","data.publiccompany",40
-"2022","data.membersofboard";"data.privatecompany",18
