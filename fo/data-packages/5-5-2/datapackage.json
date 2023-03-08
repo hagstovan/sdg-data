@@ -22,7 +22,6 @@
               "enum": [
                 "Stjórar",
                 "Nevndarlimir",
-                "data.membersofboard;\"data.privatecompany\"",
                 ""
               ]
             },
@@ -33,9 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Almennir stovnar og fyritøkur",
                 "Privatar fyritøkur",
-                "18",
+                "Almennir stovnar og fyritøkur",
                 ""
               ]
             },
@@ -43,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

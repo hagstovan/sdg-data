@@ -587,7 +587,6 @@
               "enum": [
                 "data.managers",
                 "data.membersofboard",
-                "data.membersofboard;\"data.privatecompany\"",
                 ""
               ]
             },
@@ -598,9 +597,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.publiccompany",
                 "data.privatecompany",
-                "18",
+                "data.publiccompany",
                 ""
               ]
             },
@@ -608,7 +606,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
