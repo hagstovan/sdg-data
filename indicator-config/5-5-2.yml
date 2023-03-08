@@ -19,6 +19,10 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
+footer_fields:
+  - series: data.managers
+    label: data.notecomment
+    value: data.managerscomment
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.5-5-2-title
