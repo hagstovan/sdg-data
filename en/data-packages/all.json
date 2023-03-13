@@ -1436,7 +1436,7 @@
             "title": "Series"
           },
           {
-            "name": "Units",
+            "name": "data.publicprivate",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1445,7 +1445,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "data.publicprivate"
           },
           {
             "name": "Value",

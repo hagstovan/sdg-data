@@ -1319,7 +1319,7 @@
             }
           },
           {
-            "name": "Units",
+            "name": "data.publicprivate",
             "type": "string",
             "constraints": {
               "enum": [

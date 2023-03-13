@@ -17,6 +17,7 @@ data.nutrient,1,3
 data.occupation,1,4
 data.outcome,1,2
 data.party-municipality,1,64
+data.publicprivate,1,2
 data.renewablesource,1,7
 data.sex,12,2
 data.sizeofparticulatematter,1,2
