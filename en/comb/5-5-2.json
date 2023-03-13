@@ -1,1 +1,1 @@
-{"data":{"Year":[2022,2022,2022,2022],"Series":["data.managers","data.managers","data.membersofboard","data.membersofboard"],"Units":["data.privatecompany","data.publiccompany","data.privatecompany","data.publiccompany"],"Value":[17,59,18,40]},"edges":[]}
+{"data":{"Year":[2022,2022,2022,2022],"Series":["Managers","Managers","Members of the board","Members of the board"],"Units":["Private companies","Public institutions and companies","Private companies","Public institutions and companies"],"Value":[17,59,18,40]},"edges":[]}

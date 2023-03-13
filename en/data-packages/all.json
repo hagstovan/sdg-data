@@ -1428,8 +1428,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.managers",
-                "data.membersofboard",
+                "Managers",
+                "Members of the board",
                 ""
               ]
             },
@@ -1440,8 +1440,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.privatecompany",
-                "data.publiccompany",
+                "Private companies",
+                "Public institutions and companies",
                 ""
               ]
             },

@@ -1,5 +1,5 @@
 Year,Value,Units,Series
-2022,17,data.privatecompany,data.managers
-2022,59,data.publiccompany,data.managers
-2022,18,data.privatecompany,data.membersofboard
-2022,40,data.publiccompany,data.membersofboard
+2022,17,Private companies,Managers
+2022,59,Public institutions and companies,Managers
+2022,18,Private companies,Members of the board
+2022,40,Public institutions and companies,Members of the board
