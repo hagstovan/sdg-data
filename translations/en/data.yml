@@ -305,3 +305,9 @@ confidencelevel: Confidence level
 bothsexes: Males and females
 totalrenewableenergy: Total renewable energy
 totaldomesticmaterialconsumption: Total domestic material consumption (1,000 tonnes)
+managers: Managers
+managerscomment: Private managers include all businesses except one-person businesses and special-interest organizations. Public managers include institutions of state, national and local government. Also included are leaders and pricipals on schools, day care and elder care institutions.
+membersofboard: Members of the board
+notecomment: Note
+privatecompany: Private companies
+publiccompany: Public institutions and companies
