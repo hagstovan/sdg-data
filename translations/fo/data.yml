@@ -60,7 +60,7 @@ ge15years: 15+ ár
 15-24years: 15-24 ár
 15-74years: 15-74 ár
 25-44years: 25-44 ár
-25-54years: 25-54 ár
+years: 25-54 ár
 45-54years: 45-54 ár
 55-64years: 55-64 ár
 55-74years: 55-74 ár
@@ -68,7 +68,6 @@ ge65years: 65+ ár
 15-17years: 15-17 ár
 00-17years: 00-17 ár
 18-24years: 18-24 ár
-25-54years: 25-54 ár
 55-66years: 55-66 ár
 67years: 67+ ár
 10-14years: 10-14 ár
@@ -127,7 +126,6 @@ independenceparty: Sjálvstýri
 republicanparty: Tjóðveldi
 party: Party
 theprogressparty: Framburðsflokkurin
-progress: Framsókn
 christianparty: Kristiligi Fólkaflokkurin
 workersmovement: Verkamannafylkingin
 womenseats-proportion: Partur av sætum hjá kvinnum
