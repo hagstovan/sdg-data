@@ -1428,7 +1428,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Managers",
+                "Chief executives/senior officials",
                 "Members of the board",
                 ""
               ]
