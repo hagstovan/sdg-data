@@ -12,9 +12,9 @@ data_start_values:
     value: data.tm_tax_dmfn
   - field: data.measure
     value: data.tm_tax_dprf
-  - field: data.tm_tax_dprf
+  - field: data.typeofproduct
     value: data.total
-  - field: data.tm_tax_dmfn
+  - field: data.typeofproduct
     value: data.total
 embedded_feature_footer: ''
 embedded_feature_html: ''
