@@ -1,4 +1,4 @@
-"Year","Series","data.typeofproduct","Value"
+"Year","data.measure","data.typeofproduct","Value"
 "2000","data.tm_tax_dmfn","data.total",3.65506
 "2000","data.tm_tax_dmfn","data.agriculturalproducts",8.80365
 "2000","data.tm_tax_dmfn","data.industrialproducts",3.43279
