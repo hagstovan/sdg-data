@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.officialdevelopmentassistanceforscholarships",
+                "Menningarstuðul latin sum lestrarstuðul",
                 ""
               ]
             },
-            "title": "data.measure"
+            "title": "Mát"
           },
           {
             "name": "Value",

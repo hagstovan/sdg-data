@@ -20,41 +20,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.total",
-                "data.urban",
-                "data.rural",
+                "Tilsamans",
+                "Býur",
+                "Bygd",
                 ""
               ]
             },
-            "title": "data.location"
+            "title": "Staðseting"
           },
           {
             "name": "data.age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ge15years",
-                "data.15-24years",
-                "data.25-44years",
-                "data.45-54years",
-                "data.55-64years",
-                "data.ge65years",
+                "15+ ár",
+                "15-24 ár",
+                "25-44 ár",
+                "45-54 ár",
+                "55-64 ár",
+                "65+ ár",
                 ""
               ]
             },
-            "title": "data.age"
+            "title": "Aldur"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "Menn",
+                "Kvinnur",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",

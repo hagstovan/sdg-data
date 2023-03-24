@@ -1,10 +1,10 @@
-Year,data.education,data.sex,Value
-2011,data.primaryeducation,,96.3
-2011,data.primaryeducation,data.male,95.1
-2011,data.primaryeducation,data.female,97.5
-2011,data.lowersecondaryeducation,,96.5
-2011,data.lowersecondaryeducation,data.male,96.1
-2011,data.lowersecondaryeducation,data.female,96.9
-2011,data.uppersecondaryeducation,,71.1
-2011,data.uppersecondaryeducation,data.male,61.8
-2011,data.uppersecondaryeducation,data.female,85.7
+Year,Útbúgving,Kyn,Value
+2011,Barnaskúlin 1. - 7. flokk,,96.3
+2011,Barnaskúlin 1. - 7. flokk,Menn,95.1
+2011,Barnaskúlin 1. - 7. flokk,Kvinnur,97.5
+2011,Framhaldsskúlin 8. - 10. flokk,,96.5
+2011,Framhaldsskúlin 8. - 10. flokk,Menn,96.1
+2011,Framhaldsskúlin 8. - 10. flokk,Kvinnur,96.9
+2011,Miðnáms- ella yrkisútbúgving,,71.1
+2011,Miðnáms- ella yrkisútbúgving,Menn,61.8
+2011,Miðnáms- ella yrkisútbúgving,Kvinnur,85.7

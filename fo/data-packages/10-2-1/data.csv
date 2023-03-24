@@ -1,217 +1,217 @@
-Year,data.sex,data.age,Value
+Year,Kyn,Aldur,Value
 2009,,,3.8
-2009,,data.00-17years,4.7
-2009,,data.18-24years,4.7
+2009,,00-17 ár,4.7
+2009,,18-24 ár,4.7
 2009,,data.25-54years,3.4
-2009,,data.55-66years,3.8
-2009,,data.67years,2.5
-2009,data.male,,3.7
-2009,data.male,data.00-17years,4.6
-2009,data.male,data.18-24years,3.3
-2009,data.male,data.25-54years,3.3
-2009,data.male,data.55-66years,4.3
-2009,data.male,data.67years,2.7
-2009,data.female,,4.0
-2009,data.female,data.00-17years,4.8
-2009,data.female,data.18-24years,6.4
-2009,data.female,data.25-54years,3.6
-2009,data.female,data.55-66years,3.2
-2009,data.female,data.67years,2.4
+2009,,55-66 ár,3.8
+2009,,67+ ár,2.5
+2009,Menn,,3.7
+2009,Menn,00-17 ár,4.6
+2009,Menn,18-24 ár,3.3
+2009,Menn,data.25-54years,3.3
+2009,Menn,55-66 ár,4.3
+2009,Menn,67+ ár,2.7
+2009,Kvinnur,,4.0
+2009,Kvinnur,00-17 ár,4.8
+2009,Kvinnur,18-24 ár,6.4
+2009,Kvinnur,data.25-54years,3.6
+2009,Kvinnur,55-66 ár,3.2
+2009,Kvinnur,67+ ár,2.4
 2010,,,3.6
-2010,,data.00-17years,4.7
-2010,,data.18-24years,4.4
+2010,,00-17 ár,4.7
+2010,,18-24 ár,4.4
 2010,,data.25-54years,3.3
-2010,,data.55-66years,3.3
-2010,,data.67years,2.2
-2010,data.male,,3.5
-2010,data.male,data.00-17years,4.4
-2010,data.male,data.18-24years,3.1
-2010,data.male,data.25-54years,3.2
-2010,data.male,data.55-66years,3.8
-2010,data.male,data.67years,2.3
-2010,data.female,,3.8
-2010,data.female,data.00-17years,5.0
-2010,data.female,data.18-24years,5.9
-2010,data.female,data.25-54years,3.4
-2010,data.female,data.55-66years,2.7
-2010,data.female,data.67years,2.1
+2010,,55-66 ár,3.3
+2010,,67+ ár,2.2
+2010,Menn,,3.5
+2010,Menn,00-17 ár,4.4
+2010,Menn,18-24 ár,3.1
+2010,Menn,data.25-54years,3.2
+2010,Menn,55-66 ár,3.8
+2010,Menn,67+ ár,2.3
+2010,Kvinnur,,3.8
+2010,Kvinnur,00-17 ár,5.0
+2010,Kvinnur,18-24 ár,5.9
+2010,Kvinnur,data.25-54years,3.4
+2010,Kvinnur,55-66 ár,2.7
+2010,Kvinnur,67+ ár,2.1
 2011,,,3.9
-2011,,data.00-17years,5.2
-2011,,data.18-24years,5.5
+2011,,00-17 ár,5.2
+2011,,18-24 ár,5.5
 2011,,data.25-54years,3.6
-2011,,data.55-66years,3.2
-2011,,data.67years,2.1
-2011,data.male,,3.7
-2011,data.male,data.00-17years,4.9
-2011,data.male,data.18-24years,3.8
-2011,data.male,data.25-54years,3.4
-2011,data.male,data.55-66years,3.6
-2011,data.male,data.67years,2.0
-2011,data.female,,4.2
-2011,data.female,data.00-17years,5.5
-2011,data.female,data.18-24years,7.5
-2011,data.female,data.25-54years,3.7
-2011,data.female,data.55-66years,2.7
-2011,data.female,data.67years,2.1
+2011,,55-66 ár,3.2
+2011,,67+ ár,2.1
+2011,Menn,,3.7
+2011,Menn,00-17 ár,4.9
+2011,Menn,18-24 ár,3.8
+2011,Menn,data.25-54years,3.4
+2011,Menn,55-66 ár,3.6
+2011,Menn,67+ ár,2.0
+2011,Kvinnur,,4.2
+2011,Kvinnur,00-17 ár,5.5
+2011,Kvinnur,18-24 ár,7.5
+2011,Kvinnur,data.25-54years,3.7
+2011,Kvinnur,55-66 ár,2.7
+2011,Kvinnur,67+ ár,2.1
 2012,,,4.2
-2012,,data.00-17years,5.5
-2012,,data.18-24years,6.0
+2012,,00-17 ár,5.5
+2012,,18-24 ár,6.0
 2012,,data.25-54years,3.7
-2012,,data.55-66years,3.3
-2012,,data.67years,2.4
-2012,data.male,,4.0
-2012,data.male,data.00-17years,5.6
-2012,data.male,data.18-24years,4.4
-2012,data.male,data.25-54years,3.5
-2012,data.male,data.55-66years,3.8
-2012,data.male,data.67years,2.6
-2012,data.female,,4.3
-2012,data.female,data.00-17years,5.5
-2012,data.female,data.18-24years,8.0
-2012,data.female,data.25-54years,4.0
-2012,data.female,data.55-66years,2.8
-2012,data.female,data.67years,2.2
+2012,,55-66 ár,3.3
+2012,,67+ ár,2.4
+2012,Menn,,4.0
+2012,Menn,00-17 ár,5.6
+2012,Menn,18-24 ár,4.4
+2012,Menn,data.25-54years,3.5
+2012,Menn,55-66 ár,3.8
+2012,Menn,67+ ár,2.6
+2012,Kvinnur,,4.3
+2012,Kvinnur,00-17 ár,5.5
+2012,Kvinnur,18-24 ár,8.0
+2012,Kvinnur,data.25-54years,4.0
+2012,Kvinnur,55-66 ár,2.8
+2012,Kvinnur,67+ ár,2.2
 2013,,,4.2
-2013,,data.00-17years,5.8
-2013,,data.18-24years,5.6
+2013,,00-17 ár,5.8
+2013,,18-24 ár,5.6
 2013,,data.25-54years,3.8
-2013,,data.55-66years,3.2
-2013,,data.67years,2.1
-2013,data.male,,3.8
-2013,data.male,data.00-17years,5.5
-2013,data.male,data.18-24years,4.1
-2013,data.male,data.25-54years,3.3
-2013,data.male,data.55-66years,3.6
-2013,data.male,data.67years,2.0
-2013,data.female,,4.5
-2013,data.female,data.00-17years,6.1
-2013,data.female,data.18-24years,7.6
-2013,data.female,data.25-54years,4.3
-2013,data.female,data.55-66years,2.8
-2013,data.female,data.67years,2.2
+2013,,55-66 ár,3.2
+2013,,67+ ár,2.1
+2013,Menn,,3.8
+2013,Menn,00-17 ár,5.5
+2013,Menn,18-24 ár,4.1
+2013,Menn,data.25-54years,3.3
+2013,Menn,55-66 ár,3.6
+2013,Menn,67+ ár,2.0
+2013,Kvinnur,,4.5
+2013,Kvinnur,00-17 ár,6.1
+2013,Kvinnur,18-24 ár,7.6
+2013,Kvinnur,data.25-54years,4.3
+2013,Kvinnur,55-66 ár,2.8
+2013,Kvinnur,67+ ár,2.2
 2014,,,4.0
-2014,,data.00-17years,5.3
-2014,,data.18-24years,6.0
+2014,,00-17 ár,5.3
+2014,,18-24 ár,6.0
 2014,,data.25-54years,3.6
-2014,,data.55-66years,3.2
-2014,,data.67years,2.3
-2014,data.male,,3.7
-2014,data.male,data.00-17years,5.0
-2014,data.male,data.18-24years,4.7
-2014,data.male,data.25-54years,3.1
-2014,data.male,data.55-66years,3.7
-2014,data.male,data.67years,2.2
-2014,data.female,,4.3
-2014,data.female,data.00-17years,5.6
-2014,data.female,data.18-24years,7.4
-2014,data.female,data.25-54years,4.1
-2014,data.female,data.55-66years,2.8
-2014,data.female,data.67years,2.3
+2014,,55-66 ár,3.2
+2014,,67+ ár,2.3
+2014,Menn,,3.7
+2014,Menn,00-17 ár,5.0
+2014,Menn,18-24 ár,4.7
+2014,Menn,data.25-54years,3.1
+2014,Menn,55-66 ár,3.7
+2014,Menn,67+ ár,2.2
+2014,Kvinnur,,4.3
+2014,Kvinnur,00-17 ár,5.6
+2014,Kvinnur,18-24 ár,7.4
+2014,Kvinnur,data.25-54years,4.1
+2014,Kvinnur,55-66 ár,2.8
+2014,Kvinnur,67+ ár,2.3
 2015,,,3.8
-2015,,data.00-17years,5.0
-2015,,data.18-24years,5.5
+2015,,00-17 ár,5.0
+2015,,18-24 ár,5.5
 2015,,data.25-54years,3.6
-2015,,data.55-66years,3.0
-2015,,data.67years,2.1
-2015,data.male,,3.6
-2015,data.male,data.00-17years,4.7
-2015,data.male,data.18-24years,4.6
-2015,data.male,data.25-54years,3.2
-2015,data.male,data.55-66years,3.6
-2015,data.male,data.67years,2.2
-2015,data.female,,4.1
-2015,data.female,data.00-17years,5.4
-2015,data.female,data.18-24years,6.7
-2015,data.female,data.25-54years,4.1
-2015,data.female,data.55-66years,2.3
-2015,data.female,data.67years,2.1
+2015,,55-66 ár,3.0
+2015,,67+ ár,2.1
+2015,Menn,,3.6
+2015,Menn,00-17 ár,4.7
+2015,Menn,18-24 ár,4.6
+2015,Menn,data.25-54years,3.2
+2015,Menn,55-66 ár,3.6
+2015,Menn,67+ ár,2.2
+2015,Kvinnur,,4.1
+2015,Kvinnur,00-17 ár,5.4
+2015,Kvinnur,18-24 ár,6.7
+2015,Kvinnur,data.25-54years,4.1
+2015,Kvinnur,55-66 ár,2.3
+2015,Kvinnur,67+ ár,2.1
 2016,,,3.4
-2016,,data.00-17years,4.6
-2016,,data.18-24years,4.5
+2016,,00-17 ár,4.6
+2016,,18-24 ár,4.5
 2016,,data.25-54years,3.2
-2016,,data.55-66years,2.7
-2016,,data.67years,1.8
-2016,data.male,,3.2
-2016,data.male,data.00-17years,4.6
-2016,data.male,data.18-24years,3.2
-2016,data.male,data.25-54years,2.9
-2016,data.male,data.55-66years,3.1
-2016,data.male,data.67years,1.9
-2016,data.female,,3.6
-2016,data.female,data.00-17years,4.7
-2016,data.female,data.18-24years,6.0
-2016,data.female,data.25-54years,3.6
-2016,data.female,data.55-66years,2.3
-2016,data.female,data.67years,1.8
+2016,,55-66 ár,2.7
+2016,,67+ ár,1.8
+2016,Menn,,3.2
+2016,Menn,00-17 ár,4.6
+2016,Menn,18-24 ár,3.2
+2016,Menn,data.25-54years,2.9
+2016,Menn,55-66 ár,3.1
+2016,Menn,67+ ár,1.9
+2016,Kvinnur,,3.6
+2016,Kvinnur,00-17 ár,4.7
+2016,Kvinnur,18-24 ár,6.0
+2016,Kvinnur,data.25-54years,3.6
+2016,Kvinnur,55-66 ár,2.3
+2016,Kvinnur,67+ ár,1.8
 2017,,,3.3
-2017,,data.00-17years,4.2
-2017,,data.18-24years,3.7
+2017,,00-17 ár,4.2
+2017,,18-24 ár,3.7
 2017,,data.25-54years,3.1
-2017,,data.55-66years,2.6
-2017,,data.67years,2.5
-2017,data.male,,3.1
-2017,data.male,data.00-17years,4.1
-2017,data.male,data.18-24years,2.4
-2017,data.male,data.25-54years,2.9
-2017,data.male,data.55-66years,3.0
-2017,data.male,data.67years,2.2
-2017,data.female,,3.5
-2017,data.female,data.00-17years,4.3
-2017,data.female,data.18-24years,5.1
-2017,data.female,data.25-54years,3.4
-2017,data.female,data.55-66years,2.3
-2017,data.female,data.67years,2.7
+2017,,55-66 ár,2.6
+2017,,67+ ár,2.5
+2017,Menn,,3.1
+2017,Menn,00-17 ár,4.1
+2017,Menn,18-24 ár,2.4
+2017,Menn,data.25-54years,2.9
+2017,Menn,55-66 ár,3.0
+2017,Menn,67+ ár,2.2
+2017,Kvinnur,,3.5
+2017,Kvinnur,00-17 ár,4.3
+2017,Kvinnur,18-24 ár,5.1
+2017,Kvinnur,data.25-54years,3.4
+2017,Kvinnur,55-66 ár,2.3
+2017,Kvinnur,67+ ár,2.7
 2018,,,3.0
-2018,,data.00-17years,3.7
-2018,,data.18-24years,3.9
+2018,,00-17 ár,3.7
+2018,,18-24 ár,3.9
 2018,,data.25-54years,2.9
-2018,,data.55-66years,2.1
-2018,,data.67years,2.4
-2018,data.male,,2.8
-2018,data.male,data.00-17years,3.8
-2018,data.male,data.18-24years,2.7
-2018,data.male,data.25-54years,2.7
-2018,data.male,data.55-66years,2.4
-2018,data.male,data.67years,2.1
-2018,data.female,,3.2
-2018,data.female,data.00-17years,3.7
-2018,data.female,data.18-24years,5.4
-2018,data.female,data.25-54years,3.1
-2018,data.female,data.55-66years,1.9
-2018,data.female,data.67years,2.7
+2018,,55-66 ár,2.1
+2018,,67+ ár,2.4
+2018,Menn,,2.8
+2018,Menn,00-17 ár,3.8
+2018,Menn,18-24 ár,2.7
+2018,Menn,data.25-54years,2.7
+2018,Menn,55-66 ár,2.4
+2018,Menn,67+ ár,2.1
+2018,Kvinnur,,3.2
+2018,Kvinnur,00-17 ár,3.7
+2018,Kvinnur,18-24 ár,5.4
+2018,Kvinnur,data.25-54years,3.1
+2018,Kvinnur,55-66 ár,1.9
+2018,Kvinnur,67+ ár,2.7
 2019,,,2.7
-2019,,data.00-17years,3.6
-2019,,data.18-24years,3.4
+2019,,00-17 ár,3.6
+2019,,18-24 ár,3.4
 2019,,data.25-54years,2.7
-2019,,data.55-66years,2.1
-2019,,data.67years,1.6
-2019,data.male,,2.4
-2019,data.male,data.00-17years,3.1
-2019,data.male,data.18-24years,2.6
-2019,data.male,data.25-54years,2.3
-2019,data.male,data.55-66years,2.4
-2019,data.male,data.67years,1.4
-2019,data.female,,3.1
-2019,data.female,data.00-17years,4.0
-2019,data.female,data.18-24years,4.4
-2019,data.female,data.25-54years,3.1
-2019,data.female,data.55-66years,1.8
-2019,data.female,data.67years,1.9
+2019,,55-66 ár,2.1
+2019,,67+ ár,1.6
+2019,Menn,,2.4
+2019,Menn,00-17 ár,3.1
+2019,Menn,18-24 ár,2.6
+2019,Menn,data.25-54years,2.3
+2019,Menn,55-66 ár,2.4
+2019,Menn,67+ ár,1.4
+2019,Kvinnur,,3.1
+2019,Kvinnur,00-17 ár,4.0
+2019,Kvinnur,18-24 ár,4.4
+2019,Kvinnur,data.25-54years,3.1
+2019,Kvinnur,55-66 ár,1.8
+2019,Kvinnur,67+ ár,1.9
 2020,,,2.4
-2020,,data.00-17years,3.4
-2020,,data.18-24years,2.9
+2020,,00-17 ár,3.4
+2020,,18-24 ár,2.9
 2020,,data.25-54years,2.3
-2020,,data.55-66years,1.9
-2020,,data.67years,1.4
-2020,data.male,,2.2
-2020,data.male,data.00-17years,3.1
-2020,data.male,data.18-24years,1.9
-2020,data.male,data.25-54years,2.0
-2020,data.male,data.55-66years,2.1
-2020,data.male,data.67years,1.2
-2020,data.female,,2.7
-2020,data.female,data.00-17years,3.6
-2020,data.female,data.18-24years,4.1
-2020,data.female,data.25-54years,2.7
-2020,data.female,data.55-66years,1.7
-2020,data.female,data.67years,1.6
+2020,,55-66 ár,1.9
+2020,,67+ ár,1.4
+2020,Menn,,2.2
+2020,Menn,00-17 ár,3.1
+2020,Menn,18-24 ár,1.9
+2020,Menn,data.25-54years,2.0
+2020,Menn,55-66 ár,2.1
+2020,Menn,67+ ár,1.2
+2020,Kvinnur,,2.7
+2020,Kvinnur,00-17 ár,3.6
+2020,Kvinnur,18-24 ár,4.1
+2020,Kvinnur,data.25-54years,2.7
+2020,Kvinnur,55-66 ár,1.7
+2020,Kvinnur,67+ ár,1.6

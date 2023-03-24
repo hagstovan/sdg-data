@@ -1,37 +1,37 @@
 Year,Value,Units
-2009,926.84,data.domesticmaterialconsumption
-2009,19.09,data.domesticmaterialconsumptionpercapita
-2009,70.27,data.domesticmaterialconsumptionperunitofrealgdp
-2010,831.08,data.domesticmaterialconsumption
-2010,17.15,data.domesticmaterialconsumptionpercapita
-2010,63.37,data.domesticmaterialconsumptionperunitofrealgdp
-2011,935.44,data.domesticmaterialconsumption
-2011,19.37,data.domesticmaterialconsumptionpercapita
-2011,68.78,data.domesticmaterialconsumptionperunitofrealgdp
-2012,943.66,data.domesticmaterialconsumption
-2012,19.62,data.domesticmaterialconsumptionpercapita
-2012,64.84,data.domesticmaterialconsumptionperunitofrealgdp
-2013,1090.18,data.domesticmaterialconsumption
-2013,22.68,data.domesticmaterialconsumptionpercapita
-2013,70.76,data.domesticmaterialconsumptionperunitofrealgdp
-2014,1468.98,data.domesticmaterialconsumption
-2014,30.38,data.domesticmaterialconsumptionpercapita
-2014,90.43,data.domesticmaterialconsumptionperunitofrealgdp
-2015,1222.53,data.domesticmaterialconsumption
-2015,25.03,data.domesticmaterialconsumptionpercapita
-2015,74.53,data.domesticmaterialconsumptionperunitofrealgdp
-2016,1356.83,data.domesticmaterialconsumption
-2016,27.44,data.domesticmaterialconsumptionpercapita
-2016,81.52,data.domesticmaterialconsumptionperunitofrealgdp
-2017,1617.55,data.domesticmaterialconsumption
-2017,32.27,data.domesticmaterialconsumptionpercapita
-2017,93.89,data.domesticmaterialconsumptionperunitofrealgdp
-2018,1579.56,data.domesticmaterialconsumption
-2018,31.05,data.domesticmaterialconsumptionpercapita
-2018,89.25,data.domesticmaterialconsumptionperunitofrealgdp
-2019,1614.53,data.domesticmaterialconsumption
-2019,31.24,data.domesticmaterialconsumptionpercapita
-2019,86.92,data.domesticmaterialconsumptionperunitofrealgdp
-2020,1857.88,data.domesticmaterialconsumption
-2020,35.4,data.domesticmaterialconsumptionpercapita
-2020,102.72,data.domesticmaterialconsumptionperunitofrealgdp
+2009,926.84,Innlendis tilfarsnýtsla (1.000 tons)
+2009,19.09,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2009,70.27,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2010,831.08,Innlendis tilfarsnýtsla (1.000 tons)
+2010,17.15,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2010,63.37,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2011,935.44,Innlendis tilfarsnýtsla (1.000 tons)
+2011,19.37,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2011,68.78,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2012,943.66,Innlendis tilfarsnýtsla (1.000 tons)
+2012,19.62,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2012,64.84,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2013,1090.18,Innlendis tilfarsnýtsla (1.000 tons)
+2013,22.68,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2013,70.76,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2014,1468.98,Innlendis tilfarsnýtsla (1.000 tons)
+2014,30.38,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2014,90.43,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2015,1222.53,Innlendis tilfarsnýtsla (1.000 tons)
+2015,25.03,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2015,74.53,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2016,1356.83,Innlendis tilfarsnýtsla (1.000 tons)
+2016,27.44,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2016,81.52,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2017,1617.55,Innlendis tilfarsnýtsla (1.000 tons)
+2017,32.27,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2017,93.89,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2018,1579.56,Innlendis tilfarsnýtsla (1.000 tons)
+2018,31.05,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2018,89.25,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2019,1614.53,Innlendis tilfarsnýtsla (1.000 tons)
+2019,31.24,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2019,86.92,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)
+2020,1857.88,Innlendis tilfarsnýtsla (1.000 tons)
+2020,35.4,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)
+2020,102.72,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)

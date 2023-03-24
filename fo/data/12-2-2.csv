@@ -1,181 +1,181 @@
-Year,Units,data.materialtype,Value
-2009,data.domesticmaterialconsumption,,926.84
-2009,data.domesticmaterialconsumption,data.biomass,298.35
-2009,data.domesticmaterialconsumption,data.metallicminerals,-1.59
-2009,data.domesticmaterialconsumption,data.non-metallicminerals,402.95
-2009,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,227.13
-2009,data.domesticmaterialconsumptionpercapita,,19.09
-2009,data.domesticmaterialconsumptionpercapita,data.biomass,6.15
-2009,data.domesticmaterialconsumptionpercapita,data.metallicminerals,-0.03
-2009,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,8.3
-2009,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,4.68
-2009,data.domesticmaterialconsumptionperunitofrealgdp,,70.27
-2009,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,22.62
-2009,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,-0.12
-2009,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,30.55
-2009,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,17.22
-2010,data.domesticmaterialconsumption,,831.08
-2010,data.domesticmaterialconsumption,data.biomass,343.99
-2010,data.domesticmaterialconsumption,data.metallicminerals,-3.2
-2010,data.domesticmaterialconsumption,data.non-metallicminerals,262.13
-2010,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,228.16
-2010,data.domesticmaterialconsumptionpercapita,,17.15
-2010,data.domesticmaterialconsumptionpercapita,data.biomass,7.1
-2010,data.domesticmaterialconsumptionpercapita,data.metallicminerals,-0.07
-2010,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,5.41
-2010,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,4.71
-2010,data.domesticmaterialconsumptionperunitofrealgdp,,63.37
-2010,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,26.23
-2010,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,-0.24
-2010,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,19.99
-2010,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,17.4
-2011,data.domesticmaterialconsumption,,935.44
-2011,data.domesticmaterialconsumption,data.biomass,359.57
-2011,data.domesticmaterialconsumption,data.metallicminerals,1.04
-2011,data.domesticmaterialconsumption,data.non-metallicminerals,366.4
-2011,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,208.43
-2011,data.domesticmaterialconsumptionpercapita,,19.37
-2011,data.domesticmaterialconsumptionpercapita,data.biomass,7.44
-2011,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.02
-2011,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,7.59
-2011,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,4.32
-2011,data.domesticmaterialconsumptionperunitofrealgdp,,68.78
-2011,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,26.44
-2011,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,0.08
-2011,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,26.94
-2011,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,15.33
-2012,data.domesticmaterialconsumption,,943.66
-2012,data.domesticmaterialconsumption,data.biomass,225.28
-2012,data.domesticmaterialconsumption,data.metallicminerals,3.44
-2012,data.domesticmaterialconsumption,data.non-metallicminerals,472.73
-2012,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,242.21
-2012,data.domesticmaterialconsumptionpercapita,,19.62
-2012,data.domesticmaterialconsumptionpercapita,data.biomass,4.68
-2012,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.07
-2012,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,9.83
-2012,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,5.04
-2012,data.domesticmaterialconsumptionperunitofrealgdp,,64.84
-2012,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,15.48
-2012,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,0.24
-2012,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,32.48
-2012,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,16.64
-2013,data.domesticmaterialconsumption,,1090.18
-2013,data.domesticmaterialconsumption,data.biomass,342.88
-2013,data.domesticmaterialconsumption,data.metallicminerals,4.94
-2013,data.domesticmaterialconsumption,data.non-metallicminerals,444.55
-2013,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,297.81
-2013,data.domesticmaterialconsumptionpercapita,,22.68
-2013,data.domesticmaterialconsumptionpercapita,data.biomass,7.13
-2013,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.1
-2013,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,9.25
-2013,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,6.19
-2013,data.domesticmaterialconsumptionperunitofrealgdp,,70.76
-2013,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,22.25
-2013,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,0.32
-2013,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,28.85
-2013,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,19.33
-2014,data.domesticmaterialconsumption,,1468.98
-2014,data.domesticmaterialconsumption,data.biomass,365.42
-2014,data.domesticmaterialconsumption,data.metallicminerals,6.06
-2014,data.domesticmaterialconsumption,data.non-metallicminerals,786.08
-2014,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,311.41
-2014,data.domesticmaterialconsumptionpercapita,,30.38
-2014,data.domesticmaterialconsumptionpercapita,data.biomass,7.56
-2014,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.13
-2014,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,16.26
-2014,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,6.44
-2014,data.domesticmaterialconsumptionperunitofrealgdp,,90.43
-2014,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,22.5
-2014,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,0.37
-2014,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,48.39
-2014,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,19.17
-2015,data.domesticmaterialconsumption,,1222.53
-2015,data.domesticmaterialconsumption,data.biomass,404.2
-2015,data.domesticmaterialconsumption,data.metallicminerals,2.01
-2015,data.domesticmaterialconsumption,data.non-metallicminerals,463.25
-2015,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,353.07
-2015,data.domesticmaterialconsumptionpercapita,,25.03
-2015,data.domesticmaterialconsumptionpercapita,data.biomass,8.28
-2015,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.04
-2015,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,9.48
-2015,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,7.23
-2015,data.domesticmaterialconsumptionperunitofrealgdp,,74.53
-2015,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,24.64
-2015,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,0.12
-2015,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,28.24
-2015,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,21.53
-2016,data.domesticmaterialconsumption,,1356.83
-2016,data.domesticmaterialconsumption,data.biomass,304.85
-2016,data.domesticmaterialconsumption,data.metallicminerals,18.68
-2016,data.domesticmaterialconsumption,data.non-metallicminerals,675.06
-2016,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,358.24
-2016,data.domesticmaterialconsumptionpercapita,,27.44
-2016,data.domesticmaterialconsumptionpercapita,data.biomass,6.17
-2016,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.38
-2016,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,13.65
-2016,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,7.25
-2016,data.domesticmaterialconsumptionperunitofrealgdp,,81.52
-2016,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,18.32
-2016,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,1.12
-2016,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,40.56
-2016,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,21.52
-2017,data.domesticmaterialconsumption,,1617.55
-2017,data.domesticmaterialconsumption,data.biomass,442.7
-2017,data.domesticmaterialconsumption,data.metallicminerals,46.62
-2017,data.domesticmaterialconsumption,data.non-metallicminerals,757.36
-2017,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,370.88
-2017,data.domesticmaterialconsumptionpercapita,,32.27
-2017,data.domesticmaterialconsumptionpercapita,data.biomass,8.83
-2017,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.93
-2017,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,15.11
-2017,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,7.4
-2017,data.domesticmaterialconsumptionperunitofrealgdp,,93.89
-2017,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,25.7
-2017,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,2.71
-2017,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,43.96
-2017,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,21.53
-2018,data.domesticmaterialconsumption,,1579.56
-2018,data.domesticmaterialconsumption,data.biomass,408.98
-2018,data.domesticmaterialconsumption,data.metallicminerals,47.27
-2018,data.domesticmaterialconsumption,data.non-metallicminerals,764.78
-2018,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,358.54
-2018,data.domesticmaterialconsumptionpercapita,,31.05
-2018,data.domesticmaterialconsumptionpercapita,data.biomass,8.04
-2018,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.93
-2018,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,15.04
-2018,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,7.05
-2018,data.domesticmaterialconsumptionperunitofrealgdp,,89.25
-2018,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,23.11
-2018,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,2.67
-2018,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,43.21
-2018,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,20.26
-2019,data.domesticmaterialconsumption,,1614.53
-2019,data.domesticmaterialconsumption,data.biomass,374.53
-2019,data.domesticmaterialconsumption,data.metallicminerals,26.16
-2019,data.domesticmaterialconsumption,data.non-metallicminerals,872.56
-2019,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,341.27
-2019,data.domesticmaterialconsumptionpercapita,,31.24
-2019,data.domesticmaterialconsumptionpercapita,data.biomass,7.25
-2019,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.51
-2019,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,16.88
-2019,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,6.6
-2019,data.domesticmaterialconsumptionperunitofrealgdp,,86.92
-2019,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,20.16
-2019,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,1.41
-2019,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,46.97
-2019,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,18.37
-2020,data.domesticmaterialconsumption,,1857.88
-2020,data.domesticmaterialconsumption,data.biomass,415.56
-2020,data.domesticmaterialconsumption,data.metallicminerals,24.12
-2020,data.domesticmaterialconsumption,data.non-metallicminerals,1041.98
-2020,data.domesticmaterialconsumption,data.fossilenergyandotherproducts,376.23
-2020,data.domesticmaterialconsumptionpercapita,,35.4
-2020,data.domesticmaterialconsumptionpercapita,data.biomass,7.92
-2020,data.domesticmaterialconsumptionpercapita,data.metallicminerals,0.46
-2020,data.domesticmaterialconsumptionpercapita,data.non-metallicminerals,19.85
-2020,data.domesticmaterialconsumptionpercapita,data.fossilenergyandotherproducts,7.17
-2020,data.domesticmaterialconsumptionperunitofrealgdp,,102.72
-2020,data.domesticmaterialconsumptionperunitofrealgdp,data.biomass,22.98
-2020,data.domesticmaterialconsumptionperunitofrealgdp,data.metallicminerals,1.33
-2020,data.domesticmaterialconsumptionperunitofrealgdp,data.non-metallicminerals,57.61
-2020,data.domesticmaterialconsumptionperunitofrealgdp,data.fossilenergyandotherproducts,20.8
+Year,Units,Slag av tilfari,Value
+2009,Innlendis tilfarsnýtsla (1.000 tons),,926.84
+2009,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,298.35
+2009,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,-1.59
+2009,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,402.95
+2009,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,227.13
+2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,19.09
+2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,6.15
+2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,-0.03
+2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,8.3
+2009,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,4.68
+2009,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,70.27
+2009,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,22.62
+2009,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,-0.12
+2009,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,30.55
+2009,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,17.22
+2010,Innlendis tilfarsnýtsla (1.000 tons),,831.08
+2010,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,343.99
+2010,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,-3.2
+2010,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,262.13
+2010,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,228.16
+2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,17.15
+2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.1
+2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,-0.07
+2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,5.41
+2010,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,4.71
+2010,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,63.37
+2010,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,26.23
+2010,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,-0.24
+2010,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,19.99
+2010,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,17.4
+2011,Innlendis tilfarsnýtsla (1.000 tons),,935.44
+2011,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,359.57
+2011,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,1.04
+2011,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,366.4
+2011,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,208.43
+2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,19.37
+2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.44
+2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.02
+2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,7.59
+2011,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,4.32
+2011,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,68.78
+2011,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,26.44
+2011,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,0.08
+2011,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,26.94
+2011,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,15.33
+2012,Innlendis tilfarsnýtsla (1.000 tons),,943.66
+2012,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,225.28
+2012,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,3.44
+2012,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,472.73
+2012,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,242.21
+2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,19.62
+2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,4.68
+2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.07
+2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,9.83
+2012,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,5.04
+2012,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,64.84
+2012,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,15.48
+2012,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,0.24
+2012,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,32.48
+2012,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,16.64
+2013,Innlendis tilfarsnýtsla (1.000 tons),,1090.18
+2013,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,342.88
+2013,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,4.94
+2013,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,444.55
+2013,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,297.81
+2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,22.68
+2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.13
+2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.1
+2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,9.25
+2013,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,6.19
+2013,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,70.76
+2013,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,22.25
+2013,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,0.32
+2013,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,28.85
+2013,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,19.33
+2014,Innlendis tilfarsnýtsla (1.000 tons),,1468.98
+2014,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,365.42
+2014,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,6.06
+2014,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,786.08
+2014,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,311.41
+2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,30.38
+2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.56
+2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.13
+2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,16.26
+2014,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,6.44
+2014,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,90.43
+2014,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,22.5
+2014,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,0.37
+2014,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,48.39
+2014,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,19.17
+2015,Innlendis tilfarsnýtsla (1.000 tons),,1222.53
+2015,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,404.2
+2015,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,2.01
+2015,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,463.25
+2015,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,353.07
+2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,25.03
+2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.28
+2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.04
+2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,9.48
+2015,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,7.23
+2015,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,74.53
+2015,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,24.64
+2015,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,0.12
+2015,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,28.24
+2015,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,21.53
+2016,Innlendis tilfarsnýtsla (1.000 tons),,1356.83
+2016,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,304.85
+2016,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,18.68
+2016,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,675.06
+2016,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,358.24
+2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,27.44
+2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,6.17
+2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.38
+2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,13.65
+2016,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,7.25
+2016,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,81.52
+2016,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,18.32
+2016,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,1.12
+2016,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,40.56
+2016,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,21.52
+2017,Innlendis tilfarsnýtsla (1.000 tons),,1617.55
+2017,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,442.7
+2017,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,46.62
+2017,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,757.36
+2017,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,370.88
+2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,32.27
+2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.83
+2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.93
+2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,15.11
+2017,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,7.4
+2017,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,93.89
+2017,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,25.7
+2017,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,2.71
+2017,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,43.96
+2017,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,21.53
+2018,Innlendis tilfarsnýtsla (1.000 tons),,1579.56
+2018,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,408.98
+2018,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,47.27
+2018,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,764.78
+2018,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,358.54
+2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,31.05
+2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,8.04
+2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.93
+2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,15.04
+2018,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,7.05
+2018,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,89.25
+2018,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,23.11
+2018,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,2.67
+2018,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,43.21
+2018,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,20.26
+2019,Innlendis tilfarsnýtsla (1.000 tons),,1614.53
+2019,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,374.53
+2019,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,26.16
+2019,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,872.56
+2019,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,341.27
+2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,31.24
+2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.25
+2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.51
+2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,16.88
+2019,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,6.6
+2019,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,86.92
+2019,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,20.16
+2019,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,1.41
+2019,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,46.97
+2019,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,18.37
+2020,Innlendis tilfarsnýtsla (1.000 tons),,1857.88
+2020,Innlendis tilfarsnýtsla (1.000 tons),Biomassi,415.56
+2020,Innlendis tilfarsnýtsla (1.000 tons),Metalmálmur,24.12
+2020,Innlendis tilfarsnýtsla (1.000 tons),Ikki-metalhavin steinsløg,1041.98
+2020,Innlendis tilfarsnýtsla (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,376.23
+2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),,35.4
+2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Biomassi,7.92
+2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Metalmálmur,0.46
+2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Ikki-metalhavin steinsløg,19.85
+2020,Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,7.17
+2020,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),,102.72
+2020,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Biomassi,22.98
+2020,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Metalmálmur,1.33
+2020,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Ikki-metalhavin steinsløg,57.61
+2020,Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons),Lívrunnin brennievni og aðrar framleiðslur,20.8

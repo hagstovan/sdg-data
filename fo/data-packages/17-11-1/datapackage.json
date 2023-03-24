@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.percent",
-                "data.dkkmill",
+                "Prosent",
+                "mió. kr.",
                 ""
               ]
             },
@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.merchandiseimport",
-                "data.merchandiseexport",
+                "Vøruinnflutningur",
+                "Vøruútflutningur",
                 ""
               ]
             },
-            "title": "data.importexport"
+            "title": "Innflutningur/Útflutningur"
           },
           {
             "name": "data.countrygroup",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.developed-leastdeveloped",
-                "data.developed-ex-china",
-                "data.leastdeveloped",
+                "Menningarlond og minst mentu londini",
+                "Menningarlond og minst mentu londini uttan Kina",
+                "Minst mentu londini",
                 ""
               ]
             },
-            "title": "data.countrygroup"
+            "title": "Landabólkur"
           },
           {
             "name": "Value",

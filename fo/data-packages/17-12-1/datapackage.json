@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.tm_tax_dmfn",
-                "data.tm_tax_dprf",
+                "Miðal álagdur tollur hjá framkomnum londum við støðugum vanligum handilssambondum, skift á vørubólk (%)",
+                "Miðal álagdur tollur hjá framkomnum londum í serstøðu, skift á vørubólk (%)",
                 ""
               ]
             },
@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.total",
-                "data.agriculturalproducts",
-                "data.industrialproducts",
-                "data.clothing",
-                "data.textiles",
+                "Tilsamans",
+                "Landbúnaðarvørur",
+                "Ídnaðarvørur",
+                "Pløgg",
+                "Klædnavørur",
                 ""
               ]
             },
-            "title": "data.typeofproduct"
+            "title": "Vørubólkur"
           },
           {
             "name": "Value",
