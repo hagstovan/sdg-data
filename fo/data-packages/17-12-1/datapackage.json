@@ -16,7 +16,7 @@
             "title": "Ár"
           },
           {
-            "name": "Series",
+            "name": "data.measure",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Mát"
           },
           {
             "name": "data.typeofproduct",

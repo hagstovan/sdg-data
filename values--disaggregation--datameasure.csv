@@ -28,4 +28,6 @@ data.personalremittances,1,1
 data.portfolioinvestment,1,1
 data.reservesinmonthsofimports,1,1
 data.taxrevenuegdp,1,1
+data.tm_tax_dmfn,5,1
+data.tm_tax_dprf,5,1
 data.totalunemploymentoutoftotallabourforce,1,1

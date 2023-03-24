@@ -2394,7 +2394,7 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "data.measure",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2403,7 +2403,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Measure"
           },
           {
             "name": "data.typeofproduct",
