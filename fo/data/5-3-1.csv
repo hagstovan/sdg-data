@@ -1,75 +1,75 @@
-Year,Aldur,Value
-1985,15-17 ár,0.6
-1985,yngri enn 15 ár,0.0
-1986,15-17 ár,0.7
-1986,yngri enn 15 ár,0.0
-1987,15-17 ár,0.8
-1987,yngri enn 15 ár,0.0
-1988,15-17 ár,0.5
-1988,yngri enn 15 ár,0.0
-1989,15-17 ár,0.4
-1989,yngri enn 15 ár,0.0
-1990,15-17 ár,0.6
-1990,yngri enn 15 ár,0.0
-1991,15-17 ár,0.5
-1991,yngri enn 15 ár,0.0
-1992,15-17 ár,0.4
-1992,yngri enn 15 ár,0.0
-1993,15-17 ár,0.5
-1993,yngri enn 15 ár,0.0
-1994,15-17 ár,0.6
-1994,yngri enn 15 ár,0.0
-1995,15-17 ár,0.4
-1995,yngri enn 15 ár,0.0
-1996,15-17 ár,0.5
-1996,yngri enn 15 ár,0.0
-1997,15-17 ár,0.4
-1997,yngri enn 15 ár,0.0
-1998,15-17 ár,0.5
-1998,yngri enn 15 ár,0.0
-1999,15-17 ár,0.4
-1999,yngri enn 15 ár,0.0
-2000,15-17 ár,0.2
-2000,yngri enn 15 ár,0.0
-2001,15-17 ár,0.2
-2001,yngri enn 15 ár,0.0
-2002,15-17 ár,0.3
-2002,yngri enn 15 ár,0.0
-2003,15-17 ár,0.1
-2003,yngri enn 15 ár,0.0
-2004,15-17 ár,0.1
-2004,yngri enn 15 ár,0.0
-2005,15-17 ár,0.2
-2005,yngri enn 15 ár,0.0
-2006,15-17 ár,0.1
-2006,yngri enn 15 ár,0.0
-2007,15-17 ár,0.2
-2007,yngri enn 15 ár,0.0
-2008,15-17 ár,0.1
-2008,yngri enn 15 ár,0.0
-2009,15-17 ár,0.1
-2009,yngri enn 15 ár,0.0
-2010,15-17 ár,0.1
-2010,yngri enn 15 ár,0.0
-2011,15-17 ár,0.1
-2011,yngri enn 15 ár,0.0
-2012,15-17 ár,0.1
-2012,yngri enn 15 ár,0.0
-2013,15-17 ár,0.1
-2013,yngri enn 15 ár,0.0
-2014,15-17 ár,0.0
-2014,yngri enn 15 ár,0.0
-2015,15-17 ár,0.1
-2015,yngri enn 15 ár,0.0
-2016,15-17 ár,0.1
-2016,yngri enn 15 ár,0.0
-2017,15-17 ár,0.0
-2017,yngri enn 15 ár,0.0
-2018,15-17 ár,0.1
-2018,yngri enn 15 ár,0.0
-2019,15-17 ár,0.1
-2019,yngri enn 15 ár,0.0
-2020,15-17 ár,0.1
-2020,yngri enn 15 ár,0.0
-2021,15-17 ár,0.1
-2021,yngri enn 15 ár,0.0
+Year,data.age,Value
+1985,data.15-17years,0.6
+1985,data.00-14years,0.0
+1986,data.15-17years,0.7
+1986,data.00-14years,0.0
+1987,data.15-17years,0.8
+1987,data.00-14years,0.0
+1988,data.15-17years,0.5
+1988,data.00-14years,0.0
+1989,data.15-17years,0.4
+1989,data.00-14years,0.0
+1990,data.15-17years,0.6
+1990,data.00-14years,0.0
+1991,data.15-17years,0.5
+1991,data.00-14years,0.0
+1992,data.15-17years,0.4
+1992,data.00-14years,0.0
+1993,data.15-17years,0.5
+1993,data.00-14years,0.0
+1994,data.15-17years,0.6
+1994,data.00-14years,0.0
+1995,data.15-17years,0.4
+1995,data.00-14years,0.0
+1996,data.15-17years,0.5
+1996,data.00-14years,0.0
+1997,data.15-17years,0.4
+1997,data.00-14years,0.0
+1998,data.15-17years,0.5
+1998,data.00-14years,0.0
+1999,data.15-17years,0.4
+1999,data.00-14years,0.0
+2000,data.15-17years,0.2
+2000,data.00-14years,0.0
+2001,data.15-17years,0.2
+2001,data.00-14years,0.0
+2002,data.15-17years,0.3
+2002,data.00-14years,0.0
+2003,data.15-17years,0.1
+2003,data.00-14years,0.0
+2004,data.15-17years,0.1
+2004,data.00-14years,0.0
+2005,data.15-17years,0.2
+2005,data.00-14years,0.0
+2006,data.15-17years,0.1
+2006,data.00-14years,0.0
+2007,data.15-17years,0.2
+2007,data.00-14years,0.0
+2008,data.15-17years,0.1
+2008,data.00-14years,0.0
+2009,data.15-17years,0.1
+2009,data.00-14years,0.0
+2010,data.15-17years,0.1
+2010,data.00-14years,0.0
+2011,data.15-17years,0.1
+2011,data.00-14years,0.0
+2012,data.15-17years,0.1
+2012,data.00-14years,0.0
+2013,data.15-17years,0.1
+2013,data.00-14years,0.0
+2014,data.15-17years,0.0
+2014,data.00-14years,0.0
+2015,data.15-17years,0.1
+2015,data.00-14years,0.0
+2016,data.15-17years,0.1
+2016,data.00-14years,0.0
+2017,data.15-17years,0.0
+2017,data.00-14years,0.0
+2018,data.15-17years,0.1
+2018,data.00-14years,0.0
+2019,data.15-17years,0.1
+2019,data.00-14years,0.0
+2020,data.15-17years,0.1
+2020,data.00-14years,0.0
+2021,data.15-17years,0.1
+2021,data.00-14years,0.0

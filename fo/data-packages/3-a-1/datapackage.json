@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menn",
-                "Kvinnur",
+                "data.male",
+                "data.female",
                 ""
               ]
             },
-            "title": "Kyn"
+            "title": "data.sex"
           },
           {
             "name": "Value",

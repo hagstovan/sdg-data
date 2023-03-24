@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lægstu 40 prosentini av íbúgvunum",
+                "data.bottom40percentofthepopulation",
                 ""
               ]
             },
-            "title": "Inntøkubólkur"
+            "title": "data.growthrateofdisposableincome"
           },
           {
             "name": "Value",

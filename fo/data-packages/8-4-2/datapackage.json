@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Innlendis tilfarsnýtsla (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
+                "data.domesticmaterialconsumption",
+                "data.domesticmaterialconsumptionpercapita",
+                "data.domesticmaterialconsumptionperunitofrealgdp",
                 ""
               ]
             },
@@ -33,14 +33,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomassi",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Lívrunnin brennievni og aðrar framleiðslur",
+                "data.biomass",
+                "data.metallicminerals",
+                "data.non-metallicminerals",
+                "data.fossilenergyandotherproducts",
                 ""
               ]
             },
-            "title": "Slag av tilfari"
+            "title": "data.materialtype"
           },
           {
             "name": "Value",

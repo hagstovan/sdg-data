@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Skattir",
-                "Sosial gjøld",
-                "Ríkisstudningur",
-                "Onnur inntøka",
+                "data.taxes",
+                "data.socialcontributions",
+                "data.grants",
+                "data.otherrevenue",
                 ""
               ]
             },
-            "title": "Kelda"
+            "title": "data.source"
           },
           {
             "name": "Value",

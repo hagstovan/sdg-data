@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.tm_tax_dmfn",
+                "data.tm_tax_dprf",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "data.typeofproduct",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.total",
+                "data.agriculturalproducts",
+                "data.industrialproducts",
+                "data.clothing",
+                "data.textiles",
+                ""
+              ]
+            },
+            "title": "data.typeofproduct"
           },
           {
             "name": "Value",

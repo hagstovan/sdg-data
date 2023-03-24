@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                "Jarðhiti",
+                "data.hydro",
+                "data.wind",
+                "data.solar",
+                "data.ocean",
+                "data.biofuel",
+                "data.geothermal",
                 ""
               ]
             },
-            "title": "Orkukelda"
+            "title": "data.energysource"
           },
           {
             "name": "Value",

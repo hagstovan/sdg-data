@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stjórar",
-                "Nevndarlimir",
+                "data.managers",
+                "data.membersofboard",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Privatar fyritøkur",
-                "Almennir stovnar og fyritøkur",
+                "data.privatecompany",
+                "data.publiccompany",
                 ""
               ]
             },
-            "title": "Alment/privat"
+            "title": "data.publicprivate"
           },
           {
             "name": "Value",

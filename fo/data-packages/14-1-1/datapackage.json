@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Blaðgrøni-a grundfrávik, fjarmáting (%)",
-                "Blaðgrøni-a mánaðarligt frávik, fjarmáting (%)",
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði (%)",
+                "data.chlorophyll-adeviationsremotesensing",
+                "data.chlorophyllaanomalyremotesensing",
+                "data.skopunnutrients",
                 ""
               ]
             },
@@ -33,25 +33,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stórur títtleiki",
-                "Nakað av títtleika",
+                "data.highfrequency",
+                "data.moderatefrequency",
                 ""
               ]
             },
-            "title": "Títtleiki av blaðgrøna-a vøkstri"
+            "title": "data.frequencyofchlorophyll-aconcentration"
           },
           {
             "name": "data.nutrient",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nitrat",
-                "Silikat",
-                "Fosfat",
+                "data.nitrogen",
+                "data.silica",
+                "data.phosphate",
                 ""
               ]
             },
-            "title": "Taðevni"
+            "title": "data.nutrient"
           },
           {
             "name": "Value",

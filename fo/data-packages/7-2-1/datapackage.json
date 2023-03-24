@@ -20,17 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Lívfrøðilig brennievni",
-                "Havið",
-                "Fjarhiti frá brennistøðum",
-                "Hitapumpur",
+                "data.hydro",
+                "data.wind",
+                "data.solar",
+                "data.biofuel",
+                "data.ocean",
+                "data.districtheatingfromincinerator",
+                "data.heatpumps",
                 ""
               ]
             },
-            "title": "Varandi orkukelda"
+            "title": "data.renewablesource"
           },
           {
             "name": "Value",

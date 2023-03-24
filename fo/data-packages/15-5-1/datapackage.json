@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Niðara mark",
-                "Reyðlistavísital",
-                "Ovara mark",
+                "data.lowerbound",
+                "data.rli",
+                "data.upperbound",
                 ""
               ]
             },
-            "title": "Álitisstig"
+            "title": "data.confidencelevel"
           },
           {
             "name": "Value",

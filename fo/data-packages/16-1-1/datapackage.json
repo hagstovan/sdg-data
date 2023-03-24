@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Løgreglan",
-                "Landslæknin",
+                "data.police",
+                "data.chiefmedicalofficer",
                 ""
               ]
             },
-            "title": "Kelda"
+            "title": "data.source"
           },
           {
             "name": "Value",

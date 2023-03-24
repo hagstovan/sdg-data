@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persónar",
-                "Pr. 100.000 arbeiðsvirkin",
+                "data.persons",
+                "data.pr100000",
                 ""
               ]
             },
@@ -32,24 +32,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Deyðilig",
-                "Ikki-deyðilig",
+                "data.lethal",
+                "data.non-lethal",
                 ""
               ]
             },
-            "title": "Avleiðing"
+            "title": "data.outcome"
           },
           {
             "name": "data.sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kvinnur",
-                "Menn",
+                "data.female",
+                "data.male",
                 ""
               ]
             },
-            "title": "Kyn"
+            "title": "data.sex"
           },
           {
             "name": "Value",
