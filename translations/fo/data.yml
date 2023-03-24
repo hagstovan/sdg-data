@@ -312,3 +312,12 @@ publiccompany: Almennir stovnar og fyritøkur
 managerscomment: Uppgerðin av stjórum í tí privata fevnir um allar fyritøkur, tó undantikið einstaklingafeløg og felagsskapir. Uppgerðin av stjórum í tí almenna fevnir um lands-, kommunalar og ríkisstovnar. Leiðarar á skúlum og dagstovnum og á eldraøkinum telja við í uppgerðini.
 notecomment: Viðmerking
 publicprivate: Alment/privat
+  typeofproduct: Vørubólkur
+agriculturalproducts: Landbúnaðarvørur
+arms: Vápn
+clothing: Pløgg
+industrialproducts: Ídnaðarvørur
+oil: Olja
+textiles: Klædnavørur
+tm_tax_dmfn: Miðal álagdur tollur hjá framkomnum londum við støðugum vanligum handilssambondum, skift á vørubólk (%)
+tm_tax_dprf: Miðal álagdur tollur hjá framkomnum londum í serstøðu, skift á vørubólk (%)
