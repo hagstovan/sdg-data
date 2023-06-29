@@ -30,6 +30,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: proxy
 reporting_status: complete
 sort: ''
 standalone: false
