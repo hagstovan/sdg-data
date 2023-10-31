@@ -1,3 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.bunkers,3,1
-data.fuelcombustion,5,1
+";""""",32,1
+"data.bunkers;""""",32,1
+"data.bunkers;""data.aviation""",28,1
+"data.bunkers;""data.navigation""",31,1
+"data.fuelcombustion;""""",32,1
+"data.fuelcombustion;""data.energyindustries""",32,1
+"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",32,1
+"data.fuelcombustion;""data.othersectors""",32,1
+"data.fuelcombustion;""data.transportsector""",32,1

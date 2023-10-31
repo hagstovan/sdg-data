@@ -1,280 +1,289 @@
 Year,Main source,Source,Value
-1990,,,
-1990,Fuel combustion,,0.7
-1990,Fuel combustion,Energy industries,0.1
-1990,Fuel combustion,Manufacturing industries and construction,0.1
-1990,Fuel combustion,Transport sector,0.1
-1990,Fuel combustion,Other sectors,0.4
-1990,International Bunkers,,
-1990,International Bunkers,Aviation,
-1990,International Bunkers,Navigation,
-1991,,,0.6
-1991,Fuel combustion,,0.6
-1991,Fuel combustion,Energy industries,0.1
-1991,Fuel combustion,Manufacturing industries and construction,0.1
-1991,Fuel combustion,Transport sector,0.1
-1991,Fuel combustion,Other sectors,0.4
-1991,International Bunkers,,0.0
-1991,International Bunkers,Aviation,0.0
-1991,International Bunkers,Navigation,
-1992,,,0.7
-1992,Fuel combustion,,0.6
-1992,Fuel combustion,Energy industries,0.1
-1992,Fuel combustion,Manufacturing industries and construction,0.0
-1992,Fuel combustion,Transport sector,0.1
-1992,Fuel combustion,Other sectors,0.4
-1992,International Bunkers,,0.1
-1992,International Bunkers,Aviation,0.0
-1992,International Bunkers,Navigation,0.1
-1993,,,0.7
-1993,Fuel combustion,,0.5
-1993,Fuel combustion,Energy industries,0.1
-1993,Fuel combustion,Manufacturing industries and construction,0.0
-1993,Fuel combustion,Transport sector,0.1
-1993,Fuel combustion,Other sectors,0.3
-1993,International Bunkers,,0.1
-1993,International Bunkers,Aviation,0.0
-1993,International Bunkers,Navigation,0.1
-1994,,,0.7
-1994,Fuel combustion,,0.5
-1994,Fuel combustion,Energy industries,0.1
-1994,Fuel combustion,Manufacturing industries and construction,0.0
-1994,Fuel combustion,Transport sector,0.1
-1994,Fuel combustion,Other sectors,0.3
-1994,International Bunkers,,0.1
-1994,International Bunkers,Aviation,0.0
-1994,International Bunkers,Navigation,0.1
-1995,,,0.7
-1995,Fuel combustion,,0.5
-1995,Fuel combustion,Energy industries,0.1
-1995,Fuel combustion,Manufacturing industries and construction,0.0
-1995,Fuel combustion,Transport sector,0.1
-1995,Fuel combustion,Other sectors,0.3
-1995,International Bunkers,,0.1
-1995,International Bunkers,Aviation,0.0
-1995,International Bunkers,Navigation,0.1
-1996,,,0.7
-1996,Fuel combustion,,0.6
-1996,Fuel combustion,Energy industries,0.1
-1996,Fuel combustion,Manufacturing industries and construction,0.0
-1996,Fuel combustion,Transport sector,0.1
-1996,Fuel combustion,Other sectors,0.3
-1996,International Bunkers,,0.1
-1996,International Bunkers,Aviation,0.0
-1996,International Bunkers,Navigation,0.1
-1997,,,0.7
-1997,Fuel combustion,,0.6
-1997,Fuel combustion,Energy industries,0.1
-1997,Fuel combustion,Manufacturing industries and construction,0.0
-1997,Fuel combustion,Transport sector,0.1
-1997,Fuel combustion,Other sectors,0.3
-1997,International Bunkers,,0.1
-1997,International Bunkers,Aviation,0.0
-1997,International Bunkers,Navigation,0.1
-1998,,,0.7
-1998,Fuel combustion,,0.6
-1998,Fuel combustion,Energy industries,0.1
-1998,Fuel combustion,Manufacturing industries and construction,0.1
-1998,Fuel combustion,Transport sector,0.1
-1998,Fuel combustion,Other sectors,0.4
-1998,International Bunkers,,0.1
-1998,International Bunkers,Aviation,0.0
-1998,International Bunkers,Navigation,0.1
-1999,,,0.8
-1999,Fuel combustion,,0.6
-1999,Fuel combustion,Energy industries,0.1
-1999,Fuel combustion,Manufacturing industries and construction,0.1
-1999,Fuel combustion,Transport sector,0.1
-1999,Fuel combustion,Other sectors,0.4
-1999,International Bunkers,,0.1
-1999,International Bunkers,Aviation,0.0
-1999,International Bunkers,Navigation,0.1
-2000,,,0.8
-2000,Fuel combustion,,0.7
-2000,Fuel combustion,Energy industries,0.1
-2000,Fuel combustion,Manufacturing industries and construction,0.1
-2000,Fuel combustion,Transport sector,0.1
-2000,Fuel combustion,Other sectors,0.4
-2000,International Bunkers,,0.1
-2000,International Bunkers,Aviation,0.0
-2000,International Bunkers,Navigation,0.1
-2001,,,1.0
-2001,Fuel combustion,,0.8
-2001,Fuel combustion,Energy industries,0.2
-2001,Fuel combustion,Manufacturing industries and construction,0.1
-2001,Fuel combustion,Transport sector,0.1
-2001,Fuel combustion,Other sectors,0.5
-2001,International Bunkers,,0.1
-2001,International Bunkers,Aviation,0.0
-2001,International Bunkers,Navigation,0.1
-2002,,,0.9
-2002,Fuel combustion,,0.8
-2002,Fuel combustion,Energy industries,0.1
-2002,Fuel combustion,Manufacturing industries and construction,0.1
-2002,Fuel combustion,Transport sector,0.1
-2002,Fuel combustion,Other sectors,0.5
-2002,International Bunkers,,0.1
-2002,International Bunkers,Aviation,0.0
-2002,International Bunkers,Navigation,0.1
-2003,,,0.9
-2003,Fuel combustion,,0.8
-2003,Fuel combustion,Energy industries,0.1
-2003,Fuel combustion,Manufacturing industries and construction,0.1
-2003,Fuel combustion,Transport sector,0.1
-2003,Fuel combustion,Other sectors,0.5
-2003,International Bunkers,,0.1
-2003,International Bunkers,Aviation,0.0
-2003,International Bunkers,Navigation,0.1
-2004,,,0.9
-2004,Fuel combustion,,0.8
-2004,Fuel combustion,Energy industries,0.1
-2004,Fuel combustion,Manufacturing industries and construction,0.1
-2004,Fuel combustion,Transport sector,0.1
-2004,Fuel combustion,Other sectors,0.5
-2004,International Bunkers,,0.1
-2004,International Bunkers,Aviation,0.0
-2004,International Bunkers,Navigation,0.1
-2005,,,0.9
-2005,Fuel combustion,,0.8
-2005,Fuel combustion,Energy industries,0.1
-2005,Fuel combustion,Manufacturing industries and construction,0.1
-2005,Fuel combustion,Transport sector,0.1
-2005,Fuel combustion,Other sectors,0.5
-2005,International Bunkers,,0.1
-2005,International Bunkers,Aviation,0.0
-2005,International Bunkers,Navigation,0.1
-2006,,,0.8
-2006,Fuel combustion,,0.8
-2006,Fuel combustion,Energy industries,0.1
-2006,Fuel combustion,Manufacturing industries and construction,0.1
-2006,Fuel combustion,Transport sector,0.1
-2006,Fuel combustion,Other sectors,0.5
-2006,International Bunkers,,0.0
-2006,International Bunkers,Aviation,0.0
-2006,International Bunkers,Navigation,0.0
-2007,,,0.8
-2007,Fuel combustion,,0.8
-2007,Fuel combustion,Energy industries,0.1
-2007,Fuel combustion,Manufacturing industries and construction,0.1
-2007,Fuel combustion,Transport sector,0.1
-2007,Fuel combustion,Other sectors,0.5
-2007,International Bunkers,,0.0
-2007,International Bunkers,Aviation,0.0
-2007,International Bunkers,Navigation,0.0
-2008,,,0.8
-2008,Fuel combustion,,0.7
-2008,Fuel combustion,Energy industries,0.1
-2008,Fuel combustion,Manufacturing industries and construction,0.1
-2008,Fuel combustion,Transport sector,0.1
-2008,Fuel combustion,Other sectors,0.4
-2008,International Bunkers,,0.0
-2008,International Bunkers,Aviation,0.0
-2008,International Bunkers,Navigation,0.0
-2009,,,0.8
-2009,Fuel combustion,,0.8
-2009,Fuel combustion,Energy industries,0.1
-2009,Fuel combustion,Manufacturing industries and construction,0.0
-2009,Fuel combustion,Transport sector,0.1
-2009,Fuel combustion,Other sectors,0.5
-2009,International Bunkers,,0.1
-2009,International Bunkers,Aviation,0.0
-2009,International Bunkers,Navigation,0.1
-2010,,,0.9
-2010,Fuel combustion,,0.8
-2010,Fuel combustion,Energy industries,0.2
-2010,Fuel combustion,Manufacturing industries and construction,0.0
-2010,Fuel combustion,Transport sector,0.1
-2010,Fuel combustion,Other sectors,0.5
-2010,International Bunkers,,0.0
-2010,International Bunkers,Aviation,0.0
-2010,International Bunkers,Navigation,0.0
-2011,,,0.8
-2011,Fuel combustion,,0.7
-2011,Fuel combustion,Energy industries,0.1
-2011,Fuel combustion,Manufacturing industries and construction,0.0
-2011,Fuel combustion,Transport sector,0.1
-2011,Fuel combustion,Other sectors,0.4
-2011,International Bunkers,,0.0
-2011,International Bunkers,Aviation,0.0
-2011,International Bunkers,Navigation,0.0
-2012,,,0.9
-2012,Fuel combustion,,0.8
-2012,Fuel combustion,Energy industries,0.1
-2012,Fuel combustion,Manufacturing industries and construction,0.0
-2012,Fuel combustion,Transport sector,0.1
-2012,Fuel combustion,Other sectors,0.5
-2012,International Bunkers,,0.1
-2012,International Bunkers,Aviation,0.0
-2012,International Bunkers,Navigation,0.1
-2013,,,0.8
-2013,Fuel combustion,,0.8
-2013,Fuel combustion,Energy industries,0.1
-2013,Fuel combustion,Manufacturing industries and construction,0.0
-2013,Fuel combustion,Transport sector,0.1
-2013,Fuel combustion,Other sectors,0.5
-2013,International Bunkers,,0.0
-2013,International Bunkers,Aviation,0.0
-2013,International Bunkers,Navigation,0.0
-2014,,,0.8
-2014,Fuel combustion,,0.8
-2014,Fuel combustion,Energy industries,0.1
-2014,Fuel combustion,Manufacturing industries and construction,0.1
-2014,Fuel combustion,Transport sector,0.1
-2014,Fuel combustion,Other sectors,0.5
-2014,International Bunkers,,0.0
-2014,International Bunkers,Aviation,0.0
-2014,International Bunkers,Navigation,0.0
-2015,,,0.8
-2015,Fuel combustion,,0.8
-2015,Fuel combustion,Energy industries,0.1
-2015,Fuel combustion,Manufacturing industries and construction,0.1
-2015,Fuel combustion,Transport sector,0.1
-2015,Fuel combustion,Other sectors,0.5
-2015,International Bunkers,,0.0
-2015,International Bunkers,Aviation,0.0
-2015,International Bunkers,Navigation,0.0
-2016,,,0.8
-2016,Fuel combustion,,0.8
-2016,Fuel combustion,Energy industries,0.1
-2016,Fuel combustion,Manufacturing industries and construction,0.1
-2016,Fuel combustion,Transport sector,0.1
-2016,Fuel combustion,Other sectors,0.5
-2016,International Bunkers,,0.0
-2016,International Bunkers,Aviation,0.0
-2016,International Bunkers,Navigation,0.0
-2017,,,1.0
-2017,Fuel combustion,,0.9
-2017,Fuel combustion,Energy industries,0.1
-2017,Fuel combustion,Manufacturing industries and construction,0.1
-2017,Fuel combustion,Transport sector,0.2
-2017,Fuel combustion,Other sectors,0.6
-2017,International Bunkers,,0.1
-2017,International Bunkers,Aviation,0.0
-2017,International Bunkers,Navigation,0.1
-2018,,,1.1
-2018,Fuel combustion,,1.0
-2018,Fuel combustion,Energy industries,0.1
-2018,Fuel combustion,Manufacturing industries and construction,0.1
-2018,Fuel combustion,Transport sector,0.2
-2018,Fuel combustion,Other sectors,0.7
-2018,International Bunkers,,0.1
-2018,International Bunkers,Aviation,0.0
-2018,International Bunkers,Navigation,0.1
-2019,,,1.1
-2019,Fuel combustion,,1.1
-2019,Fuel combustion,Energy industries,0.2
-2019,Fuel combustion,Manufacturing industries and construction,0.1
-2019,Fuel combustion,Transport sector,0.2
-2019,Fuel combustion,Other sectors,0.7
-2019,International Bunkers,,0.0
-2019,International Bunkers,Aviation,0.0
-2019,International Bunkers,Navigation,0.0
-2020,,,1.2
-2020,Fuel combustion,,1.1
-2020,Fuel combustion,Energy industries,0.2
-2020,Fuel combustion,Manufacturing industries and construction,0.1
-2020,Fuel combustion,Transport sector,0.2
-2020,Fuel combustion,Other sectors,0.7
-2020,International Bunkers,,0.1
-2020,International Bunkers,Aviation,0.0
-2020,International Bunkers,Navigation,0.1
+1990,";""""",,
+1990,"data.fuelcombustion;""""",0.668768428863456,
+1990,"data.fuelcombustion;""data.energyindustries""",0.097196392675,
+1990,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.06253914071565,
+1990,"data.fuelcombustion;""data.transportsector""",0.104706602352806,
+1990,"data.fuelcombustion;""data.othersectors""",0.40432629312,
+1990,"data.bunkers;""""",,
+1990,"data.bunkers;""data.aviation""",,
+1990,"data.bunkers;""data.navigation""",,
+1991,";""""",0.649634144481681,
+1991,"data.fuelcombustion;""""",0.649500646113681,
+1991,"data.fuelcombustion;""data.energyindustries""",0.093720118275,
+1991,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.07384905355125,
+1991,"data.fuelcombustion;""data.transportsector""",0.102835449697431,
+1991,"data.fuelcombustion;""data.othersectors""",0.37909602459,
+1991,"data.bunkers;""""",0.000133498368,
+1991,"data.bunkers;""data.aviation""",0.000133498368,
+1991,"data.bunkers;""data.navigation""",,
+1992,";""""",0.744483747398702,
+1992,"data.fuelcombustion;""""",0.639027662180703,
+1992,"data.fuelcombustion;""data.energyindustries""",0.09330379587,
+1992,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.043721001765,
+1992,"data.fuelcombustion;""data.transportsector""",0.113847603845702,
+1992,"data.fuelcombustion;""data.othersectors""",0.3881552607,
+1992,"data.bunkers;""""",0.105456085218,
+1992,"data.bunkers;""data.aviation""",0.000133498368,
+1992,"data.bunkers;""data.navigation""",0.10532258685,
+1993,";""""",0.67218575402615,
+1993,"data.fuelcombustion;""""",0.52929408321815,
+1993,"data.fuelcombustion;""data.energyindustries""",0.08649468693,
+1993,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.03969763452,
+1993,"data.fuelcombustion;""data.transportsector""",0.09934865640815,
+1993,"data.fuelcombustion;""data.othersectors""",0.30375310536,
+1993,"data.bunkers;""""",0.142891670808,
+1993,"data.bunkers;""data.aviation""",0.000133498368,
+1993,"data.bunkers;""data.navigation""",0.14275817244,
+1994,";""""",0.674637619839,
+1994,"data.fuelcombustion;""""",0.534333646221,
+1994,"data.fuelcombustion;""data.energyindustries""",0.08234997124,
+1994,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.038768034555,
+1994,"data.fuelcombustion;""data.transportsector""",0.090851411336,
+1994,"data.fuelcombustion;""data.othersectors""",0.32236422909,
+1994,"data.bunkers;""""",0.140303973618,
+1994,"data.bunkers;""data.aviation""",0.000133498368,
+1994,"data.bunkers;""data.navigation""",0.14017047525,
+1995,";""""",0.6721524434764,
+1995,"data.fuelcombustion;""""",0.5402720946784,
+1995,"data.fuelcombustion;""data.energyindustries""",0.079484259,
+1995,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.03220301898,
+1995,"data.fuelcombustion;""data.transportsector""",0.0978491428384,
+1995,"data.fuelcombustion;""data.othersectors""",0.33073567386,
+1995,"data.bunkers;""""",0.131880348798,
+1995,"data.bunkers;""data.aviation""",0.000133498368,
+1995,"data.bunkers;""data.navigation""",0.13174685043,
+1996,";""""",0.7030326844335,
+1996,"data.fuelcombustion;""""",0.5605491678375,
+1996,"data.fuelcombustion;""data.energyindustries""",0.09414801387,
+1996,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.038301975075,
+1996,"data.fuelcombustion;""data.transportsector""",0.0931278083925,
+1996,"data.fuelcombustion;""data.othersectors""",0.3349713705,
+1996,"data.bunkers;""""",0.142483516596,
+1996,"data.bunkers;""data.aviation""",0.000285037056,
+1996,"data.bunkers;""data.navigation""",0.14219847954,
+1997,";""""",0.69456920981705,
+1997,"data.fuelcombustion;""""",0.55615165653305,
+1997,"data.fuelcombustion;""data.energyindustries""",0.0881624934,
+1997,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.038049228105,
+1997,"data.fuelcombustion;""data.transportsector""",0.10240660792805,
+1997,"data.fuelcombustion;""data.othersectors""",0.3275333271,
+1997,"data.bunkers;""""",0.138417553284,
+1997,"data.bunkers;""data.aviation""",0.000294508224,
+1997,"data.bunkers;""data.navigation""",0.13812304506,
+1998,";""""",0.71246999784605,
+1998,"data.fuelcombustion;""""",0.59983566158405,
+1998,"data.fuelcombustion;""data.energyindustries""",0.09893784747,
+1998,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.0545321715,
+1998,"data.fuelcombustion;""data.transportsector""",0.09563615414405,
+1998,"data.fuelcombustion;""data.othersectors""",0.35072948847,
+1998,"data.bunkers;""""",0.112634336262,
+1998,"data.bunkers;""data.aviation""",0.000441912672,
+1998,"data.bunkers;""data.navigation""",0.11219242359,
+1999,";""""",0.751230389838801,
+1999,"data.fuelcombustion;""""",0.629143491564801,
+1999,"data.fuelcombustion;""data.energyindustries""",0.101023648755,
+1999,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.053016662445,
+1999,"data.fuelcombustion;""data.transportsector""",0.0977985222848,
+1999,"data.fuelcombustion;""data.othersectors""",0.377304658080001,
+1999,"data.bunkers;""""",0.122086898274,
+1999,"data.bunkers;""data.aviation""",0.000591797664,
+1999,"data.bunkers;""data.navigation""",0.12149510061,
+2000,";""""",0.80243466928115,
+2000,"data.fuelcombustion;""""",0.66579216419915,
+2000,"data.fuelcombustion;""data.energyindustries""",0.119628294135,
+2000,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.05983688826,
+2000,"data.fuelcombustion;""data.transportsector""",0.09920080678415,
+2000,"data.fuelcombustion;""data.othersectors""",0.38712617502,
+2000,"data.bunkers;""""",0.136642505082,
+2000,"data.bunkers;""data.aviation""",0.000875256192,
+2000,"data.bunkers;""data.navigation""",0.13576724889,
+2001,";""""",0.9686409136,
+2001,"data.fuelcombustion;""""",0.839860745188,
+2001,"data.fuelcombustion;""data.energyindustries""",0.16376604616,
+2001,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.06907568484,
+2001,"data.fuelcombustion;""data.transportsector""",0.112697252658,
+2001,"data.fuelcombustion;""data.othersectors""",0.49432176153,
+2001,"data.bunkers;""""",0.128780168412,
+2001,"data.bunkers;""data.aviation""",0.001476976032,
+2001,"data.bunkers;""data.navigation""",0.12730319238,
+2002,";""""",0.8679660099052,
+2002,"data.fuelcombustion;""""",0.7888216140052,
+2002,"data.fuelcombustion;""data.energyindustries""",0.1272060898152,
+2002,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.06820554825,
+2002,"data.fuelcombustion;""data.transportsector""",0.11719925776,
+2002,"data.fuelcombustion;""data.othersectors""",0.47621071818,
+2002,"data.bunkers;""""",0.0791443959,
+2002,"data.bunkers;""data.aviation""",0.0011500704,
+2002,"data.bunkers;""data.navigation""",0.0779943255,
+2003,";""""",0.86260166043,
+2003,"data.fuelcombustion;""""",0.792799701734,
+2003,"data.fuelcombustion;""data.energyindustries""",0.133812020875,
+2003,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.078875361255,
+2003,"data.fuelcombustion;""data.transportsector""",0.112887523804,
+2003,"data.fuelcombustion;""data.othersectors""",0.4672247958,
+2003,"data.bunkers;""""",0.069801958696,
+2003,"data.bunkers;""data.aviation""",0.001249442496,
+2003,"data.bunkers;""data.navigation""",0.06864365508,
+2004,";""""",0.873660853905,
+2004,"data.fuelcombustion;""""",0.794639788581,
+2004,"data.fuelcombustion;""data.energyindustries""",0.123183701805,
+2004,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.07415015961,
+2004,"data.fuelcombustion;""data.transportsector""",0.118573263096,
+2004,"data.fuelcombustion;""data.othersectors""",0.47873266407,
+2004,"data.bunkers;""""",0.079021065324,
+2004,"data.bunkers;""data.aviation""",0.001153302624,
+2004,"data.bunkers;""data.navigation""",0.0778677627,
+2005,";""""",0.861135956725,
+2005,"data.fuelcombustion;""""",0.792993759811,
+2005,"data.fuelcombustion;""data.energyindustries""",0.11261801682,
+2005,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.065982257355,
+2005,"data.fuelcombustion;""data.transportsector""",0.124653204136,
+2005,"data.fuelcombustion;""data.othersectors""",0.4897402815,
+2005,"data.bunkers;""""",0.068142196914,
+2005,"data.bunkers;""data.aviation""",0.001206296064,
+2005,"data.bunkers;""data.navigation""",0.06693590085,
+2006,";""""",0.8072381841,
+2006,"data.fuelcombustion;""""",0.77987341884,
+2006,"data.fuelcombustion;""data.energyindustries""",0.12235531907,
+2006,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.06029952882,
+2006,"data.fuelcombustion;""data.transportsector""",0.11974667788,
+2006,"data.fuelcombustion;""data.othersectors""",0.47747189307,
+2006,"data.bunkers;""""",0.02736476526,
+2006,"data.bunkers;""data.aviation""",0.00128650032,
+2006,"data.bunkers;""data.navigation""",0.02607826494,
+2007,";""""",0.830285483365,
+2007,"data.fuelcombustion;""""",0.806591333089,
+2007,"data.fuelcombustion;""data.energyindustries""",0.12891307682,
+2007,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.061171904745,
+2007,"data.fuelcombustion;""data.transportsector""",0.138906262514,
+2007,"data.fuelcombustion;""data.othersectors""",0.47760008901,
+2007,"data.bunkers;""""",0.023694150276,
+2007,"data.bunkers;""data.aviation""",0.001045737216,
+2007,"data.bunkers;""data.navigation""",0.02264841306,
+2008,";""""",0.761614112785,
+2008,"data.fuelcombustion;""""",0.739940645677,
+2008,"data.fuelcombustion;""data.energyindustries""",0.136896103115,
+2008,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.05620738158,
+2008,"data.fuelcombustion;""data.transportsector""",0.142791899042,
+2008,"data.fuelcombustion;""data.othersectors""",0.40404526194,
+2008,"data.bunkers;""""",0.021673467108,
+2008,"data.bunkers;""data.aviation""",0.000999433728,
+2008,"data.bunkers;""data.navigation""",0.02067403338,
+2009,";""""",0.83575398112,
+2009,"data.fuelcombustion;""""",0.77145324394,
+2009,"data.fuelcombustion;""data.energyindustries""",0.131608640235,
+2009,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.043329031035,
+2009,"data.fuelcombustion;""data.transportsector""",0.13761590422,
+2009,"data.fuelcombustion;""data.othersectors""",0.45889966845,
+2009,"data.bunkers;""""",0.06430073718,
+2009,"data.bunkers;""data.aviation""",0.000745416,
+2009,"data.bunkers;""data.navigation""",0.06355532118,
+2010,";""""",0.8835445323,
+2010,"data.fuelcombustion;""""",0.84746971989,
+2010,"data.fuelcombustion;""data.energyindustries""",0.16400114503,
+2010,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.04375500066,
+2010,"data.fuelcombustion;""data.transportsector""",0.13294381649,
+2010,"data.fuelcombustion;""data.othersectors""",0.50676975771,
+2010,"data.bunkers;""""",0.03607481241,
+2010,"data.bunkers;""data.aviation""",0.000773604,
+2010,"data.bunkers;""data.navigation""",0.03530120841,
+2011,";""""",0.77399522424,
+2011,"data.fuelcombustion;""""",0.73008170643,
+2011,"data.fuelcombustion;""data.energyindustries""",0.1333468026,
+2011,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.04339047174,
+2011,"data.fuelcombustion;""data.transportsector""",0.13661417121,
+2011,"data.fuelcombustion;""data.othersectors""",0.41673026088,
+2011,"data.bunkers;""""",0.04391351781,
+2011,"data.bunkers;""data.aviation""",0.001199556,
+2011,"data.bunkers;""data.navigation""",0.04271396181,
+2012,";""""",0.870822707815,
+2012,"data.fuelcombustion;""""",0.816465326155,
+2012,"data.fuelcombustion;""data.energyindustries""",0.148784378609,
+2012,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.048901583076,
+2012,"data.fuelcombustion;""data.transportsector""",0.13247992916,
+2012,"data.fuelcombustion;""data.othersectors""",0.48629943531,
+2012,"data.bunkers;""""",0.05435738166,
+2012,"data.bunkers;""data.aviation""",0.001293516,
+2012,"data.bunkers;""data.navigation""",0.05306386566,
+2013,";""""",0.808483916232,
+2013,"data.fuelcombustion;""""",0.788829216612,
+2013,"data.fuelcombustion;""data.energyindustries""",0.13659414299,
+2013,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.049824989682,
+2013,"data.fuelcombustion;""data.transportsector""",0.12495354328,
+2013,"data.fuelcombustion;""data.othersectors""",0.47745654066,
+2013,"data.bunkers;""""",0.01965469962,
+2013,"data.bunkers;""data.aviation""",0.001130652,
+2013,"data.bunkers;""data.navigation""",0.01852404762,
+2014,";""""",0.849716660636,
+2014,"data.fuelcombustion;""""",0.818944348526,
+2014,"data.fuelcombustion;""data.energyindustries""",0.12454809929,
+2014,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.060787479366,
+2014,"data.fuelcombustion;""data.transportsector""",0.12952569183,
+2014,"data.fuelcombustion;""data.othersectors""",0.50408307804,
+2014,"data.bunkers;""""",0.03077231211,
+2014,"data.bunkers;""data.aviation""",0.000836244,
+2014,"data.bunkers;""data.navigation""",0.02993606811,
+2015,";""""",0.806052373556,
+2015,"data.fuelcombustion;""""",0.788962581566,
+2015,"data.fuelcombustion;""data.energyindustries""",0.102133592949,
+2015,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.063252240597,
+2015,"data.fuelcombustion;""data.transportsector""",0.12740415497,
+2015,"data.fuelcombustion;""data.othersectors""",0.49617259305,
+2015,"data.bunkers;""""",0.01708979199,
+2015,"data.bunkers;""data.aviation""",0.000441612,
+2015,"data.bunkers;""data.navigation""",0.01664817999,
+2016,";""""",0.83605807704,
+2016,"data.fuelcombustion;""""",0.787743280707,
+2016,"data.fuelcombustion;""data.energyindustries""",0.125549164776,
+2016,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.064846592931,
+2016,"data.fuelcombustion;""data.transportsector""",0.1473393891,
+2016,"data.fuelcombustion;""data.othersectors""",0.4500081339,
+2016,"data.bunkers;""""",0.048314796333,
+2016,"data.bunkers;""data.aviation""",0.000726624,
+2016,"data.bunkers;""data.navigation""",0.047588172333,
+2017,";""""",1.001444353881,
+2017,"data.fuelcombustion;""""",0.949482067611,
+2017,"data.fuelcombustion;""data.energyindustries""",0.1243864284385,
+2017,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.0856012244325,
+2017,"data.fuelcombustion;""data.transportsector""",0.15024302162,
+2017,"data.fuelcombustion;""data.othersectors""",0.58925139312,
+2017,"data.bunkers;""""",0.05196228627,
+2017,"data.bunkers;""data.aviation""",0.000645192,
+2017,"data.bunkers;""data.navigation""",0.05131709427,
+2018,";""""",1.107306905731,
+2018,"data.fuelcombustion;""""",1.045891919731,
+2018,"data.fuelcombustion;""data.energyindustries""",0.136632088308,
+2018,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.081812712693,
+2018,"data.fuelcombustion;""data.transportsector""",0.15927373909,
+2018,"data.fuelcombustion;""data.othersectors""",0.66817337964,
+2018,"data.bunkers;""""",0.061414986,
+2018,"data.bunkers;""data.aviation""",0.000786132,
+2018,"data.bunkers;""data.navigation""",0.060628854,
+2019,";""""",1.132443546626,
+2019,"data.fuelcombustion;""""",1.088968975166,
+2019,"data.fuelcombustion;""data.energyindustries""",0.175797183088,
+2019,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.079782782148,
+2019,"data.fuelcombustion;""data.transportsector""",0.168582067,
+2019,"data.fuelcombustion;""data.othersectors""",0.66480694293,
+2019,"data.bunkers;""""",0.04347457146,
+2019,"data.bunkers;""data.aviation""",0.000757944,
+2019,"data.bunkers;""data.navigation""",0.04271662746,
+2020,";""""",1.1896239732705,
+2020,"data.fuelcombustion;""""",1.1279217339405,
+2020,"data.fuelcombustion;""data.energyindustries""",0.1855299820295,
+2020,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.085318415931,
+2020,"data.fuelcombustion;""data.transportsector""",0.16794943687,
+2020,"data.fuelcombustion;""data.othersectors""",0.68912389911,
+2020,"data.bunkers;""""",0.06170223933,
+2020,"data.bunkers;""data.aviation""",0.000216108,
+2020,"data.bunkers;""data.navigation""",0.06148613133,
+2021,";""""",1.211718906745,
+2021,"data.fuelcombustion;""""",1.130188369615,
+2021,"data.fuelcombustion;""data.energyindustries""",0.1928290093225,
+2021,"data.fuelcombustion;""data.manufacturingindustriesandconstruction""",0.0675467873025,
+2021,"data.fuelcombustion;""data.transportsector""",0.17080696137,
+2021,"data.fuelcombustion;""data.othersectors""",0.69900561162,
+2021,"data.bunkers;""""",0.08153053713,
+2021,"data.bunkers;""data.aviation""",0.000416556,
+2021,"data.bunkers;""data.navigation""",0.08111398113,
