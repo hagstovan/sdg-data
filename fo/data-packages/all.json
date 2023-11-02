@@ -1480,17 +1480,17 @@
             "title": "Ár"
           },
           {
-            "name": "Series",
+            "name": "data.measure",
             "type": "string",
             "constraints": {
               "enum": [
                 "Blaðgrøni-a grundfrávik, fjarmáting (%)",
-                "Blaðgrøni-a mánaðarligt frávik, fjarmáting (%)",
+                "data.chlorophyll-aanomalyremotesensing",
                 "Taðevni í Skopunarfirði, frávik frá miðalvirði (%)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Mát"
           },
           {
             "name": "data.frequencyofchlorophyll-aconcentration",
@@ -1499,23 +1499,11 @@
               "enum": [
                 "Stórur títtleiki",
                 "Nakað av títtleika",
+                "Sera stórur títtleiki",
                 ""
               ]
             },
             "title": "Títtleiki av blaðgrøna-a vøkstri"
-          },
-          {
-            "name": "data.nutrient",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nitrat",
-                "Silikat",
-                "Fosfat",
-                ""
-              ]
-            },
-            "title": "Taðevni"
           },
           {
             "name": "Value",

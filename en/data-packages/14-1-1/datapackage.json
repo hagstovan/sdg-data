@@ -16,17 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "data.measure",
             "type": "string",
             "constraints": {
               "enum": [
                 "Chlorophyll-a deviations, remote sensing (%)",
-                "Chlorophyll-a anomaly, remote sensing (%)",
+                "data.chlorophyll-aanomalyremotesensing",
                 "Nutrients in Skopun (coastal waters), deviation from mean (%)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Measure"
           },
           {
             "name": "data.frequencyofchlorophyll-aconcentration",
@@ -35,23 +35,11 @@
               "enum": [
                 "High frequency",
                 "Moderate frequency",
+                "Extreme frequency",
                 ""
               ]
             },
             "title": "Frequency of Chlorophyll-a concentration"
-          },
-          {
-            "name": "data.nutrient",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nitrogen",
-                "Silica",
-                "Prosphate",
-                ""
-              ]
-            },
-            "title": "Nutrient"
           },
           {
             "name": "Value",
