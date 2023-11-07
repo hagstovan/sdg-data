@@ -13,7 +13,7 @@ Year,Measure,Type of product,Value
 2001,"Average tariff applied by developed countries, preferential status, by type of product (%)",,
 2002,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",,
 2002,"Average tariff applied by developed countries, preferential status, by type of product (%)",,
-2003,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",,
+2003,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",,a
 2003,"Average tariff applied by developed countries, preferential status, by type of product (%)",,
 2004,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",,
 2004,"Average tariff applied by developed countries, preferential status, by type of product (%)",,
@@ -129,3 +129,29 @@ Year,Measure,Type of product,Value
 2019,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Agricultural products,7.86063
 2019,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Industrial products,3.27275
 2019,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Clothing,12.06698
+2019,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Textiles,7.51676
+2019,"Average tariff applied by developed countries, preferential status, by type of product (%)",Total,2.0788
+2019,"Average tariff applied by developed countries, preferential status, by type of product (%)",Agricultural products,7.45184
+2019,"Average tariff applied by developed countries, preferential status, by type of product (%)",Industrial products,1.86288
+2019,"Average tariff applied by developed countries, preferential status, by type of product (%)",Clothing,8.23943
+2019,"Average tariff applied by developed countries, preferential status, by type of product (%)",Textiles,3.96339
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Total,3.61779
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Agricultural products,7.90485
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Industrial products,3.43681
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Clothing,12.0621
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Textiles,7.50734
+2020,"Average tariff applied by developed countries, preferential status, by type of product (%)",Total,2.12326
+2020,"Average tariff applied by developed countries, preferential status, by type of product (%)",Agricultural products,7.44748
+2020,"Average tariff applied by developed countries, preferential status, by type of product (%)",Industrial products,1.90099
+2020,"Average tariff applied by developed countries, preferential status, by type of product (%)",Clothing,8.23943
+2020,"Average tariff applied by developed countries, preferential status, by type of product (%)",Textiles,3.96339
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Total,3.60495
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Agricultural products,7.72066
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Industrial products,3.42736
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Clothing,12.06696
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",Textiles,7.50799
+2021,"Average tariff applied by developed countries, preferential status, by type of product (%)",Total,2.12522
+2021,"Average tariff applied by developed countries, preferential status, by type of product (%)",Agricultural products,7.26329
+2021,"Average tariff applied by developed countries, preferential status, by type of product (%)",Industrial products,1.90874
+2021,"Average tariff applied by developed countries, preferential status, by type of product (%)",Clothing,8.23941
+2021,"Average tariff applied by developed countries, preferential status, by type of product (%)",Textiles,3.96394
