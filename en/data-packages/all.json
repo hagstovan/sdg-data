@@ -1485,7 +1485,7 @@
             "constraints": {
               "enum": [
                 "Chlorophyll-a deviations, remote sensing (%)",
-                "data.chlorophyll-aanomalyremotesensing",
+                "Chlorophyll-a anomaly, remote sensing (%)",
                 "Nutrients in Skopun (coastal waters), deviation from mean (%)",
                 ""
               ]
