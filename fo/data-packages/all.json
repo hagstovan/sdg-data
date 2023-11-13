@@ -1480,7 +1480,7 @@
             "title": "Ár"
           },
           {
-            "name": "data.measure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1490,7 +1490,7 @@
                 ""
               ]
             },
-            "title": "Mát"
+            "title": "Series"
           },
           {
             "name": "data.frequencyofchlorophyll-aconcentration",
@@ -1504,6 +1504,19 @@
               ]
             },
             "title": "Títtleiki av blaðgrøna-a vøkstri"
+          },
+          {
+            "name": "data.nutrient",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nitrat",
+                "Silikat",
+                "Fosfat",
+                ""
+              ]
+            },
+            "title": "Taðevni"
           },
           {
             "name": "Value",

@@ -1366,7 +1366,7 @@
             "type": "integer"
           },
           {
-            "name": "data.measure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1385,6 +1385,18 @@
                 "data.highfrequency",
                 "data.moderatefrequency",
                 "data.extremefrequency",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.nutrient",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.nitrogen",
+                "data.silica",
+                "data.phosphate",
                 ""
               ]
             }

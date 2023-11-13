@@ -11,8 +11,6 @@ data.bankcapitaltoassetsratio,1,1
 data.banknonperformingloans,1,1
 data.broadmoney,1,1
 data.cashsurplusdeficit,1,1
-data.chlorophyll-aanomalyremotesensing,3,1
-data.chlorophyll-adeviationsremotesensing,1,1
 data.currentaccountbalance,1,1
 data.debtservice,1,1
 data.DECalternativeconversionfactor,1,1
@@ -29,7 +27,6 @@ data.officialdevelopmentassistanceforscholarships,1,1
 data.personalremittances,1,1
 data.portfolioinvestment,1,1
 data.reservesinmonthsofimports,1,1
-data.skopunnutrients,1,1
 data.taxrevenuegdp,1,1
 data.tm_tax_dmfn,6,1
 data.tm_tax_dprf,6,1

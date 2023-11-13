@@ -1480,7 +1480,7 @@
             "title": "Year"
           },
           {
-            "name": "data.measure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1490,7 +1490,7 @@
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "Series"
           },
           {
             "name": "data.frequencyofchlorophyll-aconcentration",
@@ -1504,6 +1504,19 @@
               ]
             },
             "title": "Frequency of Chlorophyll-a concentration"
+          },
+          {
+            "name": "data.nutrient",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nitrogen",
+                "Silica",
+                "Prosphate",
+                ""
+              ]
+            },
+            "title": "Nutrient"
           },
           {
             "name": "Value",
