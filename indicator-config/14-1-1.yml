@@ -14,6 +14,8 @@ data_start_values:
     value: data.highfrequency
   - field: data.frequencyofchlorophyll-aconcentration
     value: data.moderatefrequency
+  - field: data.frequencyofchlorophyll-aconcentration
+    value: data.extremefrequency
   - field: data.nutrient
     value: data.nitrogen
   - field: data.nutrient
