@@ -1165,129 +1165,6 @@
       "title": "Developing countries’ and least developed countries’ share of global exports"
     },
     {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Parliament",
-                "Local governments",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of seats held by women",
-                "Seats held by women",
-                "Number og seats",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "data.party-municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All parties",
-                "Conservative Party",
-                "The Progress Party",
-                "Progress",
-                "Social Democratic Party",
-                "Christian Party",
-                "The Centre Party",
-                "Unionist Party",
-                "Independence Party",
-                "Republican Party",
-                "Workers´ Movement",
-                "All municipalities",
-                "Argja municipality",
-                "Bíggjar municipality",
-                "Eiðis municipality",
-                "Elduvíkar municipality",
-                "Eysturmunicipality",
-                "Fámjins municipality",
-                "Fuglafjarðar municipality",
-                "Fugloyar municipality",
-                "Funnings municipality",
-                "Gjáar municipality",
-                "Gøtu municipality",
-                "Haldórsvíkar municipality",
-                "Hests municipality",
-                "Hósvíkar municipality",
-                "Hovs municipality",
-                "Húsa municipality",
-                "Húsavíkar municipality",
-                "Hvalbiar municipality",
-                "Hvalvíkar municipality",
-                "Hvannasunds municipality",
-                "Kirkjubøar municipality",
-                "Klaksvíkar municipality",
-                "Kollafjarðar municipality",
-                "Kunoyar municipality",
-                "Kvívíkar municipality",
-                "Leirvíkar municipality",
-                "Miðvágs municipality",
-                "Mikladals municipality",
-                "Mykines municipality",
-                "Nes municipality",
-                "Nólsoyar municipality",
-                "Oyndarfjarðar municipality",
-                "Porkeris municipality",
-                "Runavíkar municipality",
-                "Saksunar municipality",
-                "Sandavágs municipality",
-                "Sands municipality",
-                "Sjóvar municipality",
-                "Skála municipality",
-                "Skálavíkar municipality",
-                "Skopunar municipality",
-                "Skúgvoyar municipality",
-                "Sørvágs municipality",
-                "Sumbiar municipality",
-                "Sunda municipality",
-                "Svínoyar municipality",
-                "Tórshavnar municipality",
-                "Tvøroyrar municipality",
-                "Vága municipality",
-                "Vágs municipality",
-                "Vestmanna municipality",
-                "Viðareiðis municipality",
-                ""
-              ]
-            },
-            "title": "Party/Municipality"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
-    },
-    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -6909,6 +6786,30 @@
         ]
       },
       "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     }
   ]
 }

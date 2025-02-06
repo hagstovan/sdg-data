@@ -1073,124 +1073,6 @@
       "title": "Developing countries’ and least developed countries’ share of global exports"
     },
     {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.parliament",
-                "data.municipalities",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.womenseats-proportion",
-                "data.womenseats-number",
-                "data.seats-number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.party-municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.all-parties",
-                "data.conservativeparty",
-                "data.theprogressparty",
-                "data.progress",
-                "data.socialdemocraticparty",
-                "data.christianparty",
-                "data.thecentreparty",
-                "data.unionistparty",
-                "data.independenceparty",
-                "data.republicanparty",
-                "data.workersmovement",
-                "data.all-municipalities",
-                "data.argjamunicipality",
-                "data.biggjarmunicipality",
-                "data.eidismunicipality",
-                "data.elduvikarmunicipality",
-                "data.eysturmunicipality",
-                "data.famjinsmunicipality",
-                "data.fuglafjardarmunicipality",
-                "data.fugloyarmunicipality",
-                "data.funningsmunicipality",
-                "data.gjaarmunicipality",
-                "data.gotumunicipality",
-                "data.haldorsvikarmunicipality",
-                "data.hestsmunicipality",
-                "data.hosvikarmunicipality",
-                "data.hovsmunicipality",
-                "data.husamunicipality",
-                "data.husavikarmunicipality",
-                "data.hvalbiarmunicipality",
-                "data.hvalvikarmunicipality",
-                "data.hvannasundsmunicipality",
-                "data.kirkjuboarmunicipality",
-                "data.klaksvikarmunicipality",
-                "data.kollafjardarmunicipality",
-                "data.kunoyarmunicipality",
-                "data.kvivikarmunicipality",
-                "data.leirvikarmunicipality",
-                "data.midvagsmunicipality",
-                "data.mikladalsmunicipality",
-                "data.mykinesmunicipality",
-                "data.nesmunicipality",
-                "data.nolsoyarmunicipality",
-                "data.oyndarfjardarmunicipality",
-                "data.porkerismunicipality",
-                "data.runavikarmunicipality",
-                "data.saksunarmunicipality",
-                "data.sandavagsmunicipality",
-                "data.sandsmunicipality",
-                "data.sjovarmunicipality",
-                "data.skalamunicipality",
-                "data.skalavikarmunicipality",
-                "data.skopunarmunicipality",
-                "data.skugvoyarmunicipality",
-                "data.sorvagsmunicipality",
-                "data.sumbiarmunicipality",
-                "data.sundamunicipality",
-                "data.svinoyarmunicipality",
-                "data.torshavnarmunicipality",
-                "data.tvoroyrarmunicipality",
-                "data.vagamunicipality",
-                "data.vagsmunicipality",
-                "data.vestmannamunicipality",
-                "data.vidareidismunicipality",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
-    },
-    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -6345,6 +6227,28 @@
         ]
       },
       "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     }
   ]
 }
