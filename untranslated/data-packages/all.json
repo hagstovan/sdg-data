@@ -54,31 +54,6 @@
             }
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.male",
-                "data.female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "00-17years",
-                "18-24years",
-                "25-54years",
-                "55-66years",
-                "67years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

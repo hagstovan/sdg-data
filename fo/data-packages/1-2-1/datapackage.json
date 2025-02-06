@@ -20,20 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_POV_NAHC",
+                "Patur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "mát"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "TOT",
-                "M",
-                "F",
+                "Bæði kyn",
+                "Menn",
+                "Kvinnur",
                 ""
               ]
             },
@@ -44,37 +44,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
-                "Y0-17",
-                "Y18-24",
-                "Y25-54",
-                "Y55-66",
-                "Y_GE67",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "Tils. (aldur)",
                 "00-17 ár",
                 "18-24 ár",
-                "25-54years",
+                "25-54 ár",
                 "55-66 ár",
                 "67+ ár",
                 ""

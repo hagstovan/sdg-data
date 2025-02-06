@@ -22,20 +22,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_POV_NAHC",
+                "Proportion of population living below the national poverty line",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "measure"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "TOT",
-                "M",
-                "F",
+                "Total (sex)",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -46,34 +46,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
-                "Y0-17",
-                "Y18-24",
-                "Y25-54",
-                "Y55-66",
-                "Y_GE67",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "Total (age)",
                 "00-17 years",
                 "18-24 years",
                 "25-54 years",
@@ -581,7 +554,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "measure"
           },
           {
             "name": "data.frequencyofchlorophyll-aconcentration",
@@ -1216,7 +1189,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "measure"
           },
           {
             "name": "Units",
@@ -1718,7 +1691,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "measure"
           },
           {
             "name": "data.publicprivate",
