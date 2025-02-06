@@ -40,6 +40,8 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
+  - class: InputPxFile
+    indicator_id_map: indicator_id_map.yml
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
