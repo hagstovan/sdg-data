@@ -82,6 +82,8 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  - class: TranslationInputPx
+    indicator_id_map: indicator_id_map.yml
 
 # Reporting status extra fields
 # -----------------------------
