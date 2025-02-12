@@ -42,6 +42,7 @@ src_dir: ''
 inputs:
   - class: InputPxFile
     indicator_id_map: indicator_id_map.yml
+    code_map: code_map.csv
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
