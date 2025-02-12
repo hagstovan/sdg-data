@@ -1,4 +1,4 @@
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/open-sdg/sdg-build@pxweb-support-revamp
+git+https://github.com/open-sdg/sdg-build@d5f20cf5b923fdde010b9afe1f73d89cf1284c73
 frictionless==4.40.8
 pydantic==1.*
