@@ -166,7 +166,7 @@
             "title": "Party"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -920,7 +920,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.bandwidth",
@@ -1010,7 +1010,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.measure",
@@ -1106,7 +1106,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.importexport",
@@ -1398,7 +1398,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.materialtype",
@@ -1557,7 +1557,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.materialtype",
@@ -2255,7 +2255,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.outcome",
@@ -2477,7 +2477,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.wastemanagement",
@@ -2527,7 +2527,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "eind"
           },
           {
             "name": "data.occupation",
