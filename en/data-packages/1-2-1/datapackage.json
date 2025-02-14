@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total (sex)",
                 "Males",
                 "Females",
                 ""
@@ -44,7 +43,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total (age)",
                 "00-17 years",
                 "18-24 years",
                 "25-54 years",

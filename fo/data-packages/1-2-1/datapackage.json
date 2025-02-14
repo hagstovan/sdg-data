@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bæði kyn",
                 "Menn",
                 "Kvinnur",
                 ""
@@ -44,7 +43,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tils. (aldur)",
                 "00-17 ár",
                 "18-24 ár",
                 "25-54 ár",

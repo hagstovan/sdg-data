@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOT",
                 "M",
                 "F",
                 ""
@@ -41,7 +40,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
                 "Y0-17",
                 "Y18-24",
                 "Y25-54",
