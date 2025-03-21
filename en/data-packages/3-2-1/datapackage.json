@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In number",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate 0-4 years per 1,000 live births",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

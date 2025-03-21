@@ -54,6 +54,17 @@
             "title": "Age"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

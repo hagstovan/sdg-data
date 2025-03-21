@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Patur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",
+                "Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",
                 ""
               ]
             },
@@ -52,6 +52,17 @@
               ]
             },
             "title": "Aldur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",

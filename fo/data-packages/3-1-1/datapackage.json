@@ -16,6 +16,28 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Møður deyðar í barnferð",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
