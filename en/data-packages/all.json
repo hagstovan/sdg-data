@@ -703,129 +703,6 @@
       "title": "Health worker density and distribution"
     },
     {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National parliament",
-                "Local goverment",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "party",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All parties",
-                "Conservative Party",
-                "Progress Party",
-                "Onward Party",
-                "Social Democratic Party",
-                "Christian Party",
-                "The Centre Party",
-                "Unionist Party",
-                "Workers´ Movement",
-                "Republican Party",
-                "Verkamannafylkingin",
-                "All municipalities",
-                "Argja municipality",
-                "Bíggjar municipality",
-                "Eiðis municipality",
-                "Elduvíkar municipality",
-                "Eystur municipality",
-                "Fámjins municipality",
-                "Fuglafjarðar municipality",
-                "Fugloyar municipality",
-                "Funnings municipality",
-                "Gjáar municipality",
-                "Gøtu municipality",
-                "Haldórsvíkar municipality",
-                "Hests municipality",
-                "Hósvíkar municipality",
-                "Hovs municipality",
-                "Húsa municipality",
-                "Húsavíkar municipality",
-                "Hvalbiar municipality",
-                "Hvalvíkar municipality",
-                "Hvannasunds municipality",
-                "Kirkjubøar municipality",
-                "Klaksvíkar municipality",
-                "Kollafjarðar municipality",
-                "Kunoyar municipality",
-                "Kvívíkar municipality",
-                "Leirvíkar municipality",
-                "Miðvágs municipality",
-                "Mikladals municipality",
-                "Mykines municipality",
-                "Nes municipality",
-                "Nólsoyar municipality",
-                "Oyndarfjarðar municipality",
-                "Porkeris municipality",
-                "Runavíkar municipality",
-                "Saksunar municipality",
-                "Sandavágs municipality",
-                "Sands municipality",
-                "Sjóvar municipality",
-                "Skála municipality",
-                "Skálavíkar municipality",
-                "Skopunar municipality",
-                "Skúvoyar municipality",
-                "Sørvágs municipality",
-                "Sumbiar municipality",
-                "Sunda municipality",
-                "Svínoyar municipality",
-                "Tórshavnar municipality",
-                "Tvøroyrar municipality",
-                "Vága municipality",
-                "Vágs municipality",
-                "Vestmanna municipality",
-                "Viðareiðis municipality",
-                ""
-              ]
-            },
-            "title": "party"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of seats held by women",
-                "Seats held by women",
-                "Number of seats",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
-    },
-    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -4469,6 +4346,30 @@
         ]
       },
       "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
       "path": "3-5-1/data.csv",
