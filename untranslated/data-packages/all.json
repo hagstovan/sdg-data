@@ -644,6 +644,159 @@
       "title": "Health worker density and distribution"
     },
     {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TOT_CPLR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED_1",
+                "ISCED_2",
+                "ISCED_3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.primaryeducation",
+                "data.lowersecondaryeducation",
+                "data.uppersecondaryeducation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.male",
+                "data.female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_PRE_PARTN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.male",
+                "data.female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+    },
+    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -1628,51 +1781,6 @@
       "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "data.education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.primaryeducation",
-                "data.lowersecondaryeducation",
-                "data.uppersecondaryeducation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.male",
-                "data.female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
-    },
-    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -2140,39 +2248,6 @@
         ]
       },
       "title": "Developing countries’ and least developed countries’ share of global exports"
-    },
-    {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.male",
-                "data.female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "16-6-1/data.csv",

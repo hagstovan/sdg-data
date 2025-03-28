@@ -33,8 +33,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menn",
-                "Kvinnur",
+                "Dreingir",
+                "Gentur",
                 ""
               ]
             },
@@ -255,8 +255,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menn",
-                "Kvinnur",
+                "Dreingir",
+                "Gentur",
                 ""
               ]
             },
@@ -597,8 +597,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menn",
-                "Kvinnur",
+                "Dreingir",
+                "Gentur",
                 ""
               ]
             },
@@ -701,6 +701,173 @@
         ]
       },
       "title": "Health worker density and distribution"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prosentpartur við loknari útbúgving 3-5 ár aftan á vanliga aldurin við lidna útbúgving",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barnaskúlin 1. - 7. flokk",
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Miðnáms- ella yrkisútbúgving",
+                ""
+              ]
+            },
+            "title": "Útbúgving"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bæði kyn",
+                "Dreingir",
+                "Gentur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "data.education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barnaskúlin 1. - 7. flokk",
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Miðnáms- ella yrkisútbúgving",
+                ""
+              ]
+            },
+            "title": "Útbúgving"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dreingir",
+                "Gentur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "5-3-1/data.csv",
@@ -1773,55 +1940,6 @@
       "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Barnaskúlin 1. - 7. flokk",
-                "Framhaldsskúlin 8. - 10. flokk",
-                "Miðnáms- ella yrkisútbúgving",
-                ""
-              ]
-            },
-            "title": "Útbúgving"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
-    },
-    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -2330,42 +2448,6 @@
         ]
       },
       "title": "Developing countries’ and least developed countries’ share of global exports"
-    },
-    {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "16-6-1/data.csv",

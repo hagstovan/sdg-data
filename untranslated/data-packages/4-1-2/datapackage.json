@@ -15,6 +15,50 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TOT_CPLR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED_1",
+                "ISCED_2",
+                "ISCED_3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.education",
             "type": "string",
             "constraints": {

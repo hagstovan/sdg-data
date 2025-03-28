@@ -26,8 +26,9 @@ data.technology,1,2
 data.typeofproduct,1,5
 data.wastemanagement,1,4
 disease,1,5
+Education,1,3
 essentialservice,1,3
 occupation,1,4
-sex,3,2
+sex,5,3
 source,1,6
 unit,2,1

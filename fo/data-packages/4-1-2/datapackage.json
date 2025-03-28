@@ -16,6 +16,54 @@
             "title": "Ár"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prosentpartur við loknari útbúgving 3-5 ár aftan á vanliga aldurin við lidna útbúgving",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barnaskúlin 1. - 7. flokk",
+                "Framhaldsskúlin 8. - 10. flokk",
+                "Miðnáms- ella yrkisútbúgving",
+                ""
+              ]
+            },
+            "title": "Útbúgving"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bæði kyn",
+                "Dreingir",
+                "Gentur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
             "name": "data.education",
             "type": "string",
             "constraints": {

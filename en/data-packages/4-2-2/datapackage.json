@@ -16,6 +16,40 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Participation rate in organized learning for 6 year olds",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boys",
+                "Girls",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "data.sex",
             "type": "string",
             "constraints": {

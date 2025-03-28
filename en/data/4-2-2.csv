@@ -1,22 +1,40 @@
-Year,Sex,Value
-2015,,100.5
-2015,Males,97.7
-2015,Females,103.7
-2016,,89.5
-2016,Males,87.9
-2016,Females,91.2
-2017,,102.6
-2017,Males,108.6
-2017,Females,96.5
-2018,,
-2018,Males,
-2018,Females,
-2019,,96.3
-2019,Males,92.6
-2019,Females,100.3
-2020,,95.4
-2020,Males,98.9
-2020,Females,91.8
-2021,,96.9
-2021,Males,93.4
-2021,Females,100.5
+Year,Units,Series,sex,Sex,Value
+2015,pct.,Participation rate in organized learning for 6 year olds,,,92.571428571429
+2015,pct.,Participation rate in organized learning for 6 year olds,Boys,,92.91553133515
+2015,pct.,Participation rate in organized learning for 6 year olds,Girls,,92.192192192192
+2016,pct.,Participation rate in organized learning for 6 year olds,,,93.082706766917
+2016,pct.,Participation rate in organized learning for 6 year olds,Boys,,91.168091168091
+2016,pct.,Participation rate in organized learning for 6 year olds,Girls,,95.222929936306
+2017,pct.,Participation rate in organized learning for 6 year olds,,,101.144492131617
+2017,pct.,Participation rate in organized learning for 6 year olds,Boys,,106.779661016949
+2017,pct.,Participation rate in organized learning for 6 year olds,Girls,,95.36231884058
+2019,pct.,Participation rate in organized learning for 6 year olds,,,99.572039942939
+2019,pct.,Participation rate in organized learning for 6 year olds,Boys,,95.135135135135
+2019,pct.,Participation rate in organized learning for 6 year olds,Girls,,104.531722054381
+2020,pct.,Participation rate in organized learning for 6 year olds,,,96.148555708391
+2020,pct.,Participation rate in organized learning for 6 year olds,Boys,,95.800524934383
+2020,pct.,Participation rate in organized learning for 6 year olds,Girls,,96.531791907514
+2021,pct.,Participation rate in organized learning for 6 year olds,,,99.588477366255
+2021,pct.,Participation rate in organized learning for 6 year olds,Boys,,96.961325966851
+2021,pct.,Participation rate in organized learning for 6 year olds,Girls,,102.179836512262
+2015,,,,,100.5
+2015,,,,Males,97.7
+2015,,,,Females,103.7
+2016,,,,,89.5
+2016,,,,Males,87.9
+2016,,,,Females,91.2
+2017,,,,,102.6
+2017,,,,Males,108.6
+2017,,,,Females,96.5
+2018,,,,,
+2018,,,,Males,
+2018,,,,Females,
+2019,,,,,96.3
+2019,,,,Males,92.6
+2019,,,,Females,100.3
+2020,,,,,95.4
+2020,,,,Males,98.9
+2020,,,,Females,91.8
+2021,,,,,96.9
+2021,,,,Males,93.4
+2021,,,,Females,100.5
