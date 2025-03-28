@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DKK 1,000",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance for scholarships",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {
