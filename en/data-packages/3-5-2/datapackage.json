@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "litres",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alcohol per capita consumption (aged 15 and older)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -1,31 +1,61 @@
-Year,Value
-1993,6.3
-1994,6.3
-1995,6.3
-1996,6.7
-1997,6.6
-1998,6.6
-1999,6.6
-2000,6.8
-2001,7.0
-2002,7.1
-2003,7.0
-2004,6.8
-2005,6.6
-2006,6.9
-2007,7.2
-2008,7.0
-2009,6.9
-2010,6.7
-2011,6.4
-2012,6.6
-2013,6.3
-2014,6.3
-2015,6.4
-2016,6.3
-2017,6.5
-2018,6.4
-2019,6.4
-2020,6.5
-2021,6.7
-2022,6.5
+Year,Units,Series,Value
+1993,litres,Alcohol per capita consumption (aged 15 and older),6.3
+1994,litres,Alcohol per capita consumption (aged 15 and older),6.3
+1995,litres,Alcohol per capita consumption (aged 15 and older),6.3
+1996,litres,Alcohol per capita consumption (aged 15 and older),6.7
+1997,litres,Alcohol per capita consumption (aged 15 and older),6.6
+1998,litres,Alcohol per capita consumption (aged 15 and older),6.6
+1999,litres,Alcohol per capita consumption (aged 15 and older),6.6
+2000,litres,Alcohol per capita consumption (aged 15 and older),6.8
+2001,litres,Alcohol per capita consumption (aged 15 and older),7.0
+2002,litres,Alcohol per capita consumption (aged 15 and older),7.1
+2003,litres,Alcohol per capita consumption (aged 15 and older),7.0
+2004,litres,Alcohol per capita consumption (aged 15 and older),6.8
+2005,litres,Alcohol per capita consumption (aged 15 and older),6.6
+2006,litres,Alcohol per capita consumption (aged 15 and older),6.9
+2007,litres,Alcohol per capita consumption (aged 15 and older),7.2
+2008,litres,Alcohol per capita consumption (aged 15 and older),7.0
+2009,litres,Alcohol per capita consumption (aged 15 and older),6.9
+2010,litres,Alcohol per capita consumption (aged 15 and older),6.7
+2011,litres,Alcohol per capita consumption (aged 15 and older),6.4
+2012,litres,Alcohol per capita consumption (aged 15 and older),6.6
+2013,litres,Alcohol per capita consumption (aged 15 and older),6.3
+2014,litres,Alcohol per capita consumption (aged 15 and older),6.3
+2015,litres,Alcohol per capita consumption (aged 15 and older),6.4
+2016,litres,Alcohol per capita consumption (aged 15 and older),6.3
+2017,litres,Alcohol per capita consumption (aged 15 and older),6.5
+2018,litres,Alcohol per capita consumption (aged 15 and older),6.4
+2019,litres,Alcohol per capita consumption (aged 15 and older),6.4
+2020,litres,Alcohol per capita consumption (aged 15 and older),6.5
+2021,litres,Alcohol per capita consumption (aged 15 and older),6.7
+2022,litres,Alcohol per capita consumption (aged 15 and older),6.5
+1993,,,6.3
+1994,,,6.3
+1995,,,6.3
+1996,,,6.7
+1997,,,6.6
+1998,,,6.6
+1999,,,6.6
+2000,,,6.8
+2001,,,7.0
+2002,,,7.1
+2003,,,7.0
+2004,,,6.8
+2005,,,6.6
+2006,,,6.9
+2007,,,7.2
+2008,,,7.0
+2009,,,6.9
+2010,,,6.7
+2011,,,6.4
+2012,,,6.6
+2013,,,6.3
+2014,,,6.3
+2015,,,6.4
+2016,,,6.3
+2017,,,6.5
+2018,,,6.4
+2019,,,6.4
+2020,,,6.5
+2021,,,6.7
+2022,,,6.5

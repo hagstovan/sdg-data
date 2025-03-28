@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In number",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries per 100,000 population",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -16,6 +16,29 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Føðitíttleiki í móðuraldursbólkinum 15-19 ár",
+                "Føðitíttleikin í móðuraldursbólkinum 10-14 ár",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "data.age",
             "type": "string",
             "constraints": {

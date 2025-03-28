@@ -16,6 +16,28 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "litrar",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rúsdrekkanýtsla fyri hvørt fólk eldri enn 15 ár",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

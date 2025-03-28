@@ -1,61 +1,115 @@
-Year,Sex,Value
-2003,,41
-2003,Males,..
-2003,Females,..
-2004,,36
-2004,Males,..
-2004,Females,..
-2005,,32
-2005,Males,..
-2005,Females,..
-2006,,33
-2006,Males,31
-2006,Females,34
-2007,,28
-2007,Males,26
-2007,Females,31
-2008,,33
-2008,Males,37
-2008,Females,28
-2009,,34
-2009,Males,36
-2009,Females,32
-2010,,27
-2010,Males,25
-2010,Females,29
-2011,,34
-2011,Males,36
-2011,Females,32
-2012,,29
-2012,Males,28
-2012,Females,31
-2013,,33
-2013,Males,33
-2013,Females,32
-2014,,27
-2014,Males,30
-2014,Females,23
-2015,,27
-2015,Males,26
-2015,Females,29
-2016,,34
-2016,Males,38
-2016,Females,29
-2017,,27
-2017,Males,27
-2017,Females,26
-2018,,26
-2018,Males,29
-2018,Females,21
-2019,,29
-2019,Males,30
-2019,Females,28
-2020,,31
-2020,Males,33
-2020,Females,28
-2021,,26
-2021,Males,28
-2021,Females,24
-2022,,27
-2022,Males,29
-2022,Females,25
+Year,Units,Series,sex,Sex,Value
+2003,pct.,Tobacco use,,,41.0
+2004,pct.,Tobacco use,,,36.0
+2005,pct.,Tobacco use,,,32.0
+2006,pct.,Tobacco use,,,33.0
+2006,pct.,Tobacco use,Males,,31.0
+2006,pct.,Tobacco use,Females,,34.0
+2007,pct.,Tobacco use,,,28.0
+2007,pct.,Tobacco use,Males,,26.0
+2007,pct.,Tobacco use,Females,,31.0
+2008,pct.,Tobacco use,,,33.0
+2008,pct.,Tobacco use,Males,,37.0
+2008,pct.,Tobacco use,Females,,28.0
+2009,pct.,Tobacco use,,,34.0
+2009,pct.,Tobacco use,Males,,36.0
+2009,pct.,Tobacco use,Females,,32.0
+2010,pct.,Tobacco use,,,27.0
+2010,pct.,Tobacco use,Males,,25.0
+2010,pct.,Tobacco use,Females,,29.0
+2011,pct.,Tobacco use,,,34.0
+2011,pct.,Tobacco use,Males,,36.0
+2011,pct.,Tobacco use,Females,,32.0
+2012,pct.,Tobacco use,,,29.0
+2012,pct.,Tobacco use,Males,,28.0
+2012,pct.,Tobacco use,Females,,31.0
+2013,pct.,Tobacco use,,,33.0
+2013,pct.,Tobacco use,Males,,33.0
+2013,pct.,Tobacco use,Females,,32.0
+2014,pct.,Tobacco use,,,27.0
+2014,pct.,Tobacco use,Males,,30.0
+2014,pct.,Tobacco use,Females,,23.0
+2015,pct.,Tobacco use,,,27.0
+2015,pct.,Tobacco use,Males,,26.0
+2015,pct.,Tobacco use,Females,,29.0
+2016,pct.,Tobacco use,,,34.0
+2016,pct.,Tobacco use,Males,,38.0
+2016,pct.,Tobacco use,Females,,29.0
+2017,pct.,Tobacco use,,,27.0
+2017,pct.,Tobacco use,Males,,27.0
+2017,pct.,Tobacco use,Females,,26.0
+2018,pct.,Tobacco use,,,26.0
+2018,pct.,Tobacco use,Males,,29.0
+2018,pct.,Tobacco use,Females,,21.0
+2019,pct.,Tobacco use,,,29.0
+2019,pct.,Tobacco use,Males,,30.0
+2019,pct.,Tobacco use,Females,,28.0
+2020,pct.,Tobacco use,,,31.0
+2020,pct.,Tobacco use,Males,,33.0
+2020,pct.,Tobacco use,Females,,28.0
+2021,pct.,Tobacco use,,,26.0
+2021,pct.,Tobacco use,Males,,28.0
+2021,pct.,Tobacco use,Females,,24.0
+2022,pct.,Tobacco use,,,27.0
+2022,pct.,Tobacco use,Males,,29.0
+2022,pct.,Tobacco use,Females,,25.0
+2003,,,,,41
+2003,,,,Males,..
+2003,,,,Females,..
+2004,,,,,36
+2004,,,,Males,..
+2004,,,,Females,..
+2005,,,,,32
+2005,,,,Males,..
+2005,,,,Females,..
+2006,,,,,33
+2006,,,,Males,31
+2006,,,,Females,34
+2007,,,,,28
+2007,,,,Males,26
+2007,,,,Females,31
+2008,,,,,33
+2008,,,,Males,37
+2008,,,,Females,28
+2009,,,,,34
+2009,,,,Males,36
+2009,,,,Females,32
+2010,,,,,27
+2010,,,,Males,25
+2010,,,,Females,29
+2011,,,,,34
+2011,,,,Males,36
+2011,,,,Females,32
+2012,,,,,29
+2012,,,,Males,28
+2012,,,,Females,31
+2013,,,,,33
+2013,,,,Males,33
+2013,,,,Females,32
+2014,,,,,27
+2014,,,,Males,30
+2014,,,,Females,23
+2015,,,,,27
+2015,,,,Males,26
+2015,,,,Females,29
+2016,,,,,34
+2016,,,,Males,38
+2016,,,,Females,29
+2017,,,,,27
+2017,,,,Males,27
+2017,,,,Females,26
+2018,,,,,26
+2018,,,,Males,29
+2018,,,,Females,21
+2019,,,,,29
+2019,,,,Males,30
+2019,,,,Females,28
+2020,,,,,31
+2020,,,,Males,33
+2020,,,,Females,28
+2021,,,,,26
+2021,,,,Males,28
+2021,,,,Females,24
+2022,,,,,27
+2022,,,,Males,29
+2022,,,,Females,25

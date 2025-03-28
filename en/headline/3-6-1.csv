@@ -1,29 +1,57 @@
-Year,Value
-1995,4.6
-1996,9.19
-1997,15.91
-1998,2.25
-1999,17.76
-2000,4.37
-2001,8.6
-2002,4.23
-2003,8.35
-2004,4.15
-2005,12.45
-2006,8.3
-2007,14.5
-2008,4.13
-2009,6.18
-2010,2.06
-2011,2.07
-2012,6.24
-2013,12.48
-2014,8.27
-2015,2.05
-2016,6.07
-2017,3.99
-2018,0.0
-2019,1.94
-2020,0.0
-2021,1.88
-2022,3.71
+Year,Value,Units,Series
+1995,4.59933999471076,In number,"Death rate due to road traffic injuries per 100,000 population"
+1996,9.18769308511249,In number,"Death rate due to road traffic injuries per 100,000 population"
+1997,15.9136118215402,In number,"Death rate due to road traffic injuries per 100,000 population"
+1998,2.24741827825286,In number,"Death rate due to road traffic injuries per 100,000 population"
+1999,17.7568641377933,In number,"Death rate due to road traffic injuries per 100,000 population"
+2000,4.37282725145943,In number,"Death rate due to road traffic injuries per 100,000 population"
+2001,8.59512656323864,In number,"Death rate due to road traffic injuries per 100,000 population"
+2002,4.22841920548003,In number,"Death rate due to road traffic injuries per 100,000 population"
+2003,8.35029486978759,In number,"Death rate due to road traffic injuries per 100,000 population"
+2004,4.14701155979472,In number,"Death rate due to road traffic injuries per 100,000 population"
+2005,12.4445181897374,In number,"Death rate due to road traffic injuries per 100,000 population"
+2006,8.29935783718735,In number,"Death rate due to road traffic injuries per 100,000 population"
+2007,14.4959049068638,In number,"Death rate due to road traffic injuries per 100,000 population"
+2008,4.12694482274772,In number,"Death rate due to road traffic injuries per 100,000 population"
+2009,6.17875127436745,In number,"Death rate due to road traffic injuries per 100,000 population"
+2010,2.06311055177892,In number,"Death rate due to road traffic injuries per 100,000 population"
+2011,2.06930088669543,In number,"Death rate due to road traffic injuries per 100,000 population"
+2012,6.23273014356055,In number,"Death rate due to road traffic injuries per 100,000 population"
+2013,12.4720677649015,In number,"Death rate due to road traffic injuries per 100,000 population"
+2014,8.26702490441253,In number,"Death rate due to road traffic injuries per 100,000 population"
+2015,2.04628701221633,In number,"Death rate due to road traffic injuries per 100,000 population"
+2016,6.06483306546987,In number,"Death rate due to road traffic injuries per 100,000 population"
+2017,3.98863239766665,In number,"Death rate due to road traffic injuries per 100,000 population"
+2018,0.0,In number,"Death rate due to road traffic injuries per 100,000 population"
+2019,1.93455403693064,In number,"Death rate due to road traffic injuries per 100,000 population"
+2020,0.0,In number,"Death rate due to road traffic injuries per 100,000 population"
+2021,1.87707064355367,In number,"Death rate due to road traffic injuries per 100,000 population"
+2022,3.72765735373604,In number,"Death rate due to road traffic injuries per 100,000 population"
+1995,4.6,,
+1996,9.19,,
+1997,15.91,,
+1998,2.25,,
+1999,17.76,,
+2000,4.37,,
+2001,8.6,,
+2002,4.23,,
+2003,8.35,,
+2004,4.15,,
+2005,12.45,,
+2006,8.3,,
+2007,14.5,,
+2008,4.13,,
+2009,6.18,,
+2010,2.06,,
+2011,2.07,,
+2012,6.24,,
+2013,12.48,,
+2014,8.27,,
+2015,2.05,,
+2016,6.07,,
+2017,3.99,,
+2018,0.0,,
+2019,1.94,,
+2020,0.0,,
+2021,1.88,,
+2022,3.71,,

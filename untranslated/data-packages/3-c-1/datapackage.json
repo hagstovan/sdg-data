@@ -15,12 +15,37 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DAD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "FTE",
+                "SH_MED_HWRKDIS",
                 "data.fulltimeequivalent",
                 "data.per10000population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCO08_221",
+                "ISCO08_222_322",
+                "ISCO08_2262",
+                "ISCO08_2261",
                 ""
               ]
             }
