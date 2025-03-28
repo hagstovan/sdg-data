@@ -16,6 +16,55 @@
             "title": "Ár"
           },
           {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deyð av hjarta-æðra-sjúkum, krabbameini, sukursjúku og koroniskum sjúkum í andaleiðini fyri hvørjar 100.000 íbúgvar",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Hjarta-æðra-sjúkur",
+                "Krabbamein",
+                "Sukursjúka",
+                "Kroniskar sjúkur í andaleiðini",
+                ""
+              ]
+            },
+            "title": "Sjúkubólkur"
+          },
+          {
             "name": "data.sex",
             "type": "string",
             "constraints": {

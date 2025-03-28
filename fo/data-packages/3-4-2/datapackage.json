@@ -16,6 +16,28 @@
             "title": "Ár"
           },
           {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sjálvmorð fyri hvørjar 100.000 íbúgvar",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

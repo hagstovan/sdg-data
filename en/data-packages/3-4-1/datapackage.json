@@ -16,6 +16,55 @@
             "title": "Year"
           },
           {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In number",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Cardiovascular disease",
+                "Cancer",
+                "Diabetes",
+                "Cronical respiratory diseases",
+                ""
+              ]
+            },
+            "title": "Disease"
+          },
+          {
             "name": "data.sex",
             "type": "string",
             "constraints": {

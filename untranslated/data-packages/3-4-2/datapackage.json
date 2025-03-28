@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_SCIDEN",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -1,73 +1,111 @@
-Year,Value
-1951,32.0
-1952,32.0
-1953,32.0
-1954,32.0
-1955,32.0
-1956,27.0
-1957,27.0
-1958,27.0
-1959,27.0
-1960,27.0
-1961,19.0
-1962,19.0
-1963,19.0
-1964,19.0
-1965,19.0
-1966,17.0
-1967,17.0
-1968,17.0
-1969,17.0
-1970,17.0
-1971,
-1972,
-1973,
-1974,
-1975,
-1976,
-1977,
-1978,
-1979,
-1980,
-1981,
-1982,
-1983,
-1984,
-1985,4.1
-1986,2.5
-1987,7.7
-1988,11.5
-1989,12.9
-1990,4.2
-1991,8.1
-1992,7.4
-1993,5.2
-1994,7.5
-1995,6.2
-1996,1.5
-1997,4.5
-1998,0.0
-1999,3.2
-2000,1.4
-2001,3.2
-2002,2.8
-2003,1.4
-2004,1.4
-2005,8.4
-2006,1.5
-2007,4.4
-2008,1.5
-2009,1.6
-2010,3.1
-2011,3.4
-2012,12.9
-2013,0.0
-2014,4.7
-2015,3.3
-2016,4.5
-2017,4.6
-2018,0.0
-2019,4.4
-2020,1.5
-2021,0.0
-2022,7.9
+Year,Value,Units,Series
+1985,4.0650406504065,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1986,2.54129606099111,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1987,7.7120822622108,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1988,11.5606936416185,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1989,12.9171151776103,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1990,4.24628450106157,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1991,8.12064965197216,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1992,7.4719800747198,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1993,5.27009222661397,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1994,7.49625187406297,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1995,6.2111801242236,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1996,1.48588410104012,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1997,4.52488687782805,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1998,0.0,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1999,3.19488817891374,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2000,1.44508670520231,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2001,3.16455696202532,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2002,2.82087447108604,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2003,1.41843971631206,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2004,1.40252454417952,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2005,8.43881856540084,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2006,1.51057401812689,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2007,4.45103857566766,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2008,1.5015015015015,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2009,1.62337662337662,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2010,3.11526479750779,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2011,3.48432055749129,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2012,12.9449838187702,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2013,0.0,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2014,4.69483568075117,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2015,3.3003300330033,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2016,4.46428571428571,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2017,4.57317073170732,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2018,0.0,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2019,4.39882697947214,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2020,1.47492625368732,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2021,0.0,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+2022,7.92393026941363,Í tali,Deyðatíttleiki 0-28 dagar fyri hvørji 1.000 livandi fødd
+1951,32.0,,
+1952,32.0,,
+1953,32.0,,
+1954,32.0,,
+1955,32.0,,
+1956,27.0,,
+1957,27.0,,
+1958,27.0,,
+1959,27.0,,
+1960,27.0,,
+1961,19.0,,
+1962,19.0,,
+1963,19.0,,
+1964,19.0,,
+1965,19.0,,
+1966,17.0,,
+1967,17.0,,
+1968,17.0,,
+1969,17.0,,
+1970,17.0,,
+1971,,,
+1972,,,
+1973,,,
+1974,,,
+1975,,,
+1976,,,
+1977,,,
+1978,,,
+1979,,,
+1980,,,
+1981,,,
+1982,,,
+1983,,,
+1984,,,
+1985,4.1,,
+1986,2.5,,
+1987,7.7,,
+1988,11.5,,
+1989,12.9,,
+1990,4.2,,
+1991,8.1,,
+1992,7.4,,
+1993,5.2,,
+1994,7.5,,
+1995,6.2,,
+1996,1.5,,
+1997,4.5,,
+1998,0.0,,
+1999,3.2,,
+2000,1.4,,
+2001,3.2,,
+2002,2.8,,
+2003,1.4,,
+2004,1.4,,
+2005,8.4,,
+2006,1.5,,
+2007,4.4,,
+2008,1.5,,
+2009,1.6,,
+2010,3.1,,
+2011,3.4,,
+2012,12.9,,
+2013,0.0,,
+2014,4.7,,
+2015,3.3,,
+2016,4.5,,
+2017,4.6,,
+2018,0.0,,
+2019,4.4,,
+2020,1.5,,
+2021,0.0,,
+2022,7.9,,

@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortality rate 0-4 years per 1,000 live births",
+                "Neonatal mortality rate",
                 ""
               ]
             },

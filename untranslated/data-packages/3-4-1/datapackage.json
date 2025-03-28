@@ -15,6 +15,51 @@
             "type": "integer"
           },
           {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DTH_NCOM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DTH_NCOM",
+                "I00-I99",
+                "COO-C97",
+                "E10-E14",
+                "J30-J98",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.sex",
             "type": "string",
             "constraints": {
