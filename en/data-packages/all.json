@@ -942,6 +942,29 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Married before age 15",
+                "Married before age 18",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "data.age",
             "type": "string",
             "constraints": {
