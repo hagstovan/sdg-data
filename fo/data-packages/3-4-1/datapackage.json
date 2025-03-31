@@ -65,32 +65,6 @@
             "title": "Sjúkubólkur"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "data.disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hjarta-æðra-sjúkur",
-                "Krabbamein",
-                "Sukursjúka",
-                "Kroniskar sjúkur í andaleiðini",
-                ""
-              ]
-            },
-            "title": "Sjúkubólkur"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
