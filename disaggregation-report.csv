@@ -18,7 +18,7 @@ data.occupation,1,4
 data.outcome,1,2
 data.publicprivate,1,2
 data.renewablesource,1,7
-data.sex,10,2
+data.sex,9,2
 data.sizeofparticulatematter,1,2
 data.source,2,6
 data.technology,1,2

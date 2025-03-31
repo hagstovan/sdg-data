@@ -530,19 +530,8 @@
             }
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.male",
-                "data.female",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
