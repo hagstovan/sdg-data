@@ -568,8 +568,6 @@
               "enum": [
                 "FTE",
                 "SH_MED_HWRKDIS",
-                "data.fulltimeequivalent",
-                "data.per10000population",
                 ""
               ]
             }
@@ -583,19 +581,6 @@
                 "ISCO08_222_322",
                 "ISCO08_2262",
                 "ISCO08_2261",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists",
-                "data.dentists",
                 ""
               ]
             }
@@ -811,7 +796,7 @@
           }
         ]
       },
-      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+      "title": "Volume of official development assistance flows for scholarships"
     },
     {
       "path": "5-3-1/data.csv",
@@ -2280,7 +2265,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries in total industry value added"
+      "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
     },
     {
       "path": "3-3-1/data.csv",
@@ -3635,7 +3620,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy"
+      "title": "Redistributive impact of fiscal policy on the Gini index"
     },
     {
       "path": "10-5-1/data.csv",
@@ -3745,7 +3730,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "15-6-1/data.csv",
@@ -3943,7 +3928,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "16-4-1/data.csv",
@@ -4559,7 +4544,7 @@
           }
         ]
       },
-      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+      "title": "Youth/adult literacy rate"
     },
     {
       "path": "17-4-1/data.csv",
@@ -4581,7 +4566,7 @@
           }
         ]
       },
-      "title": "Debt service as a proportion of exports of goods and services"
+      "title": "Debt service as a proportion of exports of goods, services and primary income"
     },
     {
       "path": "6-3-1/data.csv",
@@ -4801,7 +4786,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "13-a-1/data.csv",
@@ -4999,7 +4984,7 @@
           }
         ]
       },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "17-18-1/data.csv",
@@ -5681,7 +5666,7 @@
           }
         ]
       },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
+      "title": "Proportion of local and transboundary breeds classified as being at risk of extinction"
     },
     {
       "path": "16-10-2/data.csv",
@@ -5967,7 +5952,7 @@
           }
         ]
       },
-      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+      "title": "Health product access index"
     },
     {
       "path": "8-b-1/data.csv",
@@ -6297,7 +6282,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Dollar value of official development assistance committed to developing countries"
     },
     {
       "path": "4-1-1/data.csv",

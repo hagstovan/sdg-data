@@ -31,8 +31,6 @@
               "enum": [
                 "FTE",
                 "SH_MED_HWRKDIS",
-                "data.fulltimeequivalent",
-                "data.per10000population",
                 ""
               ]
             }
@@ -46,19 +44,6 @@
                 "ISCO08_222_322",
                 "ISCO08_2262",
                 "ISCO08_2261",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.medicaldoctors",
-                "data.nursingandmidwiferypersonnel",
-                "data.pharmacists",
-                "data.dentists",
                 ""
               ]
             }
