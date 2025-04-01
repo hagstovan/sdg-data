@@ -1,13 +1,13 @@
 Year,Series,Education,Units,sex,Education1,Sex,Value
 2011,Completion rate 3-5 years above normal graduation age,Primary education,pct.,Total (sex),,,96.263837638376
-2011,Completion rate 3-5 years above normal graduation age,Primary education,pct.,Boys,,,95.093666369313
-2011,Completion rate 3-5 years above normal graduation age,Primary education,pct.,Girls,,,97.516714422159
+2011,Completion rate 3-5 years above normal graduation age,Primary education,pct.,Males,,,95.093666369313
+2011,Completion rate 3-5 years above normal graduation age,Primary education,pct.,Females,,,97.516714422159
 2011,Completion rate 3-5 years above normal graduation age,Lower secondary education,pct.,Total (sex),,,96.495220755576
-2011,Completion rate 3-5 years above normal graduation age,Lower secondary education,pct.,Boys,,,96.121416526138
-2011,Completion rate 3-5 years above normal graduation age,Lower secondary education,pct.,Girls,,,96.933728981207
+2011,Completion rate 3-5 years above normal graduation age,Lower secondary education,pct.,Males,,,96.121416526138
+2011,Completion rate 3-5 years above normal graduation age,Lower secondary education,pct.,Females,,,96.933728981207
 2011,Completion rate 3-5 years above normal graduation age,Upper secondary education,pct.,Total (sex),,,71.137521222411
-2011,Completion rate 3-5 years above normal graduation age,Upper secondary education,pct.,Boys,,,61.838440111421
-2011,Completion rate 3-5 years above normal graduation age,Upper secondary education,pct.,Girls,,,85.652173913043
+2011,Completion rate 3-5 years above normal graduation age,Upper secondary education,pct.,Males,,,61.838440111421
+2011,Completion rate 3-5 years above normal graduation age,Upper secondary education,pct.,Females,,,85.652173913043
 2011,,,,,Primary education,,96.3
 2011,,,,,Primary education,Males,95.1
 2011,,,,,Primary education,Females,97.5

@@ -15,26 +15,46 @@
             "type": "integer"
           },
           {
-            "name": "data.sex",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.male",
-                "data.female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "data.age",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.00-17years",
-                "data.18-24years",
-                "data.25-54years",
-                "data.55-66years",
-                "data.67years",
+                "Y0-17",
+                "Y18-24",
+                "Y25-54",
+                "Y55-66",
+                "Y_GE67",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_50MI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
                 ""
               ]
             }

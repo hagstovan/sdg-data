@@ -1,14 +1,14 @@
-Year,Value
-2009,3.8
-2010,3.6
-2011,3.9
-2012,4.2
-2013,4.2
-2014,4.0
-2015,3.8
-2016,3.4
-2017,3.3
-2018,3.0
-2019,2.7
-2020,2.4
-2021,2.7
+Year,Value,Units,Series
+2009,3.8,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2010,3.6,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2011,3.9,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2012,4.2,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2013,4.2,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2014,4.0,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2015,3.8,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2016,3.4,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2017,3.3,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2018,3.0,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2019,2.7,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2020,2.4,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"
+2021,2.7,%,"Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek"

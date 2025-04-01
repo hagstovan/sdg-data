@@ -2,7 +2,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"sex, age",2
 #1-a-2,essentialservice,1
 #10-1-1,data.growthrateofdisposableincome,1
-#10-2-1,"data.age, data.sex",2
+#10-2-1,"sex, age",2
 #11-6-2,"data.location, data.sizeofparticulatematter",2
 #12-2-2,data.materialtype,1
 #12-5-1,data.wastemanagement,1

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "data.sex",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,7 +28,7 @@
             "title": "Sex"
           },
           {
-            "name": "data.age",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,6 +41,28 @@
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",

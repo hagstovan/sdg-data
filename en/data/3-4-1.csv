@@ -4,193 +4,193 @@ Year,unit,Series,sex,disease,Value
 2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,141.169631920945
 2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,29.064335983724
 2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,29.064335983724
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,321.56862745098
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,86.2745098039216
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,196.078431372549
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,15.6862745098039
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,23.5294117647059
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,220.565530018969
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,61.7583484053112
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,79.4035908068287
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,44.1131060037937
-2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,35.290484803035
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,321.56862745098
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,86.2745098039216
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,196.078431372549
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,15.6862745098039
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,23.5294117647059
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,220.565530018969
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,61.7583484053112
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,79.4035908068287
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,44.1131060037937
+2009,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,35.290484803035
 2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,210.905030705291
 2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,57.8954986249819
 2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,144.738746562455
 2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,4.13539275892728
 2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,4.13539275892728
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,305.235970885184
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,86.092196916334
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,219.14377396885
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,0.0
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,105.221623043536
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,26.3054057608839
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,61.379280108729
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,8.76846858696129
-2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,8.76846858696129
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,305.235970885184
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,86.092196916334
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,219.14377396885
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,0.0
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,105.221623043536
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,26.3054057608839
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,61.379280108729
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,8.76846858696129
+2010,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,8.76846858696129
 2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,264.075426543707
 2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,66.0188566359266
 2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,181.551855748798
 2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,8.25235707949083
 2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,8.25235707949083
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,313.455058381005
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,101.872893973827
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,203.745787947653
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,7.83637645952512
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,209.159440498497
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,26.1449300623121
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,156.869580373873
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,17.4299533748747
-2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,8.71497668743736
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,313.455058381005
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,101.872893973827
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,203.745787947653
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,7.83637645952512
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,209.159440498497
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,26.1449300623121
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,156.869580373873
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,17.4299533748747
+2011,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,8.71497668743736
 2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,231.027867736546
 2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,90.7609480393572
 2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,132.015924420883
 2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,8.2509952763052
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,346.347607052897
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,157.430730478589
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,173.173803526448
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,15.7430730478589
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,104.026700186381
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,17.3377833643969
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,86.6889168219843
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,0.0
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,346.347607052897
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,157.430730478589
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,173.173803526448
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,15.7430730478589
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,104.026700186381
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,17.3377833643969
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,86.6889168219843
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2012,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,0.0
 2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,272.637144745539
 2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,86.748182419035
 2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,156.972901520159
 2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,4.13086582947786
 2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,24.7851949768671
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,371.497450895151
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,118.563016243133
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,237.126032486266
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,7.90420108287555
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,7.90420108287555
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,164.409639596764
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,51.9188335568728
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,69.2251114091637
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,43.2656946307273
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,371.497450895151
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,118.563016243133
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,237.126032486266
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,7.90420108287555
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,7.90420108287555
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,164.409639596764
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,51.9188335568728
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,69.2251114091637
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2013,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,43.2656946307273
 2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,251.904771737111
 2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,74.3325555945572
 2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,148.665111189114
 2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,28.9071049534389
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,323.662916913361
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,110.519044799684
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,173.672784685218
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,39.4710874284587
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,173.190162798753
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,34.6380325597506
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,121.233113959127
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,17.3190162798753
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,323.662916913361
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,110.519044799684
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,173.672784685218
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,39.4710874284587
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,173.190162798753
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,34.6380325597506
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,121.233113959127
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2014,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,17.3190162798753
 2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,221.843353942855
 2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,57.5149436148142
 2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,135.570938520633
 2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,28.7574718074071
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,282.496959234119
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,102.012790834543
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,149.095617373563
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,31.3885510260133
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,155.199172271081
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,8.62217623728229
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,120.710467321952
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,25.8665287118469
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,282.496959234119
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,102.012790834543
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,149.095617373563
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,31.3885510260133
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,155.199172271081
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,8.62217623728229
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,120.710467321952
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2015,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,25.8665287118469
 2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,248.553500122239
 2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,65.1943606878005
 2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,158.911254176514
 2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,16.2985901719501
 2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,8.14929508597506
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,288.566526282951
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,85.7900483543909
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,171.580096708782
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,23.3972859148339
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,7.79909530494463
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,204.778156996587
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,42.6621160409556
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,145.051194539249
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,8.53242320819113
-2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,8.53242320819113
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,288.566526282951
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,85.7900483543909
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,171.580096708782
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,23.3972859148339
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,7.79909530494463
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,204.778156996587
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,42.6621160409556
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,145.051194539249
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,8.53242320819113
+2016,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,8.53242320819113
 2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,294.515159461804
 2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,84.7235390232586
 2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,193.653803481734
 2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,16.1378169568112
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,363.481690576544
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,139.205753837825
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,208.808630756738
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,15.4673059819806
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,219.298245614035
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,25.3036437246964
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,177.125506072874
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,16.8690958164642
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,363.481690576544
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,139.205753837825
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,208.808630756738
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,15.4673059819806
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,219.298245614035
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,25.3036437246964
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,177.125506072874
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2017,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,16.8690958164642
 2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,238.986696407233
 2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,51.7804508882339
 2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,163.307575878276
 2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,23.8986696407233
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,320.15855471281
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,76.2282273125738
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,205.816213743949
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,38.1141136562869
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,150.156412930136
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,25.0260688216893
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,116.788321167883
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,8.34202294056309
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,320.15855471281
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,76.2282273125738
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,205.816213743949
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,38.1141136562869
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,150.156412930136
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,25.0260688216893
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,116.788321167883
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2018,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,8.34202294056309
 2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,191.987462043295
 2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,54.8535605837986
 2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,125.379567048683
 2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,11.754334410814
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,231.801697386623
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,74.774741092459
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,149.549482184918
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,7.4774741092459
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,148.160342415014
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,32.9245205366697
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,98.773561610009
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,16.4622602683348
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,231.801697386623
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,74.774741092459
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,149.549482184918
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,7.4774741092459
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,148.160342415014
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,32.9245205366697
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,98.773561610009
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2019,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,16.4622602683348
 2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,127.334465195246
 2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,23.1517209445902
 2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,88.7482636209292
 2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,15.4344806297268
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,161.687428802411
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,36.7471429096388
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,117.590857310844
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,7.34942858192775
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,89.3618749746131
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,8.12380681587392
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,56.8666477111174
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,24.3714204476218
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,161.687428802411
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,36.7471429096388
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,117.590857310844
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,7.34942858192775
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,89.3618749746131
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,8.12380681587392
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,56.8666477111174
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2020,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,24.3714204476218
 2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Total,176.339799125968
 2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cardiovascular disease,53.6686345165989
 2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cancer,107.337269033198
 2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Diabetes,0.0
 2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Cronical respiratory diseases,15.3338955761711
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Total,218.882241354151
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cardiovascular disease,65.6646724062454
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cancer,131.329344812491
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Diabetes,0.0
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Boys,Cronical respiratory diseases,21.8882241354152
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Total,129.24071082391
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cardiovascular disease,40.3877221324717
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cancer,80.7754442649435
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Diabetes,0.0
-2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Girls,Cronical respiratory diseases,8.07754442649435
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Total,218.882241354151
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cardiovascular disease,65.6646724062454
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cancer,131.329344812491
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Diabetes,0.0
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Males,Cronical respiratory diseases,21.8882241354152
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Total,129.24071082391
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cardiovascular disease,40.3877221324717
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cancer,80.7754442649435
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Diabetes,0.0
+2021,In number,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Females,Cronical respiratory diseases,8.07754442649435
