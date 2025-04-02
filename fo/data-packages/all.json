@@ -1226,23 +1226,6 @@
             "title": "varandi orkukelda"
           },
           {
-            "name": "data.renewablesource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Lívfrøðilig brennievni",
-                "Havið",
-                "Fjarhiti frá brennistøðum",
-                "Hitapumpur",
-                ""
-              ]
-            },
-            "title": "Varandi orkukelda"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1304,21 +1287,6 @@
               ]
             },
             "title": "orkukelda"
-          },
-          {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                ""
-              ]
-            },
-            "title": "Orkukelda"
           },
           {
             "name": "Value",

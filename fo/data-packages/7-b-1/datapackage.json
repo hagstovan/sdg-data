@@ -55,21 +55,6 @@
             "title": "orkukelda"
           },
           {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                ""
-              ]
-            },
-            "title": "Orkukelda"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

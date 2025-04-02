@@ -52,22 +52,6 @@
             }
           },
           {
-            "name": "data.renewablesource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.hydro",
-                "data.wind",
-                "data.solar",
-                "data.biofuel",
-                "data.ocean",
-                "data.districtheatingfromincinerator",
-                "data.heatpumps",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -51,20 +51,6 @@
             }
           },
           {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.hydro",
-                "data.wind",
-                "data.solar",
-                "data.ocean",
-                "data.biofuel",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

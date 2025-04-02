@@ -1226,23 +1226,6 @@
             "title": "renewable energy source"
           },
           {
-            "name": "data.renewablesource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Biofuel",
-                "Ocean",
-                "Municipal solid waste",
-                "Heat pumps",
-                ""
-              ]
-            },
-            "title": "Renewable source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1304,21 +1287,6 @@
               ]
             },
             "title": "energy source"
-          },
-          {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                ""
-              ]
-            },
-            "title": "Energy source"
           },
           {
             "name": "Value",

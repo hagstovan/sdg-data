@@ -55,21 +55,6 @@
             "title": "energy source"
           },
           {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                ""
-              ]
-            },
-            "title": "Energy source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
