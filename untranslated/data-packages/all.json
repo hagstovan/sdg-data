@@ -971,6 +971,83 @@
       "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IC_GEN_CE",
+                "IC_GEN_BM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_DOM_TSPD",
+                "data.managers",
+                "data.membersofboard",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Public/private",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRIVATE",
+                "PUBLIC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.publicprivate",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.privatecompany",
+                "data.publiccompany",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -1843,50 +1920,6 @@
         ]
       },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
-    },
-    {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.managers",
-                "data.membersofboard",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.publicprivate",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.privatecompany",
-                "data.publiccompany",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Proportion of women in managerial positions"
     },
     {
       "path": "17-2-1/data.csv",

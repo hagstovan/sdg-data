@@ -15,12 +15,45 @@
             "type": "integer"
           },
           {
+            "name": "Position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IC_GEN_CE",
+                "IC_GEN_BM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "SL_DOM_TSPD",
                 "data.managers",
                 "data.membersofboard",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Public/private",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRIVATE",
+                "PUBLIC",
                 ""
               ]
             }

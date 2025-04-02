@@ -1055,6 +1055,90 @@
       "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stjóri",
+                "Nevndarlimur",
+                ""
+              ]
+            },
+            "title": "starv"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av tíð brúkt til ólønt húsligt arbeiði og umsorganararbeiði skift á kyn, aldur og staðseting",
+                "Stjórar",
+                "Nevndarlimir",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Public/private",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Privatar fyritøkur",
+                "Almennir stovnar og fyritøkur",
+                ""
+              ]
+            },
+            "title": "alment/privat"
+          },
+          {
+            "name": "data.publicprivate",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Privatar fyritøkur",
+                "Almennir stovnar og fyritøkur",
+                ""
+              ]
+            },
+            "title": "Alment/privat"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -2003,54 +2087,6 @@
         ]
       },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
-    },
-    {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stjórar",
-                "Nevndarlimir",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "data.publicprivate",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Privatar fyritøkur",
-                "Almennir stovnar og fyritøkur",
-                ""
-              ]
-            },
-            "title": "Alment/privat"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women in managerial positions"
     },
     {
       "path": "17-2-1/data.csv",
