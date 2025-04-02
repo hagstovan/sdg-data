@@ -44,8 +44,6 @@
             "constraints": {
               "enum": [
                 "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
-                "Chief executives/senior officials",
-                "Members of the board",
                 ""
               ]
             },
@@ -53,18 +51,6 @@
           },
           {
             "name": "Public/private",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Private companies",
-                "Public institutions and companies",
-                ""
-              ]
-            },
-            "title": "Public/private"
-          },
-          {
-            "name": "data.publicprivate",
             "type": "string",
             "constraints": {
               "enum": [

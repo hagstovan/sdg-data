@@ -44,8 +44,6 @@
             "constraints": {
               "enum": [
                 "Partur av tíð brúkt til ólønt húsligt arbeiði og umsorganararbeiði skift á kyn, aldur og staðseting",
-                "Stjórar",
-                "Nevndarlimir",
                 ""
               ]
             },
@@ -62,18 +60,6 @@
               ]
             },
             "title": "alment/privat"
-          },
-          {
-            "name": "data.publicprivate",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Privatar fyritøkur",
-                "Almennir stovnar og fyritøkur",
-                ""
-              ]
-            },
-            "title": "Alment/privat"
           },
           {
             "name": "Value",

@@ -1011,8 +1011,6 @@
             "constraints": {
               "enum": [
                 "SL_DOM_TSPD",
-                "data.managers",
-                "data.membersofboard",
                 ""
               ]
             }
@@ -1024,17 +1022,6 @@
               "enum": [
                 "PRIVATE",
                 "PUBLIC",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.publicprivate",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.privatecompany",
-                "data.publiccompany",
                 ""
               ]
             }
@@ -1235,6 +1222,48 @@
         ]
       },
       "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    },
+    {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NY_GDP_PCAP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "10-2-1/data.csv",
@@ -2608,28 +2637,6 @@
         ]
       },
       "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
-    },
-    {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "14-b-1/data.csv",

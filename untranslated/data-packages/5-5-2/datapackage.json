@@ -41,8 +41,6 @@
             "constraints": {
               "enum": [
                 "SL_DOM_TSPD",
-                "data.managers",
-                "data.membersofboard",
                 ""
               ]
             }
@@ -54,17 +52,6 @@
               "enum": [
                 "PRIVATE",
                 "PUBLIC",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.publicprivate",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.privatecompany",
-                "data.publiccompany",
                 ""
               ]
             }

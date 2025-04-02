@@ -1,9 +1,5 @@
-Year,Position,Units,Series,Public/private,Public/private1,Value
-2022,Chief executive/senior officials,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Private companies,,17
-2022,Chief executive/senior officials,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Public institutions and companies,,59
-2022,Member of the board,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Private companies,,18
-2022,Member of the board,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Public institutions and companies,,40
-2022,,,Chief executives/senior officials,,Private companies,17
-2022,,,Chief executives/senior officials,,Public institutions and companies,59
-2022,,,Members of the board,,Private companies,18
-2022,,,Members of the board,,Public institutions and companies,40
+Year,Position,Units,Series,Public/private,Value
+2022,Chief executive/senior officials,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Private companies,17
+2022,Chief executive/senior officials,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Public institutions and companies,59
+2022,Member of the board,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Private companies,18
+2022,Member of the board,pct.,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Public institutions and companies,40
