@@ -1344,6 +1344,468 @@
       "title": "Annual growth rate of real GDP per capita"
     },
     {
+      "path": "8-4-2/data.csv",
+      "name": "8-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "material type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Biomassi",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                ""
+              ]
+            },
+            "title": "slag av tilfari"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.000 tons",
+                "Innlendis tilfarsnýtsla (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "data.materialtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomassi",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                ""
+              ]
+            },
+            "title": "Slag av tilfari"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-74 ár",
+                "15-24 ár",
+                "25-54 ár",
+                "55-74 ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeiðsloysisprosent",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 ár",
+                "data.25-54years",
+                "55-74 ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "8-6-1/data.csv",
+      "name": "8-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av ungum (15-24 ár) sum ikki eru í útbúgving, arbeiði ella læru",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 ár",
+                "15-19 ár",
+                "20-24 ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "data.age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 ár",
+                "15-19 ár",
+                "20-24 ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ikki-deyðilig",
+                "Deyðilig",
+                ""
+              ]
+            },
+            "title": "Avleiðing"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                "Persónar",
+                "Pr. 100.000 arbeiðsvirkin",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persónar",
+                "pr. 100.000 arbeiðsvirkin",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "data.outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deyðilig",
+                "Ikki-deyðilig",
+                ""
+              ]
+            },
+            "title": "Avleiðing"
+          },
+          {
+            "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvinnur",
+                "Menn",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Virðisøking frá ferðavinnu, sum partur av BTÚ",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+    },
+    {
+      "path": "8-a-1/data.csv",
+      "name": "8-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.000 kr.",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Heimsmálini, ávísi 8.a.1",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Aid for Trade commitments and disbursements"
+    },
+    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -1576,30 +2038,6 @@
       "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
-    },
-    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -1685,30 +2123,6 @@
         ]
       },
       "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
-    },
-    {
-      "path": "8-a-1/data.csv",
-      "name": "8-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Aid for Trade commitments and disbursements"
     },
     {
       "path": "9-4-1/data.csv",
@@ -2199,55 +2613,6 @@
       "title": "Macroeconomic Dashboard"
     },
     {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 ár",
-                "data.25-54years",
-                "55-74 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unemployment rate, by sex, age and persons with disabilities"
-    },
-    {
       "path": "17-2-1/data.csv",
       "name": "17-2-1",
       "profile": "tabular-data-resource",
@@ -2306,66 +2671,6 @@
         ]
       },
       "title": "Proportion of medium and high-tech industry value added in total value added"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Persónar",
-                "Pr. 100.000 arbeiðsvirkin",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "data.outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deyðilig",
-                "Ikki-deyðilig",
-                ""
-              ]
-            },
-            "title": "Avleiðing"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kvinnur",
-                "Menn",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2429,57 +2734,6 @@
         ]
       },
       "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
-    },
-    {
-      "path": "8-4-2/data.csv",
-      "name": "8-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Innlendis tilfarsnýtsla (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biomassi",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Lívrunnin brennievni og aðrar framleiðslur",
-                ""
-              ]
-            },
-            "title": "Slag av tilfari"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "5-4-1/data.csv",
@@ -2786,55 +3040,6 @@
         ]
       },
       "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
-    },
-    {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 ár",
-                "15-19 ár",
-                "20-24 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
       "path": "14-b-1/data.csv",

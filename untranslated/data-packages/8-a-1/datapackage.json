@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DKK",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_TRDDBML",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

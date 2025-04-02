@@ -1,13 +1,25 @@
-Year,Value
-2011,1.23
-2012,1.22
-2013,1.28
-2014,1.38
-2015,1.71
-2016,1.67
-2017,1.78
-2018,1.88
-2019,1.93
-2020,0.58
-2021,0.93
-2022,1.38
+Year,Units,Series,Value
+2011,pct.,Tourism direct GDP as a proportion of total GDP,1.22921357571336
+2012,pct.,Tourism direct GDP as a proportion of total GDP,1.21531991222284
+2013,pct.,Tourism direct GDP as a proportion of total GDP,1.27661880175468
+2014,pct.,Tourism direct GDP as a proportion of total GDP,1.38188549339657
+2015,pct.,Tourism direct GDP as a proportion of total GDP,1.7136936816595
+2016,pct.,Tourism direct GDP as a proportion of total GDP,1.66941737108622
+2017,pct.,Tourism direct GDP as a proportion of total GDP,1.78173647685653
+2018,pct.,Tourism direct GDP as a proportion of total GDP,1.88333796703894
+2019,pct.,Tourism direct GDP as a proportion of total GDP,1.93337767579276
+2020,pct.,Tourism direct GDP as a proportion of total GDP,0.5760197626352
+2021,pct.,Tourism direct GDP as a proportion of total GDP,0.93219944823902
+2022,pct.,Tourism direct GDP as a proportion of total GDP,1.3774815049499
+2011,,,1.23
+2012,,,1.22
+2013,,,1.28
+2014,,,1.38
+2015,,,1.71
+2016,,,1.67
+2017,,,1.78
+2018,,,1.88
+2019,,,1.93
+2020,,,0.58
+2021,,,0.93
+2022,,,1.38

@@ -1,1 +1,1 @@
-{"From":["data.outcome"],"To":["data.sex"]}
+{"From":["outcome","data.outcome"],"To":["sex","data.sex"]}

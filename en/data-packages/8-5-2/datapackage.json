@@ -16,6 +16,54 @@
             "title": "Year"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-74 years",
+                "15-24 years",
+                "25-54 years",
+                "55-74 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unemployment rate",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
             "name": "data.sex",
             "type": "string",
             "constraints": {

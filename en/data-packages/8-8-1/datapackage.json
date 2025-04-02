@@ -16,16 +16,53 @@
             "title": "Year"
           },
           {
+            "name": "outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-fatal",
+                "Fatal",
+                ""
+              ]
+            },
+            "title": "Outcome"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "In number",
                 "Persons",
                 "Per 100,000 employee",
                 ""
               ]
             },
             "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons",
+                "pr. 100,000 employee",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "data.outcome",

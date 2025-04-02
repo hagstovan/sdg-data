@@ -1,13 +1,25 @@
-Year,Value
-2011,1.23
-2012,1.22
-2013,1.28
-2014,1.38
-2015,1.71
-2016,1.67
-2017,1.78
-2018,1.88
-2019,1.93
-2020,0.58
-2021,0.93
-2022,1.38
+Year,Value,Units,Series
+2011,1.22921357571336,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2012,1.21531991222284,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2013,1.27661880175468,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2014,1.38188549339657,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2015,1.7136936816595,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2016,1.66941737108622,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2017,1.78173647685653,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2018,1.88333796703894,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2019,1.93337767579276,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2020,0.5760197626352,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2021,0.93219944823902,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2022,1.3774815049499,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ"
+2011,1.23,,
+2012,1.22,,
+2013,1.28,,
+2014,1.38,,
+2015,1.71,,
+2016,1.67,,
+2017,1.78,,
+2018,1.88,,
+2019,1.93,,
+2020,0.58,,
+2021,0.93,,
+2022,1.38,,
