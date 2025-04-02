@@ -64,31 +64,6 @@
             "title": "eind"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 ár",
-                "data.25-54years",
-                "55-74 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

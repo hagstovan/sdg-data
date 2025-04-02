@@ -63,31 +63,6 @@
             "title": "Kyn"
           },
           {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 ár",
-                "15-19 ár",
-                "20-24 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -1,313 +1,157 @@
-Year,outcome,Units,Series,sex,Outcome,Sex,Value
-2009,Non-fatal,In number,Persons,,,,140.0
-2009,Non-fatal,In number,Persons,Males,,,72.0
-2009,Non-fatal,In number,Persons,Females,,,68.0
-2009,Non-fatal,In number,"pr. 100,000 employee",,,,510.613465606536
-2009,Non-fatal,In number,"pr. 100,000 employee",Males,,,485.436893203884
-2009,Non-fatal,In number,"pr. 100,000 employee",Females,,,540.282853964723
-2010,Non-fatal,In number,Persons,,,,83.0
-2010,Non-fatal,In number,Persons,Males,,,41.0
-2010,Non-fatal,In number,Persons,Females,,,42.0
-2010,Non-fatal,In number,"pr. 100,000 employee",,,,314.536910716993
-2010,Non-fatal,In number,"pr. 100,000 employee",Males,,,276.298941977222
-2010,Non-fatal,In number,"pr. 100,000 employee",Females,,,363.667850030306
-2011,Non-fatal,In number,Persons,,,,127.0
-2011,Non-fatal,In number,Persons,Males,,,65.0
-2011,Non-fatal,In number,Persons,Females,,,62.0
-2011,Non-fatal,In number,"pr. 100,000 employee",,,,497.492948918834
-2011,Non-fatal,In number,"pr. 100,000 employee",Males,,,469.449660551784
-2011,Non-fatal,In number,"pr. 100,000 employee",Females,,,530.731039205616
-2012,Non-fatal,In number,Persons,,,,126.0
-2012,Non-fatal,In number,Persons,Males,,,69.0
-2012,Non-fatal,In number,Persons,Females,,,57.0
-2012,Non-fatal,In number,"pr. 100,000 employee",,,,453.44945478101295
-2012,Non-fatal,In number,"pr. 100,000 employee",Males,,,464.08393866021
-2012,Non-fatal,In number,"pr. 100,000 employee",Females,,,441.210620017029
-2013,Non-fatal,In number,Persons,,,,144.0
-2013,Non-fatal,In number,Persons,Males,,,68.0
-2013,Non-fatal,In number,Persons,Females,,,76.0
-2013,Non-fatal,In number,"pr. 100,000 employee",,,,525.451559934319
-2013,Non-fatal,In number,"pr. 100,000 employee",Males,,,450.092666137146
-2013,Non-fatal,In number,"pr. 100,000 employee",Females,,,618.087182823682
-2014,Non-fatal,In number,Persons,,,,167.0
-2014,Non-fatal,In number,Persons,Males,,,76.0
-2014,Non-fatal,In number,Persons,Females,,,91.0
-2014,Non-fatal,In number,"pr. 100,000 employee",,,,600.827486958086
-2014,Non-fatal,In number,"pr. 100,000 employee",Males,,,498.327978493214
-2014,Non-fatal,In number,"pr. 100,000 employee",Females,,,725.446428571428
-2015,Non-fatal,In number,Persons,,,,188.0
-2015,Non-fatal,In number,Persons,Males,,,114.0
-2015,Non-fatal,In number,Persons,Females,,,74.0
-2015,Non-fatal,In number,"pr. 100,000 employee",,,,658.1941672793471
-2015,Non-fatal,In number,"pr. 100,000 employee",Males,,,736.957786540824
-2015,Non-fatal,In number,"pr. 100,000 employee",Females,,,565.144340919505
-2016,Non-fatal,In number,Persons,,,,184.0
-2016,Non-fatal,In number,Persons,Males,,,108.0
-2016,Non-fatal,In number,Persons,Females,,,76.0
-2016,Non-fatal,In number,"pr. 100,000 employee",,,,643.874444483326
-2016,Non-fatal,In number,"pr. 100,000 employee",Males,,,701.663201663202
-2016,Non-fatal,In number,"pr. 100,000 employee",Females,,,576.412590064467
-2017,Non-fatal,In number,Persons,,,,178.0
-2017,Non-fatal,In number,Persons,Males,,,122.0
-2017,Non-fatal,In number,Persons,Females,,,56.0
-2017,Non-fatal,In number,"pr. 100,000 employee",,,,610.844200411805
-2017,Non-fatal,In number,"pr. 100,000 employee",Males,,,782.452539763982
-2017,Non-fatal,In number,"pr. 100,000 employee",Females,,,413.345143194568
-2018,Non-fatal,In number,Persons,,,,215.0
-2018,Non-fatal,In number,Persons,Males,,,131.0
-2018,Non-fatal,In number,Persons,Females,,,84.0
-2018,Non-fatal,In number,"pr. 100,000 employee",,,,705.588920613042
-2018,Non-fatal,In number,"pr. 100,000 employee",Males,,,795.1924244263689
-2018,Non-fatal,In number,"pr. 100,000 employee",Females,,,600.128598985497
-2019,Non-fatal,In number,Persons,,,,226.0
-2019,Non-fatal,In number,Persons,Males,,,119.0
-2019,Non-fatal,In number,Persons,Females,,,107.0
-2019,Non-fatal,In number,"pr. 100,000 employee",,,,724.1964943762621
-2019,Non-fatal,In number,"pr. 100,000 employee",Males,,,708.797426886652
-2019,Non-fatal,In number,"pr. 100,000 employee",Females,,,742.127895685948
-2020,Non-fatal,In number,Persons,,,,170.0
-2020,Non-fatal,In number,Persons,Males,,,100.0
-2020,Non-fatal,In number,Persons,Females,,,70.0
-2020,Non-fatal,In number,"pr. 100,000 employee",,,,544.19155542751
-2020,Non-fatal,In number,"pr. 100,000 employee",Males,,,594.459636190703
-2020,Non-fatal,In number,"pr. 100,000 employee",Females,,,485.53790663799697
-2021,Non-fatal,In number,Persons,,,,211.0
-2021,Non-fatal,In number,Persons,Males,,,101.0
-2021,Non-fatal,In number,Persons,Females,,,110.0
-2021,Non-fatal,In number,"pr. 100,000 employee",,,,674.035267058523
-2021,Non-fatal,In number,"pr. 100,000 employee",Males,,,604.75420633495
-2021,Non-fatal,In number,"pr. 100,000 employee",Females,,,753.2698760528659
-2009,Fatal,In number,Persons,,,,1.0
-2009,Fatal,In number,Persons,Males,,,1.0
-2009,Fatal,In number,Persons,Females,,,0.0
-2009,Fatal,In number,"pr. 100,000 employee",,,,3.64723904004668
-2009,Fatal,In number,"pr. 100,000 employee",Males,,,6.74217907227616
-2009,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2010,Fatal,In number,Persons,,,,0.0
-2010,Fatal,In number,Persons,Males,,,0.0
-2010,Fatal,In number,Persons,Females,,,0.0
-2010,Fatal,In number,"pr. 100,000 employee",,,,0.0
-2010,Fatal,In number,"pr. 100,000 employee",Males,,,0.0
-2010,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2011,Fatal,In number,Persons,,,,0.0
-2011,Fatal,In number,Persons,Males,,,0.0
-2011,Fatal,In number,Persons,Females,,,0.0
-2011,Fatal,In number,"pr. 100,000 employee",,,,0.0
-2011,Fatal,In number,"pr. 100,000 employee",Males,,,0.0
-2011,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2012,Fatal,In number,Persons,,,,1.0
-2012,Fatal,In number,Persons,Males,,,1.0
-2012,Fatal,In number,Persons,Females,,,0.0
-2012,Fatal,In number,"pr. 100,000 employee",,,,3.5988051966747
-2012,Fatal,In number,"pr. 100,000 employee",Males,,,6.7258541834813
-2012,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2013,Fatal,In number,Persons,,,,1.0
-2013,Fatal,In number,Persons,Males,,,1.0
-2013,Fatal,In number,Persons,Females,,,0.0
-2013,Fatal,In number,"pr. 100,000 employee",,,,3.64896916621055
-2013,Fatal,In number,"pr. 100,000 employee",Males,,,6.6190097961345
-2013,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2014,Fatal,In number,Persons,,,,1.0
-2014,Fatal,In number,Persons,Males,,,1.0
-2014,Fatal,In number,Persons,Females,,,0.0
-2014,Fatal,In number,"pr. 100,000 employee",,,,3.59776938298255
-2014,Fatal,In number,"pr. 100,000 employee",Males,,,6.55694708543702
-2014,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2015,Fatal,In number,Persons,,,,0.0
-2015,Fatal,In number,Persons,Males,,,0.0
-2015,Fatal,In number,Persons,Females,,,0.0
-2015,Fatal,In number,"pr. 100,000 employee",,,,0.0
-2015,Fatal,In number,"pr. 100,000 employee",Males,,,0.0
-2015,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2016,Fatal,In number,Persons,,,,2.0
-2016,Fatal,In number,Persons,Males,,,2.0
-2016,Fatal,In number,Persons,Females,,,0.0
-2016,Fatal,In number,"pr. 100,000 employee",,,,6.99863526612311
-2016,Fatal,In number,"pr. 100,000 employee",Males,,,12.993762993763
-2016,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2017,Fatal,In number,Persons,,,,0.0
-2017,Fatal,In number,Persons,Males,,,0.0
-2017,Fatal,In number,Persons,Females,,,0.0
-2017,Fatal,In number,"pr. 100,000 employee",,,,0.0
-2017,Fatal,In number,"pr. 100,000 employee",Males,,,0.0
-2017,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2018,Fatal,In number,Persons,,,,1.0
-2018,Fatal,In number,Persons,Males,,,1.0
-2018,Fatal,In number,Persons,Females,,,0.0
-2018,Fatal,In number,"pr. 100,000 employee",,,,3.28180893308392
-2018,Fatal,In number,"pr. 100,000 employee",Males,,,6.07017117882724
-2018,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2019,Fatal,In number,Persons,,,,1.0
-2019,Fatal,In number,Persons,Males,,,0.0
-2019,Fatal,In number,Persons,Females,,,1.0
-2019,Fatal,In number,"pr. 100,000 employee",,,,3.2044092671516
-2019,Fatal,In number,"pr. 100,000 employee",Males,,,0.0
-2019,Fatal,In number,"pr. 100,000 employee",Females,,,6.9357747260369
-2020,Fatal,In number,Persons,,,,3.0
-2020,Fatal,In number,Persons,Males,,,3.0
-2020,Fatal,In number,Persons,Females,,,0.0
-2020,Fatal,In number,"pr. 100,000 employee",,,,9.60338038989724
-2020,Fatal,In number,"pr. 100,000 employee",Males,,,17.8337890857211
-2020,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2021,Fatal,In number,Persons,,,,0.0
-2021,Fatal,In number,Persons,Males,,,0.0
-2021,Fatal,In number,Persons,Females,,,0.0
-2021,Fatal,In number,"pr. 100,000 employee",,,,0.0
-2021,Fatal,In number,"pr. 100,000 employee",Males,,,0.0
-2021,Fatal,In number,"pr. 100,000 employee",Females,,,0.0
-2009,,Persons,,,Lethal,,1.0
-2009,,Persons,,,Lethal,Females,0.0
-2009,,Persons,,,Lethal,Males,1.0
-2009,,Persons,,,Non-lethal,,141.0
-2009,,Persons,,,Non-lethal,Females,68.0
-2009,,Persons,,,Non-lethal,Males,73.0
-2009,,"Per 100,000 employee",,,Lethal,,3.6
-2009,,"Per 100,000 employee",,,Lethal,Females,0.0
-2009,,"Per 100,000 employee",,,Lethal,Males,6.7
-2009,,"Per 100,000 employee",,,Non-lethal,,514.3
-2009,,"Per 100,000 employee",,,Non-lethal,Females,540.3
-2009,,"Per 100,000 employee",,,Non-lethal,Males,492.2
-2010,,Persons,,,Lethal,,0.0
-2010,,Persons,,,Lethal,Females,0.0
-2010,,Persons,,,Lethal,Males,0.0
-2010,,Persons,,,Non-lethal,,83.0
-2010,,Persons,,,Non-lethal,Females,42.0
-2010,,Persons,,,Non-lethal,Males,41.0
-2010,,"Per 100,000 employee",,,Lethal,,0.0
-2010,,"Per 100,000 employee",,,Lethal,Females,0.0
-2010,,"Per 100,000 employee",,,Lethal,Males,0.0
-2010,,"Per 100,000 employee",,,Non-lethal,,314.5
-2010,,"Per 100,000 employee",,,Non-lethal,Females,363.7
-2010,,"Per 100,000 employee",,,Non-lethal,Males,276.3
-2011,,Persons,,,Lethal,,0.0
-2011,,Persons,,,Lethal,Females,0.0
-2011,,Persons,,,Lethal,Males,0.0
-2011,,Persons,,,Non-lethal,,127.0
-2011,,Persons,,,Non-lethal,Females,62.0
-2011,,Persons,,,Non-lethal,Males,65.0
-2011,,"Per 100,000 employee",,,Lethal,,0.0
-2011,,"Per 100,000 employee",,,Lethal,Females,0.0
-2011,,"Per 100,000 employee",,,Lethal,Males,0.0
-2011,,"Per 100,000 employee",,,Non-lethal,,497.5
-2011,,"Per 100,000 employee",,,Non-lethal,Females,530.7
-2011,,"Per 100,000 employee",,,Non-lethal,Males,469.4
-2012,,Persons,,,Lethal,,1.0
-2012,,Persons,,,Lethal,Females,0.0
-2012,,Persons,,,Lethal,Males,1.0
-2012,,Persons,,,Non-lethal,,127.0
-2012,,Persons,,,Non-lethal,Females,57.0
-2012,,Persons,,,Non-lethal,Males,70.0
-2012,,"Per 100,000 employee",,,Lethal,,3.6
-2012,,"Per 100,000 employee",,,Lethal,Females,0.0
-2012,,"Per 100,000 employee",,,Lethal,Males,6.7
-2012,,"Per 100,000 employee",,,Non-lethal,,457.0
-2012,,"Per 100,000 employee",,,Non-lethal,Females,441.2
-2012,,"Per 100,000 employee",,,Non-lethal,Males,470.8
-2013,,Persons,,,Lethal,,1.0
-2013,,Persons,,,Lethal,Females,0.0
-2013,,Persons,,,Lethal,Males,1.0
-2013,,Persons,,,Non-lethal,,145.0
-2013,,Persons,,,Non-lethal,Females,76.0
-2013,,Persons,,,Non-lethal,Males,69.0
-2013,,"Per 100,000 employee",,,Lethal,,3.6
-2013,,"Per 100,000 employee",,,Lethal,Females,0.0
-2013,,"Per 100,000 employee",,,Lethal,Males,6.6
-2013,,"Per 100,000 employee",,,Non-lethal,,529.1
-2013,,"Per 100,000 employee",,,Non-lethal,Females,618.1
-2013,,"Per 100,000 employee",,,Non-lethal,Males,456.7
-2014,,Persons,,,Lethal,,1.0
-2014,,Persons,,,Lethal,Females,0.0
-2014,,Persons,,,Lethal,Males,1.0
-2014,,Persons,,,Non-lethal,,168.0
-2014,,Persons,,,Non-lethal,Females,91.0
-2014,,Persons,,,Non-lethal,Males,77.0
-2014,,"Per 100,000 employee",,,Lethal,,3.6
-2014,,"Per 100,000 employee",,,Lethal,Females,0.0
-2014,,"Per 100,000 employee",,,Lethal,Males,6.6
-2014,,"Per 100,000 employee",,,Non-lethal,,604.4
-2014,,"Per 100,000 employee",,,Non-lethal,Females,725.4
-2014,,"Per 100,000 employee",,,Non-lethal,Males,504.9
-2015,,Persons,,,Lethal,,0.0
-2015,,Persons,,,Lethal,Females,0.0
-2015,,Persons,,,Lethal,Males,0.0
-2015,,Persons,,,Non-lethal,,188.0
-2015,,Persons,,,Non-lethal,Females,74.0
-2015,,Persons,,,Non-lethal,Males,114.0
-2015,,"Per 100,000 employee",,,Lethal,,0.0
-2015,,"Per 100,000 employee",,,Lethal,Females,0.0
-2015,,"Per 100,000 employee",,,Lethal,Males,0.0
-2015,,"Per 100,000 employee",,,Non-lethal,,658.2
-2015,,"Per 100,000 employee",,,Non-lethal,Females,565.1
-2015,,"Per 100,000 employee",,,Non-lethal,Males,737.0
-2016,,Persons,,,Lethal,,2.0
-2016,,Persons,,,Lethal,Females,0.0
-2016,,Persons,,,Lethal,Males,2.0
-2016,,Persons,,,Non-lethal,,186.0
-2016,,Persons,,,Non-lethal,Females,76.0
-2016,,Persons,,,Non-lethal,Males,110.0
-2016,,"Per 100,000 employee",,,Lethal,,7.0
-2016,,"Per 100,000 employee",,,Lethal,Females,0.0
-2016,,"Per 100,000 employee",,,Lethal,Males,13.0
-2016,,"Per 100,000 employee",,,Non-lethal,,650.9
-2016,,"Per 100,000 employee",,,Non-lethal,Females,576.4
-2016,,"Per 100,000 employee",,,Non-lethal,Males,714.7
-2017,,Persons,,,Lethal,,0.0
-2017,,Persons,,,Lethal,Females,0.0
-2017,,Persons,,,Lethal,Males,0.0
-2017,,Persons,,,Non-lethal,,178.0
-2017,,Persons,,,Non-lethal,Females,56.0
-2017,,Persons,,,Non-lethal,Males,122.0
-2017,,"Per 100,000 employee",,,Lethal,,0.0
-2017,,"Per 100,000 employee",,,Lethal,Females,0.0
-2017,,"Per 100,000 employee",,,Lethal,Males,0.0
-2017,,"Per 100,000 employee",,,Non-lethal,,610.8
-2017,,"Per 100,000 employee",,,Non-lethal,Females,413.3
-2017,,"Per 100,000 employee",,,Non-lethal,Males,782.5
-2018,,Persons,,,Lethal,,1.0
-2018,,Persons,,,Lethal,Females,0.0
-2018,,Persons,,,Lethal,Males,1.0
-2018,,Persons,,,Non-lethal,,216.0
-2018,,Persons,,,Non-lethal,Females,84.0
-2018,,Persons,,,Non-lethal,Males,132.0
-2018,,"Per 100,000 employee",,,Lethal,,3.3
-2018,,"Per 100,000 employee",,,Lethal,Females,0.0
-2018,,"Per 100,000 employee",,,Lethal,Males,6.1
-2018,,"Per 100,000 employee",,,Non-lethal,,708.9
-2018,,"Per 100,000 employee",,,Non-lethal,Females,600.1
-2018,,"Per 100,000 employee",,,Non-lethal,Males,801.3
-2019,,Persons,,,Lethal,,1.0
-2019,,Persons,,,Lethal,Females,1.0
-2019,,Persons,,,Lethal,Males,0.0
-2019,,Persons,,,Non-lethal,,227.0
-2019,,Persons,,,Non-lethal,Females,108.0
-2019,,Persons,,,Non-lethal,Males,119.0
-2019,,"Per 100,000 employee",,,Lethal,,3.2
-2019,,"Per 100,000 employee",,,Lethal,Females,6.9
-2019,,"Per 100,000 employee",,,Lethal,Males,0.0
-2019,,"Per 100,000 employee",,,Non-lethal,,727.4
-2019,,"Per 100,000 employee",,,Non-lethal,Females,749.1
-2019,,"Per 100,000 employee",,,Non-lethal,Males,708.8
-2020,,Persons,,,Lethal,,3.0
-2020,,Persons,,,Lethal,Females,0.0
-2020,,Persons,,,Lethal,Males,3.0
-2020,,Persons,,,Non-lethal,,173.0
-2020,,Persons,,,Non-lethal,Females,70.0
-2020,,Persons,,,Non-lethal,Males,103.0
-2020,,"Per 100,000 employee",,,Lethal,,9.6
-2020,,"Per 100,000 employee",,,Lethal,Females,0.0
-2020,,"Per 100,000 employee",,,Lethal,Males,17.8
-2020,,"Per 100,000 employee",,,Non-lethal,,553.8
-2020,,"Per 100,000 employee",,,Non-lethal,Females,485.5
-2020,,"Per 100,000 employee",,,Non-lethal,Males,612.3
-2021,,Persons,,,Lethal,,0.0
-2021,,Persons,,,Lethal,Females,0.0
-2021,,Persons,,,Lethal,Males,0.0
-2021,,Persons,,,Non-lethal,,211.0
-2021,,Persons,,,Non-lethal,Females,110.0
-2021,,Persons,,,Non-lethal,Males,101.0
-2021,,"Per 100,000 employee",,,Lethal,,0.0
-2021,,"Per 100,000 employee",,,Lethal,Females,0.0
-2021,,"Per 100,000 employee",,,Lethal,Males,0.0
-2021,,"Per 100,000 employee",,,Non-lethal,,674.0
-2021,,"Per 100,000 employee",,,Non-lethal,Females,753.3
-2021,,"Per 100,000 employee",,,Non-lethal,Males,604.8
+Year,outcome,Units,Series,sex,Value
+2009,Non-fatal,In number,Persons,,140.0
+2009,Non-fatal,In number,Persons,Males,72.0
+2009,Non-fatal,In number,Persons,Females,68.0
+2009,Non-fatal,In number,"pr. 100,000 employee",,510.613465606536
+2009,Non-fatal,In number,"pr. 100,000 employee",Males,485.436893203884
+2009,Non-fatal,In number,"pr. 100,000 employee",Females,540.282853964723
+2010,Non-fatal,In number,Persons,,83.0
+2010,Non-fatal,In number,Persons,Males,41.0
+2010,Non-fatal,In number,Persons,Females,42.0
+2010,Non-fatal,In number,"pr. 100,000 employee",,314.536910716993
+2010,Non-fatal,In number,"pr. 100,000 employee",Males,276.298941977222
+2010,Non-fatal,In number,"pr. 100,000 employee",Females,363.667850030306
+2011,Non-fatal,In number,Persons,,127.0
+2011,Non-fatal,In number,Persons,Males,65.0
+2011,Non-fatal,In number,Persons,Females,62.0
+2011,Non-fatal,In number,"pr. 100,000 employee",,497.492948918834
+2011,Non-fatal,In number,"pr. 100,000 employee",Males,469.449660551784
+2011,Non-fatal,In number,"pr. 100,000 employee",Females,530.731039205616
+2012,Non-fatal,In number,Persons,,126.0
+2012,Non-fatal,In number,Persons,Males,69.0
+2012,Non-fatal,In number,Persons,Females,57.0
+2012,Non-fatal,In number,"pr. 100,000 employee",,453.44945478101295
+2012,Non-fatal,In number,"pr. 100,000 employee",Males,464.08393866021
+2012,Non-fatal,In number,"pr. 100,000 employee",Females,441.210620017029
+2013,Non-fatal,In number,Persons,,144.0
+2013,Non-fatal,In number,Persons,Males,68.0
+2013,Non-fatal,In number,Persons,Females,76.0
+2013,Non-fatal,In number,"pr. 100,000 employee",,525.451559934319
+2013,Non-fatal,In number,"pr. 100,000 employee",Males,450.092666137146
+2013,Non-fatal,In number,"pr. 100,000 employee",Females,618.087182823682
+2014,Non-fatal,In number,Persons,,167.0
+2014,Non-fatal,In number,Persons,Males,76.0
+2014,Non-fatal,In number,Persons,Females,91.0
+2014,Non-fatal,In number,"pr. 100,000 employee",,600.827486958086
+2014,Non-fatal,In number,"pr. 100,000 employee",Males,498.327978493214
+2014,Non-fatal,In number,"pr. 100,000 employee",Females,725.446428571428
+2015,Non-fatal,In number,Persons,,188.0
+2015,Non-fatal,In number,Persons,Males,114.0
+2015,Non-fatal,In number,Persons,Females,74.0
+2015,Non-fatal,In number,"pr. 100,000 employee",,658.1941672793471
+2015,Non-fatal,In number,"pr. 100,000 employee",Males,736.957786540824
+2015,Non-fatal,In number,"pr. 100,000 employee",Females,565.144340919505
+2016,Non-fatal,In number,Persons,,184.0
+2016,Non-fatal,In number,Persons,Males,108.0
+2016,Non-fatal,In number,Persons,Females,76.0
+2016,Non-fatal,In number,"pr. 100,000 employee",,643.874444483326
+2016,Non-fatal,In number,"pr. 100,000 employee",Males,701.663201663202
+2016,Non-fatal,In number,"pr. 100,000 employee",Females,576.412590064467
+2017,Non-fatal,In number,Persons,,178.0
+2017,Non-fatal,In number,Persons,Males,122.0
+2017,Non-fatal,In number,Persons,Females,56.0
+2017,Non-fatal,In number,"pr. 100,000 employee",,610.844200411805
+2017,Non-fatal,In number,"pr. 100,000 employee",Males,782.452539763982
+2017,Non-fatal,In number,"pr. 100,000 employee",Females,413.345143194568
+2018,Non-fatal,In number,Persons,,215.0
+2018,Non-fatal,In number,Persons,Males,131.0
+2018,Non-fatal,In number,Persons,Females,84.0
+2018,Non-fatal,In number,"pr. 100,000 employee",,705.588920613042
+2018,Non-fatal,In number,"pr. 100,000 employee",Males,795.1924244263689
+2018,Non-fatal,In number,"pr. 100,000 employee",Females,600.128598985497
+2019,Non-fatal,In number,Persons,,226.0
+2019,Non-fatal,In number,Persons,Males,119.0
+2019,Non-fatal,In number,Persons,Females,107.0
+2019,Non-fatal,In number,"pr. 100,000 employee",,724.1964943762621
+2019,Non-fatal,In number,"pr. 100,000 employee",Males,708.797426886652
+2019,Non-fatal,In number,"pr. 100,000 employee",Females,742.127895685948
+2020,Non-fatal,In number,Persons,,170.0
+2020,Non-fatal,In number,Persons,Males,100.0
+2020,Non-fatal,In number,Persons,Females,70.0
+2020,Non-fatal,In number,"pr. 100,000 employee",,544.19155542751
+2020,Non-fatal,In number,"pr. 100,000 employee",Males,594.459636190703
+2020,Non-fatal,In number,"pr. 100,000 employee",Females,485.53790663799697
+2021,Non-fatal,In number,Persons,,211.0
+2021,Non-fatal,In number,Persons,Males,101.0
+2021,Non-fatal,In number,Persons,Females,110.0
+2021,Non-fatal,In number,"pr. 100,000 employee",,674.035267058523
+2021,Non-fatal,In number,"pr. 100,000 employee",Males,604.75420633495
+2021,Non-fatal,In number,"pr. 100,000 employee",Females,753.2698760528659
+2009,Fatal,In number,Persons,,1.0
+2009,Fatal,In number,Persons,Males,1.0
+2009,Fatal,In number,Persons,Females,0.0
+2009,Fatal,In number,"pr. 100,000 employee",,3.64723904004668
+2009,Fatal,In number,"pr. 100,000 employee",Males,6.74217907227616
+2009,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2010,Fatal,In number,Persons,,0.0
+2010,Fatal,In number,Persons,Males,0.0
+2010,Fatal,In number,Persons,Females,0.0
+2010,Fatal,In number,"pr. 100,000 employee",,0.0
+2010,Fatal,In number,"pr. 100,000 employee",Males,0.0
+2010,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2011,Fatal,In number,Persons,,0.0
+2011,Fatal,In number,Persons,Males,0.0
+2011,Fatal,In number,Persons,Females,0.0
+2011,Fatal,In number,"pr. 100,000 employee",,0.0
+2011,Fatal,In number,"pr. 100,000 employee",Males,0.0
+2011,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2012,Fatal,In number,Persons,,1.0
+2012,Fatal,In number,Persons,Males,1.0
+2012,Fatal,In number,Persons,Females,0.0
+2012,Fatal,In number,"pr. 100,000 employee",,3.5988051966747
+2012,Fatal,In number,"pr. 100,000 employee",Males,6.7258541834813
+2012,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2013,Fatal,In number,Persons,,1.0
+2013,Fatal,In number,Persons,Males,1.0
+2013,Fatal,In number,Persons,Females,0.0
+2013,Fatal,In number,"pr. 100,000 employee",,3.64896916621055
+2013,Fatal,In number,"pr. 100,000 employee",Males,6.6190097961345
+2013,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2014,Fatal,In number,Persons,,1.0
+2014,Fatal,In number,Persons,Males,1.0
+2014,Fatal,In number,Persons,Females,0.0
+2014,Fatal,In number,"pr. 100,000 employee",,3.59776938298255
+2014,Fatal,In number,"pr. 100,000 employee",Males,6.55694708543702
+2014,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2015,Fatal,In number,Persons,,0.0
+2015,Fatal,In number,Persons,Males,0.0
+2015,Fatal,In number,Persons,Females,0.0
+2015,Fatal,In number,"pr. 100,000 employee",,0.0
+2015,Fatal,In number,"pr. 100,000 employee",Males,0.0
+2015,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2016,Fatal,In number,Persons,,2.0
+2016,Fatal,In number,Persons,Males,2.0
+2016,Fatal,In number,Persons,Females,0.0
+2016,Fatal,In number,"pr. 100,000 employee",,6.99863526612311
+2016,Fatal,In number,"pr. 100,000 employee",Males,12.993762993763
+2016,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2017,Fatal,In number,Persons,,0.0
+2017,Fatal,In number,Persons,Males,0.0
+2017,Fatal,In number,Persons,Females,0.0
+2017,Fatal,In number,"pr. 100,000 employee",,0.0
+2017,Fatal,In number,"pr. 100,000 employee",Males,0.0
+2017,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2018,Fatal,In number,Persons,,1.0
+2018,Fatal,In number,Persons,Males,1.0
+2018,Fatal,In number,Persons,Females,0.0
+2018,Fatal,In number,"pr. 100,000 employee",,3.28180893308392
+2018,Fatal,In number,"pr. 100,000 employee",Males,6.07017117882724
+2018,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2019,Fatal,In number,Persons,,1.0
+2019,Fatal,In number,Persons,Males,0.0
+2019,Fatal,In number,Persons,Females,1.0
+2019,Fatal,In number,"pr. 100,000 employee",,3.2044092671516
+2019,Fatal,In number,"pr. 100,000 employee",Males,0.0
+2019,Fatal,In number,"pr. 100,000 employee",Females,6.9357747260369
+2020,Fatal,In number,Persons,,3.0
+2020,Fatal,In number,Persons,Males,3.0
+2020,Fatal,In number,Persons,Females,0.0
+2020,Fatal,In number,"pr. 100,000 employee",,9.60338038989724
+2020,Fatal,In number,"pr. 100,000 employee",Males,17.8337890857211
+2020,Fatal,In number,"pr. 100,000 employee",Females,0.0
+2021,Fatal,In number,Persons,,0.0
+2021,Fatal,In number,Persons,Males,0.0
+2021,Fatal,In number,Persons,Females,0.0
+2021,Fatal,In number,"pr. 100,000 employee",,0.0
+2021,Fatal,In number,"pr. 100,000 employee",Males,0.0
+2021,Fatal,In number,"pr. 100,000 employee",Females,0.0

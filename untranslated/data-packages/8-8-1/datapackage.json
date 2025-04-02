@@ -31,8 +31,6 @@
             "constraints": {
               "enum": [
                 "NO",
-                "data.persons",
-                "data.pr100000",
                 ""
               ]
             }
@@ -55,28 +53,6 @@
               "enum": [
                 "M",
                 "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.lethal",
-                "data.non-lethal",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.female",
-                "data.male",
                 ""
               ]
             }

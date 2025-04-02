@@ -33,8 +33,6 @@
             "constraints": {
               "enum": [
                 "Í tali",
-                "Persónar",
-                "Pr. 100.000 arbeiðsvirkin",
                 ""
               ]
             },
@@ -59,30 +57,6 @@
               "enum": [
                 "Menn",
                 "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "data.outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deyðilig",
-                "Ikki-deyðilig",
-                ""
-              ]
-            },
-            "title": "Avleiðing"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kvinnur",
-                "Menn",
                 ""
               ]
             },

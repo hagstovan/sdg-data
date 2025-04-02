@@ -58,29 +58,6 @@
             }
           },
           {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.15-24years",
-                "data.15-19years",
-                "data.20-24years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.male",
-                "data.female",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

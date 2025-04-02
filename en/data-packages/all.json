@@ -1470,31 +1470,6 @@
             "title": "unit"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-54 years",
-                "55-74 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1566,31 +1541,6 @@
             "title": "Sex"
           },
           {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "15-19 years",
-                "20-24 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1632,8 +1582,6 @@
             "constraints": {
               "enum": [
                 "In number",
-                "Persons",
-                "Per 100,000 employee",
                 ""
               ]
             },
@@ -1658,30 +1606,6 @@
               "enum": [
                 "Males",
                 "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "data.outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lethal",
-                "Non-lethal",
-                ""
-              ]
-            },
-            "title": "Outcome"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Females",
-                "Males",
                 ""
               ]
             },

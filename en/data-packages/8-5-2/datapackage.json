@@ -64,31 +64,6 @@
             "title": "unit"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-54 years",
-                "55-74 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
