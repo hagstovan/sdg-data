@@ -36,9 +36,6 @@
             "constraints": {
               "enum": [
                 "1,000 tonnes",
-                "Domestic material consumption (1,000 tonnes)",
-                "Domestic material consumption per capita (1,000 tonnes)",
-                "Domestic material consumption per unit of real-GDP (1,000 tonnes)",
                 ""
               ]
             },
@@ -56,20 +53,6 @@
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biomass",
-                "Metallic minerals",
-                "Non-metallic minerals",
-                "Fossil energy and other products",
-                ""
-              ]
-            },
-            "title": "Material type"
           },
           {
             "name": "Value",

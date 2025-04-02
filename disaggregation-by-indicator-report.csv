@@ -33,7 +33,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-2,"Position, Public/private",2
 #7-2-1,renewable energy source,1
 #7-b-1,energy source,1
-#8-4-2,"material type, data.materialtype",2
+#8-4-2,material type,1
 #8-5-2,"sex, age, data.age, data.sex",4
 #8-6-1,"sex, age, data.age, data.sex",4
 #8-8-1,"sex, data.sex, outcome, data.outcome",4

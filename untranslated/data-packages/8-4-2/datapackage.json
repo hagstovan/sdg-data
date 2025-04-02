@@ -34,9 +34,6 @@
             "constraints": {
               "enum": [
                 "TON",
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofrealgdp",
                 ""
               ]
             }
@@ -49,19 +46,6 @@
                 "EN_MAT_DOMCMPT",
                 "EN_MAT_DOMCMPC",
                 "EN_MAT_DOMCMPG",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
                 ""
               ]
             }
