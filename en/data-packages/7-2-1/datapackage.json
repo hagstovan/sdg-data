@@ -16,6 +16,46 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed renewable energy-generating capacity (in watts per capita)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "renewable energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total renewable energy source",
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Ocean",
+                "Biofuel",
+                "Solid waste",
+                "Heat pumps",
+                ""
+              ]
+            },
+            "title": "renewable energy source"
+          },
+          {
             "name": "data.renewablesource",
             "type": "string",
             "constraints": {

@@ -15,6 +15,43 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_FEC_RNEW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "renewable energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "HYDRO",
+                "WIND",
+                "SOLAR",
+                "OCEAN",
+                "BIOFUEL",
+                "SOLIDWASTE",
+                "HEATPUMPS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.renewablesource",
             "type": "string",
             "constraints": {

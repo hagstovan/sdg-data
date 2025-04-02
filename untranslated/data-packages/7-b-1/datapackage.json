@@ -15,6 +15,42 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WATTS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_EGY_RNEW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "HYDRO",
+                "WIND",
+                "SOLAR",
+                "OCEAN",
+                "BIOFUEL",
+                "GEO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.energysource",
             "type": "string",
             "constraints": {
