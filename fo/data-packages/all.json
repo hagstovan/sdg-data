@@ -333,7 +333,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -406,7 +406,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
