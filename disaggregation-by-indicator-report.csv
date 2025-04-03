@@ -25,7 +25,6 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-2,"sex, Education, data.education, data.sex",4
 #4-2-2,"sex, data.sex",2
 #4-b-1,data.measure,1
-#5-3-1,data.age,1
 #5-4-1,"data.sex, data.age, data.location",3
 #5-5-1,party,1
 #5-5-2,"Position, Public/private",2

@@ -36,17 +36,6 @@
             }
           },
           {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.15-17years",
-                "data.00-14years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -39,18 +39,6 @@
             "title": "mát"
           },
           {
-            "name": "data.age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-17 ár",
-                "yngri enn 15 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
