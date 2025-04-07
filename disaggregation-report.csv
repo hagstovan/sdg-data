@@ -9,7 +9,6 @@ data.frequencyofchlorophyll-aconcentration,1,3
 data.growthrateofdisposableincome,1,1
 data.importexport,1,2
 data.location,2,6
-data.mainsource,1,2
 data.materialtype,1,4
 data.measure,4,29
 data.nutrient,1,3
@@ -30,4 +29,4 @@ Position,1,2
 Public/private,1,2
 renewable energy source,1,8
 sex,10,3
-source,1,15
+source,1,9

@@ -40,12 +40,6 @@
                 " - Bunkring",
                 " - - Flogfør",
                 " - - Skip",
-                "El- og hitaframleiðsla",
-                "Framleiðslu- og byggivinna",
-                "Flutningsvinna",
-                "Aðrar vinnur",
-                "Flogfør",
-                "Skip",
                 ""
               ]
             },
@@ -61,18 +55,6 @@
               ]
             },
             "title": "eind"
-          },
-          {
-            "name": "data.mainsource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nýtsla av brennievni",
-                "Bunkring",
-                ""
-              ]
-            },
-            "title": "Høvuðskelda"
           },
           {
             "name": "Value",

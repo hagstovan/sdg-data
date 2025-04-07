@@ -1970,12 +1970,6 @@
                 " - International bunkers",
                 " - - Aviation",
                 " - - Navigation",
-                "Energy industries",
-                "Manufacturing industries and construction",
-                "Transport sector",
-                "Other sectors",
-                "Aviation",
-                "Navigation",
                 ""
               ]
             },
@@ -1991,18 +1985,6 @@
               ]
             },
             "title": "unit"
-          },
-          {
-            "name": "data.mainsource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fuel combustion",
-                "International Bunkers",
-                ""
-              ]
-            },
-            "title": "Main source"
           },
           {
             "name": "Value",

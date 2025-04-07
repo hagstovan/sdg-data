@@ -38,12 +38,6 @@
                 "BUNKERS",
                 "AVI",
                 "NAVI",
-                "data.energyindustries",
-                "data.manufacturingindustriesandconstruction",
-                "data.transportsector",
-                "data.othersectors",
-                "data.aviation",
-                "data.navigation",
                 ""
               ]
             }
@@ -54,17 +48,6 @@
             "constraints": {
               "enum": [
                 "MIO_TON",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.mainsource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.fuelcombustion",
-                "data.bunkers",
                 ""
               ]
             }
