@@ -1676,19 +1676,6 @@
               "enum": [
                 "DKKPRCAP",
                 "PCT",
-                "data.percent",
-                "data.dkkpercapita",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.manufacturingvalueaddedasaproportionofgdp",
-                "data.manufacturingvalueaddedpercapita",
                 ""
               ]
             }

@@ -34,24 +34,10 @@
               "enum": [
                 "DKK per capita",
                 "pct.",
-                "per cent",
-                "DKK per capita",
                 ""
               ]
             },
             "title": "unit"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP",
-                "Manufacturing value added per capita",
-                ""
-              ]
-            },
-            "title": "Measure"
           },
           {
             "name": "Value",
