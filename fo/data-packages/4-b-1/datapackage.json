@@ -38,17 +38,6 @@
             "title": "mát"
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstuðul latin sum lestrarstuðul",
-                ""
-              ]
-            },
-            "title": "Mát"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

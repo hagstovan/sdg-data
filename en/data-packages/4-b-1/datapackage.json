@@ -38,17 +38,6 @@
             "title": "measure"
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official development assistance for scholarships",
-                ""
-              ]
-            },
-            "title": "Measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

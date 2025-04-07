@@ -862,18 +862,6 @@
             "title": "Kyn"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -918,17 +906,6 @@
               ]
             },
             "title": "mát"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstuðul latin sum lestrarstuðul",
-                ""
-              ]
-            },
-            "title": "Mát"
           },
           {
             "name": "Value",

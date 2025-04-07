@@ -1,40 +1,19 @@
-Year,Units,Series,kyn,Kyn,Value
-2015,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,,92.571428571429
-2015,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,,92.91553133515
-2015,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,,92.192192192192
-2016,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,,93.082706766917
-2016,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,,91.168091168091
-2016,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,,95.222929936306
-2017,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,,101.144492131617
-2017,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,,106.779661016949
-2017,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,,95.36231884058
-2019,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,,99.572039942939
-2019,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,,95.135135135135
-2019,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,,104.531722054381
-2020,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,,96.148555708391
-2020,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,,95.800524934383
-2020,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,,96.531791907514
-2021,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,,99.588477366255
-2021,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,,96.961325966851
-2021,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,,102.179836512262
-2015,,,,,100.5
-2015,,,,Menn,97.7
-2015,,,,Kvinnur,103.7
-2016,,,,,89.5
-2016,,,,Menn,87.9
-2016,,,,Kvinnur,91.2
-2017,,,,,102.6
-2017,,,,Menn,108.6
-2017,,,,Kvinnur,96.5
-2018,,,,,
-2018,,,,Menn,
-2018,,,,Kvinnur,
-2019,,,,,96.3
-2019,,,,Menn,92.6
-2019,,,,Kvinnur,100.3
-2020,,,,,95.4
-2020,,,,Menn,98.9
-2020,,,,Kvinnur,91.8
-2021,,,,,96.9
-2021,,,,Menn,93.4
-2021,,,,Kvinnur,100.5
+Year,Units,Series,kyn,Value
+2015,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,92.571428571429
+2015,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,92.91553133515
+2015,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,92.192192192192
+2016,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,93.082706766917
+2016,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,91.168091168091
+2016,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,95.222929936306
+2017,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,101.144492131617
+2017,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,106.779661016949
+2017,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,95.36231884058
+2019,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,99.572039942939
+2019,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,95.135135135135
+2019,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,104.531722054381
+2020,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,96.148555708391
+2020,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,95.800524934383
+2020,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,96.531791907514
+2021,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",,99.588477366255
+2021,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Menn,96.961325966851
+2021,%,"Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",Kvinnur,102.179836512262

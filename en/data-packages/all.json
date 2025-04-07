@@ -862,18 +862,6 @@
             "title": "Sex"
           },
           {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -918,17 +906,6 @@
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official development assistance for scholarships",
-                ""
-              ]
-            },
-            "title": "Measure"
           },
           {
             "name": "Value",
