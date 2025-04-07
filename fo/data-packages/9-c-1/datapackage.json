@@ -16,6 +16,29 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3G fartelefonnet ella betri",
+                "4G fartelefonnet ella betri",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "data.technology",
             "type": "string",
             "constraints": {
@@ -29,7 +52,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

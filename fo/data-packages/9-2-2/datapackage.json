@@ -16,6 +16,28 @@
             "title": "Ár"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeiðsvirkin í framsluvinnuni sum partur av arbeiðsvirknum tilsamans",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

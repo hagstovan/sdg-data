@@ -1,40 +1,79 @@
-Year,Value
-1985,97.14
-1986,97.15
-1987,97.18
-1988,97.21
-1989,97.23
-1990,97.28
-1991,97.26
-1992,97.26
-1993,97.23
-1994,97.16
-1995,97.28
-1996,97.29
-1997,97.35
-1998,97.25
-1999,97.29
-2000,97.38
-2001,97.3
-2002,97.39
-2003,97.44
-2004,97.58
-2005,97.64
-2006,97.69
-2007,97.73
-2008,97.73
-2009,97.89
-2010,97.91
-2011,97.99
-2012,98.12
-2013,98.17
-2014,98.19
-2015,98.21
-2016,98.25
-2017,98.27
-2018,98.31
-2019,98.35
-2020,98.36
-2021,98.3
-2022,98.37
-2023,98.38
+Year,Units,Series,Value
+1985,In number,Proportion of the rural population who live within 2 km of an all-season road,97.138692850568
+1986,In number,Proportion of the rural population who live within 2 km of an all-season road,97.148100007646
+1987,In number,Proportion of the rural population who live within 2 km of an all-season road,97.182349813929
+1988,In number,Proportion of the rural population who live within 2 km of an all-season road,97.212609088173
+1989,In number,Proportion of the rural population who live within 2 km of an all-season road,97.228723206657
+1990,In number,Proportion of the rural population who live within 2 km of an all-season road,97.279619444032
+1991,In number,Proportion of the rural population who live within 2 km of an all-season road,97.264346190028
+1992,In number,Proportion of the rural population who live within 2 km of an all-season road,97.263126017337
+1993,In number,Proportion of the rural population who live within 2 km of an all-season road,97.230309531106
+1994,In number,Proportion of the rural population who live within 2 km of an all-season road,97.160783067943
+1995,In number,Proportion of the rural population who live within 2 km of an all-season road,97.276328821393
+1996,In number,Proportion of the rural population who live within 2 km of an all-season road,97.290052356021
+1997,In number,Proportion of the rural population who live within 2 km of an all-season road,97.354056419017
+1998,In number,Proportion of the rural population who live within 2 km of an all-season road,97.250361794501
+1999,In number,Proportion of the rural population who live within 2 km of an all-season road,97.291529875246
+2000,In number,Proportion of the rural population who live within 2 km of an all-season road,97.377543945512
+2001,In number,Proportion of the rural population who live within 2 km of an all-season road,97.300228998433
+2002,In number,Proportion of the rural population who live within 2 km of an all-season road,97.393700787402
+2003,In number,Proportion of the rural population who live within 2 km of an all-season road,97.435996896819
+2004,In number,Proportion of the rural population who live within 2 km of an all-season road,97.577881320035
+2005,In number,Proportion of the rural population who live within 2 km of an all-season road,97.641491285445
+2006,In number,Proportion of the rural population who live within 2 km of an all-season road,97.691950823475
+2007,In number,Proportion of the rural population who live within 2 km of an all-season road,97.731205537397
+2008,In number,Proportion of the rural population who live within 2 km of an all-season road,97.727535338751
+2009,In number,Proportion of the rural population who live within 2 km of an all-season road,97.885486223041
+2010,In number,Proportion of the rural population who live within 2 km of an all-season road,97.911743055287
+2011,In number,Proportion of the rural population who live within 2 km of an all-season road,97.985611510791
+2012,In number,Proportion of the rural population who live within 2 km of an all-season road,98.12230497844
+2013,In number,Proportion of the rural population who live within 2 km of an all-season road,98.172251453891
+2014,In number,Proportion of the rural population who live within 2 km of an all-season road,98.190063248339
+2015,In number,Proportion of the rural population who live within 2 km of an all-season road,98.213581512738
+2016,In number,Proportion of the rural population who live within 2 km of an all-season road,98.249941273197
+2017,In number,Proportion of the rural population who live within 2 km of an all-season road,98.27145182544
+2018,In number,Proportion of the rural population who live within 2 km of an all-season road,98.310063324941
+2019,In number,Proportion of the rural population who live within 2 km of an all-season road,98.354420846513
+2020,In number,Proportion of the rural population who live within 2 km of an all-season road,98.355299795805
+2021,In number,Proportion of the rural population who live within 2 km of an all-season road,98.303159129224
+2023,In number,Proportion of the rural population who live within 2 km of an all-season road,98.369466535933
+2022,In number,Proportion of the rural population who live within 2 km of an all-season road,98.383263718854
+1985,,,97.14
+1986,,,97.15
+1987,,,97.18
+1988,,,97.21
+1989,,,97.23
+1990,,,97.28
+1991,,,97.26
+1992,,,97.26
+1993,,,97.23
+1994,,,97.16
+1995,,,97.28
+1996,,,97.29
+1997,,,97.35
+1998,,,97.25
+1999,,,97.29
+2000,,,97.38
+2001,,,97.3
+2002,,,97.39
+2003,,,97.44
+2004,,,97.58
+2005,,,97.64
+2006,,,97.69
+2007,,,97.73
+2008,,,97.73
+2009,,,97.89
+2010,,,97.91
+2011,,,97.99
+2012,,,98.12
+2013,,,98.17
+2014,,,98.19
+2015,,,98.21
+2016,,,98.25
+2017,,,98.27
+2018,,,98.31
+2019,,,98.35
+2020,,,98.36
+2021,,,98.3
+2022,,,98.37
+2023,,,98.38

@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_ROD_R2KM",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
