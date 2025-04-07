@@ -1,7 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
+AVI,1,1
+BUNKERS,1,1
 data.aviation,1,1
 data.energyindustries,1,1
 data.manufacturingindustriesandconstruction,1,1
 data.navigation,1,1
 data.othersectors,1,1
 data.transportsector,1,1
+ENERGY,1,1
+FUEL,1,1
+MANUFACT,1,1
+NAVI,1,1
+OTHER,1,1
+TOTAL,1,1
+TRANSPORT,1,1

@@ -15,12 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "data.mainsource",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.fuelcombustion",
-                "data.bunkers",
+                "SI_POV_NAHC",
                 ""
               ]
             }
@@ -30,12 +29,42 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "TOTAL",
+                "FUEL",
+                "ENERGY",
+                "MANUFACT",
+                "TRANSPORT",
+                "OTHER",
+                "BUNKERS",
+                "AVI",
+                "NAVI",
                 "data.energyindustries",
                 "data.manufacturingindustriesandconstruction",
                 "data.transportsector",
                 "data.othersectors",
                 "data.aviation",
                 "data.navigation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MIO_TON",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.fuelcombustion",
+                "data.bunkers",
                 ""
               ]
             }

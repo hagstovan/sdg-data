@@ -22,7 +22,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population living below the national poverty line",
+                "Carbon dioxide emissions from fuel combustion",
                 ""
               ]
             },
@@ -1931,6 +1931,89 @@
       "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
     },
     {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions from fuel combustion",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total fuel combustion",
+                " - Fuel combustion",
+                " - - Energy industries",
+                " - - Manufacturing industries and construction",
+                " - - Transport",
+                " - - Other sectors",
+                " - International bunkers",
+                " - - Aviation",
+                " - - Navigation",
+                "Energy industries",
+                "Manufacturing industries and construction",
+                "Transport sector",
+                "Other sectors",
+                "Aviation",
+                "Navigation",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fuel combustion",
+                "International Bunkers",
+                ""
+              ]
+            },
+            "title": "Main source"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "CO2 emission per unit of value added"
+    },
+    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -2059,18 +2142,6 @@
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least a 3G mobile network",
-                "At least a 4G mobile network",
-                ""
-              ]
-            },
-            "title": "Technology"
           },
           {
             "name": "Value",
@@ -2339,58 +2410,6 @@
         ]
       },
       "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
-    },
-    {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.mainsource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fuel combustion",
-                "International Bunkers",
-                ""
-              ]
-            },
-            "title": "Main source"
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Energy industries",
-                "Manufacturing industries and construction",
-                "Transport sector",
-                "Other sectors",
-                "Aviation",
-                "Navigation",
-                ""
-              ]
-            },
-            "title": "Source"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "12-5-1/data.csv",

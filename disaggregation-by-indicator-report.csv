@@ -33,5 +33,4 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-2,"sex, age",2
 #8-6-1,"sex, age",2
 #8-8-1,"sex, outcome",2
-#9-4-1,"data.mainsource, source",2
-#9-c-1,data.technology,1
+#9-4-1,"source, data.mainsource",2

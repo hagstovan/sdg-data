@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",
+                "Útlát av koltvísúrni frá nýtslu av brennievni",
                 ""
               ]
             },

@@ -1773,6 +1773,83 @@
       "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
     },
     {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_NAHC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "FUEL",
+                "ENERGY",
+                "MANUFACT",
+                "TRANSPORT",
+                "OTHER",
+                "BUNKERS",
+                "AVI",
+                "NAVI",
+                "data.energyindustries",
+                "data.manufacturingindustriesandconstruction",
+                "data.transportsector",
+                "data.othersectors",
+                "data.aviation",
+                "data.navigation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MIO_TON",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.fuelcombustion",
+                "data.bunkers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "CO2 emission per unit of value added"
+    },
+    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -1887,17 +1964,6 @@
               "enum": [
                 "IT_MOB_3GNTWK",
                 "IT_MOB_4GNTWK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.3gmobntwk",
-                "data.4gmobntwk",
                 ""
               ]
             }
@@ -2147,54 +2213,6 @@
         ]
       },
       "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
-    },
-    {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "data.mainsource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.fuelcombustion",
-                "data.bunkers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.energyindustries",
-                "data.manufacturingindustriesandconstruction",
-                "data.transportsector",
-                "data.othersectors",
-                "data.aviation",
-                "data.navigation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "12-5-1/data.csv",

@@ -39,18 +39,6 @@
             "title": "measure"
           },
           {
-            "name": "data.technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least a 3G mobile network",
-                "At least a 4G mobile network",
-                ""
-              ]
-            },
-            "title": "Technology"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

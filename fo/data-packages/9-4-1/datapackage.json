@@ -16,22 +16,30 @@
             "title": "Ár"
           },
           {
-            "name": "data.mainsource",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nýtsla av brennievni",
-                "Bunkring",
+                "Útlát av koltvísúrni frá nýtslu av brennievni",
                 ""
               ]
             },
-            "title": "Høvuðskelda"
+            "title": "mát"
           },
           {
             "name": "source",
             "type": "string",
             "constraints": {
               "enum": [
+                "Nýtsla av brennievni tilsamans",
+                " - Nýtsla av brennievni",
+                " - - El- og hitaframleiðsla",
+                " - - Framleiðslu- og byggivinna",
+                " - - Flutningsvinna",
+                " - - Aðrar vinnur",
+                " - Bunkring",
+                " - - Flogfør",
+                " - - Skip",
                 "El- og hitaframleiðsla",
                 "Framleiðslu- og byggivinna",
                 "Flutningsvinna",
@@ -42,6 +50,29 @@
               ]
             },
             "title": "Kelda"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "millónir tons",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "data.mainsource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nýtsla av brennievni",
+                "Bunkring",
+                ""
+              ]
+            },
+            "title": "Høvuðskelda"
           },
           {
             "name": "Value",
