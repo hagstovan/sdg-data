@@ -804,31 +804,6 @@
             "title": "Sex"
           },
           {
-            "name": "data.education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Lower secondary education",
-                "Upper secondary education",
-                ""
-              ]
-            },
-            "title": "Education"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
