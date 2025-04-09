@@ -27,17 +27,6 @@
             "title": "eind"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deyð av hjarta-æðra-sjúkum, krabbameini, sukursjúku og koroniskum sjúkum í andaleiðini fyri hvørjar 100.000 íbúgvar",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -50,7 +39,7 @@
             "title": "Kyn"
           },
           {
-            "name": "disease",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -62,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Sjúkubólkur"
+            "title": "mát"
           },
           {
             "name": "Value",

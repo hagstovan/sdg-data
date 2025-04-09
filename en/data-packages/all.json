@@ -76,6 +76,68 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
+      "path": "1-a-2/data.csv",
+      "name": "1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Education",
+                "Health",
+                "Social protection",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "essentialservice",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education",
+                "Health",
+                "Social protection",
+                ""
+              ]
+            },
+            "title": "Essential Service"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -344,17 +406,6 @@
             "title": "unit"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -367,7 +418,7 @@
             "title": "Sex"
           },
           {
-            "name": "disease",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -379,7 +430,7 @@
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -2206,43 +2257,6 @@
         ]
       },
       "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
-    },
-    {
-      "path": "1-a-2/data.csv",
-      "name": "1-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "essentialservice",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Education",
-                "Health",
-                "Social protection",
-                ""
-              ]
-            },
-            "title": "Essential Service"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
       "path": "17-19-1/data.csv",

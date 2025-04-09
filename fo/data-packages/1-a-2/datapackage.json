@@ -16,6 +16,31 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Útbúgving",
+                "Heilsa",
+                "Almannavernd",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "essentialservice",
             "type": "string",
             "constraints": {

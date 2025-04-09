@@ -27,17 +27,6 @@
             "title": "unit"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -50,7 +39,7 @@
             "title": "Sex"
           },
           {
-            "name": "disease",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -62,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "measure"
           },
           {
             "name": "Value",

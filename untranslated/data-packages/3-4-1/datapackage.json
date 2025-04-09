@@ -25,16 +25,6 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_DTH_NCOM",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -46,7 +36,7 @@
             }
           },
           {
-            "name": "disease",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

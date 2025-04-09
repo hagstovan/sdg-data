@@ -1,26 +1,126 @@
-Year,Value
-1998,60.34
-1999,61.61
-2000,60.18
-2001,60.35
-2002,60.25
-2003,62.56
-2004,62.32
-2005,63.56
-2006,62.96
-2007,64.35
-2008,64.84
-2009,67.25
-2010,69.18
-2011,68.39
-2012,66.52
-2013,65.53
-2014,65.76
-2015,65.23
-2016,65.01
-2017,63.95
-2018,61.94
-2019,61.82
-2020,62.69
-2021,64.46
-2022,63.51
+Year,Value,Units,Series
+1998,60.34,pct.,Total
+1998,12.42,pct.,Education
+1998,12.75,pct.,Health
+1998,35.17,pct.,Social protection
+1999,61.61,pct.,Total
+1999,13.33,pct.,Education
+1999,13.72,pct.,Health
+1999,34.56,pct.,Social protection
+2000,60.18,pct.,Total
+2000,12.89,pct.,Education
+2000,13.64,pct.,Health
+2000,33.65,pct.,Social protection
+2001,60.35,pct.,Total
+2001,13.8,pct.,Education
+2001,13.94,pct.,Health
+2001,32.61,pct.,Social protection
+2002,60.25,pct.,Total
+2002,13.75,pct.,Education
+2002,13.61,pct.,Health
+2002,32.89,pct.,Social protection
+2003,62.56,pct.,Total
+2003,13.81,pct.,Education
+2003,14.33,pct.,Health
+2003,34.42,pct.,Social protection
+2004,62.32,pct.,Total
+2004,13.4,pct.,Education
+2004,14.36,pct.,Health
+2004,34.56,pct.,Social protection
+2005,63.56,pct.,Total
+2005,13.9,pct.,Education
+2005,14.22,pct.,Health
+2005,35.44,pct.,Social protection
+2006,62.96,pct.,Total
+2006,13.78,pct.,Education
+2006,14.9,pct.,Health
+2006,34.28,pct.,Social protection
+2007,64.35,pct.,Total
+2007,13.77,pct.,Education
+2007,16.77,pct.,Health
+2007,33.81,pct.,Social protection
+2008,64.84,pct.,Total
+2008,13.33,pct.,Education
+2008,18.06,pct.,Health
+2008,33.45,pct.,Social protection
+2009,67.25,pct.,Total
+2009,13.7,pct.,Education
+2009,16.47,pct.,Health
+2009,37.08,pct.,Social protection
+2010,69.18,pct.,Total
+2010,13.75,pct.,Education
+2010,16.49,pct.,Health
+2010,38.94,pct.,Social protection
+2011,68.39,pct.,Total
+2011,14.48,pct.,Education
+2011,15.4,pct.,Health
+2011,38.51,pct.,Social protection
+2012,66.52,pct.,Total
+2012,14.2,pct.,Education
+2012,14.41,pct.,Health
+2012,37.91,pct.,Social protection
+2013,65.53,pct.,Total
+2013,14.28,pct.,Education
+2013,15.47,pct.,Health
+2013,35.78,pct.,Social protection
+2014,65.76,pct.,Total
+2014,13.89,pct.,Education
+2014,16.54,pct.,Health
+2014,35.33,pct.,Social protection
+2015,65.23,pct.,Total
+2015,13.81,pct.,Education
+2015,15.76,pct.,Health
+2015,35.66,pct.,Social protection
+2016,65.01,pct.,Total
+2016,13.61,pct.,Education
+2016,15.99,pct.,Health
+2016,35.41,pct.,Social protection
+2017,63.95,pct.,Total
+2017,13.89,pct.,Education
+2017,16.34,pct.,Health
+2017,33.72,pct.,Social protection
+2018,61.94,pct.,Total
+2018,13.52,pct.,Education
+2018,16.15,pct.,Health
+2018,32.27,pct.,Social protection
+2019,61.82,pct.,Total
+2019,13.63,pct.,Education
+2019,14.47,pct.,Health
+2019,33.72,pct.,Social protection
+2020,62.69,pct.,Total
+2020,13.76,pct.,Education
+2020,14.24,pct.,Health
+2020,34.69,pct.,Social protection
+2021,64.46,pct.,Total
+2021,15.65,pct.,Education
+2021,13.02,pct.,Health
+2021,35.79,pct.,Social protection
+2022,63.51,pct.,Total
+2022,14.35,pct.,Education
+2022,12.99,pct.,Health
+2022,36.17,pct.,Social protection
+1998,60.34,,
+1999,61.61,,
+2000,60.18,,
+2001,60.35,,
+2002,60.25,,
+2003,62.56,,
+2004,62.32,,
+2005,63.56,,
+2006,62.96,,
+2007,64.35,,
+2008,64.84,,
+2009,67.25,,
+2010,69.18,,
+2011,68.39,,
+2012,66.52,,
+2013,65.53,,
+2014,65.76,,
+2015,65.23,,
+2016,65.01,,
+2017,63.95,,
+2018,61.94,,
+2019,61.82,,
+2020,62.69,,
+2021,64.46,,
+2022,63.51,,
