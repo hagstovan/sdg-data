@@ -116,19 +116,6 @@
             "title": "mát"
           },
           {
-            "name": "essentialservice",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Útbúgving",
-                "Heilsa",
-                "Almannavernd",
-                ""
-              ]
-            },
-            "title": "Grundleggjandi tænasta"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

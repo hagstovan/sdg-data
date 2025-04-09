@@ -116,19 +116,6 @@
             "title": "measure"
           },
           {
-            "name": "essentialservice",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Education",
-                "Health",
-                "Social protection",
-                ""
-              ]
-            },
-            "title": "Essential Service"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

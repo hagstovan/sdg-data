@@ -38,18 +38,6 @@
             }
           },
           {
-            "name": "essentialservice",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.education",
-                "data.health",
-                "data.socialprotection",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
