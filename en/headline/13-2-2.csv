@@ -1,33 +1,65 @@
-Year,Value
-1990,0.805738054551129
-1991,0.784995861905144
-1992,0.774807652933903
-1993,0.664053152032162
-1994,0.686950531938252
-1995,0.677134947877232
-1996,0.697503911226526
-1997,0.693333026553727
-1998,0.738031830060831
-1999,0.769565901601237
-2000,0.808992667112423
-2001,0.986166872737452
-2002,0.937499667651335
-2003,0.943148546882435
-2004,0.946530158340736
-2005,0.945256215648415
-2006,0.932344066165159
-2007,0.959794128725266
-2008,0.892391974025281
-2009,0.923754565025226
-2010,1.00081558658348
-2011,0.882222152509494
-2012,0.974472447751445
-2013,0.952196485368491
-2014,0.990432852028342
-2015,0.969852472853073
-2016,0.978419632345404
-2017,1.14918085334615
-2018,1.24384747592317
-2019,1.2931245260821
-2020,1.33149617227421
-2021,1.33904873665974
+Year,Value,Units,Series
+1990,0.81,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1991,0.78499586190514,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1992,0.7748076529339,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1993,0.66405315203216,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1994,0.68695053193825,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1995,0.67713494787723,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1996,0.69750391122653,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1997,0.69333302655373,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1998,0.73803183006083,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1999,0.76956590160124,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2000,0.80899266711242,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2001,0.98616687273745,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2002,0.93749966765133,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2003,0.94314854688244,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2004,0.94653015834074,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2005,0.94525621564841,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2006,0.93234406616516,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2007,0.95979412872527,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2008,0.89239197402528,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2009,0.92375456502523,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2010,1.00081558658348,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2011,0.88222215250949,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2012,0.97447244775144,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2013,0.95219648536849,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2014,0.99043285202834,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2015,0.96985247285307,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2016,0.9784196323454,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2017,1.14918085334615,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2018,1.24384747592317,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2019,1.2931245260821,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2020,1.33149617227421,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+2021,1.33904873665974,CO2 equivalent million tonnes,Total greenhouse gas emissions per year
+1990,0.805738054551129,,
+1991,0.784995861905144,,
+1992,0.774807652933903,,
+1993,0.664053152032162,,
+1994,0.686950531938252,,
+1995,0.677134947877232,,
+1996,0.697503911226526,,
+1997,0.693333026553727,,
+1998,0.738031830060831,,
+1999,0.769565901601237,,
+2000,0.808992667112423,,
+2001,0.986166872737452,,
+2002,0.937499667651335,,
+2003,0.943148546882435,,
+2004,0.946530158340736,,
+2005,0.945256215648415,,
+2006,0.932344066165159,,
+2007,0.959794128725266,,
+2008,0.892391974025281,,
+2009,0.923754565025226,,
+2010,1.00081558658348,,
+2011,0.882222152509494,,
+2012,0.974472447751445,,
+2013,0.952196485368491,,
+2014,0.990432852028342,,
+2015,0.969852472853073,,
+2016,0.978419632345404,,
+2017,1.14918085334615,,
+2018,1.24384747592317,,
+2019,1.2931245260821,,
+2020,1.33149617227421,,
+2021,1.33904873665974,,

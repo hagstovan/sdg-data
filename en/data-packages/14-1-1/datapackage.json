@@ -16,10 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Nutrients in coastal waters, deviation from mean, nitrogen",
+                "Nutrients in coastal waters, deviation from mean, silica",
+                "Chlorophyll-a deviations, remote sensing",
+                "Nutrients in coastal waters, deviation from mean, phosphate",
+                "Chlorophyll-a anomaly, remote sensing, extreme frequency",
+                "Chlorophyll-a anomaly, remote sensing, high frequency",
+                "Chlorophyll-a anomaly, remote sensing, moderate frequency",
                 "Chlorophyll-a deviations, remote sensing (%)",
                 "Chlorophyll-a anomaly, remote sensing (%)",
                 "Nutrients in Skopun (coastal waters), deviation from mean (%)",

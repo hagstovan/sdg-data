@@ -1,3 +1,5 @@
-Year,Value
-2018,5
-2022,5
+Year,Value,Units,Series
+2018,5.0,Stig,"Heimsmálini, ávísi 14.6.1"
+2022,5.0,Stig,"Heimsmálini, ávísi 14.6.1"
+2018,5.0,,
+2022,5.0,,

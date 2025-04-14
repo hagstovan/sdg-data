@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total greenhouse gas emissions per year",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2 equivalent million tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

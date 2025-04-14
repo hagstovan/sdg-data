@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_GHGT_AIP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2_EMIS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

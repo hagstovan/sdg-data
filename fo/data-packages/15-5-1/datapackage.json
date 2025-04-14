@@ -16,6 +16,30 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niðara mark",
+                "Reyðlistavísital",
+                "Ovara mark",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "data.confidencelevel",
             "type": "string",
             "constraints": {

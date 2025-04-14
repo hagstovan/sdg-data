@@ -1,33 +1,65 @@
-Year,Value
-1990,0.805738054551129
-1991,0.784995861905144
-1992,0.774807652933903
-1993,0.664053152032162
-1994,0.686950531938252
-1995,0.677134947877232
-1996,0.697503911226526
-1997,0.693333026553727
-1998,0.738031830060831
-1999,0.769565901601237
-2000,0.808992667112423
-2001,0.986166872737452
-2002,0.937499667651335
-2003,0.943148546882435
-2004,0.946530158340736
-2005,0.945256215648415
-2006,0.932344066165159
-2007,0.959794128725266
-2008,0.892391974025281
-2009,0.923754565025226
-2010,1.00081558658348
-2011,0.882222152509494
-2012,0.974472447751445
-2013,0.952196485368491
-2014,0.990432852028342
-2015,0.969852472853073
-2016,0.978419632345404
-2017,1.14918085334615
-2018,1.24384747592317
-2019,1.2931245260821
-2020,1.33149617227421
-2021,1.33904873665974
+Year,Series,Units,Value
+1990,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.81
+1991,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.78499586190514
+1992,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.7748076529339
+1993,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.66405315203216
+1994,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.68695053193825
+1995,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.67713494787723
+1996,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.69750391122653
+1997,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.69333302655373
+1998,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.73803183006083
+1999,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.76956590160124
+2000,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.80899266711242
+2001,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.98616687273745
+2002,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.93749966765133
+2003,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.94314854688244
+2004,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.94653015834074
+2005,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.94525621564841
+2006,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.93234406616516
+2007,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.95979412872527
+2008,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.89239197402528
+2009,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.92375456502523
+2010,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,1.00081558658348
+2011,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.88222215250949
+2012,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.97447244775144
+2013,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.95219648536849
+2014,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.99043285202834
+2015,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.96985247285307
+2016,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,0.9784196323454
+2017,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,1.14918085334615
+2018,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,1.24384747592317
+2019,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,1.2931245260821
+2020,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,1.33149617227421
+2021,Samlaða árliga útlátið av vakstrarhúsgassi,CO2-javngild mió. tons,1.33904873665974
+1990,,,0.805738054551129
+1991,,,0.784995861905144
+1992,,,0.774807652933903
+1993,,,0.664053152032162
+1994,,,0.686950531938252
+1995,,,0.677134947877232
+1996,,,0.697503911226526
+1997,,,0.693333026553727
+1998,,,0.738031830060831
+1999,,,0.769565901601237
+2000,,,0.808992667112423
+2001,,,0.986166872737452
+2002,,,0.937499667651335
+2003,,,0.943148546882435
+2004,,,0.946530158340736
+2005,,,0.945256215648415
+2006,,,0.932344066165159
+2007,,,0.959794128725266
+2008,,,0.892391974025281
+2009,,,0.923754565025226
+2010,,,1.00081558658348
+2011,,,0.882222152509494
+2012,,,0.974472447751445
+2013,,,0.952196485368491
+2014,,,0.990432852028342
+2015,,,0.969852472853073
+2016,,,0.978419632345404
+2017,,,1.14918085334615
+2018,,,1.24384747592317
+2019,,,1.2931245260821
+2020,,,1.33149617227421
+2021,,,1.33904873665974
