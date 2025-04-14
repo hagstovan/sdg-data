@@ -1,25 +1,49 @@
-Year,Inntøkubólkur,Value
-2010,Lægstu 40 prosentini av íbúgvunum,0.5
-2010,,1.1
-2011,Lægstu 40 prosentini av íbúgvunum,0.7
-2011,,2.9
-2012,Lægstu 40 prosentini av íbúgvunum,2.5
-2012,,7.8
-2013,Lægstu 40 prosentini av íbúgvunum,3.1
-2013,,2.3
-2014,Lægstu 40 prosentini av íbúgvunum,2.2
-2014,,2.4
-2015,Lægstu 40 prosentini av íbúgvunum,2.0
-2015,,2.7
-2016,Lægstu 40 prosentini av íbúgvunum,4.6
-2016,,3.9
-2017,Lægstu 40 prosentini av íbúgvunum,4.3
-2017,,2.5
-2018,Lægstu 40 prosentini av íbúgvunum,4.0
-2018,,3.3
-2019,Lægstu 40 prosentini av íbúgvunum,5.5
-2019,,2.7
-2020,Lægstu 40 prosentini av íbúgvunum,5.8
-2020,,1.0
-2021,Lægstu 40 prosentini av íbúgvunum,3.4
-2021,,2.6
+Year,Units,Series,inntøkubólkur,Inntøkubólkur,Value
+2010,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,0.46231458045049
+2010,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,1.11862104734931
+2011,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,0.65006964421212
+2011,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.8723171982252
+2012,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,2.47797456042508
+2012,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,7.81914494985801
+2013,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,3.11652474025707
+2013,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.3229403547156
+2014,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,2.20546221513906
+2014,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.37976356490782
+2015,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,1.95726180961168
+2015,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.68964530101533
+2016,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,4.55801483245514
+2016,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,3.87072843946727
+2017,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,4.30316659397036
+2017,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.47658393998673
+2018,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,4.00859717436266
+2018,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,3.26581898874837
+2019,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,5.50312903850416
+2019,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.73948433383327
+2020,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,5.77781608556204
+2020,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,1.02208083834439
+2021,%,Vakstratferð av tøkari inntøku,Lægstu 40 prosentini av íbúgvunum,,3.35324806943705
+2021,%,Vakstratferð av tøkari inntøku,Allir íbúgvar,,2.62683691820674
+2010,,,,Lægstu 40 prosentini av íbúgvunum,0.5
+2010,,,,,1.1
+2011,,,,Lægstu 40 prosentini av íbúgvunum,0.7
+2011,,,,,2.9
+2012,,,,Lægstu 40 prosentini av íbúgvunum,2.5
+2012,,,,,7.8
+2013,,,,Lægstu 40 prosentini av íbúgvunum,3.1
+2013,,,,,2.3
+2014,,,,Lægstu 40 prosentini av íbúgvunum,2.2
+2014,,,,,2.4
+2015,,,,Lægstu 40 prosentini av íbúgvunum,2.0
+2015,,,,,2.7
+2016,,,,Lægstu 40 prosentini av íbúgvunum,4.6
+2016,,,,,3.9
+2017,,,,Lægstu 40 prosentini av íbúgvunum,4.3
+2017,,,,,2.5
+2018,,,,Lægstu 40 prosentini av íbúgvunum,4.0
+2018,,,,,3.3
+2019,,,,Lægstu 40 prosentini av íbúgvunum,5.5
+2019,,,,,2.7
+2020,,,,Lægstu 40 prosentini av íbúgvunum,5.8
+2020,,,,,1.0
+2021,,,,Lægstu 40 prosentini av íbúgvunum,3.4
+2021,,,,,2.6

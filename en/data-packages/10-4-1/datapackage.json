@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour share of GDP",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

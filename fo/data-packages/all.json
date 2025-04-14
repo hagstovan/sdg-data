@@ -1335,7 +1335,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Uppsett framleiðsluorka til varandi orku (í watt upp á íbúgvan)",
+                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
                 ""
               ]
             },
@@ -2173,6 +2173,75 @@
       "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
+      "path": "10-1-1/data.csv",
+      "name": "10-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vakstratferð av tøkari inntøku",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "growth rate of disposable income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lægstu 40 prosentini av íbúgvunum",
+                "Allir íbúgvar",
+                ""
+              ]
+            },
+            "title": "inntøkubólkur"
+          },
+          {
+            "name": "data.growthrateofdisposableincome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lægstu 40 prosentini av íbúgvunum",
+                ""
+              ]
+            },
+            "title": "Inntøkubólkur"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+    },
+    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -2244,6 +2313,361 @@
         ]
       },
       "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "10-4-1/data.csv",
+      "name": "10-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lønir, sum partur av BTÚ",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Labour share of GDP"
+    },
+    {
+      "path": "11-6-2/data.csv",
+      "name": "11-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mikrogram/m3",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (land)",
+                "Bøkjarabrekka (býur)",
+                "Kaldbak (land)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 mikrogram/m3",
+                "2,5 mikrogram/m3",
+                ""
+              ]
+            },
+            "title": "Bitlastødd"
+          },
+          {
+            "name": "data.location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (land)",
+                "Bøkjarabrekka (býur)",
+                "Kaldbak (land)",
+                ""
+              ]
+            },
+            "title": "Staðseting"
+          },
+          {
+            "name": "data.sizeofparticulatematter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 μg/m³",
+                "2,5 μg/m³",
+                ""
+              ]
+            },
+            "title": "Bitlastødd"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+    },
+    {
+      "path": "12-2-2/data.csv",
+      "name": "12-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Biomassi",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
+                ""
+              ]
+            },
+            "title": "Ávísi"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.000 tons",
+                "Innlendis tilfarsnýtsla (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
+                "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "data.materialtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomassi",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                ""
+              ]
+            },
+            "title": "Slag av tilfari"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "tons",
+                "Prosent",
+                "tons",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Burturkast tilsamans",
+                "Brenning",
+                "Tyrving",
+                "Endurnýtsla",
+                "Serliga dálkandi",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "data.wastemanagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Endurnýtsla",
+                "Brenning",
+                "Tyrving",
+                "Serliga dálkandi",
+                ""
+              ]
+            },
+            "title": "Viðgerð av burturkasti"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "National recycling rate, tons of material recycled"
+    },
+    {
+      "path": "12-a-1/data.csv",
+      "name": "12-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Varandi orkukeldur tilsamans",
+                "Vatn",
+                "Vindur",
+                "Sólin",
+                "Havið",
+                "Lívfrøðilig brennievni",
+                ""
+              ]
+            },
+            "title": "orkukelda"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watt fyri hvønn íbúgva",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "data.energysource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vatn",
+                "Vindur",
+                "Sólin",
+                "Havið",
+                "Lívfrøðilig brennievni",
+                ""
+              ]
+            },
+            "title": "Orkukelda"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "17-19-1/data.csv",
@@ -2393,91 +2817,6 @@
         ]
       },
       "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
-    },
-    {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prosent",
-                "tons",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "data.wastemanagement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Endurnýtsla",
-                "Brenning",
-                "Tyrving",
-                "Serliga dálkandi",
-                ""
-              ]
-            },
-            "title": "Viðgerð av burturkasti"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "National recycling rate, tons of material recycled"
-    },
-    {
-      "path": "10-1-1/data.csv",
-      "name": "10-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lægstu 40 prosentini av íbúgvunum",
-                ""
-              ]
-            },
-            "title": "Inntøkubólkur"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
       "path": "17-12-1/data.csv",
@@ -2652,55 +2991,6 @@
       "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
-      "path": "11-6-2/data.csv",
-      "name": "11-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Havnardalur (land)",
-                "Bøkjarabrekka (býur)",
-                "Kaldbak (land)",
-                ""
-              ]
-            },
-            "title": "Staðseting"
-          },
-          {
-            "name": "data.sizeofparticulatematter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 μg/m³",
-                "2,5 μg/m³",
-                ""
-              ]
-            },
-            "title": "Bitlastødd"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
-    },
-    {
       "path": "16-9-1/data.csv",
       "name": "16-9-1",
       "profile": "tabular-data-resource",
@@ -2867,45 +3157,6 @@
       "title": "Annual growth rate of real GDP per employed person"
     },
     {
-      "path": "12-a-1/data.csv",
-      "name": "12-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                ""
-              ]
-            },
-            "title": "Orkukelda"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
-    },
-    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -2969,30 +3220,6 @@
         ]
       },
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
-    },
-    {
-      "path": "10-4-1/data.csv",
-      "name": "10-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Labour share of GDP"
     },
     {
       "path": "14-6-1/data.csv",
@@ -3261,57 +3488,6 @@
         ]
       },
       "title": "Total government revenue as a proportion of GDP, by source"
-    },
-    {
-      "path": "12-2-2/data.csv",
-      "name": "12-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Innlendis tilfarsnýtsla (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biomassi",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Lívrunnin brennievni og aðrar framleiðslur",
-                ""
-              ]
-            },
-            "title": "Slag av tilfari"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "1-1-1/data.csv",

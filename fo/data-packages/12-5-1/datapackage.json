@@ -20,12 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                "tons",
                 "Prosent",
                 "tons",
                 ""
               ]
             },
             "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Burturkast tilsamans",
+                "Brenning",
+                "Tyrving",
+                "Endurnýtsla",
+                "Serliga dálkandi",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "data.wastemanagement",

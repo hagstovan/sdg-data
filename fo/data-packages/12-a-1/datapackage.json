@@ -16,6 +16,44 @@
             "title": "Ár"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Varandi orkukeldur tilsamans",
+                "Vatn",
+                "Vindur",
+                "Sólin",
+                "Havið",
+                "Lívfrøðilig brennievni",
+                ""
+              ]
+            },
+            "title": "orkukelda"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watt fyri hvønn íbúgva",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
             "name": "data.energysource",
             "type": "string",
             "constraints": {

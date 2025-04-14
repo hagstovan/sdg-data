@@ -1,11 +1,11 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"sex, age",2
-#10-1-1,data.growthrateofdisposableincome,1
+#10-1-1,"growth rate of disposable income, data.growthrateofdisposableincome",2
 #10-2-1,"sex, age",2
-#11-6-2,"data.location, data.sizeofparticulatematter",2
-#12-2-2,data.materialtype,1
+#11-6-2,"Size of particulate4 matter, data.location, data.sizeofparticulatematter",3
+#12-2-2,"indicator, data.materialtype",2
 #12-5-1,data.wastemanagement,1
-#12-a-1,data.energysource,1
+#12-a-1,"energy source, data.energysource",2
 #14-1-1,"data.frequencyofchlorophyll-aconcentration, data.nutrient",2
 #15-5-1,data.confidencelevel,1
 #16-1-1,data.source,1
@@ -23,7 +23,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1,occupation,1
 #4-1-2,"sex, Education",2
 #4-2-2,sex,1
-#5-4-1,"data.sex, data.age, data.location",3
+#5-4-1,"data.location, data.sex, data.age",3
 #5-5-1,party,1
 #5-5-2,"Position, Public/private",2
 #7-2-1,renewable energy source,1
