@@ -2222,17 +2222,6 @@
             "title": "inntøkubólkur"
           },
           {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lægstu 40 prosentini av íbúgvunum",
-                ""
-              ]
-            },
-            "title": "Inntøkubólkur"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2412,31 +2401,6 @@
             "title": "Bitlastødd"
           },
           {
-            "name": "data.location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Havnardalur (land)",
-                "Bøkjarabrekka (býur)",
-                "Kaldbak (land)",
-                ""
-              ]
-            },
-            "title": "Staðseting"
-          },
-          {
-            "name": "data.sizeofparticulatematter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 μg/m³",
-                "2,5 μg/m³",
-                ""
-              ]
-            },
-            "title": "Bitlastødd"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2494,27 +2458,10 @@
             "constraints": {
               "enum": [
                 "1.000 tons",
-                "Innlendis tilfarsnýtsla (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva (1.000 tons)",
-                "Innlendis tilfarsnýtsla fyri hvørja real-BTÚ-eind (1.000 tons)",
                 ""
               ]
             },
             "title": "eind"
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biomassi",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Lívrunnin brennievni og aðrar framleiðslur",
-                ""
-              ]
-            },
-            "title": "Slag av tilfari"
           },
           {
             "name": "Value",
@@ -2547,8 +2494,6 @@
               "enum": [
                 "%",
                 "tons",
-                "Prosent",
-                "tons",
                 ""
               ]
             },
@@ -2568,20 +2513,6 @@
               ]
             },
             "title": "mát"
-          },
-          {
-            "name": "data.wastemanagement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Endurnýtsla",
-                "Brenning",
-                "Tyrving",
-                "Serliga dálkandi",
-                ""
-              ]
-            },
-            "title": "Viðgerð av burturkasti"
           },
           {
             "name": "Value",

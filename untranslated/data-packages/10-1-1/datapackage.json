@@ -46,16 +46,6 @@
             }
           },
           {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.bottom40percentofthepopulation",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

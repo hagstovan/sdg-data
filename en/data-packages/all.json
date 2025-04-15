@@ -2222,17 +2222,6 @@
             "title": "growth rate of disposable income"
           },
           {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bottom 40 per cent of the population",
-                ""
-              ]
-            },
-            "title": "Growth rate of disposable income"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2412,31 +2401,6 @@
             "title": "Size of particulate4 matter"
           },
           {
-            "name": "data.location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Havnardalur (rural)",
-                "Bøkjarabrekka (urban)",
-                "Kaldbak (rural)",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
-            "name": "data.sizeofparticulatematter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 μg/m³",
-                "2.5 μg/m³",
-                ""
-              ]
-            },
-            "title": "Size of particulate matter"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2494,27 +2458,10 @@
             "constraints": {
               "enum": [
                 "1,000 tonnes",
-                "Domestic material consumption (1,000 tonnes)",
-                "Domestic material consumption per capita (1,000 tonnes)",
-                "Domestic material consumption per unit of real-GDP (1,000 tonnes)",
                 ""
               ]
             },
             "title": "unit"
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biomass",
-                "Metallic minerals",
-                "Non-metallic minerals",
-                "Fossil energy and other products",
-                ""
-              ]
-            },
-            "title": "Material type"
           },
           {
             "name": "Value",
@@ -2547,8 +2494,6 @@
               "enum": [
                 "per cent",
                 "tonnes",
-                "per cent",
-                "tonnes",
                 ""
               ]
             },
@@ -2568,20 +2513,6 @@
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.wastemanagement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Recycling",
-                "Incineration",
-                "Landfill",
-                "Extraordinarily polluting",
-                ""
-              ]
-            },
-            "title": "Waste management"
           },
           {
             "name": "Value",

@@ -50,17 +50,6 @@
             "title": "inntøkubólkur"
           },
           {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lægstu 40 prosentini av íbúgvunum",
-                ""
-              ]
-            },
-            "title": "Inntøkubólkur"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

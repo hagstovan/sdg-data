@@ -50,17 +50,6 @@
             "title": "growth rate of disposable income"
           },
           {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bottom 40 per cent of the population",
-                ""
-              ]
-            },
-            "title": "Growth rate of disposable income"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

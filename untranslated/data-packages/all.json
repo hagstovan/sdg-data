@@ -2040,16 +2040,6 @@
             }
           },
           {
-            "name": "data.growthrateofdisposableincome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.bottom40percentofthepopulation",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2214,29 +2204,6 @@
             }
           },
           {
-            "name": "data.location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.havnardalur-rural",
-                "data.bokjarabrekka-urban",
-                "data.kaldbak-rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.sizeofparticulatematter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.pm10",
-                "data.pm25",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2290,22 +2257,6 @@
             "constraints": {
               "enum": [
                 "TON",
-                "data.domesticmaterialconsumption",
-                "data.domesticmaterialconsumptionpercapita",
-                "data.domesticmaterialconsumptionperunitofrealgdp",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.materialtype",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.biomass",
-                "data.metallicminerals",
-                "data.non-metallicminerals",
-                "data.fossilenergyandotherproducts",
                 ""
               ]
             }
@@ -2339,8 +2290,6 @@
               "enum": [
                 "EN_MWT_RCYR",
                 "EN_MWT_RCYV",
-                "data.percent",
-                "data.tonnes",
                 ""
               ]
             }
@@ -2355,19 +2304,6 @@
                 "LANDFILL",
                 "RECYCLING",
                 "POLLUTING",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.wastemanagement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.recycling",
-                "data.incineration",
-                "data.landfill",
-                "data.extraordinarypolluting",
                 ""
               ]
             }
