@@ -2494,8 +2494,6 @@
               "enum": [
                 "per cent",
                 "tonnes",
-                "per cent",
-                "tonnes",
                 ""
               ]
             },
@@ -2515,20 +2513,6 @@
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.wastemanagement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Recycling",
-                "Incineration",
-                "Landfill",
-                "Extraordinarily polluting",
-                ""
-              ]
-            },
-            "title": "Waste management"
           },
           {
             "name": "Value",

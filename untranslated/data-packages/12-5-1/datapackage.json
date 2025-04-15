@@ -21,8 +21,6 @@
               "enum": [
                 "EN_MWT_RCYR",
                 "EN_MWT_RCYV",
-                "data.percent",
-                "data.tonnes",
                 ""
               ]
             }
@@ -37,19 +35,6 @@
                 "LANDFILL",
                 "RECYCLING",
                 "POLLUTING",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.wastemanagement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.recycling",
-                "data.incineration",
-                "data.landfill",
-                "data.extraordinarypolluting",
                 ""
               ]
             }
