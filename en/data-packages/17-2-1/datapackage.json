@@ -16,6 +16,29 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net official development assistance as a proportion of the gross national income (GNI)",
+                "Disaster relief as a proportion og GNI",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {

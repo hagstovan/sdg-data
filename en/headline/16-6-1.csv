@@ -1,21 +1,41 @@
-Year,Value
-2003,1.02
-2004,1.01
-2005,1.04
-2006,1.03
-2007,1.04
-2008,1.04
-2009,1.04
-2010,1.0
-2011,1.0
-2012,0.98
-2013,1.0
-2014,1.03
-2015,1.04
-2016,1.02
-2017,1.04
-2018,1.05
-2019,1.04
-2020,1.08
-2021,1.05
-2022,0.88
+Year,Value,Units,Series
+2003,1.01677283702446,pct.,Primary government expenditures as a proportion of original approved budget
+2004,1.01102265685089,pct.,Primary government expenditures as a proportion of original approved budget
+2005,1.04042301185219,pct.,Primary government expenditures as a proportion of original approved budget
+2006,1.02983732996269,pct.,Primary government expenditures as a proportion of original approved budget
+2007,1.03744879424849,pct.,Primary government expenditures as a proportion of original approved budget
+2008,1.04086776327415,pct.,Primary government expenditures as a proportion of original approved budget
+2009,1.03610065518923,pct.,Primary government expenditures as a proportion of original approved budget
+2010,0.99799269731632,pct.,Primary government expenditures as a proportion of original approved budget
+2011,0.9956369009895,pct.,Primary government expenditures as a proportion of original approved budget
+2012,0.98333116931627,pct.,Primary government expenditures as a proportion of original approved budget
+2013,1.00379580602311,pct.,Primary government expenditures as a proportion of original approved budget
+2014,1.03219934771418,pct.,Primary government expenditures as a proportion of original approved budget
+2015,1.03663049183858,pct.,Primary government expenditures as a proportion of original approved budget
+2016,1.02304607478175,pct.,Primary government expenditures as a proportion of original approved budget
+2017,1.03802476457494,pct.,Primary government expenditures as a proportion of original approved budget
+2018,1.05421917448685,pct.,Primary government expenditures as a proportion of original approved budget
+2019,1.03827276996997,pct.,Primary government expenditures as a proportion of original approved budget
+2020,1.08388622420963,pct.,Primary government expenditures as a proportion of original approved budget
+2021,1.04884254483013,pct.,Primary government expenditures as a proportion of original approved budget
+2022,0.87816073049773,pct.,Primary government expenditures as a proportion of original approved budget
+2003,1.02,,
+2004,1.01,,
+2005,1.04,,
+2006,1.03,,
+2007,1.04,,
+2008,1.04,,
+2009,1.04,,
+2010,1.0,,
+2011,1.0,,
+2012,0.98,,
+2013,1.0,,
+2014,1.03,,
+2015,1.04,,
+2016,1.02,,
+2017,1.04,,
+2018,1.05,,
+2019,1.04,,
+2020,1.08,,
+2021,1.05,,
+2022,0.88,,

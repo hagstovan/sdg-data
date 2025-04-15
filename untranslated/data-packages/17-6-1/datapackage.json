@@ -15,10 +15,35 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "bandwidth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "256_2MB",
+                "2MB_10MB",
+                "10MB+",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "PCT",
                 "data.fixedbroadbandsubscriptionsper100inhabitants",
                 "data.fixedbroadbandsubscriptions",
                 ""

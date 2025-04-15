@@ -16,16 +16,43 @@
             "title": "Year"
           },
           {
+            "name": "countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries and leas developed countries",
+                "Least developed countries",
+                "Developing countries excluding China",
+                ""
+              ]
+            },
+            "title": "Country group"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "DKK mill.",
+                "Per cent of total trade",
                 "per cent",
                 "DKK mill.",
                 ""
               ]
             },
             "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Faroese merchandise import",
+                "Faroese merchandise export",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "data.importexport",

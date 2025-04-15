@@ -15,12 +15,37 @@
             "type": "integer"
           },
           {
+            "name": "countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DEV_LDEV",
+                "LDEV",
+                "DEV_EX-CHINA",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
                 "data.percent",
                 "data.dkkmill",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TX_IMP_MRCH",
+                "TX_EXP_MRCH",
                 ""
               ]
             }

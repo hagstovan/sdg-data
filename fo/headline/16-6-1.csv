@@ -1,21 +1,41 @@
-Year,Value
-2003,1.02
-2004,1.01
-2005,1.04
-2006,1.03
-2007,1.04
-2008,1.04
-2009,1.04
-2010,1.0
-2011,1.0
-2012,0.98
-2013,1.0
-2014,1.03
-2015,1.04
-2016,1.02
-2017,1.04
-2018,1.05
-2019,1.04
-2020,1.08
-2021,1.05
-2022,0.88
+Year,Value,Units,Series
+2003,1.01677283702446,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2004,1.01102265685089,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2005,1.04042301185219,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2006,1.02983732996269,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2007,1.03744879424849,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2008,1.04086776327415,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2009,1.03610065518923,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2010,0.99799269731632,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2011,0.9956369009895,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2012,0.98333116931627,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2013,1.00379580602311,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2014,1.03219934771418,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2015,1.03663049183858,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2016,1.02304607478175,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2017,1.03802476457494,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2018,1.05421917448685,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2019,1.03827276996997,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2020,1.08388622420963,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2021,1.04884254483013,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2022,0.87816073049773,%,Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg
+2003,1.02,,
+2004,1.01,,
+2005,1.04,,
+2006,1.03,,
+2007,1.04,,
+2008,1.04,,
+2009,1.04,,
+2010,1.0,,
+2011,1.0,,
+2012,0.98,,
+2013,1.0,,
+2014,1.03,,
+2015,1.04,,
+2016,1.02,,
+2017,1.04,,
+2018,1.05,,
+2019,1.04,,
+2020,1.08,,
+2021,1.05,,
+2022,0.88,,

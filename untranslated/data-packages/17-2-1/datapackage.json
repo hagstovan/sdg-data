@@ -15,6 +15,27 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_ODA_TOTG",
+                "DISAST",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {
