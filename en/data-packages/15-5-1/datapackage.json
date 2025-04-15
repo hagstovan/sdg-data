@@ -40,19 +40,6 @@
             "title": "measure"
           },
           {
-            "name": "data.confidencelevel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lowerbound",
-                "Red List Index",
-                "Upperbound",
-                ""
-              ]
-            },
-            "title": "Confidence level"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

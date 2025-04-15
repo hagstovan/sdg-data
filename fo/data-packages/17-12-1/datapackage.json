@@ -56,35 +56,8 @@
             "title": "vørubólkur"
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Miðal álagdur tollur hjá framkomnum londum við støðugum vanligum handilssambondum, skift á vørubólk (%)",
-                "Miðal álagdur tollur hjá framkomnum londum í serstøðu, skift á vørubólk (%)",
-                ""
-              ]
-            },
-            "title": "Mát"
-          },
-          {
-            "name": "data.typeofproduct",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tilsamans",
-                "Landbúnaðarvørur",
-                "Ídnaðarvørur",
-                "Pløgg",
-                "Klædnavørur",
-                ""
-              ]
-            },
-            "title": "Vørubólkur"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

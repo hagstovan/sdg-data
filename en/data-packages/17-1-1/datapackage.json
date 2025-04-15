@@ -42,20 +42,6 @@
             "title": "measure"
           },
           {
-            "name": "data.source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Taxes",
-                "Social contributions",
-                "Grants",
-                "Other revenue",
-                ""
-              ]
-            },
-            "title": "Source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

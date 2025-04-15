@@ -35,8 +35,6 @@
               "enum": [
                 "Mió. kr.",
                 "% av samlaða handlinum",
-                "Prosent",
-                "mió. kr.",
                 ""
               ]
             },
@@ -53,31 +51,6 @@
               ]
             },
             "title": "mát"
-          },
-          {
-            "name": "data.importexport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vøruinnflutningur",
-                "Vøruútflutningur",
-                ""
-              ]
-            },
-            "title": "Innflutningur/Útflutningur"
-          },
-          {
-            "name": "data.countrygroup",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarlond og minst mentu londini",
-                "Menningarlond og minst mentu londini uttan Kina",
-                "Minst mentu londini",
-                ""
-              ]
-            },
-            "title": "Landabólkur"
           },
           {
             "name": "Value",

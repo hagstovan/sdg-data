@@ -2910,19 +2910,6 @@
             "title": "mát"
           },
           {
-            "name": "data.confidencelevel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niðara mark",
-                "Reyðlistavísital",
-                "Ovara mark",
-                ""
-              ]
-            },
-            "title": "Álitisstig"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3063,20 +3050,6 @@
               ]
             },
             "title": "mát"
-          },
-          {
-            "name": "data.source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Skattir",
-                "Sosial gjøld",
-                "Ríkisstudningur",
-                "Onnur inntøka",
-                ""
-              ]
-            },
-            "title": "Kelda"
           },
           {
             "name": "Value",
@@ -3303,8 +3276,6 @@
               "enum": [
                 "Mió. kr.",
                 "% av samlaða handlinum",
-                "Prosent",
-                "mió. kr.",
                 ""
               ]
             },
@@ -3321,31 +3292,6 @@
               ]
             },
             "title": "mát"
-          },
-          {
-            "name": "data.importexport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vøruinnflutningur",
-                "Vøruútflutningur",
-                ""
-              ]
-            },
-            "title": "Innflutningur/Útflutningur"
-          },
-          {
-            "name": "data.countrygroup",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarlond og minst mentu londini",
-                "Menningarlond og minst mentu londini uttan Kina",
-                "Minst mentu londini",
-                ""
-              ]
-            },
-            "title": "Landabólkur"
           },
           {
             "name": "Value",
@@ -3412,35 +3358,8 @@
             "title": "vørubólkur"
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Miðal álagdur tollur hjá framkomnum londum við støðugum vanligum handilssambondum, skift á vørubólk (%)",
-                "Miðal álagdur tollur hjá framkomnum londum í serstøðu, skift á vørubólk (%)",
-                ""
-              ]
-            },
-            "title": "Mát"
-          },
-          {
-            "name": "data.typeofproduct",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tilsamans",
-                "Landbúnaðarvørur",
-                "Ídnaðarvørur",
-                "Pløgg",
-                "Klædnavørur",
-                ""
-              ]
-            },
-            "title": "Vørubólkur"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

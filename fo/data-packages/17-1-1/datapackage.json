@@ -42,20 +42,6 @@
             "title": "mát"
           },
           {
-            "name": "data.source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Skattir",
-                "Sosial gjøld",
-                "Ríkisstudningur",
-                "Onnur inntøka",
-                ""
-              ]
-            },
-            "title": "Kelda"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

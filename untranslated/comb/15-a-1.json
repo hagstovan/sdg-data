@@ -1,1 +1,1 @@
-{"data":{"Year":[2020,2021,2018,2019,2020,2021],"Series":["DC_ODA_BDVL","DC_ODA_BDVL",null,null,null,null],"Units":["PCT","PCT",null,null,null,null],"Value":[0.0,0.0,0.0,0.0,0.0,0.0]},"edges":[]}
+{"data":{"Year":[2020,2021],"Series":["DC_ODA_BDVL","DC_ODA_BDVL"],"Units":["PCT","PCT"],"Value":[0.0,0.0]},"edges":[]}

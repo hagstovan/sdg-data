@@ -40,19 +40,6 @@
             "title": "mát"
           },
           {
-            "name": "data.confidencelevel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niðara mark",
-                "Reyðlistavísital",
-                "Ovara mark",
-                ""
-              ]
-            },
-            "title": "Álitisstig"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

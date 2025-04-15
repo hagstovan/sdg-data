@@ -5,12 +5,10 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-2,Size of particulate4 matter,1
 #12-2-2,indicator,1
 #12-a-1,energy source,1
-#15-5-1,data.confidencelevel,1
 #16-1-1,data.source,1
 #16-1-4,"data.sex, data.age",2
-#17-1-1,data.source,1
-#17-11-1,"countrygroup, data.importexport, data.countrygroup",3
-#17-12-1,"data.measure, type of product, data.typeofproduct",3
+#17-11-1,countrygroup,1
+#17-12-1,type of product,1
 #17-13-1,data.measure,1
 #17-19-1,data.measure,1
 #17-2-1,data.measure,1

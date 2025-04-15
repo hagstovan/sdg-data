@@ -39,19 +39,6 @@
             }
           },
           {
-            "name": "data.source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.taxes",
-                "data.socialcontributions",
-                "data.grants",
-                "data.otherrevenue",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

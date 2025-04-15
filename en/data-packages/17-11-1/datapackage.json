@@ -35,8 +35,6 @@
               "enum": [
                 "DKK mill.",
                 "Per cent of total trade",
-                "per cent",
-                "DKK mill.",
                 ""
               ]
             },
@@ -53,31 +51,6 @@
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.importexport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Merchandise import",
-                "Merchandise export",
-                ""
-              ]
-            },
-            "title": "Import/Export"
-          },
-          {
-            "name": "data.countrygroup",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Developing countries and least developed countries",
-                "Developing countries and least developed countries excluding China",
-                "Least developed countries",
-                ""
-              ]
-            },
-            "title": "Country group"
           },
           {
             "name": "Value",

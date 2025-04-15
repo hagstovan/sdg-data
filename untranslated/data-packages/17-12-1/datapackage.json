@@ -52,33 +52,8 @@
             }
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.tm_tax_dmfn",
-                "data.tm_tax_dprf",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.typeofproduct",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.total",
-                "data.agriculturalproducts",
-                "data.industrialproducts",
-                "data.clothing",
-                "data.textiles",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

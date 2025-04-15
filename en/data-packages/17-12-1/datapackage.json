@@ -56,35 +56,8 @@
             "title": "type of product"
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average tariff applied by developed countries, most-favored nation status, by type of product (%)",
-                "Average tariff applied by developed countries, preferential status, by type of product (%)",
-                ""
-              ]
-            },
-            "title": "Measure"
-          },
-          {
-            "name": "data.typeofproduct",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Agricultural products",
-                "Industrial products",
-                "Clothing",
-                "Textiles",
-                ""
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

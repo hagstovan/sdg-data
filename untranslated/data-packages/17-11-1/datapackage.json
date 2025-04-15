@@ -33,8 +33,6 @@
               "enum": [
                 "IT_NET_BBND",
                 "IT_NET_BBNDN",
-                "data.percent",
-                "data.dkkmill",
                 ""
               ]
             }
@@ -46,29 +44,6 @@
               "enum": [
                 "TX_IMP_MRCH",
                 "TX_EXP_MRCH",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.importexport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.merchandiseimport",
-                "data.merchandiseexport",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.countrygroup",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.developed-leastdeveloped",
-                "data.developed-ex-china",
-                "data.leastdeveloped",
                 ""
               ]
             }
