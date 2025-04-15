@@ -36,33 +36,6 @@
                 "EN_MAR_CHLANM_EXTREME",
                 "EN_MAR_CHLANM_HIGH",
                 "EN_MAR_CHLANM_MODERATE",
-                "data.chlorophyll-adeviationsremotesensing",
-                "data.chlorophyll-aanomalyremotesensing",
-                "data.skopunnutrients",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.frequencyofchlorophyll-aconcentration",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.highfrequency",
-                "data.moderatefrequency",
-                "data.extremefrequency",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.nutrient",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.nitrogen",
-                "data.silica",
-                "data.phosphate",
                 ""
               ]
             }

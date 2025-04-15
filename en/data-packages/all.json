@@ -2577,21 +2577,6 @@
             "title": "unit"
           },
           {
-            "name": "data.energysource",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                ""
-              ]
-            },
-            "title": "Energy source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2684,39 +2669,10 @@
                 "Chlorophyll-a anomaly, remote sensing, extreme frequency",
                 "Chlorophyll-a anomaly, remote sensing, high frequency",
                 "Chlorophyll-a anomaly, remote sensing, moderate frequency",
-                "Chlorophyll-a deviations, remote sensing (%)",
-                "Chlorophyll-a anomaly, remote sensing (%)",
-                "Nutrients in Skopun (coastal waters), deviation from mean (%)",
                 ""
               ]
             },
             "title": "measure"
-          },
-          {
-            "name": "data.frequencyofchlorophyll-aconcentration",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "High frequency",
-                "Moderate frequency",
-                "Extreme frequency",
-                ""
-              ]
-            },
-            "title": "Frequency of Chlorophyll-a concentration"
-          },
-          {
-            "name": "data.nutrient",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nitrogen",
-                "Silica",
-                "Prosphate",
-                ""
-              ]
-            },
-            "title": "Nutrient"
           },
           {
             "name": "Value",
