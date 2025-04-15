@@ -4,6 +4,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-2-1,"sex, age",2
 #11-6-2,Size of particulate4 matter,1
 #12-2-2,indicator,1
+#12-5-1,data.wastemanagement,1
 #12-a-1,"energy source, data.energysource",2
 #14-1-1,"data.frequencyofchlorophyll-aconcentration, data.nutrient",2
 #15-5-1,data.confidencelevel,1
