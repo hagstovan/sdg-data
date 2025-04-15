@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Skattir",
+                "Sosial gjøld",
+                "Ríkisstudningur",
+                "Onnur inntøka",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",

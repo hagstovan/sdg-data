@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GR_G14_GDP",
+                "GR_G14_TAX",
+                "GR_G14_SOC",
+                "GR_G14_GRA",
+                "GR_G14_OTH",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -15,6 +15,30 @@
             "type": "integer"
           },
           {
+            "name": "measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TG_VAL_TOTL_GD_ZS",
+                "BN_RMT_ZS",
+                "BN_CAB_XOKA_GD_ZS",
+                "DT_DOD_DECT_GN_ZS",
+                "PA_NUS_ATLS",
+                "GC_TAX_TOTL_GD_ZS",
+                "GC_BAL_CASH_GD_ZS",
+                "NY_GDP_MKTP_KD_ZG",
+                "NE_GDI_TOTL_KD_ZG",
+                "NE_CON_PRVT_KD_ZG",
+                "NE_CON_GOVT_KD_ZG",
+                "NE_EXP_GNFS_KD_ZG",
+                "NE_IMP_GNFS_KD_ZG",
+                "FP_CPI_TOTL_ZG",
+                "SL_TLF_UEM",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.measure",
             "type": "string",
             "constraints": {
