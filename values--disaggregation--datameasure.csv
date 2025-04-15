@@ -14,13 +14,10 @@ data.cashsurplusdeficit,1,1
 data.currentaccountbalance,1,1
 data.debtservice,1,1
 data.DECalternativeconversionfactor,1,1
-data.disasterrelief,1,1
 data.externaldebtstocks,1,1
 data.foreigndirectinvestment,1,1
 data.grossPSD,1,1
 data.merchandisetrade,1,1
-data.netofficialdevelopmentassistance,1,1
-data.officialdevelopmentassistance,1,1
 data.personalremittances,1,1
 data.portfolioinvestment,1,1
 data.reservesinmonthsofimports,1,1

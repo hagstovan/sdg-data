@@ -39,18 +39,6 @@
             "title": "measure"
           },
           {
-            "name": "data.measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Net official development assistance as a proportion of the gross national income (GNI)",
-                "Disaster relief as a proportion og GNI",
-                ""
-              ]
-            },
-            "title": "Measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
