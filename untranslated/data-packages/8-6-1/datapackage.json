@@ -51,6 +51,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "M",
                 "F",
                 ""

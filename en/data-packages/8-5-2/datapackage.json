@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Males",
                 "Females",
                 ""

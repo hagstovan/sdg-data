@@ -55,6 +55,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Menn",
                 "Kvinnur",
                 ""
