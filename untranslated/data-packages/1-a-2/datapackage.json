@@ -29,7 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_XPD_TOT",
+                "TOT",
                 "SD_XPD_ESED",
                 "SG_XPD_HLTH",
                 "SG_XPD_PROT",
