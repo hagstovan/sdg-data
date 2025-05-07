@@ -1,9 +1,9 @@
 Year,Units,kyn,Series,Value
-2009,Í tali,Total,Tilsamans,274.03516784654
-2009,Í tali,Total,Hjarta-æðra-sjúkur,74.7368639581474
-2009,Í tali,Total,Krabbamein,141.169631920945
-2009,Í tali,Total,Sukursjúka,29.064335983724
-2009,Í tali,Total,Kroniskar sjúkur í andaleiðini,29.064335983724
+2009,Í tali,,Tilsamans,274.03516784654
+2009,Í tali,,Hjarta-æðra-sjúkur,74.7368639581474
+2009,Í tali,,Krabbamein,141.169631920945
+2009,Í tali,,Sukursjúka,29.064335983724
+2009,Í tali,,Kroniskar sjúkur í andaleiðini,29.064335983724
 2009,Í tali,Menn,Tilsamans,321.56862745098
 2009,Í tali,Menn,Hjarta-æðra-sjúkur,86.2745098039216
 2009,Í tali,Menn,Krabbamein,196.078431372549
@@ -14,11 +14,11 @@ Year,Units,kyn,Series,Value
 2009,Í tali,Kvinnur,Krabbamein,79.4035908068287
 2009,Í tali,Kvinnur,Sukursjúka,44.1131060037937
 2009,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,35.290484803035
-2010,Í tali,Total,Tilsamans,210.905030705291
-2010,Í tali,Total,Hjarta-æðra-sjúkur,57.8954986249819
-2010,Í tali,Total,Krabbamein,144.738746562455
-2010,Í tali,Total,Sukursjúka,4.1353927589273
-2010,Í tali,Total,Kroniskar sjúkur í andaleiðini,4.1353927589273
+2010,Í tali,,Tilsamans,210.905030705291
+2010,Í tali,,Hjarta-æðra-sjúkur,57.8954986249819
+2010,Í tali,,Krabbamein,144.738746562455
+2010,Í tali,,Sukursjúka,4.1353927589273
+2010,Í tali,,Kroniskar sjúkur í andaleiðini,4.1353927589273
 2010,Í tali,Menn,Tilsamans,305.235970885184
 2010,Í tali,Menn,Hjarta-æðra-sjúkur,86.092196916334
 2010,Í tali,Menn,Krabbamein,219.14377396885
@@ -29,11 +29,11 @@ Year,Units,kyn,Series,Value
 2010,Í tali,Kvinnur,Krabbamein,61.379280108729
 2010,Í tali,Kvinnur,Sukursjúka,8.7684685869613
 2010,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,8.7684685869613
-2011,Í tali,Total,Tilsamans,264.075426543707
-2011,Í tali,Total,Hjarta-æðra-sjúkur,66.0188566359266
-2011,Í tali,Total,Krabbamein,181.551855748798
-2011,Í tali,Total,Sukursjúka,8.2523570794908
-2011,Í tali,Total,Kroniskar sjúkur í andaleiðini,8.2523570794908
+2011,Í tali,,Tilsamans,264.075426543707
+2011,Í tali,,Hjarta-æðra-sjúkur,66.0188566359266
+2011,Í tali,,Krabbamein,181.551855748798
+2011,Í tali,,Sukursjúka,8.2523570794908
+2011,Í tali,,Kroniskar sjúkur í andaleiðini,8.2523570794908
 2011,Í tali,Menn,Tilsamans,313.455058381005
 2011,Í tali,Menn,Hjarta-æðra-sjúkur,101.872893973827
 2011,Í tali,Menn,Krabbamein,203.745787947653
@@ -44,11 +44,11 @@ Year,Units,kyn,Series,Value
 2011,Í tali,Kvinnur,Krabbamein,156.869580373873
 2011,Í tali,Kvinnur,Sukursjúka,17.4299533748747
 2011,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,8.7149766874374
-2012,Í tali,Total,Tilsamans,231.027867736546
-2012,Í tali,Total,Hjarta-æðra-sjúkur,90.7609480393573
-2012,Í tali,Total,Krabbamein,132.015924420883
-2012,Í tali,Total,Sukursjúka,0.0
-2012,Í tali,Total,Kroniskar sjúkur í andaleiðini,8.2509952763052
+2012,Í tali,,Tilsamans,231.027867736546
+2012,Í tali,,Hjarta-æðra-sjúkur,90.7609480393573
+2012,Í tali,,Krabbamein,132.015924420883
+2012,Í tali,,Sukursjúka,0.0
+2012,Í tali,,Kroniskar sjúkur í andaleiðini,8.2509952763052
 2012,Í tali,Menn,Tilsamans,346.347607052897
 2012,Í tali,Menn,Hjarta-æðra-sjúkur,157.430730478589
 2012,Í tali,Menn,Krabbamein,173.173803526448
@@ -59,11 +59,11 @@ Year,Units,kyn,Series,Value
 2012,Í tali,Kvinnur,Krabbamein,86.6889168219843
 2012,Í tali,Kvinnur,Sukursjúka,0.0
 2012,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,0.0
-2013,Í tali,Total,Tilsamans,272.637144745539
-2013,Í tali,Total,Hjarta-æðra-sjúkur,86.748182419035
-2013,Í tali,Total,Krabbamein,156.972901520159
-2013,Í tali,Total,Sukursjúka,4.1308658294779
-2013,Í tali,Total,Kroniskar sjúkur í andaleiðini,24.7851949768672
+2013,Í tali,,Tilsamans,272.637144745539
+2013,Í tali,,Hjarta-æðra-sjúkur,86.748182419035
+2013,Í tali,,Krabbamein,156.972901520159
+2013,Í tali,,Sukursjúka,4.1308658294779
+2013,Í tali,,Kroniskar sjúkur í andaleiðini,24.7851949768672
 2013,Í tali,Menn,Tilsamans,371.497450895151
 2013,Í tali,Menn,Hjarta-æðra-sjúkur,118.563016243133
 2013,Í tali,Menn,Krabbamein,237.126032486266
@@ -74,11 +74,11 @@ Year,Units,kyn,Series,Value
 2013,Í tali,Kvinnur,Krabbamein,69.2251114091637
 2013,Í tali,Kvinnur,Sukursjúka,0.0
 2013,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,43.2656946307273
-2014,Í tali,Total,Tilsamans,251.904771737111
-2014,Í tali,Total,Hjarta-æðra-sjúkur,74.3325555945572
-2014,Í tali,Total,Krabbamein,148.665111189114
-2014,Í tali,Total,Sukursjúka,0.0
-2014,Í tali,Total,Kroniskar sjúkur í andaleiðini,28.9071049534389
+2014,Í tali,,Tilsamans,251.904771737111
+2014,Í tali,,Hjarta-æðra-sjúkur,74.3325555945572
+2014,Í tali,,Krabbamein,148.665111189114
+2014,Í tali,,Sukursjúka,0.0
+2014,Í tali,,Kroniskar sjúkur í andaleiðini,28.9071049534389
 2014,Í tali,Menn,Tilsamans,323.662916913361
 2014,Í tali,Menn,Hjarta-æðra-sjúkur,110.519044799684
 2014,Í tali,Menn,Krabbamein,173.672784685218
@@ -89,11 +89,11 @@ Year,Units,kyn,Series,Value
 2014,Í tali,Kvinnur,Krabbamein,121.233113959127
 2014,Í tali,Kvinnur,Sukursjúka,0.0
 2014,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,17.3190162798753
-2015,Í tali,Total,Tilsamans,221.843353942855
-2015,Í tali,Total,Hjarta-æðra-sjúkur,57.5149436148142
-2015,Í tali,Total,Krabbamein,135.570938520633
-2015,Í tali,Total,Sukursjúka,0.0
-2015,Í tali,Total,Kroniskar sjúkur í andaleiðini,28.7574718074071
+2015,Í tali,,Tilsamans,221.843353942855
+2015,Í tali,,Hjarta-æðra-sjúkur,57.5149436148142
+2015,Í tali,,Krabbamein,135.570938520633
+2015,Í tali,,Sukursjúka,0.0
+2015,Í tali,,Kroniskar sjúkur í andaleiðini,28.7574718074071
 2015,Í tali,Menn,Tilsamans,282.496959234119
 2015,Í tali,Menn,Hjarta-æðra-sjúkur,102.012790834543
 2015,Í tali,Menn,Krabbamein,149.095617373563
@@ -104,11 +104,11 @@ Year,Units,kyn,Series,Value
 2015,Í tali,Kvinnur,Krabbamein,120.710467321952
 2015,Í tali,Kvinnur,Sukursjúka,0.0
 2015,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,25.8665287118469
-2016,Í tali,Total,Tilsamans,248.553500122239
-2016,Í tali,Total,Hjarta-æðra-sjúkur,65.1943606878005
-2016,Í tali,Total,Krabbamein,158.911254176514
-2016,Í tali,Total,Sukursjúka,16.2985901719501
-2016,Í tali,Total,Kroniskar sjúkur í andaleiðini,8.1492950859751
+2016,Í tali,,Tilsamans,248.553500122239
+2016,Í tali,,Hjarta-æðra-sjúkur,65.1943606878005
+2016,Í tali,,Krabbamein,158.911254176514
+2016,Í tali,,Sukursjúka,16.2985901719501
+2016,Í tali,,Kroniskar sjúkur í andaleiðini,8.1492950859751
 2016,Í tali,Menn,Tilsamans,288.566526282951
 2016,Í tali,Menn,Hjarta-æðra-sjúkur,85.7900483543909
 2016,Í tali,Menn,Krabbamein,171.580096708782
@@ -119,11 +119,11 @@ Year,Units,kyn,Series,Value
 2016,Í tali,Kvinnur,Krabbamein,145.051194539249
 2016,Í tali,Kvinnur,Sukursjúka,8.5324232081911
 2016,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,8.5324232081911
-2017,Í tali,Total,Tilsamans,294.515159461804
-2017,Í tali,Total,Hjarta-æðra-sjúkur,84.7235390232586
-2017,Í tali,Total,Krabbamein,193.653803481734
-2017,Í tali,Total,Sukursjúka,0.0
-2017,Í tali,Total,Kroniskar sjúkur í andaleiðini,16.1378169568112
+2017,Í tali,,Tilsamans,294.515159461804
+2017,Í tali,,Hjarta-æðra-sjúkur,84.7235390232586
+2017,Í tali,,Krabbamein,193.653803481734
+2017,Í tali,,Sukursjúka,0.0
+2017,Í tali,,Kroniskar sjúkur í andaleiðini,16.1378169568112
 2017,Í tali,Menn,Tilsamans,363.481690576544
 2017,Í tali,Menn,Hjarta-æðra-sjúkur,139.205753837825
 2017,Í tali,Menn,Krabbamein,208.808630756738
@@ -134,11 +134,11 @@ Year,Units,kyn,Series,Value
 2017,Í tali,Kvinnur,Krabbamein,177.125506072874
 2017,Í tali,Kvinnur,Sukursjúka,0.0
 2017,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,16.8690958164642
-2018,Í tali,Total,Tilsamans,238.986696407233
-2018,Í tali,Total,Hjarta-æðra-sjúkur,51.7804508882339
-2018,Í tali,Total,Krabbamein,163.307575878276
-2018,Í tali,Total,Sukursjúka,0.0
-2018,Í tali,Total,Kroniskar sjúkur í andaleiðini,23.8986696407233
+2018,Í tali,,Tilsamans,238.986696407233
+2018,Í tali,,Hjarta-æðra-sjúkur,51.7804508882339
+2018,Í tali,,Krabbamein,163.307575878276
+2018,Í tali,,Sukursjúka,0.0
+2018,Í tali,,Kroniskar sjúkur í andaleiðini,23.8986696407233
 2018,Í tali,Menn,Tilsamans,320.15855471281
 2018,Í tali,Menn,Hjarta-æðra-sjúkur,76.2282273125739
 2018,Í tali,Menn,Krabbamein,205.816213743949
@@ -149,11 +149,11 @@ Year,Units,kyn,Series,Value
 2018,Í tali,Kvinnur,Krabbamein,116.788321167883
 2018,Í tali,Kvinnur,Sukursjúka,0.0
 2018,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,8.3420229405631
-2019,Í tali,Total,Tilsamans,191.987462043295
-2019,Í tali,Total,Hjarta-æðra-sjúkur,54.8535605837986
-2019,Í tali,Total,Krabbamein,125.379567048683
-2019,Í tali,Total,Sukursjúka,0.0
-2019,Í tali,Total,Kroniskar sjúkur í andaleiðini,11.754334410814
+2019,Í tali,,Tilsamans,191.987462043295
+2019,Í tali,,Hjarta-æðra-sjúkur,54.8535605837986
+2019,Í tali,,Krabbamein,125.379567048683
+2019,Í tali,,Sukursjúka,0.0
+2019,Í tali,,Kroniskar sjúkur í andaleiðini,11.754334410814
 2019,Í tali,Menn,Tilsamans,231.801697386623
 2019,Í tali,Menn,Hjarta-æðra-sjúkur,74.774741092459
 2019,Í tali,Menn,Krabbamein,149.549482184918
@@ -164,11 +164,11 @@ Year,Units,kyn,Series,Value
 2019,Í tali,Kvinnur,Krabbamein,98.773561610009
 2019,Í tali,Kvinnur,Sukursjúka,0.0
 2019,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,16.4622602683348
-2020,Í tali,Total,Tilsamans,127.334465195246
-2020,Í tali,Total,Hjarta-æðra-sjúkur,23.1517209445902
-2020,Í tali,Total,Krabbamein,88.7482636209292
-2020,Í tali,Total,Sukursjúka,0.0
-2020,Í tali,Total,Kroniskar sjúkur í andaleiðini,15.4344806297268
+2020,Í tali,,Tilsamans,127.334465195246
+2020,Í tali,,Hjarta-æðra-sjúkur,23.1517209445902
+2020,Í tali,,Krabbamein,88.7482636209292
+2020,Í tali,,Sukursjúka,0.0
+2020,Í tali,,Kroniskar sjúkur í andaleiðini,15.4344806297268
 2020,Í tali,Menn,Tilsamans,161.687428802411
 2020,Í tali,Menn,Hjarta-æðra-sjúkur,36.7471429096388
 2020,Í tali,Menn,Krabbamein,117.590857310844
@@ -179,11 +179,11 @@ Year,Units,kyn,Series,Value
 2020,Í tali,Kvinnur,Krabbamein,56.8666477111174
 2020,Í tali,Kvinnur,Sukursjúka,0.0
 2020,Í tali,Kvinnur,Kroniskar sjúkur í andaleiðini,24.3714204476218
-2021,Í tali,Total,Tilsamans,176.339799125968
-2021,Í tali,Total,Hjarta-æðra-sjúkur,53.6686345165989
-2021,Í tali,Total,Krabbamein,107.337269033198
-2021,Í tali,Total,Sukursjúka,0.0
-2021,Í tali,Total,Kroniskar sjúkur í andaleiðini,15.3338955761711
+2021,Í tali,,Tilsamans,176.339799125968
+2021,Í tali,,Hjarta-æðra-sjúkur,53.6686345165989
+2021,Í tali,,Krabbamein,107.337269033198
+2021,Í tali,,Sukursjúka,0.0
+2021,Í tali,,Kroniskar sjúkur í andaleiðini,15.3338955761711
 2021,Í tali,Menn,Tilsamans,218.882241354151
 2021,Í tali,Menn,Hjarta-æðra-sjúkur,65.6646724062455
 2021,Í tali,Menn,Krabbamein,131.329344812491

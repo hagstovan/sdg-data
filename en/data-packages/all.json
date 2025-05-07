@@ -33,7 +33,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -46,7 +45,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "00-17 years",
                 "18-24 years",
                 "25-54 years",
@@ -317,7 +315,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -411,7 +408,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -716,7 +712,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -908,7 +903,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -1513,7 +1507,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -1621,7 +1614,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -1693,7 +1685,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -2270,7 +2261,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Males",
                 "Females",
                 ""
@@ -2283,7 +2273,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "00-17 years",
                 "18-24 years",
                 "25-54 years",

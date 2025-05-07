@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Menn",
                 "Kvinnur",
                 ""
@@ -44,7 +43,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "00-17 ár",
                 "18-24 ár",
                 "25-54 ár",
