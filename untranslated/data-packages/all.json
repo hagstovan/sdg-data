@@ -1193,7 +1193,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
                 "HYDRO",
                 "WIND",
                 "SOLAR",
@@ -2300,7 +2299,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
                 "HYDRO",
                 "WIND",
                 "SOLAR",
