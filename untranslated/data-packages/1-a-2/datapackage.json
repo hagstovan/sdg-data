@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOT",
                 "SD_XPD_ESED",
                 "SG_XPD_HLTH",
                 "SG_XPD_PROT",

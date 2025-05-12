@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
                 "Útbúgving",
                 "Heilsa",
                 "Almannavernd",
