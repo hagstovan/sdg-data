@@ -3001,7 +3001,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total renewable energy source",
                 "Hydro",
                 "Wind",
                 "Solar",
