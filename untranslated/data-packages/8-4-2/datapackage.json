@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MF0",
                 "MF1",
                 "MF2",
                 "MF3",

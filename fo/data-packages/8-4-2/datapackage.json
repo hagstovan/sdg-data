@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
                 "Biomassi",
                 "Metalmálmur",
                 "Ikki-metalhavin steinsløg",
