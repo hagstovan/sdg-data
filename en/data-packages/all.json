@@ -459,8 +459,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Merchandise trade as a proportion of GDP (%)",
+                "Personal remittances, received, as a proportion of GDP (%)",
+                "Current account balance as a proportion of GDP (%)",
+                "External debt stocks as a proportion of GNI (%)",
+                "DEC alternative conversion factor (LCU per US$)",
+                "Tax revenue as a proportion of GDP (%)",
+                "Cash surplus/deficit as a proportion of GDP (%)",
+                "Annual GDP growth (%)",
+                "Annual growth of the gross capital formation (%)",
+                "Annual growth of households and NPISHs final consumption expenditure (%)",
+                "Annual growth of the general government final consumption expenditure (%)",
+                "Annual growth of exports of goods and services (%)",
+                "Annual growth of imports of goods and services (%)",
+                "Annual inflation, consumer prices (%)",
+                "Total unemployment out of total labour force (national estimate) (%)",
+                ""
+              ]
+            },
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -555,8 +580,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour share of GDP",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -622,8 +669,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -772,8 +819,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "00-17 years",
+                "18-24 years",
+                "25-54 years",
+                "55-66 years",
+                "67+ years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -844,8 +940,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "growth rate of disposable income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 40 per cent of the population",
+                "Total population",
+                ""
+              ]
+            },
+            "title": "growth rate of disposable income"
           },
           {
             "name": "Value",
@@ -1114,8 +1244,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -1166,8 +1296,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -1238,8 +1390,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sustainable Development Goals. Indicator 14.6.1",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -1882,8 +2056,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sustainable fisheries as a proportion of GDP",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -2115,8 +2311,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -2143,8 +2339,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total greenhouse gas emissions per year",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2 equivalent million tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -2501,8 +2719,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net official development assistance as a proportion of the gross national income (GNI)",
+                "Disaster relief as a proportion og GNI",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -2641,8 +2882,8 @@
             "constraints": {
               "enum": [
                 "Total (sex)",
-                "Boys",
-                "Girls",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -2717,8 +2958,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
+                "Protected marine area (Exclusive Economic Zones) (square kilometres)",
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                "sqare km",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -2843,8 +3109,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -3328,8 +3594,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries and leas developed countries",
+                "Least developed countries",
+                "Developing countries excluding China",
+                ""
+              ]
+            },
+            "title": "Country group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DKK mill.",
+                "Per cent of total trade",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Faroese merchandise import",
+                "Faroese merchandise export",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -3376,8 +3679,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed renewable energy-generating capacity (in watts per capita)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Ocean",
+                "Biofuel",
+                ""
+              ]
+            },
+            "title": "energy source"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watts per capita",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -4608,8 +4948,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -4823,8 +5185,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary government expenditures as a proportion of original approved budget",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -5349,8 +5733,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per cent",
+                "tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total waste",
+                "Incineration",
+                "Landfill",
+                "Recycling",
+                "Extraordinarily polluting",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -5777,12 +6188,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -5801,8 +6234,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -5988,8 +6443,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Males",
+                "Females",
                 ""
               ]
             },
@@ -6149,8 +6604,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Biomass",
+                "Metallic minerals",
+                "Non-metallic minerals",
+                "Fossil energy and other products",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1,000 tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -6197,8 +6691,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed broadband subscriptions per 100 inhabitants",
+                "Fixed broadband subscriptions (number)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "bandwidth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total bandwidths",
+                "256 Kbit/s to less than 2 Mbit/s",
+                "2 Mbit/s to less than 10 Mbit/s",
+                "10 Mbit/s or more",
+                ""
+              ]
+            },
+            "title": "Bandbreidd"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -6293,8 +6824,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nutrients in coastal waters, deviation from mean, nitrogen",
+                "Nutrients in coastal waters, deviation from mean, silica",
+                "Chlorophyll-a deviations, remote sensing",
+                "Nutrients in coastal waters, deviation from mean, phosphate",
+                "Chlorophyll-a anomaly, remote sensing, extreme frequency",
+                "Chlorophyll-a anomaly, remote sensing, high frequency",
+                "Chlorophyll-a anomaly, remote sensing, moderate frequency",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -6533,8 +7092,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "microgram/m3",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (rural)",
+                "Bøkjarabrekka (urban)",
+                "Kaldbak (rural)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 microgram/m3",
+                "2.5 microgram/m3",
+                ""
+              ]
+            },
+            "title": "Size of particulate4 matter"
           },
           {
             "name": "Value",

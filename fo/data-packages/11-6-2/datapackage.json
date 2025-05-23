@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mikrogram/m3",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (land)",
+                "Bøkjarabrekka (býur)",
+                "Kaldbak (land)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 mikrogram/m3",
+                "2,5 mikrogram/m3",
+                ""
+              ]
+            },
+            "title": "Bitlastødd"
           },
           {
             "name": "Value",
