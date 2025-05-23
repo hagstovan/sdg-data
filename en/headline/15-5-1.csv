@@ -1,85 +1,85 @@
 Year,Value,Units,Series
 1993,0.82895803859118,In number,Lowerbound
-1993,0.88716435313648,In number,Red List Index
-1993,0.92714700694332,In number,Upperbound
-1994,0.83452684167269,In number,Lowerbound
-1994,0.88612112998897,In number,Red List Index
-1994,0.92214945129365,In number,Upperbound
-1995,0.83616268651819,In number,Lowerbound
-1995,0.88667318146156,In number,Red List Index
-1995,0.9171255027363,In number,Upperbound
-1996,0.843178725,In number,Lowerbound
-1996,0.8881749875,In number,Red List Index
-1996,0.91460110267167,In number,Upperbound
-1997,0.843319325,In number,Lowerbound
-1997,0.88761273541667,In number,Red List Index
-1997,0.91292652437583,In number,Upperbound
-1998,0.84788996333333,In number,Lowerbound
-1998,0.88842961458333,In number,Red List Index
-1998,0.91156518875,In number,Upperbound
-1999,0.848827938125,In number,Lowerbound
-1999,0.88819329166667,In number,Red List Index
-1999,0.91120162333333,In number,Upperbound
-2000,0.85048050354167,In number,Lowerbound
-2000,0.88868260625,In number,Red List Index
-2000,0.910286428125,In number,Upperbound
-2001,0.85418309104167,In number,Lowerbound
-2001,0.88644211458333,In number,Red List Index
-2001,0.909396090625,In number,Upperbound
-2002,0.85493914729167,In number,Lowerbound
-2002,0.8849944875,In number,Red List Index
-2002,0.90887532125,In number,Upperbound
-2003,0.85447866916667,In number,Lowerbound
-2003,0.8851053875,In number,Red List Index
-2003,0.907572354375,In number,Upperbound
-2004,0.85164644104167,In number,Lowerbound
-2004,0.88525798125,In number,Red List Index
-2004,0.90628149416667,In number,Upperbound
-2005,0.849285105,In number,Lowerbound
-2005,0.88415129583333,In number,Red List Index
-2005,0.90496099770833,In number,Upperbound
-2006,0.84665165083333,In number,Lowerbound
-2006,0.88356944375,In number,Red List Index
-2006,0.9043829125,In number,Upperbound
-2007,0.845633980625,In number,Lowerbound
-2007,0.88519659225665,In number,Red List Index
-2007,0.90588592213919,In number,Upperbound
-2008,0.84069621875,In number,Lowerbound
-2008,0.88588287581465,In number,Red List Index
-2008,0.91006521098186,In number,Upperbound
-2009,0.83796408625,In number,Lowerbound
-2009,0.88456322541057,In number,Red List Index
-2009,0.91214148729907,In number,Upperbound
-2010,0.83797469909369,In number,Lowerbound
-2010,0.88467982359872,In number,Red List Index
-2010,0.91777159101086,In number,Upperbound
-2011,0.83215731638101,In number,Lowerbound
-2011,0.88570795904019,In number,Red List Index
-2011,0.92224917871657,In number,Upperbound
-2012,0.82694123331458,In number,Lowerbound
-2012,0.8856337980843,In number,Red List Index
-2012,0.92343777174635,In number,Upperbound
-2013,0.81948583693845,In number,Lowerbound
-2013,0.88712324324317,In number,Red List Index
-2013,0.92758162093261,In number,Upperbound
-2014,0.81964742142544,In number,Lowerbound
-2014,0.88379278194246,In number,Red List Index
-2014,0.93274490527664,In number,Upperbound
-2015,0.80697530940772,In number,Lowerbound
-2015,0.87995809238584,In number,Red List Index
-2015,0.9304321875071,In number,Upperbound
-2016,0.80164016924563,In number,Lowerbound
-2016,0.87708229985325,In number,Red List Index
-2016,0.93504250283197,In number,Upperbound
-2017,0.78895005839941,In number,Lowerbound
-2017,0.87072479935616,In number,Red List Index
-2017,0.94338766467224,In number,Upperbound
-2018,0.78695159531698,In number,Lowerbound
-2018,0.86634265766622,In number,Red List Index
-2018,0.94417507318101,In number,Upperbound
-2019,0.77527047640312,In number,Lowerbound
-2019,0.86562392386566,In number,Red List Index
-2019,0.95407387396179,In number,Upperbound
-2020,0.76864183454974,In number,Lowerbound
-2020,0.86007358050682,In number,Red List Index
+1993,0.8849944875,In number,Red List Index
+1993,0.92224917871657,In number,Upperbound
+1994,0.88716435313648,In number,Lowerbound
+1994,0.90887532125,In number,Red List Index
+1994,0.82694123331458,In number,Upperbound
+1995,0.92714700694332,In number,Lowerbound
+1995,0.85447866916667,In number,Red List Index
+1995,0.8856337980843,In number,Upperbound
+1996,0.83452684167269,In number,Lowerbound
+1996,0.8851053875,In number,Red List Index
+1996,0.92343777174635,In number,Upperbound
+1997,0.88612112998897,In number,Lowerbound
+1997,0.907572354375,In number,Red List Index
+1997,0.81948583693845,In number,Upperbound
+1998,0.92214945129365,In number,Lowerbound
+1998,0.85164644104167,In number,Red List Index
+1998,0.88712324324317,In number,Upperbound
+1999,0.83616268651819,In number,Lowerbound
+1999,0.88525798125,In number,Red List Index
+1999,0.92758162093261,In number,Upperbound
+2000,0.88667318146156,In number,Lowerbound
+2000,0.90628149416667,In number,Red List Index
+2000,0.81964742142544,In number,Upperbound
+2001,0.9171255027363,In number,Lowerbound
+2001,0.849285105,In number,Red List Index
+2001,0.88379278194246,In number,Upperbound
+2002,0.843178725,In number,Lowerbound
+2002,0.88415129583333,In number,Red List Index
+2002,0.93274490527664,In number,Upperbound
+2003,0.8881749875,In number,Lowerbound
+2003,0.90496099770833,In number,Red List Index
+2003,0.80697530940772,In number,Upperbound
+2004,0.91460110267167,In number,Lowerbound
+2004,0.84665165083333,In number,Red List Index
+2004,0.87995809238584,In number,Upperbound
+2005,0.843319325,In number,Lowerbound
+2005,0.88356944375,In number,Red List Index
+2005,0.9304321875071,In number,Upperbound
+2006,0.88761273541667,In number,Lowerbound
+2006,0.9043829125,In number,Red List Index
+2006,0.80164016924563,In number,Upperbound
+2007,0.91292652437583,In number,Lowerbound
+2007,0.845633980625,In number,Red List Index
+2007,0.87708229985325,In number,Upperbound
+2008,0.84788996333333,In number,Lowerbound
+2008,0.88519659225665,In number,Red List Index
+2008,0.93504250283197,In number,Upperbound
+2009,0.88842961458333,In number,Lowerbound
+2009,0.90588592213919,In number,Red List Index
+2009,0.78895005839941,In number,Upperbound
+2010,0.91156518875,In number,Lowerbound
+2010,0.84069621875,In number,Red List Index
+2010,0.87072479935616,In number,Upperbound
+2011,0.848827938125,In number,Lowerbound
+2011,0.88588287581465,In number,Red List Index
+2011,0.94338766467224,In number,Upperbound
+2012,0.88819329166667,In number,Lowerbound
+2012,0.91006521098186,In number,Red List Index
+2012,0.78695159531698,In number,Upperbound
+2013,0.91120162333333,In number,Lowerbound
+2013,0.83796408625,In number,Red List Index
+2013,0.86634265766622,In number,Upperbound
+2014,0.85048050354167,In number,Lowerbound
+2014,0.88456322541057,In number,Red List Index
+2014,0.94417507318101,In number,Upperbound
+2015,0.88868260625,In number,Lowerbound
+2015,0.91214148729907,In number,Red List Index
+2015,0.77527047640312,In number,Upperbound
+2016,0.910286428125,In number,Lowerbound
+2016,0.83797469909369,In number,Red List Index
+2016,0.86562392386566,In number,Upperbound
+2017,0.85418309104167,In number,Lowerbound
+2017,0.88467982359872,In number,Red List Index
+2017,0.95407387396179,In number,Upperbound
+2018,0.88644211458333,In number,Lowerbound
+2018,0.91777159101086,In number,Red List Index
+2018,0.76864183454974,In number,Upperbound
+2019,0.909396090625,In number,Lowerbound
+2019,0.83215731638101,In number,Red List Index
+2019,0.86007358050682,In number,Upperbound
+2020,0.85493914729167,In number,Lowerbound
+2020,0.88570795904019,In number,Red List Index
 2020,0.94784670845374,In number,Upperbound
