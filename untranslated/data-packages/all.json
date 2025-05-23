@@ -422,31 +422,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TG_VAL_TOTL_GD_ZS",
-                "BN_RMT_ZS",
-                "BN_CAB_XOKA_GD_ZS",
-                "DT_DOD_DECT_GN_ZS",
-                "PA_NUS_ATLS",
-                "GC_TAX_TOTL_GD_ZS",
-                "GC_BAL_CASH_GD_ZS",
-                "NY_GDP_MKTP_KD_ZG",
-                "NE_GDI_TOTL_KD_ZG",
-                "NE_CON_PRVT_KD_ZG",
-                "NE_CON_GOVT_KD_ZG",
-                "NE_EXP_GNFS_KD_ZG",
-                "NE_IMP_GNFS_KD_ZG",
-                "FP_CPI_TOTL_ZG",
-                "SL_TLF_UEM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -512,28 +488,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IT_MOB_3GNTWK",
-                "IT_MOB_4GNTWK",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -555,27 +510,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_EMP_GTOTL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -774,52 +709,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y0-17",
-                "Y18-24",
-                "Y25-54",
-                "Y55-66",
-                "Y_GE67",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_50MI",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -885,38 +775,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_HEI_TOTL",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "growth rate of disposable income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40PCT",
-                "TOT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1211,27 +1070,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEGREE",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_REG_SSFRAR",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1297,27 +1136,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEGREE",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_REG_UNFCIM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1361,27 +1180,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_MANF",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1491,27 +1290,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ST_GDP_ZS",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1599,45 +1378,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_NAHC",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOTAL",
-                "FUEL",
-                "ENERGY",
-                "MANUFACT",
-                "TRANSPORT",
-                "OTHER",
-                "BUNKERS",
-                "AVI",
-                "NAVI",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MIO_TON",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1877,29 +1618,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_MANFPC",
-                "NV_IND_MANF",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKKPRCAP",
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2007,27 +1726,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_SCP_FSHGDP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2266,27 +1965,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_ATM_GHGT_AIP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CO2_EMIS",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2614,28 +2293,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_ODA_TOTG",
-                "DISAST",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2723,51 +2381,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_TOT_CPLR",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED_1",
-                "ISCED_2",
-                "ISCED_3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOTAL",
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2833,30 +2447,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_MRN_MARIN",
-                "ER_MRN_MARINT",
-                "ER_MRN_MPA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                "SQKM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2878,50 +2469,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_NEET",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y15-24",
-                "Y15-19",
-                "Y20-24",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2987,38 +2535,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_PRE_PARTN",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3040,27 +2557,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_WASHL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3148,27 +2645,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NY_GDP_PCAP",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3366,103 +2843,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NP",
-                "LG",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "party",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOT",
-                "A",
-                "FBF",
-                "F",
-                "C",
-                "KF",
-                "H",
-                "B",
-                "D",
-                "E",
-                "vmf",
-                "9999",
-                "4308",
-                "4404",
-                "4210",
-                "4202",
-                "4205E",
-                "4603",
-                "4203",
-                "4101",
-                "4212",
-                "4213",
-                "4205",
-                "4301",
-                "4310",
-                "4304",
-                "4604",
-                "4108",
-                "4504",
-                "4601",
-                "4303",
-                "4104",
-                "4309",
-                "4105",
-                "4305",
-                "4106",
-                "4306",
-                "4204",
-                "4402",
-                "4107",
-                "4405",
-                "4206",
-                "4311",
-                "4201",
-                "4605",
-                "4207",
-                "4302",
-                "4401",
-                "4501",
-                "4208",
-                "4209",
-                "4503",
-                "4502",
-                "4505",
-                "4403",
-                "4607",
-                "4211",
-                "4102",
-                "4701",
-                "4602",
-                "4402V",
-                "4606",
-                "4307",
-                "4103",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_GEN_PARL",
-                "SG_GEN_PARLN",
-                "SG_GEN_PARLNT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3484,41 +2865,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "countrygroup",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEV_LDEV",
-                "LDEV",
-                "DEV_EX-CHINA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IT_NET_BBND",
-                "IT_NET_BBNDN",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TX_IMP_MRCH",
-                "TX_EXP_MRCH",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3562,41 +2909,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_EGY_RNEW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "HYDRO",
-                "WIND",
-                "SOLAR",
-                "OCEAN",
-                "BIOFUEL",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WPERCAP",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3618,42 +2931,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "material type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MF1",
-                "MF2",
-                "MF3",
-                "MF4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TON",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MAT_DOMCMPT",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3763,27 +3041,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_TRDDBML",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3805,51 +3063,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y15-74",
-                "Y15-24",
-                "Y25-54",
-                "Y55-74",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_UEM",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3937,27 +3151,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_SCHIPSL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4133,27 +3327,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_INFRAL",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4219,41 +3393,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DAD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FTE",
-                "SH_MED_HWRKDIS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCO08_221",
-                "ISCO08_222_322",
-                "ISCO08_2262",
-                "ISCO08_2261",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4426,42 +3566,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WATTS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_EGY_RNEW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "HYDRO",
-                "WIND",
-                "SOLAR",
-                "OCEAN",
-                "BIOFUEL",
-                "GEO",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4879,27 +3984,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_ODA_BDVL",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5031,28 +4116,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5096,27 +4160,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GF_XPD_GBPC",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5204,27 +4248,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_SSIS",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5376,43 +4400,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_FEC_RNEW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "renewable energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "HYDRO",
-                "WIND",
-                "SOLAR",
-                "OCEAN",
-                "BIOFUEL",
-                "SOLIDWASTE",
-                "HEATPUMPS",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5434,29 +4422,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NO",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_RSK_LST_LOWER",
-                "ER_RSK_LST",
-                "ER_RSK_LST_UPPER",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5676,32 +4642,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MWT_RCYR",
-                "EN_MWT_RCYV",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOTAL",
-                "INCINERATION",
-                "LANDFILL",
-                "RECYCLING",
-                "POLLUTING",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5723,53 +4664,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Position",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IC_GEN_CE",
-                "IC_GEN_BM",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_DOM_TSPD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Public/private",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PRIVATE",
-                "PUBLIC",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -5809,50 +4708,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_EMP_INJUR",
-                "SL_EMP_FTLINJUR",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NO",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PERS",
-                "PR_EMP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5896,27 +4752,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NO",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SP_ROD_R2KM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6024,44 +4860,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TM_TAX_DMFN",
-                "TM_TAX_DPRF",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ALP",
-                "AGR",
-                "CLO",
-                "IND",
-                "TEX",
-                "ARM",
-                "OIL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6193,31 +4992,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_STT_CAPTY",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6235,27 +5014,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GR_G14_GDP",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6321,31 +5080,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GR_G14_GDP",
-                "GR_G14_TAX",
-                "GR_G14_SOC",
-                "GR_G14_GRA",
-                "GR_G14_OTH",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6598,43 +5333,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MF0",
-                "MF1",
-                "MF2",
-                "MF3",
-                "MF4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MAT_DOMCMPT",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TON",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6678,41 +5377,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IT_NET_BBND",
-                "IT_NET_BBNDN",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "bandwidth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOTAL",
-                "256_2MB",
-                "2MB_10MB",
-                "10MB+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6800,33 +5465,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUTR_NITROGEN",
-                "NUTR_SILICA",
-                "EN_MAR_CHLDEV",
-                "NUTR_PHOSPHATE",
-                "EN_MAR_CHLANM_EXTREME",
-                "EN_MAR_CHLANM_HIGH",
-                "EN_MAR_CHLANM_MODERATE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -6848,27 +5487,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_TECH",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -7066,40 +5685,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MICROGR",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RURAL_1",
-                "URBAN_1",
-                "RURAL_2",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Size of particulate4 matter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN:ATM_PM10",
-                "EN_ATM_PM25",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Virðisøking frá miðal- og hátøknivinnu sum partur av virðisøkingini í ídnaðarvinnum samlað",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",

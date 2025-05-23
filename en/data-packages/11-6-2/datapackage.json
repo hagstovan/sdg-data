@@ -12,44 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "microgram/m3",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Havnardalur (rural)",
-                "Bøkjarabrekka (urban)",
-                "Kaldbak (rural)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "Size of particulate4 matter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 microgram/m3",
-                "2.5 microgram/m3",
-                ""
-              ]
-            },
-            "title": "Size of particulate4 matter"
           },
           {
             "name": "Value",

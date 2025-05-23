@@ -12,42 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "material type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MF1",
-                "MF2",
-                "MF3",
-                "MF4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TON",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MAT_DOMCMPT",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

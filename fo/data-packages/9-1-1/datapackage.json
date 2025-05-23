@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av fólkinum uttan fyri býarøkir, ið býr nærri enn 2 km við ein heilársveg",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",

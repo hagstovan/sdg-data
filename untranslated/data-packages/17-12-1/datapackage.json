@@ -12,44 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TM_TAX_DMFN",
-                "TM_TAX_DPRF",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ALP",
-                "AGR",
-                "CLO",
-                "IND",
-                "TEX",
-                "ARM",
-                "OIL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

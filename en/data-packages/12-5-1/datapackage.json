@@ -12,35 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per cent",
-                "tonnes",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total waste",
-                "Incineration",
-                "Landfill",
-                "Recycling",
-                "Extraordinarily polluting",
-                ""
-              ]
-            },
-            "title": "measure"
           },
           {
             "name": "Value",

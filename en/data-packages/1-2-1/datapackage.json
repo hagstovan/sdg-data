@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon dioxide emissions from fuel combustion",
+                "Proportion of population living below the national poverty line",
                 ""
               ]
             },

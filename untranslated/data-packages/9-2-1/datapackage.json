@@ -12,29 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_MANFPC",
-                "NV_IND_MANF",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKKPRCAP",
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

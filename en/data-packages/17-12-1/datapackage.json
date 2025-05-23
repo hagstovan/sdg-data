@@ -12,48 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average tariff applied by developed countries, most-favored nation status, by type of product (%)",
-                "Average tariff applied by developed countries, preferential status, by type of product (%)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total or no breakdown",
-                "Agricultura  produtcs",
-                "Clothing",
-                "Industrial products",
-                "Textiles",
-                "Arms",
-                "Oil",
-                ""
-              ]
-            },
-            "title": "type of product"
           },
           {
             "name": "Value",

@@ -12,49 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Útlát av koltvísúrni frá nýtslu av brennievni",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nýtsla av brennievni tilsamans",
-                " - Nýtsla av brennievni",
-                " - - El- og hitaframleiðsla",
-                " - - Framleiðslu- og byggivinna",
-                " - - Flutningsvinna",
-                " - - Aðrar vinnur",
-                " - Bunkring",
-                " - - Flogfør",
-                " - - Skip",
-                ""
-              ]
-            },
-            "title": "Kelda"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "millónir tons",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",

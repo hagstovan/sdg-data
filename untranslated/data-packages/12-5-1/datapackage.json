@@ -12,32 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MWT_RCYR",
-                "EN_MWT_RCYV",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOTAL",
-                "INCINERATION",
-                "LANDFILL",
-                "RECYCLING",
-                "POLLUTING",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

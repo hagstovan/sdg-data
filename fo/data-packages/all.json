@@ -459,33 +459,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vøruhandil við umheimin, ársins prísir (% av BTÚ)",
-                "Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)",
-                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
-                "Uttanlandsskuld, brutto (% av BTI)",
-                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
-                "Skattainntøkur samanlagt (% av BTÚ)",
-                "Fíggjarkrav netto fyri (% av BTÚ)",
-                "Árligur vøkstur av BTÚ (%)",
-                "Árligur vøkstur av bruttoíløgum  (%)",
-                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
-                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
-                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
-                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
-                "Árligur prísvøkstur, brúkaraprístalið (%)",
-                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)",
-                ""
-              ]
-            },
-            "title": "Mát"
           },
           {
             "name": "Value",
@@ -556,31 +531,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3G fartelefonnet ella betri",
-                "4G fartelefonnet ella betri",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -603,30 +555,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lønir, sum partur av BTÚ",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -681,7 +611,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Útlát av koltvísúrni frá nýtslu av brennievni",
+                "Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",
                 ""
               ]
             },
@@ -842,57 +772,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "00-17 ár",
-                "18-24 ár",
-                "25-54 ár",
-                "55-66 ár",
-                "67+ ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -963,42 +844,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vakstratferð av tøkari inntøku",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "growth rate of disposable income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lægstu 40 prosentini av íbúgvunum",
-                "Allir íbúgvar",
-                ""
-              ]
-            },
-            "title": "inntøkubólkur"
           },
           {
             "name": "Value",
@@ -1319,30 +1166,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stig",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstig at fremja lógar/kunngerðar/politiskar/stovnsligar karmar ið viðurkenna og verja atgongurættindi hjá útróðri til havfeingi",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -1413,30 +1238,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stig",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Heimsmálini, ávísi 14.6.1",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -1483,30 +1286,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arbeiðsvirkin í framsluvinnuni sum partur av arbeiðsvirknum tilsamans",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -1625,30 +1406,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Virðisøking frá ferðavinnu, sum partur av BTÚ",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -1743,49 +1502,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Útlát av koltvísúrni frá nýtslu av brennievni",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nýtsla av brennievni tilsamans",
-                " - Nýtsla av brennievni",
-                " - - El- og hitaframleiðsla",
-                " - - Framleiðslu- og byggivinna",
-                " - - Flutningsvinna",
-                " - - Aðrar vinnur",
-                " - Bunkring",
-                " - - Flogfør",
-                " - - Skip",
-                ""
-              ]
-            },
-            "title": "Kelda"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "millónir tons",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -2046,32 +1764,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Virðisøking frá ídnaðarvinnu fyri hvørt fólkið",
-                "Virðisøking frá ídnaðarvinnu sum partur av BTÚ",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK fyri hvørt fólkið",
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -2188,30 +1882,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Burðardyggur fiskiskapur sum partur av BTÚ",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -2471,30 +2143,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Samlaða árliga útlátið av vakstrarhúsgassi",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CO2-javngild mió. tons",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -2851,31 +2501,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Netto almennur menningarstuðul sum partur av bruttotjóðarinntøkuni (BTI)",
-                "Neyðhjálp sum partur av BTI",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -2970,56 +2597,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prosentpartur við loknari útbúgving 3-5 ár aftan á vanliga aldurin við lidna útbúgving",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Barnaskúlin 1. - 7. flokk",
-                "Framhaldsskúlin 8. - 10. flokk",
-                "Miðnáms- ella yrkisútbúgving",
-                ""
-              ]
-            },
-            "title": "Útbúgving"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bæði kyn",
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
           },
           {
             "name": "Value",
@@ -3090,33 +2669,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av havleiðum (serbúskaparøki), ið eru vard øki (%)",
-                "Vardar havleiðir (serbúskaparøki) (km²)",
-                "Miðalparturin av týðandi havleiðum fyri lívmargfeldi, ið eru vard øki (%)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "km2",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -3139,55 +2693,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av ungum (15-24 ár) sum ikki eru í útbúgving, arbeiði ella læru",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 ár",
-                "15-19 ár",
-                "20-24 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
           },
           {
             "name": "Value",
@@ -3258,42 +2765,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prosentpartur av 6 ára gomlum, ið luttaka í skipaðari frálæru",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
           },
           {
             "name": "Value",
@@ -3316,30 +2789,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.000 kr.",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Heimsmálini, ávísi 6.a.1",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -3434,30 +2885,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Árligur vøkstur av real-BTÚ upp á íbúgvan",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -3672,107 +3101,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Løgting",
-                "Kommunustýri",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "party",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Allir flokkar",
-                "Fólkaflokkurin",
-                "Framburðsflokkurin",
-                "Framsókn",
-                "Javnaðarflokkurin",
-                "Kristiligi Fólkaflokkurin",
-                "Miðflokkurin",
-                "Sambandsflokkurin",
-                "Sjálvstýri",
-                "Tjóðveldi",
-                "Verkamannafylkingin",
-                "Allar kommunur",
-                "Argja kommuna",
-                "Bíggjar kommuna",
-                "Eiðis kommuna",
-                "Elduvíkar kommuna",
-                "Eysturkommuna",
-                "Fámjins kommuna",
-                "Fuglafjarðar kommuna",
-                "Fugloyar kommuna",
-                "Funnings kommuna",
-                "Gjáar kommuna",
-                "Gøtu kommuna",
-                "Haldórsvíkar kommuna",
-                "Hests kommuna",
-                "Hósvíkar kommuna",
-                "Hovs kommuna",
-                "Húsa kommuna",
-                "Húsavíkar kommuna",
-                "Hvalbiar kommuna",
-                "Hvalvíkar kommuna",
-                "Hvannasunds kommuna",
-                "Kirkjubøar kommuna",
-                "Klaksvíkar kommuna",
-                "Kollafjarðar kommuna",
-                "Kunoyar kommuna",
-                "Kvívíkar kommuna",
-                "Leirvíkar kommuna",
-                "Miðvágs kommuna",
-                "Mikladals kommuna",
-                "Mykines kommuna",
-                "Nes kommuna",
-                "Nólsoyar kommuna",
-                "Oyndarfjarðar kommuna",
-                "Porkeris kommuna",
-                "Runavíkar kommuna",
-                "Saksunar kommuna",
-                "Sandavágs kommuna",
-                "Sands kommuna",
-                "Sjóvar kommuna",
-                "Skála kommuna",
-                "Skálavíkar kommuna",
-                "Skopunar kommuna",
-                "Skúvoyar kommuna",
-                "Sørvágs kommuna",
-                "Sumbiar kommuna",
-                "Sunda kommuna",
-                "Svínoyar kommuna",
-                "Tórshavnar kommuna",
-                "Tvøroyrar kommuna",
-                "Vága kommuna",
-                "Vágs kommuna",
-                "Vestmanna kommuna",
-                "Viðareiðis kommuna",
-                ""
-              ]
-            },
-            "title": "Party"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av sætum hjá kvinnum",
-                "Tal av sætum hjá kvinnum",
-                "Tal av sætum",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -3795,45 +3125,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "countrygroup",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarlond og minst mentu londini",
-                "Minst mentu londini",
-                "Menningarlond uttan Kina",
-                ""
-              ]
-            },
-            "title": "Landabólkur"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mió. kr.",
-                "% av samlaða handlinum",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vøruinnflutningur",
-                "Vøruútflutningur",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -3880,45 +3173,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                ""
-              ]
-            },
-            "title": "orkukelda"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Watt fyri hvønn íbúgva",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -3941,46 +3197,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "material type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biomassi",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Lívrunnin brennievni og aðrar framleiðslur",
-                ""
-              ]
-            },
-            "title": "slag av tilfari"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.000 tons",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Innlendis tilfarsnýtsla",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -4099,30 +3317,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.000 kr.",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Heimsmálini, ávísi 8.a.1",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -4145,56 +3341,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-74 ár",
-                "15-24 ár",
-                "25-54 ár",
-                "55-74 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arbeiðsloysisprosent",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -4289,30 +3437,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.000 kr.",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstuðul latin sum lestrarstuðul",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -4503,30 +3629,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Samantald upphædd av almennum altjóða stuðli (almennur menningarstuðul umframt onnur almenn fígging) til undirstøðukervi",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -4597,45 +3701,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Býti og tættleiki",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ársverk",
-                "Fyri hvørjar 10.000 íbúgvar",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Læknar",
-                "Ljósmøður, sjúkrarøktar- og heilsustarvsfólk",
-                "Heiliráðfrøðingar",
-                "Tannlæknar",
-                ""
-              ]
-            },
-            "title": "Starv"
           },
           {
             "name": "Value",
@@ -4823,46 +3890,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Watt fyri hvønn íbúgva",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                "Jarðhiti",
-                ""
-              ]
-            },
-            "title": "orkukelda"
           },
           {
             "name": "Value",
@@ -5317,30 +4346,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(a) Almennur menningarstuðul til varðveitslu og burðardygga nýtslu av lívmargfeldi og (b) inntøkur og fæ fingið til vegar við fíggjaramboðum tongdum at lívmargfeldi",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -5483,31 +4490,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Giftar áðrenn 15 ár",
-                "Giftar áðrenn 18 ár",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -5554,30 +4538,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -5672,30 +4634,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Virðisøking frá smáum og miðalstórum virkjum sum partur av virðisøkingini í ídnaðarvinnum samlað",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -5860,47 +4800,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Uppsett framleiðsluorka til varandi orku (í watt upp á íbúgvan)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "renewable energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðiligt brennievni",
-                "Fjarhiti frá brennistøðum",
-                "Hitapumpur",
-                ""
-              ]
-            },
-            "title": "varandi orkukelda"
           },
           {
             "name": "Value",
@@ -5923,32 +4824,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niðara mark",
-                "Reyðlistavísital",
-                "Ovara mark",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -6187,35 +5064,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "tons",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Burturkast tilsamans",
-                "Brenning",
-                "Tyrving",
-                "Endurnýtsla",
-                "Serliga dálkandi",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -6238,58 +5088,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
           },
           {
-            "name": "Position",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stjóri",
-                "Nevndarlimur",
-                ""
-              ]
-            },
-            "title": "starv"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av tíð brúkt til ólønt húsligt arbeiði og umsorganararbeiði skift á kyn, aldur og staðseting",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Public/private",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Privatar fyritøkur",
-                "Almennir stovnar og fyritøkur",
-                ""
-              ]
-            },
-            "title": "alment/privat"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6332,55 +5136,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ikki-deyðilig",
-                "Deyðilig",
-                ""
-              ]
-            },
-            "title": "Avleiðing"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Persónar",
-                "pr. 100.000 arbeiðsvirkin",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
           },
           {
             "name": "Value",
@@ -6427,30 +5184,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av fólkinum uttan fyri býarøkir, ið býr nærri enn 2 km við ein heilársveg",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -6567,48 +5302,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Miðal álagdur tollur hjá framkomnum londum í bólkinum við mestu rættindum (MFN), skift á vørubólk (%)",
-                "Miðal álagdur tollur hjá framkomnum londum við framíhjárættindatolli, skift á vørubólk (%)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tilsamans",
-                "Landbúnaðarvørur",
-                "Pløgg",
-                "Ídnaðarvørur",
-                "Klædnavørur",
-                "Vápn",
-                "Olja",
-                ""
-              ]
-            },
-            "title": "vørubólkur"
           },
           {
             "name": "Value",
@@ -6751,34 +5446,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Netto almennur menningarstuðul, samantalda upphæddin og til minst mentu londini sum partur av samlaðu bruttotjóðarinntøkuni (BTI) hjá gevaralondunum í Felagsskapinum fyri búskaparligum samstarvi og menning (OECD)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6797,30 +5470,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tilsamans",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -6891,34 +5542,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tilsamans",
-                "Skattir",
-                "Sosial gjøld",
-                "Ríkisstudningur",
-                "Onnur inntøka",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -7193,47 +5818,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tilsamans",
-                "Biomassi",
-                "Metalmálmur",
-                "Ikki-metalhavin steinsløg",
-                "Lívrunnin brennievni og aðrar framleiðslur",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Innlendis tilfarsnýtsla",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
-                ""
-              ]
-            },
-            "title": "Ávísi"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.000 tons",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -7280,45 +5866,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Breiðsbandshald fyri hvørjar 100 íbúgvar",
-                "Breiðbandshald",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "bandwidth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Breiðband tilsamans",
-                "256 Kbit/s upp til men undir 2 Mbit/s",
-                "2 Mbit/s upp til men undir 10Mbit/s",
-                "10 Mbit/s ella meir",
-                ""
-              ]
-            },
-            "title": "Bandbreidd"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -7413,36 +5962,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði, nitrat",
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði, silikat",
-                "Blaðgrøni-a grundfrávik",
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði, fosfar",
-                "Blaðgrøni-a mánaðarfrávik, sera stórur títtleiki",
-                "Blaðgrøni-a mánaðarfrávik, stórur títtleiki",
-                "Blaðgrøni-a mánaðarfrávik, nakað av títtleika",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -7465,30 +5986,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Virðisøking frá miðal- og hátøknivinnu sum partur av virðisøkingini í ídnaðarvinnum samlað",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -7703,44 +6202,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mikrogram/m3",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Havnardalur (land)",
-                "Bøkjarabrekka (býur)",
-                "Kaldbak (land)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Size of particulate4 matter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 mikrogram/m3",
-                "2,5 mikrogram/m3",
-                ""
-              ]
-            },
-            "title": "Bitlastødd"
           },
           {
             "name": "Value",

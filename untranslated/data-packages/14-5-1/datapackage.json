@@ -12,30 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_MRN_MARIN",
-                "ER_MRN_MARINT",
-                "ER_MRN_MPA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                "SQKM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

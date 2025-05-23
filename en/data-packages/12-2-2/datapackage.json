@@ -12,47 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Biomass",
-                "Metallic minerals",
-                "Non-metallic minerals",
-                "Fossil energy and other products",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Domestic material consumption",
-                "Domestic material consumption per capita",
-                "Domestic material consumption per unit of GDP",
-                ""
-              ]
-            },
-            "title": "Indicator"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1,000 tonnes",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",

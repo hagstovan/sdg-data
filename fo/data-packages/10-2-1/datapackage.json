@@ -12,57 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "00-17 ár",
-                "18-24 ár",
-                "25-54 ár",
-                "55-66 ár",
-                "67+ ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
