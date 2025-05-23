@@ -4152,46 +4152,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Watts per capita",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Installed renewable energy-generating capacity (in watts per capita)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                "Geothermal",
-                ""
-              ]
-            },
-            "title": "energy source"
           },
           {
             "name": "Value",
@@ -5123,47 +5085,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Installed renewable energy-generating capacity (in watts per capita)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "renewable energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                "Solid waste",
-                "Heat pumps",
-                ""
-              ]
-            },
-            "title": "renewable energy source"
           },
           {
             "name": "Value",
