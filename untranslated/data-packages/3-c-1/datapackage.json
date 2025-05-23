@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DAD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FTE",
+                "SH_MED_HWRKDIS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCO08_221",
+                "ISCO08_222_322",
+                "ISCO08_2262",
+                "ISCO08_2261",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

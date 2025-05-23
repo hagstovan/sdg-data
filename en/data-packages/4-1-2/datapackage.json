@@ -12,8 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Completion rate 3-5 years above normal graduation age",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                ""
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (sex)",
+                "Boys",
+                "Girls",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
