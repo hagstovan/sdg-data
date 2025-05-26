@@ -1,13 +1,25 @@
-Year,Value
-2011,100.0
-2012,100.0
-2013,100.0
-2014,100.0
-2015,100.0
-2016,100.0
-2017,100.0
-2018,100.0
-2019,100.0
-2020,100.0
-2021,100.0
-2022,100.0
+Year,Units,Series,Value
+2011,,,100.0
+2012,,,100.0
+2013,,,100.0
+2014,,,100.0
+2015,,,100.0
+2016,,,100.0
+2017,,,100.0
+2018,,,100.0
+2019,,,100.0
+2020,,,100.0
+2021,,,100.0
+2022,,,100.0
+2011,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2012,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2013,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2014,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2015,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2016,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2017,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2018,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2019,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2020,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2021,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
+2022,pct.,Proportion of children under 5 years of age whose births have been registered with a civil authority,100.0
