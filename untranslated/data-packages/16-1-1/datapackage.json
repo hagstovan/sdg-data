@@ -26,6 +26,27 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CRIM",
+                "HEALTH",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_IHR_PSRC",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "string"
           }

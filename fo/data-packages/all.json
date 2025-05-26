@@ -54,6 +54,29 @@
             "title": "Kelda"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Løgreglan",
+                "Landslæknin",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Morð fyri hvørjar 100.000 íbúgvar",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Value"

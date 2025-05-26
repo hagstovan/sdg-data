@@ -54,6 +54,29 @@
             "title": "Source"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The police",
+                "The Chief Medical Officer",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of victims of intentional homicide per 100,000 population",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Value"
