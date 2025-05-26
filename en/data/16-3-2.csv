@@ -1,7 +1,13 @@
-Year,Value
-2015,19.4
-2016,26.8
-2017,32.6
-2018,32.1
-2019,31.2
-2020,64.5
+Year,Units,Series,Value
+2015,,,19.4
+2016,,,26.8
+2017,,,32.6
+2018,,,32.1
+2019,,,31.2
+2020,,,64.5
+2015,pct.,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,19.3548387096774
+2016,pct.,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,26.8292682926829
+2017,pct.,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,32.6086956521739
+2018,pct.,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,32.1100917431193
+2019,pct.,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,31.1827956989247
+2020,pct.,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,64.5454545454546

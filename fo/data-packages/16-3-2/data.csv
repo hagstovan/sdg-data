@@ -1,7 +1,13 @@
-Year,Value
-2015,19.4
-2016,26.8
-2017,32.6
-2018,32.1
-2019,31.2
-2020,64.5
+Year,Units,Series,Value
+2015,,,19.4
+2016,,,26.8
+2017,,,32.6
+2018,,,32.1
+2019,,,31.2
+2020,,,64.5
+2015,%,"Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",19.3548387096774
+2016,%,"Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",26.8292682926829
+2017,%,"Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",32.6086956521739
+2018,%,"Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",32.1100917431193
+2019,%,"Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",31.1827956989247
+2020,%,"Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",64.5454545454546

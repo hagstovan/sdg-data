@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017,2018,2019,2020],"Value":[19.4,26.8,32.6,32.1,31.2,64.5]},"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019,2020,2015,2016,2017,2018,2019,2020],"Units":[null,null,null,null,null,null,"PCT","PCT","PCT","PCT","PCT","PCT"],"Series":[null,null,null,null,null,null,"VC_PRS_UNSNT","VC_PRS_UNSNT","VC_PRS_UNSNT","VC_PRS_UNSNT","VC_PRS_UNSNT","VC_PRS_UNSNT"],"Value":[19.4,26.8,32.6,32.1,31.2,64.5,19.3548387097,26.8292682927,32.6086956522,32.1100917431,31.1827956989,64.5454545455]},"edges":[]}

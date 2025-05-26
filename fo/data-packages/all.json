@@ -195,6 +195,28 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
