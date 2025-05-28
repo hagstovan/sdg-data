@@ -5513,7 +5513,6 @@
             "constraints": {
               "enum": [
                 "ER_RSK_LST_LOWER",
-                "ER_RSK_LST",
                 "ER_RSK_LST_UPPER",
                 ""
               ]

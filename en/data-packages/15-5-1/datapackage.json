@@ -32,7 +32,6 @@
             "constraints": {
               "enum": [
                 "Lowerbound",
-                "Red List Index",
                 "Upperbound",
                 ""
               ]
