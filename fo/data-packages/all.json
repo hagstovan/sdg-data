@@ -5990,8 +5990,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reyðlistavísital",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niðara mark",
+                "Reyðlistavísital",
+                "Ovara mark",
+                ""
+              ]
+            },
+            "title": "vísital"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Í tali",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",

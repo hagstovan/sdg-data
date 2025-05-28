@@ -1,1 +1,85 @@
-Year,Value
+Year,Series,index,Units,Value
+1993,Red List Index,Lowerbound,In number,0.82895803859118
+1994,Red List Index,Lowerbound,In number,0.88716435313648
+1995,Red List Index,Lowerbound,In number,0.92714700694332
+1996,Red List Index,Lowerbound,In number,0.83452684167269
+1997,Red List Index,Lowerbound,In number,0.88612112998897
+1998,Red List Index,Lowerbound,In number,0.92214945129365
+1999,Red List Index,Lowerbound,In number,0.83616268651819
+2000,Red List Index,Lowerbound,In number,0.88667318146156
+2001,Red List Index,Lowerbound,In number,0.9171255027363
+2002,Red List Index,Lowerbound,In number,0.843178725
+2003,Red List Index,Lowerbound,In number,0.8881749875
+2004,Red List Index,Lowerbound,In number,0.91460110267167
+2005,Red List Index,Lowerbound,In number,0.843319325
+2006,Red List Index,Lowerbound,In number,0.88761273541667
+2007,Red List Index,Lowerbound,In number,0.91292652437583
+2008,Red List Index,Lowerbound,In number,0.84788996333333
+2009,Red List Index,Lowerbound,In number,0.88842961458333
+2010,Red List Index,Lowerbound,In number,0.91156518875
+2011,Red List Index,Lowerbound,In number,0.848827938125
+2012,Red List Index,Lowerbound,In number,0.88819329166667
+2013,Red List Index,Lowerbound,In number,0.91120162333333
+2014,Red List Index,Lowerbound,In number,0.85048050354167
+2015,Red List Index,Lowerbound,In number,0.88868260625
+2016,Red List Index,Lowerbound,In number,0.910286428125
+2017,Red List Index,Lowerbound,In number,0.85418309104167
+2018,Red List Index,Lowerbound,In number,0.88644211458333
+2019,Red List Index,Lowerbound,In number,0.909396090625
+2020,Red List Index,Lowerbound,In number,0.85493914729167
+1993,Red List Index,Red List Index,In number,0.8849944875
+1994,Red List Index,Red List Index,In number,0.90887532125
+1995,Red List Index,Red List Index,In number,0.85447866916667
+1996,Red List Index,Red List Index,In number,0.8851053875
+1997,Red List Index,Red List Index,In number,0.907572354375
+1998,Red List Index,Red List Index,In number,0.85164644104167
+1999,Red List Index,Red List Index,In number,0.88525798125
+2000,Red List Index,Red List Index,In number,0.90628149416667
+2001,Red List Index,Red List Index,In number,0.849285105
+2002,Red List Index,Red List Index,In number,0.88415129583333
+2003,Red List Index,Red List Index,In number,0.90496099770833
+2004,Red List Index,Red List Index,In number,0.84665165083333
+2005,Red List Index,Red List Index,In number,0.88356944375
+2006,Red List Index,Red List Index,In number,0.9043829125
+2007,Red List Index,Red List Index,In number,0.845633980625
+2008,Red List Index,Red List Index,In number,0.88519659225665
+2009,Red List Index,Red List Index,In number,0.90588592213919
+2010,Red List Index,Red List Index,In number,0.84069621875
+2011,Red List Index,Red List Index,In number,0.88588287581465
+2012,Red List Index,Red List Index,In number,0.91006521098186
+2013,Red List Index,Red List Index,In number,0.83796408625
+2014,Red List Index,Red List Index,In number,0.88456322541057
+2015,Red List Index,Red List Index,In number,0.91214148729907
+2016,Red List Index,Red List Index,In number,0.83797469909369
+2017,Red List Index,Red List Index,In number,0.88467982359872
+2018,Red List Index,Red List Index,In number,0.91777159101086
+2019,Red List Index,Red List Index,In number,0.83215731638101
+2020,Red List Index,Red List Index,In number,0.88570795904019
+1993,Red List Index,Upperbound,In number,0.92224917871657
+1994,Red List Index,Upperbound,In number,0.82694123331458
+1995,Red List Index,Upperbound,In number,0.8856337980843
+1996,Red List Index,Upperbound,In number,0.92343777174635
+1997,Red List Index,Upperbound,In number,0.81948583693845
+1998,Red List Index,Upperbound,In number,0.88712324324317
+1999,Red List Index,Upperbound,In number,0.92758162093261
+2000,Red List Index,Upperbound,In number,0.81964742142544
+2001,Red List Index,Upperbound,In number,0.88379278194246
+2002,Red List Index,Upperbound,In number,0.93274490527664
+2003,Red List Index,Upperbound,In number,0.80697530940772
+2004,Red List Index,Upperbound,In number,0.87995809238584
+2005,Red List Index,Upperbound,In number,0.9304321875071
+2006,Red List Index,Upperbound,In number,0.80164016924563
+2007,Red List Index,Upperbound,In number,0.87708229985325
+2008,Red List Index,Upperbound,In number,0.93504250283197
+2009,Red List Index,Upperbound,In number,0.78895005839941
+2010,Red List Index,Upperbound,In number,0.87072479935616
+2011,Red List Index,Upperbound,In number,0.94338766467224
+2012,Red List Index,Upperbound,In number,0.78695159531698
+2013,Red List Index,Upperbound,In number,0.86634265766622
+2014,Red List Index,Upperbound,In number,0.94417507318101
+2015,Red List Index,Upperbound,In number,0.77527047640312
+2016,Red List Index,Upperbound,In number,0.86562392386566
+2017,Red List Index,Upperbound,In number,0.95407387396179
+2018,Red List Index,Upperbound,In number,0.76864183454974
+2019,Red List Index,Upperbound,In number,0.86007358050682
+2020,Red List Index,Upperbound,In number,0.94784670845374
