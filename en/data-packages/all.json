@@ -6947,7 +6947,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Taxes",
                 "Social contributions",
                 "Grants",

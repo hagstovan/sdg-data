@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
                 "Skattir",
                 "Sosial gjøld",
                 "Ríkisstudningur",

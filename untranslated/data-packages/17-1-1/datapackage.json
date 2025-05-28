@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GR_G14_GDP",
                 "GR_G14_TAX",
                 "GR_G14_SOC",
                 "GR_G14_GRA",
