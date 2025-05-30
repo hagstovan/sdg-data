@@ -15,27 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
-                "MF0",
                 "MF1",
                 "MF2",
                 "MF3",
                 "MF4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MAT_DOMCMPT",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
                 ""
               ]
             }
@@ -46,6 +33,18 @@
             "constraints": {
               "enum": [
                 "TON",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_MAT_DOMCMPT",
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
                 ""
               ]
             }

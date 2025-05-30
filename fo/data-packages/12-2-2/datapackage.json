@@ -16,11 +16,10 @@
             "title": "Ár"
           },
           {
-            "name": "Series",
+            "name": "material type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
                 "Biomassi",
                 "Metalmálmur",
                 "Ikki-metalhavin steinsløg",
@@ -28,20 +27,7 @@
                 ""
               ]
             },
-            "title": "mát"
-          },
-          {
-            "name": "indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Innlendis tilfarsnýtsla",
-                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
-                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
-                ""
-              ]
-            },
-            "title": "Ávísi"
+            "title": "slag av tilfari"
           },
           {
             "name": "Units",
@@ -53,6 +39,19 @@
               ]
             },
             "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
