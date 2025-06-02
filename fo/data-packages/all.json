@@ -77,6 +77,28 @@
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

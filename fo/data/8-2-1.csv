@@ -1,14 +1,27 @@
-Year,Value
-2009,0.82
-2010,3.3
-2011,7.2
-2012,-1.68
-2013,7.33
-2014,3.95
-2015,-1.74
-2016,1.42
-2017,1.51
-2018,-1.76
-2019,2.48
-2020,-2.73
-2021,5.42
+Year,Units,Series,Value
+2009,,,0.82
+2010,,,3.3
+2011,,,7.2
+2012,,,-1.68
+2013,,,7.33
+2014,,,3.95
+2015,,,-1.74
+2016,,,1.42
+2017,,,1.51
+2018,,,-1.76
+2019,,,2.48
+2020,,,-2.73
+2021,,,5.42
+2009,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,0.82
+2010,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,3.3
+2011,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,7.2
+2012,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,-1.68
+2013,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,7.33
+2014,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,3.95
+2015,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,-1.74
+2016,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,1.42
+2017,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,1.51
+2018,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,-1.76
+2019,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,2.48
+2020,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,-2.73
+2021,%,Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón,5.42
