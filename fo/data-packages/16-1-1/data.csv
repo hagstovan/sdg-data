@@ -1,75 +1,35 @@
-Year,Kelda,Series,Units,Value
-2002,Løgreglan,,,0.0
-2002,Landslæknin,,,..
-2003,Løgreglan,,,0.0
-2003,Landslæknin,,,..
-2004,Løgreglan,,,0.0
-2004,Landslæknin,,,..
-2005,Løgreglan,,,0.0
-2005,Landslæknin,,,..
-2006,Løgreglan,,,0.0
-2006,Landslæknin,,,..
-2007,Løgreglan,,,0.0
-2007,Landslæknin,,,0.0
-2008,Løgreglan,,,0.0
-2008,Landslæknin,,,0.0
-2009,Løgreglan,,,0.0
-2009,Landslæknin,,,0.0
-2010,Løgreglan,,,0.0
-2010,Landslæknin,,,0.0
-2011,Løgreglan,,,4.1
-2011,Landslæknin,,,0.0
-2012,Løgreglan,,,0.0
-2012,Landslæknin,,,0.0
-2013,Løgreglan,,,2.1
-2013,Landslæknin,,,2.1
-2014,Løgreglan,,,2.1
-2014,Landslæknin,,,4.1
-2015,Løgreglan,,,0.0
-2015,Landslæknin,,,0.0
-2016,Løgreglan,,,0.0
-2016,Landslæknin,,,0.0
-2017,Løgreglan,,,0.0
-2017,Landslæknin,,,0.0
-2018,Løgreglan,,,0.0
-2018,Landslæknin,,,0.0
-2019,Løgreglan,,,0.0
-2019,Landslæknin,,,0.0
-2020,Løgreglan,,,0.0
-2020,Landslæknin,,,0.0
-2021,Løgreglan,,,
-2021,Landslæknin,,,0.0
-2002,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2003,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2004,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2005,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2006,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2007,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2007,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2008,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2008,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2009,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2009,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2010,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2010,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2011,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,4.13860177339086
-2011,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2012,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2012,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2013,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,2.07867796081692
-2013,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,2.07867796081692
-2014,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,2.06675622610313
-2014,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,4.13351245220626
-2015,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2015,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2016,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2016,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2017,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2017,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2018,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2018,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2019,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2019,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2020,,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2020,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
-2021,,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+Year,Series,Units,Value
+2002,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2003,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2004,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2005,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2006,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2007,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2007,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2008,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2008,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2009,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2009,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2010,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2010,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2011,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,4.13860177339086
+2011,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2012,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2012,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2013,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,2.07867796081692
+2013,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,2.07867796081692
+2014,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,2.06675622610313
+2014,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,4.13351245220626
+2015,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2015,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2016,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2016,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2017,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2017,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2018,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2018,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2019,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2019,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2020,Løgreglan,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2020,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0
+2021,Landslæknin,Morð fyri hvørjar 100.000 íbúgvar,0.0

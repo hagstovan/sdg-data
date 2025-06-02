@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "data.source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Police",
-                "Chief Medical Officer",
-                ""
-              ]
-            },
-            "title": "Source"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -52,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

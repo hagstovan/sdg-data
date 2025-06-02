@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "data.source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.police",
-                "data.chiefmedicalofficer",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -48,7 +37,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
