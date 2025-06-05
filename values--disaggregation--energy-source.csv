@@ -1,7 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
-BIOFUEL,1,1
+BIOFUEL,2,2
 GEO,1,1
-HYDRO,1,1
-OCEAN,1,1
-SOLAR,1,1
-WIND,1,1
+HYDRO,2,2
+OCEAN,2,2
+SOLAR,2,2
+WIND,2,2

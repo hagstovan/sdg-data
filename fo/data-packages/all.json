@@ -326,8 +326,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "tons",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Burturkast tilsamans",
+                "Brenning",
+                "Tyrving",
+                "Endurnýtsla",
+                "Serliga dálkandi",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -607,7 +634,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Uppsett framleiðsluorka til varandi orku (í watt upp á íbúgvan)",
+                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
                 ""
               ]
             },
@@ -1030,8 +1057,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "material type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomassi",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                ""
+              ]
+            },
+            "title": "slag av tilfari"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.000 tons",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -1861,8 +1926,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "00-17 ár",
+                "18-24 ár",
+                "25-54 ár",
+                "55-66 ár",
+                "67+ ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni í landinum, skift á kyn og aldur og fólk, ið bera brek",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
@@ -2892,8 +3006,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vatn",
+                "Vindur",
+                "Sólin",
+                "Havið",
+                "Lívfrøðilig brennievni",
+                ""
+              ]
+            },
+            "title": "orkukelda"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watt fyri hvønn íbúgva",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
@@ -3311,8 +3462,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mikrogram/m3",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (land)",
+                "Bøkjarabrekka (býur)",
+                "Kaldbak (land)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 mikrogram/m3",
+                "2,5 mikrogram/m3",
+                ""
+              ]
+            },
+            "title": "Bitlastødd"
           },
           {
             "name": "Value",
@@ -4974,8 +5161,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vakstratferð av tøkari inntøku",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "growth rate of disposable income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lægstu 40 prosentini av íbúgvunum",
+                "Allir íbúgvar",
+                ""
+              ]
+            },
+            "title": "inntøkubólkur"
           },
           {
             "name": "Value",

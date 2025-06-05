@@ -12,8 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "material type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomassi",
+                "Metalmálmur",
+                "Ikki-metalhavin steinsløg",
+                "Lívrunnin brennievni og aðrar framleiðslur",
+                ""
+              ]
+            },
+            "title": "slag av tilfari"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.000 tons",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Innlendis tilfarsnýtsla",
+                "Innlendis tilfarsnýtsla fyri hvønn íbúgva",
+                "Innlendis tilfarsnýtsla fyri hvørja BTÚ-eind",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",

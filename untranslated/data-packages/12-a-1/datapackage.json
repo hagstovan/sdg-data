@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_EGY_RNEW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HYDRO",
+                "WIND",
+                "SOLAR",
+                "OCEAN",
+                "BIOFUEL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WPERCAP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

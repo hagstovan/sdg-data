@@ -326,8 +326,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per cent",
+                "tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total waste",
+                "Incineration",
+                "Landfill",
+                "Recycling",
+                "Extraordinarily polluting",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -1030,8 +1057,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "material type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Metallic minerals",
+                "Non-metallic minerals",
+                "Fossil energy and other products",
+                ""
+              ]
+            },
+            "title": "material type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1,000 tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            },
+            "title": "measure"
           },
           {
             "name": "Value",
@@ -1861,8 +1926,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "00-17 years",
+                "18-24 years",
+                "25-54 years",
+                "55-66 years",
+                "67+ years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -2892,8 +3006,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed renewable energy-generating capacity (in watts per capita)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro",
+                "Wind",
+                "Solar",
+                "Ocean",
+                "Biofuel",
+                ""
+              ]
+            },
+            "title": "energy source"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watts per capita",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
@@ -3311,8 +3462,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "microgram/m3",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Havnardalur (rural)",
+                "Bøkjarabrekka (urban)",
+                "Kaldbak (rural)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 microgram/m3",
+                "2.5 microgram/m3",
+                ""
+              ]
+            },
+            "title": "Size of particulate4 matter"
           },
           {
             "name": "Value",
@@ -4974,8 +5161,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "growth rate of disposable income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 40 per cent of the population",
+                "Total population",
+                ""
+              ]
+            },
+            "title": "growth rate of disposable income"
           },
           {
             "name": "Value",

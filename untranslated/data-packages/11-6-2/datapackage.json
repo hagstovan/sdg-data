@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MICROGR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL_1",
+                "URBAN_1",
+                "RURAL_2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN:ATM_PM10",
+                "EN_ATM_PM25",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

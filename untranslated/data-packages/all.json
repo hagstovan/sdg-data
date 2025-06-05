@@ -300,7 +300,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_MWT_RCYR",
+                "EN_MWT_RCYV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "INCINERATION",
+                "LANDFILL",
+                "RECYCLING",
+                "POLLUTING",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -945,7 +970,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "material type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MF1",
+                "MF2",
+                "MF3",
+                "MF4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TON",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_MAT_DOMCMPT",
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1706,7 +1766,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0-17",
+                "Y18-24",
+                "Y25-54",
+                "Y55-66",
+                "Y_GE67",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_50MI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2651,7 +2756,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_EGY_RNEW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HYDRO",
+                "WIND",
+                "SOLAR",
+                "OCEAN",
+                "BIOFUEL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WPERCAP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3035,7 +3174,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MICROGR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL_1",
+                "URBAN_1",
+                "RURAL_2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Size of particulate4 matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN:ATM_PM10",
+                "EN_ATM_PM25",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4559,7 +4731,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_HEI_TOTL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "growth rate of disposable income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40PCT",
+                "TOT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

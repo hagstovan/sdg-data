@@ -1,1 +1,51 @@
-Year,Value
+Year,Value,Units,Series
+2012,100.0,%,Burturkast tilsamans
+2013,100.0,%,Burturkast tilsamans
+2014,100.0,%,Burturkast tilsamans
+2015,100.0,%,Burturkast tilsamans
+2016,100.0,%,Burturkast tilsamans
+2012,69.8,%,Brenning
+2013,67.3,%,Brenning
+2014,65.4,%,Brenning
+2015,66.7,%,Brenning
+2016,64.9,%,Brenning
+2012,14.2,%,Tyrving
+2013,15.4,%,Tyrving
+2014,16.6,%,Tyrving
+2015,12.5,%,Tyrving
+2016,16.8,%,Tyrving
+2012,13.7,%,Endurnýtsla
+2013,15.6,%,Endurnýtsla
+2014,15.4,%,Endurnýtsla
+2015,18.8,%,Endurnýtsla
+2016,16.3,%,Endurnýtsla
+2012,2.3,%,Serliga dálkandi
+2013,1.6,%,Serliga dálkandi
+2014,2.6,%,Serliga dálkandi
+2015,2.0,%,Serliga dálkandi
+2016,2.0,%,Serliga dálkandi
+2012,43866.0,tons,Burturkast tilsamans
+2013,45300.0,tons,Burturkast tilsamans
+2014,51079.0,tons,Burturkast tilsamans
+2015,49902.0,tons,Burturkast tilsamans
+2016,51885.0,tons,Burturkast tilsamans
+2012,30638.0,tons,Brenning
+2013,30490.0,tons,Brenning
+2014,33396.0,tons,Brenning
+2015,33282.0,tons,Brenning
+2016,33677.0,tons,Brenning
+2012,6222.0,tons,Tyrving
+2013,6993.0,tons,Tyrving
+2014,8487.0,tons,Tyrving
+2015,6237.0,tons,Tyrving
+2016,8691.0,tons,Tyrving
+2012,6008.0,tons,Endurnýtsla
+2013,7084.0,tons,Endurnýtsla
+2014,7869.0,tons,Endurnýtsla
+2015,9385.0,tons,Endurnýtsla
+2016,8482.0,tons,Endurnýtsla
+2012,998.0,tons,Serliga dálkandi
+2013,733.0,tons,Serliga dálkandi
+2014,1327.0,tons,Serliga dálkandi
+2015,998.0,tons,Serliga dálkandi
+2016,1035.0,tons,Serliga dálkandi
