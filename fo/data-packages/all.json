@@ -832,8 +832,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -2476,8 +2498,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av børnum undir 5 ár, har føðingin er skrásett hjá almennum myndugleika",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -4974,8 +5018,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Løgreglan",
+                "Landslæknin",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Morð fyri hvørjar 100.000 íbúgvar",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
@@ -5860,8 +5927,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
