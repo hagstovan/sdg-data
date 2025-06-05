@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menningarlond og minst mentu londini",
+                "Minst mentu londini",
+                "Menningarlond uttan Kina",
+                ""
+              ]
+            },
+            "title": "Landabólkur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mió. kr.",
+                "% av samlaða handlinum",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vøruinnflutningur",
+                "Vøruútflutningur",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",

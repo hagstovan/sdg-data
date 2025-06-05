@@ -413,7 +413,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "bandwidth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "256_2MB",
+                "2MB_10MB",
+                "10MB+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1177,7 +1211,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TG_VAL_TOTL_GD_ZS",
+                "BN_RMT_ZS",
+                "BN_CAB_XOKA_GD_ZS",
+                "DT_DOD_DECT_GN_ZS",
+                "PA_NUS_ATLS",
+                "GC_TAX_TOTL_GD_ZS",
+                "GC_BAL_CASH_GD_ZS",
+                "NY_GDP_MKTP_KD_ZG",
+                "NE_GDI_TOTL_KD_ZG",
+                "NE_CON_PRVT_KD_ZG",
+                "NE_CON_GOVT_KD_ZG",
+                "NE_EXP_GNFS_KD_ZG",
+                "NE_IMP_GNFS_KD_ZG",
+                "FP_CPI_TOTL_ZG",
+                "SL_TLF_UEM",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1221,7 +1279,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_ODA_TOTG",
+                "DISAST",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1723,7 +1802,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOT_GOV_REV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GR_G14_TAX",
+                "GR_G14_SOC",
+                "GR_G14_GRA",
+                "GR_G14_OTH",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3153,11 +3265,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_STT_CAPTY",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -4516,7 +4648,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GR_G14_GDP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -6975,7 +7127,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DEV_LDEV",
+                "LDEV",
+                "DEV_EX-CHINA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TX_IMP_MRCH",
+                "TX_EXP_MRCH",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
