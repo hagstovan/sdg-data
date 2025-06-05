@@ -12,35 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "tons",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Burturkast tilsamans",
-                "Brenning",
-                "Tyrving",
-                "Endurnýtsla",
-                "Serliga dálkandi",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",

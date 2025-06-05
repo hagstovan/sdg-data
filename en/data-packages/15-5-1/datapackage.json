@@ -12,42 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Red List Index",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lowerbound",
-                "Upperbound",
-                ""
-              ]
-            },
-            "title": "index"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "In number",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",

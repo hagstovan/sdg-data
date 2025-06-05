@@ -12,42 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Reyðlistavísital",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niðara mark",
-                "Ovara mark",
-                ""
-              ]
-            },
-            "title": "vísital"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",

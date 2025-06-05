@@ -12,33 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUTR_NITROGEN",
-                "NUTR_SILICA",
-                "EN_MAR_CHLDEV",
-                "NUTR_PHOSPHATE",
-                "EN_MAR_CHLANM_EXTREME",
-                "EN_MAR_CHLANM_HIGH",
-                "EN_MAR_CHLANM_MODERATE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

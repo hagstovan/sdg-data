@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stig",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstig at fremja lógar/kunngerðar/politiskar/stovnsligar karmar ið viðurkenna og verja atgongurættindi hjá útróðri til havfeingi",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",

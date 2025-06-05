@@ -12,38 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RL_INDEX",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_RSK_LST_LOWER",
-                "ER_RSK_LST_UPPER",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NO",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
