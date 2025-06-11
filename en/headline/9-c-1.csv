@@ -1,15 +1,1 @@
-Year,Value,Units,Series
-2015,96.0,pct.,At least a 3G mobile network
-2015,58.0,pct.,At least a 4G mobile network
-2016,98.0,pct.,At least a 3G mobile network
-2016,98.0,pct.,At least a 4G mobile network
-2017,99.99,pct.,At least a 3G mobile network
-2017,99.99,pct.,At least a 4G mobile network
-2018,99.99,pct.,At least a 3G mobile network
-2018,99.99,pct.,At least a 4G mobile network
-2019,99.99,pct.,At least a 3G mobile network
-2019,99.99,pct.,At least a 4G mobile network
-2020,100.0,pct.,At least a 3G mobile network
-2020,99.99,pct.,At least a 4G mobile network
-2021,100.0,pct.,At least a 3G mobile network
-2021,100.0,pct.,At least a 4G mobile network
+Year,Value

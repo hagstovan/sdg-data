@@ -56,8 +56,8 @@
             "constraints": {
               "enum": [
                 "Total (sex)",
-                "Males",
-                "Females",
+                "Boys",
+                "Girls",
                 ""
               ]
             },
