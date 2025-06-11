@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
