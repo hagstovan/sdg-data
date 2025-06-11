@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Merchandise trade as a proportion of GDP (%)",
+                "Personal remittances, received, as a proportion of GDP (%)",
+                "Current account balance as a proportion of GDP (%)",
+                "External debt stocks as a proportion of GNI (%)",
+                "DEC alternative conversion factor (LCU per US$)",
+                "Tax revenue as a proportion of GDP (%)",
+                "Cash surplus/deficit as a proportion of GDP (%)",
+                "Annual GDP growth (%)",
+                "Annual growth of the gross capital formation (%)",
+                "Annual growth of households and NPISHs final consumption expenditure (%)",
+                "Annual growth of the general government final consumption expenditure (%)",
+                "Annual growth of exports of goods and services (%)",
+                "Annual growth of imports of goods and services (%)",
+                "Annual inflation, consumer prices (%)",
+                "Total unemployment out of total labour force (national estimate) (%)",
+                ""
+              ]
+            },
+            "title": "Measure"
           },
           {
             "name": "Value",

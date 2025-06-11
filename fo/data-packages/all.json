@@ -928,8 +928,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Løgreglan",
+                "Landslæknin",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Morð fyri hvørjar 100.000 íbúgvar",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
@@ -1084,8 +1107,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Netto almennur menningarstuðul sum partur av bruttotjóðarinntøkuni (BTI)",
+                "Neyðhjálp sum partur av BTI",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -2056,8 +2102,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "countrygroup",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menningarlond og minst mentu londini",
+                "Minst mentu londini",
+                "Menningarlond uttan Kina",
+                ""
+              ]
+            },
+            "title": "Landabólkur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mió. kr.",
+                "% av samlaða handlinum",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vøruinnflutningur",
+                "Vøruútflutningur",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -3479,8 +3562,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Breiðsbandshald fyri hvørjar 100 íbúgvar",
+                "Breiðbandshald",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "bandwidth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Breiðband tilsamans",
+                "256 Kbit/s upp til men undir 2 Mbit/s",
+                "2 Mbit/s upp til men undir 10Mbit/s",
+                "10 Mbit/s ella meir",
+                ""
+              ]
+            },
+            "title": "Bandbreidd"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
@@ -3847,8 +3967,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -5604,8 +5746,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -5919,8 +6083,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -6148,12 +6334,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Netto almennur menningarstuðul, samantalda upphæddin og til minst mentu londini sum partur av samlaðu bruttotjóðarinntøkuni (BTI) hjá gevaralondunum í Felagsskapinum fyri búskaparligum samstarvi og menning (OECD)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6588,8 +6796,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av børnum undir 5 ár, har føðingin er skrásett hjá almennum myndugleika",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
@@ -6636,8 +6866,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vøruhandil við umheimin, ársins prísir (% av BTÚ)",
+                "Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)",
+                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
+                "Uttanlandsskuld, brutto (% av BTI)",
+                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
+                "Skattainntøkur samanlagt (% av BTÚ)",
+                "Fíggjarkrav netto fyri (% av BTÚ)",
+                "Árligur vøkstur av BTÚ (%)",
+                "Árligur vøkstur av bruttoíløgum  (%)",
+                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
+                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
+                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
+                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
+                "Árligur prísvøkstur, brúkaraprístalið (%)",
+                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)",
+                ""
+              ]
+            },
+            "title": "Mát"
           },
           {
             "name": "Value",
