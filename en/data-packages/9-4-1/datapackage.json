@@ -12,8 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions from fuel combustion",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total fuel combustion",
+                " - Fuel combustion",
+                " - - Energy industries",
+                " - - Manufacturing industries and construction",
+                " - - Transport",
+                " - - Other sectors",
+                " - International bunkers",
+                " - - Aviation",
+                " - - Navigation",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million tonnes",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",

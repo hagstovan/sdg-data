@@ -12,7 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_NAHC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "FUEL",
+                "ENERGY",
+                "MANUFACT",
+                "TRANSPORT",
+                "OTHER",
+                "BUNKERS",
+                "AVI",
+                "NAVI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MIO_TON",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Dreingir",
-                "Gentur",
+                "Menn",
+                "Kvinnur",
                 ""
               ]
             },
