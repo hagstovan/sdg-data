@@ -1067,55 +1067,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av ungum (15-24 ár) sum ikki eru í útbúgving, arbeiði ella læru",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 ár",
-                "15-19 ár",
-                "20-24 ár",
-                ""
-              ]
-            },
-            "title": "Aldur"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menn",
-                "Kvinnur",
-                ""
-              ]
-            },
-            "title": "Kyn"
           },
           {
             "name": "Value",
@@ -2403,31 +2356,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Føðitíttleiki í móðuraldursbólkinum 15-19 ár",
-                "Føðitíttleikin í móðuraldursbólkinum 10-14 ár",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -5084,30 +5014,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Virðisøking frá miðal- og hátøknivinnu sum partur av virðisøkingini í ídnaðarvinnum samlað",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -6348,107 +6256,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Løgting",
-                "Kommunustýri",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "party",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Allir flokkar",
-                "Fólkaflokkurin",
-                "Framburðsflokkurin",
-                "Framsókn",
-                "Javnaðarflokkurin",
-                "Kristiligi Fólkaflokkurin",
-                "Miðflokkurin",
-                "Sambandsflokkurin",
-                "Sjálvstýri",
-                "Tjóðveldi",
-                "Verkamannafylkingin",
-                "Allar kommunur",
-                "Argja kommuna",
-                "Bíggjar kommuna",
-                "Eiðis kommuna",
-                "Elduvíkar kommuna",
-                "Eysturkommuna",
-                "Fámjins kommuna",
-                "Fuglafjarðar kommuna",
-                "Fugloyar kommuna",
-                "Funnings kommuna",
-                "Gjáar kommuna",
-                "Gøtu kommuna",
-                "Haldórsvíkar kommuna",
-                "Hests kommuna",
-                "Hósvíkar kommuna",
-                "Hovs kommuna",
-                "Húsa kommuna",
-                "Húsavíkar kommuna",
-                "Hvalbiar kommuna",
-                "Hvalvíkar kommuna",
-                "Hvannasunds kommuna",
-                "Kirkjubøar kommuna",
-                "Klaksvíkar kommuna",
-                "Kollafjarðar kommuna",
-                "Kunoyar kommuna",
-                "Kvívíkar kommuna",
-                "Leirvíkar kommuna",
-                "Miðvágs kommuna",
-                "Mikladals kommuna",
-                "Mykines kommuna",
-                "Nes kommuna",
-                "Nólsoyar kommuna",
-                "Oyndarfjarðar kommuna",
-                "Porkeris kommuna",
-                "Runavíkar kommuna",
-                "Saksunar kommuna",
-                "Sandavágs kommuna",
-                "Sands kommuna",
-                "Sjóvar kommuna",
-                "Skála kommuna",
-                "Skálavíkar kommuna",
-                "Skopunar kommuna",
-                "Skúvoyar kommuna",
-                "Sørvágs kommuna",
-                "Sumbiar kommuna",
-                "Sunda kommuna",
-                "Svínoyar kommuna",
-                "Tórshavnar kommuna",
-                "Tvøroyrar kommuna",
-                "Vága kommuna",
-                "Vágs kommuna",
-                "Vestmanna kommuna",
-                "Viðareiðis kommuna",
-                ""
-              ]
-            },
-            "title": "Party"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av sætum hjá kvinnum",
-                "Tal av sætum hjá kvinnum",
-                "Tal av sætum",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -7348,33 +7157,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vøruhandil við umheimin, ársins prísir (% av BTÚ)",
-                "Fingnar veitingar (reiðupeningur ella feingi) (% av BTÚ)",
-                "Rakstrarviðskifti gjaldsjavnans (% av BTÚ)",
-                "Uttanlandsskuld, brutto (% av BTI)",
-                "Gjaldoyrakursur, DKK/USD (ársmiðal)",
-                "Skattainntøkur samanlagt (% av BTÚ)",
-                "Fíggjarkrav netto fyri (% av BTÚ)",
-                "Árligur vøkstur av BTÚ (%)",
-                "Árligur vøkstur av bruttoíløgum  (%)",
-                "Árligur vøkstur av nýtsluútreiðslum hjá húsarhaldum (%)",
-                "Árligur vøkstur av almennum nýtsluútreiðslum (%)",
-                "Árligur vøkstur av útflutningi av vørum og tænastum (%)",
-                "Árligur vøkstur av innflutningi av vørum og tænastum (%)",
-                "Árligur prísvøkstur, brúkaraprístalið (%)",
-                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)",
-                ""
-              ]
-            },
-            "title": "Mát"
           },
           {
             "name": "Value",
