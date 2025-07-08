@@ -1,1 +1,121 @@
-Year,Value
+Year,Geography,GeoCode,Value
+2009,,,4.0
+2010,,,4.2
+2011,,,4.4
+2012,,,4.7
+2013,,,3.8
+2014,,,3.5
+2015,,,3.4
+2016,,,3.2
+2017,,,3.0
+2018,,,2.9
+2019,,,2.6
+2020,,,2.4
+2021,,,2.6
+2022,,,2.5
+2023,,,2.5
+2009,Eysturoyar region,4200.0,3.5
+2010,Eysturoyar region,4200.0,3.9
+2011,Eysturoyar region,4200.0,3.1
+2012,Eysturoyar region,4200.0,3.6
+2013,Eysturoyar region,4200.0,3.1
+2014,Eysturoyar region,4200.0,2.6
+2015,Eysturoyar region,4200.0,2.7
+2016,Eysturoyar region,4200.0,2.5
+2017,Eysturoyar region,4200.0,2.7
+2018,Eysturoyar region,4200.0,2.6
+2019,Eysturoyar region,4200.0,2.1
+2020,Eysturoyar region,4200.0,2.0
+2021,Eysturoyar region,4200.0,2.1
+2022,Eysturoyar region,4200.0,1.8
+2023,Eysturoyar region,4200.0,1.9
+2009,Norðoya region,4100.0,5.5
+2010,Norðoya region,4100.0,5.0
+2011,Norðoya region,4100.0,4.8
+2012,Norðoya region,4100.0,5.5
+2013,Norðoya region,4100.0,4.1
+2014,Norðoya region,4100.0,3.7
+2015,Norðoya region,4100.0,3.3
+2016,Norðoya region,4100.0,2.8
+2017,Norðoya region,4100.0,2.5
+2018,Norðoya region,4100.0,2.7
+2019,Norðoya region,4100.0,2.4
+2020,Norðoya region,4100.0,2.3
+2021,Norðoya region,4100.0,2.4
+2022,Norðoya region,4100.0,2.4
+2023,Norðoya region,4100.0,2.5
+2009,Sandoyar region,4500.0,6.7
+2010,Sandoyar region,4500.0,4.4
+2011,Sandoyar region,4500.0,5.2
+2012,Sandoyar region,4500.0,5.9
+2013,Sandoyar region,4500.0,5.3
+2014,Sandoyar region,4500.0,4.6
+2015,Sandoyar region,4500.0,6.2
+2016,Sandoyar region,4500.0,3.8
+2017,Sandoyar region,4500.0,3.9
+2018,Sandoyar region,4500.0,4.3
+2019,Sandoyar region,4500.0,3.6
+2020,Sandoyar region,4500.0,3.4
+2021,Sandoyar region,4500.0,4.1
+2022,Sandoyar region,4500.0,3.7
+2023,Sandoyar region,4500.0,3.6
+2009,"Streymoyar region, north",4300.0,4.2
+2010,"Streymoyar region, north",4300.0,3.6
+2011,"Streymoyar region, north",4300.0,4.3
+2012,"Streymoyar region, north",4300.0,5.0
+2013,"Streymoyar region, north",4300.0,4.2
+2014,"Streymoyar region, north",4300.0,3.8
+2015,"Streymoyar region, north",4300.0,3.0
+2016,"Streymoyar region, north",4300.0,3.1
+2017,"Streymoyar region, north",4300.0,3.3
+2018,"Streymoyar region, north",4300.0,2.4
+2019,"Streymoyar region, north",4300.0,2.1
+2020,"Streymoyar region, north",4300.0,1.8
+2021,"Streymoyar region, north",4300.0,2.3
+2022,"Streymoyar region, north",4300.0,2.4
+2023,"Streymoyar region, north",4300.0,1.8
+2009,"Streymoyar region, south",4700.0,2.9
+2010,"Streymoyar region, south",4700.0,3.9
+2011,"Streymoyar region, south",4700.0,4.6
+2012,"Streymoyar region, south",4700.0,4.7
+2013,"Streymoyar region, south",4700.0,3.5
+2014,"Streymoyar region, south",4700.0,3.5
+2015,"Streymoyar region, south",4700.0,3.3
+2016,"Streymoyar region, south",4700.0,3.3
+2017,"Streymoyar region, south",4700.0,3.0
+2018,"Streymoyar region, south",4700.0,2.8
+2019,"Streymoyar region, south",4700.0,2.6
+2020,"Streymoyar region, south",4700.0,2.2
+2021,"Streymoyar region, south",4700.0,2.6
+2022,"Streymoyar region, south",4700.0,2.7
+2023,"Streymoyar region, south",4700.0,2.6
+2009,Suðuroyar region,4600.0,6.9
+2010,Suðuroyar region,4600.0,5.6
+2011,Suðuroyar region,4600.0,6.5
+2012,Suðuroyar region,4600.0,5.2
+2013,Suðuroyar region,4600.0,5.6
+2014,Suðuroyar region,4600.0,5.1
+2015,Suðuroyar region,4600.0,4.4
+2016,Suðuroyar region,4600.0,5.0
+2017,Suðuroyar region,4600.0,4.4
+2018,Suðuroyar region,4600.0,4.1
+2019,Suðuroyar region,4600.0,4.4
+2020,Suðuroyar region,4600.0,4.5
+2021,Suðuroyar region,4600.0,3.8
+2022,Suðuroyar region,4600.0,3.2
+2023,Suðuroyar region,4600.0,3.3
+2009,Vága region,4400.0,4.4
+2010,Vága region,4400.0,3.1
+2011,Vága region,4400.0,4.2
+2012,Vága region,4400.0,5.2
+2013,Vága region,4400.0,3.2
+2014,Vága region,4400.0,3.8
+2015,Vága region,4400.0,4.2
+2016,Vága region,4400.0,3.3
+2017,Vága region,4400.0,2.6
+2018,Vága region,4400.0,3.0
+2019,Vága region,4400.0,2.9
+2020,Vága region,4400.0,2.5
+2021,Vága region,4400.0,3.1
+2022,Vága region,4400.0,2.0
+2023,Vága region,4400.0,2.4
