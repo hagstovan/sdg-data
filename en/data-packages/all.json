@@ -2787,46 +2787,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Watts per capita",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Installed renewable energy-generating capacity (in watts per capita)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro",
-                "Wind",
-                "Solar",
-                "Ocean",
-                "Biofuel",
-                "Geothermal",
-                ""
-              ]
-            },
-            "title": "energy source"
           },
           {
             "name": "Value",
@@ -3003,33 +2965,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
-                "Protected marine area (Exclusive Economic Zones) (square kilometres)",
-                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                "sqare km",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",
@@ -3530,30 +3467,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
-                ""
-              ]
-            },
-            "title": "measure"
           },
           {
             "name": "Value",
@@ -4077,43 +3992,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total government spending",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "essential service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Education",
-                "Health",
-                "Social protection",
-                ""
-              ]
-            },
-            "title": "essential service"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",
@@ -5331,36 +5211,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nutrients in coastal waters, deviation from mean, nitrogen",
-                "Nutrients in coastal waters, deviation from mean, silica",
-                "Chlorophyll-a deviations, remote sensing",
-                "Nutrients in coastal waters, deviation from mean, phosphate",
-                "Chlorophyll-a anomaly, remote sensing, extreme frequency",
-                "Chlorophyll-a anomaly, remote sensing, high frequency",
-                "Chlorophyll-a anomaly, remote sensing, moderate frequency",
-                ""
-              ]
-            },
-            "title": "measure"
           },
           {
             "name": "Value",
@@ -5547,30 +5399,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK 1,000",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official development assistance for scholarships",
-                ""
-              ]
-            },
-            "title": "measure"
           },
           {
             "name": "Value",
@@ -5713,34 +5543,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Degree",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6957,34 +6765,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Degree",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sustainable Development Goals. Indicator 14.6.1",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

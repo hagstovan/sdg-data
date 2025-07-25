@@ -2787,46 +2787,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Watt fyri hvønn íbúgva",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Uppsett framleiðsluorka til varandi orku (í watt upp á íbúgvan)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðilig brennievni",
-                "Jarðhiti",
-                ""
-              ]
-            },
-            "title": "orkukelda"
           },
           {
             "name": "Value",
@@ -3003,33 +2965,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av havleiðum (serbúskaparøki), ið eru vard øki (%)",
-                "Vardar havleiðir (serbúskaparøki) (km²)",
-                "Miðalparturin av týðandi havleiðum fyri lívmargfeldi, ið eru vard øki (%)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "km2",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -3530,30 +3467,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu einum skikkaðum myndugleika ella øðrum alment viðurkendum mátum at loysa ósemjur, at tey hava verið offur.",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -4077,43 +3992,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partur av samlaðu almennu útreiðslunum",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "essential service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Útbúgving",
-                "Heilsa",
-                "Almannavernd",
-                ""
-              ]
-            },
-            "title": "grundleggjandi tænasta"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
           },
           {
             "name": "Value",
@@ -5331,36 +5211,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði, nitrat",
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði, silikat",
-                "Blaðgrøni-a grundfrávik",
-                "Taðevni í Skopunarfirði, frávik frá miðalvirði, fosfar",
-                "Blaðgrøni-a mánaðarfrávik, sera stórur títtleiki",
-                "Blaðgrøni-a mánaðarfrávik, stórur títtleiki",
-                "Blaðgrøni-a mánaðarfrávik, nakað av títtleika",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -5547,30 +5399,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.000 kr.",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstuðul latin sum lestrarstuðul",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
@@ -5713,34 +5543,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stig",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menningarstig at fremja lógar/kunngerðar/politiskar/stovnsligar karmar ið viðurkenna og verja atgongurættindi hjá útróðri til havfeingi",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6957,34 +6765,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stig",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Heimsmálini, ávísi 14.6.1",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

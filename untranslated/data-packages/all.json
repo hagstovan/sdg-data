@@ -2555,42 +2555,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WATTS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_EGY_RNEW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "HYDRO",
-                "WIND",
-                "SOLAR",
-                "OCEAN",
-                "BIOFUEL",
-                "GEO",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -2753,30 +2718,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_MRN_MARIN",
-                "ER_MRN_MARINT",
-                "ER_MRN_MPA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                "SQKM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3236,27 +3178,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_PRS_UNSNT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -3737,39 +3659,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "TOT_GOV_SPEND",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "essential service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SD_XPD_ESED",
-                "SG_XPD_HLTH",
-                "SG_XPD_PROT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -4886,33 +4776,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUTR_NITROGEN",
-                "NUTR_SILICA",
-                "EN_MAR_CHLDEV",
-                "NUTR_PHOSPHATE",
-                "EN_MAR_CHLANM_EXTREME",
-                "EN_MAR_CHLANM_HIGH",
-                "EN_MAR_CHLANM_MODERATE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5084,27 +4948,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_SCHIPSL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5236,31 +5080,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEGREE",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_REG_SSFRAR",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6375,31 +6199,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEGREE",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_REG_UNFCIM",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
