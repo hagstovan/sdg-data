@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Framleiðsluførið av varandi orku (watt fyri hvønn íbúgva)",
+                "Uppsett framleiðsluorka til varandi orku (í watt upp á íbúgvan)",
                 ""
               ]
             },
