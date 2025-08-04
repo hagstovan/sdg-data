@@ -55,7 +55,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bæði kyn",
                 "Menn",
                 "Kvinnur",
                 ""
