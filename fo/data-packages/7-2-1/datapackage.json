@@ -12,47 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Uppsett framleiðsluorka til varandi orku (í watt upp á íbúgvan)",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "renewable energy source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vatn",
-                "Vindur",
-                "Sólin",
-                "Havið",
-                "Lívfrøðiligt brennievni",
-                "Fjarhiti frá brennistøðum",
-                "Hitapumpur",
-                ""
-              ]
-            },
-            "title": "varandi orkukelda"
           },
           {
             "name": "Value",
