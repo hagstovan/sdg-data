@@ -1694,30 +1694,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Í tali",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deyð av óætlaðari eitran fyri hvørjar 100.000 íbúgvar",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
