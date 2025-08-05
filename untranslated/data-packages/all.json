@@ -4927,27 +4927,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DKK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_TOF_SCHIPSL",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
