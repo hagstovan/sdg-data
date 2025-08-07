@@ -30,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15-24",
                 "Y25-54",
                 "Y55-74",
                 ""
