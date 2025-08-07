@@ -1,7 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,Geography,1
 #10-1-1,growth rate of disposable income,1
-#10-2-1,"age, sex",2
+#10-2-1,"sex, age",2
 #11-6-2,Size of particulate4 matter,1
 #12-2-2,material type,1
 #15-5-1,index,1
@@ -16,7 +16,6 @@ Indicator,Disaggregations,Number of disaggregations
 #4-2-2,sex,1
 #5-5-2,"Position, Public/private",2
 #8-4-2,material type,1
-#8-5-2,"age, sex",2
-#8-6-1,"age, sex",2
+#8-5-2,"sex, age",2
 #8-8-1,"sex, outcome",2
 #9-4-1,source,1
