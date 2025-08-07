@@ -5589,8 +5589,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Árligur vøkstur av real-BTÚ upp á íbúgvan",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
