@@ -16,6 +16,33 @@
             "title": "Ár"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvinnur",
+                "Menn",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "00-17 ár",
+                "18-24 ár",
+                "25-54 ár",
+                "55-66 ár",
+                "67+ ár",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "Geography",
             "type": "string",
             "constraints": {
@@ -23,8 +50,8 @@
                 "Eysturoyar region",
                 "Norðoya region",
                 "Sandoyar region",
-                "Streymoyar region, north",
-                "Streymoyar region, south",
+                "Streymoyar region, norður",
+                "Streymoyar region, suður",
                 "Suðuroyar region",
                 "Vága region",
                 ""
@@ -39,7 +66,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
