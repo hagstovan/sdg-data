@@ -47,3 +47,6 @@ goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pd
 goal_meta_link_text: data.metadataonthisindicator-1
 goal_meta2_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf
 goal_meta2_link_text: data.metadataonthisindicator-2
+proxy_indicators:
+  label: Føroyska fátækamarkið
+  description: G.G. Hetta er føroyska fátækamarkið er her sett sum eitt fátækaváðamark, ið er 50% av miðvirðinum (medianini) av javnvirðisinntøkuni. Hetta mátið leggur ikki upp fyri ognum ella sosiobúskaparstøðu.
