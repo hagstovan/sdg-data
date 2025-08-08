@@ -37,6 +37,7 @@ page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
+proxy: proxy
 progress_status: not_available
 reporting_status: complete
 sort: ''
