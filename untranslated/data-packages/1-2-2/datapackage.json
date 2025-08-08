@@ -12,11 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvinnur",
+                "Menn",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "00-17 ár",
+                "18-24 ár",
+                "25-54 ár",
+                "55-66 ár",
+                "67+ ár",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eysturoyar region",
+                "Norðoya region",
+                "Sandoyar region",
+                "Streymoyar region, north",
+                "Streymoyar region, south",
+                "Suðuroyar region",
+                "Vága region",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

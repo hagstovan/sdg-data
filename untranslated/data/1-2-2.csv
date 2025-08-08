@@ -1,1 +1,2161 @@
-Year,Value
+Year,Sex,Age,Geography,GeoCode,Value
+2009,,,,,4
+2009,,,Eysturoyar region,R4200,3.5
+2009,,,Norðoya region,R4100,5.5
+2009,,,Sandoyar region,R4500,6.7
+2009,,,"Streymoyar region, north",R4300,4.2
+2009,,,"Streymoyar region, south",R4700,2.9
+2009,,,Suðuroyar region,R4600,6.9
+2009,,,Vága region,R4400,4.4
+2009,,00-17 ár,,,5.1
+2009,,00-17 ár,Eysturoyar region,R4200,3.6
+2009,,00-17 ár,Norðoya region,R4100,9.1
+2009,,00-17 ár,Sandoyar region,R4500,8
+2009,,00-17 ár,"Streymoyar region, north",R4300,6.6
+2009,,00-17 ár,"Streymoyar region, south",R4700,2.9
+2009,,00-17 ár,Suðuroyar region,R4600,11
+2009,,00-17 ár,Vága region,R4400,5.7
+2009,,18-24 ár,,,3.8
+2009,,18-24 ár,Eysturoyar region,R4200,3.6
+2009,,18-24 ár,Norðoya region,R4100,5.1
+2009,,18-24 ár,Sandoyar region,R4500,5.4
+2009,,18-24 ár,"Streymoyar region, north",R4300,3.1
+2009,,18-24 ár,"Streymoyar region, south",R4700,3
+2009,,18-24 ár,Suðuroyar region,R4600,5.5
+2009,,18-24 ár,Vága region,R4400,4.9
+2009,,25-54 ár,,,3.5
+2009,,25-54 ár,Eysturoyar region,R4200,2.8
+2009,,25-54 ár,Norðoya region,R4100,4.8
+2009,,25-54 ár,Sandoyar region,R4500,6
+2009,,25-54 ár,"Streymoyar region, north",R4300,2.9
+2009,,25-54 ár,"Streymoyar region, south",R4700,2.7
+2009,,25-54 ár,Suðuroyar region,R4600,6.9
+2009,,25-54 ár,Vága region,R4400,3.8
+2009,,55-66 ár,,,4.1
+2009,,55-66 ár,Eysturoyar region,R4200,4.1
+2009,,55-66 ár,Norðoya region,R4100,3.6
+2009,,55-66 ár,Sandoyar region,R4500,10.3
+2009,,55-66 ár,"Streymoyar region, north",R4300,3.8
+2009,,55-66 ár,"Streymoyar region, south",R4700,3.2
+2009,,55-66 ár,Suðuroyar region,R4600,5.1
+2009,,55-66 ár,Vága region,R4400,4.9
+2009,,67+ ár,,,3.5
+2009,,67+ ár,Eysturoyar region,R4200,4.6
+2009,,67+ ár,Norðoya region,R4100,2.7
+2009,,67+ ár,Sandoyar region,R4500,3.5
+2009,,67+ ár,"Streymoyar region, north",R4300,4.7
+2009,,67+ ár,"Streymoyar region, south",R4700,2.9
+2009,,67+ ár,Suðuroyar region,R4600,3.4
+2009,,67+ ár,Vága region,R4400,2.8
+2009,Kvinnur,,,,4.2
+2009,Kvinnur,,Eysturoyar region,R4200,3.5
+2009,Kvinnur,,Norðoya region,R4100,5.7
+2009,Kvinnur,,Sandoyar region,R4500,6.6
+2009,Kvinnur,,"Streymoyar region, north",R4300,4.8
+2009,Kvinnur,,"Streymoyar region, south",R4700,3
+2009,Kvinnur,,Suðuroyar region,R4600,8
+2009,Kvinnur,,Vága region,R4400,4.1
+2009,Kvinnur,00-17 ár,,,5.3
+2009,Kvinnur,00-17 ár,Eysturoyar region,R4200,3.3
+2009,Kvinnur,00-17 ár,Norðoya region,R4100,8.7
+2009,Kvinnur,00-17 ár,Sandoyar region,R4500,8.9
+2009,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,7.9
+2009,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3.1
+2009,Kvinnur,00-17 ár,Suðuroyar region,R4600,12.5
+2009,Kvinnur,00-17 ár,Vága region,R4400,5.5
+2009,Kvinnur,18-24 ár,,,4.8
+2009,Kvinnur,18-24 ár,Eysturoyar region,R4200,4.3
+2009,Kvinnur,18-24 ár,Norðoya region,R4100,6.4
+2009,Kvinnur,18-24 ár,Sandoyar region,R4500,8.3
+2009,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,5.5
+2009,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,3.6
+2009,Kvinnur,18-24 ár,Suðuroyar region,R4600,7.5
+2009,Kvinnur,18-24 ár,Vága region,R4400,5.2
+2009,Kvinnur,25-54 ár,,,4
+2009,Kvinnur,25-54 ár,Eysturoyar region,R4200,3.1
+2009,Kvinnur,25-54 ár,Norðoya region,R4100,5.8
+2009,Kvinnur,25-54 ár,Sandoyar region,R4500,5.8
+2009,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,3.5
+2009,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,3
+2009,Kvinnur,25-54 ár,Suðuroyar region,R4600,7.8
+2009,Kvinnur,25-54 ár,Vága region,R4400,4.3
+2009,Kvinnur,55-66 ár,,,3.4
+2009,Kvinnur,55-66 ár,Eysturoyar region,R4200,3.8
+2009,Kvinnur,55-66 ár,Norðoya region,R4100,2.5
+2009,Kvinnur,55-66 ár,Sandoyar region,R4500,6.1
+2009,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,2.5
+2009,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,2.7
+2009,Kvinnur,55-66 ár,Suðuroyar region,R4600,5.7
+2009,Kvinnur,55-66 ár,Vága region,R4400,2.8
+2009,Kvinnur,67+ ár,,,3.4
+2009,Kvinnur,67+ ár,Eysturoyar region,R4200,4.4
+2009,Kvinnur,67+ ár,Norðoya region,R4100,2.2
+2009,Kvinnur,67+ ár,Sandoyar region,R4500,4.8
+2009,Kvinnur,67+ ár,"Streymoyar region, north",R4300,4.1
+2009,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.8
+2009,Kvinnur,67+ ár,Suðuroyar region,R4600,4.4
+2009,Kvinnur,67+ ár,Vága region,R4400,1.9
+2009,Menn,,,,3.9
+2009,Menn,,Eysturoyar region,R4200,3.5
+2009,Menn,,Norðoya region,R4100,5.3
+2009,Menn,,Sandoyar region,R4500,6.9
+2009,Menn,,"Streymoyar region, north",R4300,3.8
+2009,Menn,,"Streymoyar region, south",R4700,2.7
+2009,Menn,,Suðuroyar region,R4600,5.9
+2009,Menn,,Vága region,R4400,4.6
+2009,Menn,00-17 ár,,,4.9
+2009,Menn,00-17 ár,Eysturoyar region,R4200,3.9
+2009,Menn,00-17 ár,Norðoya region,R4100,9.4
+2009,Menn,00-17 ár,Sandoyar region,R4500,7.2
+2009,Menn,00-17 ár,"Streymoyar region, north",R4300,5.5
+2009,Menn,00-17 ár,"Streymoyar region, south",R4700,2.7
+2009,Menn,00-17 ár,Suðuroyar region,R4600,9.7
+2009,Menn,00-17 ár,Vága region,R4400,5.8
+2009,Menn,18-24 ár,,,3
+2009,Menn,18-24 ár,Eysturoyar region,R4200,3
+2009,Menn,18-24 ár,Norðoya region,R4100,4
+2009,Menn,18-24 ár,Sandoyar region,R4500,4
+2009,Menn,18-24 ár,"Streymoyar region, north",R4300,1.1
+2009,Menn,18-24 ár,"Streymoyar region, south",R4700,2.5
+2009,Menn,18-24 ár,Suðuroyar region,R4600,3.9
+2009,Menn,18-24 ár,Vága region,R4400,4.6
+2009,Menn,25-54 ár,,,3.2
+2009,Menn,25-54 ár,Eysturoyar region,R4200,2.6
+2009,Menn,25-54 ár,Norðoya region,R4100,4
+2009,Menn,25-54 ár,Sandoyar region,R4500,6.2
+2009,Menn,25-54 ár,"Streymoyar region, north",R4300,2.3
+2009,Menn,25-54 ár,"Streymoyar region, south",R4700,2.4
+2009,Menn,25-54 ár,Suðuroyar region,R4600,6.1
+2009,Menn,25-54 ár,Vága region,R4400,3.4
+2009,Menn,55-66 ár,,,4.7
+2009,Menn,55-66 ár,Eysturoyar region,R4200,4.3
+2009,Menn,55-66 ár,Norðoya region,R4100,4.4
+2009,Menn,55-66 ár,Sandoyar region,R4500,13.6
+2009,Menn,55-66 ár,"Streymoyar region, north",R4300,5
+2009,Menn,55-66 ár,"Streymoyar region, south",R4700,3.7
+2009,Menn,55-66 ár,Suðuroyar region,R4600,4.5
+2009,Menn,55-66 ár,Vága region,R4400,6.9
+2009,Menn,67+ ár,,,3.6
+2009,Menn,67+ ár,Eysturoyar region,R4200,4.8
+2009,Menn,67+ ár,Norðoya region,R4100,3.2
+2009,Menn,67+ ár,Sandoyar region,R4500,2
+2009,Menn,67+ ár,"Streymoyar region, north",R4300,5.2
+2009,Menn,67+ ár,"Streymoyar region, south",R4700,3.1
+2009,Menn,67+ ár,Suðuroyar region,R4600,2.2
+2009,Menn,67+ ár,Vága region,R4400,3.7
+2010,,,,,4.2
+2010,,,Eysturoyar region,R4200,3.9
+2010,,,Norðoya region,R4100,5
+2010,,,Sandoyar region,R4500,4.4
+2010,,,"Streymoyar region, north",R4300,3.6
+2010,,,"Streymoyar region, south",R4700,3.9
+2010,,,Suðuroyar region,R4600,5.6
+2010,,,Vága region,R4400,3.1
+2010,,00-17 ár,,,5.1
+2010,,00-17 ár,Eysturoyar region,R4200,4.7
+2010,,00-17 ár,Norðoya region,R4100,7.7
+2010,,00-17 ár,Sandoyar region,R4500,6.4
+2010,,00-17 ár,"Streymoyar region, north",R4300,4.1
+2010,,00-17 ár,"Streymoyar region, south",R4700,4.2
+2010,,00-17 ár,Suðuroyar region,R4600,8.2
+2010,,00-17 ár,Vága region,R4400,3.8
+2010,,18-24 ár,,,4.4
+2010,,18-24 ár,Eysturoyar region,R4200,4.4
+2010,,18-24 ár,Norðoya region,R4100,4.4
+2010,,18-24 ár,Sandoyar region,R4500,-
+2010,,18-24 ár,"Streymoyar region, north",R4300,2.7
+2010,,18-24 ár,"Streymoyar region, south",R4700,5
+2010,,18-24 ár,Suðuroyar region,R4600,5.1
+2010,,18-24 ár,Vága region,R4400,3.2
+2010,,25-54 ár,,,3.9
+2010,,25-54 ár,Eysturoyar region,R4200,3.4
+2010,,25-54 ár,Norðoya region,R4100,4.7
+2010,,25-54 ár,Sandoyar region,R4500,4
+2010,,25-54 ár,"Streymoyar region, north",R4300,2.7
+2010,,25-54 ár,"Streymoyar region, south",R4700,3.8
+2010,,25-54 ár,Suðuroyar region,R4600,5.8
+2010,,25-54 ár,Vága region,R4400,2.7
+2010,,55-66 ár,,,3.8
+2010,,55-66 ár,Eysturoyar region,R4200,3.3
+2010,,55-66 ár,Norðoya region,R4100,3.2
+2010,,55-66 ár,Sandoyar region,R4500,5.2
+2010,,55-66 ár,"Streymoyar region, north",R4300,4.2
+2010,,55-66 ár,"Streymoyar region, south",R4700,3.9
+2010,,55-66 ár,Suðuroyar region,R4600,4.3
+2010,,55-66 ár,Vága region,R4400,3.8
+2010,,67+ ár,,,3.3
+2010,,67+ ár,Eysturoyar region,R4200,4
+2010,,67+ ár,Norðoya region,R4100,2.9
+2010,,67+ ár,Sandoyar region,R4500,3.6
+2010,,67+ ár,"Streymoyar region, north",R4300,4.7
+2010,,67+ ár,"Streymoyar region, south",R4700,2.8
+2010,,67+ ár,Suðuroyar region,R4600,3.2
+2010,,67+ ár,Vága region,R4400,2.5
+2010,Kvinnur,,,,4.3
+2010,Kvinnur,,Eysturoyar region,R4200,4
+2010,Kvinnur,,Norðoya region,R4100,5.3
+2010,Kvinnur,,Sandoyar region,R4500,3.6
+2010,Kvinnur,,"Streymoyar region, north",R4300,3.5
+2010,Kvinnur,,"Streymoyar region, south",R4700,4
+2010,Kvinnur,,Suðuroyar region,R4600,6.6
+2010,Kvinnur,,Vága region,R4400,3.2
+2010,Kvinnur,00-17 ár,,,5.5
+2010,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.9
+2010,Kvinnur,00-17 ár,Norðoya region,R4100,8.1
+2010,Kvinnur,00-17 ár,Sandoyar region,R4500,5.7
+2010,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,4
+2010,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,4.3
+2010,Kvinnur,00-17 ár,Suðuroyar region,R4600,10
+2010,Kvinnur,00-17 ár,Vága region,R4400,5.1
+2010,Kvinnur,18-24 ár,,,5.7
+2010,Kvinnur,18-24 ár,Eysturoyar region,R4200,5.8
+2010,Kvinnur,18-24 ár,Norðoya region,R4100,5.6
+2010,Kvinnur,18-24 ár,Sandoyar region,R4500,-
+2010,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,4.7
+2010,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,6.5
+2010,Kvinnur,18-24 ár,Suðuroyar region,R4600,7.4
+2010,Kvinnur,18-24 ár,Vága region,R4400,1.5
+2010,Kvinnur,25-54 ár,,,4.1
+2010,Kvinnur,25-54 ár,Eysturoyar region,R4200,3.6
+2010,Kvinnur,25-54 ár,Norðoya region,R4100,5.2
+2010,Kvinnur,25-54 ár,Sandoyar region,R4500,3
+2010,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,2.9
+2010,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,4
+2010,Kvinnur,25-54 ár,Suðuroyar region,R4600,6.3
+2010,Kvinnur,25-54 ár,Vága region,R4400,2.9
+2010,Kvinnur,55-66 ár,,,3.2
+2010,Kvinnur,55-66 ár,Eysturoyar region,R4200,2.8
+2010,Kvinnur,55-66 ár,Norðoya region,R4100,2.8
+2010,Kvinnur,55-66 ár,Sandoyar region,R4500,4.2
+2010,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,2.6
+2010,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,3.4
+2010,Kvinnur,55-66 ár,Suðuroyar region,R4600,4.2
+2010,Kvinnur,55-66 ár,Vága region,R4400,1.9
+2010,Kvinnur,67+ ár,,,3.1
+2010,Kvinnur,67+ ár,Eysturoyar region,R4200,3.3
+2010,Kvinnur,67+ ár,Norðoya region,R4100,2.9
+2010,Kvinnur,67+ ár,Sandoyar region,R4500,2.4
+2010,Kvinnur,67+ ár,"Streymoyar region, north",R4300,4
+2010,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.4
+2010,Kvinnur,67+ ár,Suðuroyar region,R4600,4.6
+2010,Kvinnur,67+ ár,Vága region,R4400,3.2
+2010,Menn,,,,4
+2010,Menn,,Eysturoyar region,R4200,3.8
+2010,Menn,,Norðoya region,R4100,4.7
+2010,Menn,,Sandoyar region,R4500,5
+2010,Menn,,"Streymoyar region, north",R4300,3.6
+2010,Menn,,"Streymoyar region, south",R4700,3.8
+2010,Menn,,Suðuroyar region,R4600,4.8
+2010,Menn,,Vága region,R4400,3.1
+2010,Menn,00-17 ár,,,4.8
+2010,Menn,00-17 ár,Eysturoyar region,R4200,4.4
+2010,Menn,00-17 ár,Norðoya region,R4100,7.4
+2010,Menn,00-17 ár,Sandoyar region,R4500,7
+2010,Menn,00-17 ár,"Streymoyar region, north",R4300,4.2
+2010,Menn,00-17 ár,"Streymoyar region, south",R4700,4.1
+2010,Menn,00-17 ár,Suðuroyar region,R4600,6.5
+2010,Menn,00-17 ár,Vága region,R4400,2.7
+2010,Menn,18-24 ár,,,3.2
+2010,Menn,18-24 ár,Eysturoyar region,R4200,3.3
+2010,Menn,18-24 ár,Norðoya region,R4100,3.3
+2010,Menn,18-24 ár,Sandoyar region,R4500,-
+2010,Menn,18-24 ár,"Streymoyar region, north",R4300,1.1
+2010,Menn,18-24 ár,"Streymoyar region, south",R4700,3.6
+2010,Menn,18-24 ár,Suðuroyar region,R4600,3.1
+2010,Menn,18-24 ár,Vága region,R4400,4.7
+2010,Menn,25-54 ár,,,3.7
+2010,Menn,25-54 ár,Eysturoyar region,R4200,3.3
+2010,Menn,25-54 ár,Norðoya region,R4100,4.3
+2010,Menn,25-54 ár,Sandoyar region,R4500,4.9
+2010,Menn,25-54 ár,"Streymoyar region, north",R4300,2.5
+2010,Menn,25-54 ár,"Streymoyar region, south",R4700,3.6
+2010,Menn,25-54 ár,Suðuroyar region,R4600,5.4
+2010,Menn,25-54 ár,Vága region,R4400,2.5
+2010,Menn,55-66 ár,,,4.4
+2010,Menn,55-66 ár,Eysturoyar region,R4200,3.7
+2010,Menn,55-66 ár,Norðoya region,R4100,3.5
+2010,Menn,55-66 ár,Sandoyar region,R4500,5.8
+2010,Menn,55-66 ár,"Streymoyar region, north",R4300,5.5
+2010,Menn,55-66 ár,"Streymoyar region, south",R4700,4.5
+2010,Menn,55-66 ár,Suðuroyar region,R4600,4.5
+2010,Menn,55-66 ár,Vága region,R4400,5.4
+2010,Menn,67+ ár,,,3.5
+2010,Menn,67+ ár,Eysturoyar region,R4200,4.8
+2010,Menn,67+ ár,Norðoya region,R4100,2.9
+2010,Menn,67+ ár,Sandoyar region,R4500,5.1
+2010,Menn,67+ ár,"Streymoyar region, north",R4300,5.5
+2010,Menn,67+ ár,"Streymoyar region, south",R4700,3.3
+2010,Menn,67+ ár,Suðuroyar region,R4600,1.5
+2010,Menn,67+ ár,Vága region,R4400,1.9
+2011,,,,,4.4
+2011,,,Eysturoyar region,R4200,3.1
+2011,,,Norðoya region,R4100,4.8
+2011,,,Sandoyar region,R4500,5.2
+2011,,,"Streymoyar region, north",R4300,4.3
+2011,,,"Streymoyar region, south",R4700,4.6
+2011,,,Suðuroyar region,R4600,6.5
+2011,,,Vága region,R4400,4.2
+2011,,00-17 ár,,,5.5
+2011,,00-17 ár,Eysturoyar region,R4200,3.5
+2011,,00-17 ár,Norðoya region,R4100,6.9
+2011,,00-17 ár,Sandoyar region,R4500,8
+2011,,00-17 ár,"Streymoyar region, north",R4300,6.2
+2011,,00-17 ár,"Streymoyar region, south",R4700,5.3
+2011,,00-17 ár,Suðuroyar region,R4600,9.3
+2011,,00-17 ár,Vága region,R4400,5.1
+2011,,18-24 ár,,,5.4
+2011,,18-24 ár,Eysturoyar region,R4200,3.2
+2011,,18-24 ár,Norðoya region,R4100,3.9
+2011,,18-24 ár,Sandoyar region,R4500,2.9
+2011,,18-24 ár,"Streymoyar region, north",R4300,6.1
+2011,,18-24 ár,"Streymoyar region, south",R4700,7.3
+2011,,18-24 ár,Suðuroyar region,R4600,5.6
+2011,,18-24 ár,Vága region,R4400,3.9
+2011,,25-54 ár,,,4.1
+2011,,25-54 ár,Eysturoyar region,R4200,2.8
+2011,,25-54 ár,Norðoya region,R4100,5.1
+2011,,25-54 ár,Sandoyar region,R4500,5.1
+2011,,25-54 ár,"Streymoyar region, north",R4300,3.7
+2011,,25-54 ár,"Streymoyar region, south",R4700,3.9
+2011,,25-54 ár,Suðuroyar region,R4600,6.7
+2011,,25-54 ár,Vága region,R4400,3.6
+2011,,55-66 ár,,,3.8
+2011,,55-66 ár,Eysturoyar region,R4200,3.3
+2011,,55-66 ár,Norðoya region,R4100,3.4
+2011,,55-66 ár,Sandoyar region,R4500,5.5
+2011,,55-66 ár,"Streymoyar region, north",R4300,2
+2011,,55-66 ár,"Streymoyar region, south",R4700,3.9
+2011,,55-66 ár,Suðuroyar region,R4600,5.1
+2011,,55-66 ár,Vága region,R4400,3.5
+2011,,67+ ár,,,3.3
+2011,,67+ ár,Eysturoyar region,R4200,2.6
+2011,,67+ ár,Norðoya region,R4100,2.4
+2011,,67+ ár,Sandoyar region,R4500,2.2
+2011,,67+ ár,"Streymoyar region, north",R4300,3.4
+2011,,67+ ár,"Streymoyar region, south",R4700,3.6
+2011,,67+ ár,Suðuroyar region,R4600,3.8
+2011,,67+ ár,Vága region,R4400,4.7
+2011,Kvinnur,,,,4.7
+2011,Kvinnur,,Eysturoyar region,R4200,3.3
+2011,Kvinnur,,Norðoya region,R4100,4.7
+2011,Kvinnur,,Sandoyar region,R4500,4.3
+2011,Kvinnur,,"Streymoyar region, north",R4300,4.6
+2011,Kvinnur,,"Streymoyar region, south",R4700,4.9
+2011,Kvinnur,,Suðuroyar region,R4600,7.3
+2011,Kvinnur,,Vága region,R4400,4.7
+2011,Kvinnur,00-17 ár,,,5.9
+2011,Kvinnur,00-17 ár,Eysturoyar region,R4200,4
+2011,Kvinnur,00-17 ár,Norðoya region,R4100,5.7
+2011,Kvinnur,00-17 ár,Sandoyar region,R4500,8
+2011,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,5.8
+2011,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,5.7
+2011,Kvinnur,00-17 ár,Suðuroyar region,R4600,11
+2011,Kvinnur,00-17 ár,Vága region,R4400,6.8
+2011,Kvinnur,18-24 ár,,,7.3
+2011,Kvinnur,18-24 ár,Eysturoyar region,R4200,3.9
+2011,Kvinnur,18-24 ár,Norðoya region,R4100,5.1
+2011,Kvinnur,18-24 ár,Sandoyar region,R4500,3
+2011,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,9.2
+2011,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,9.9
+2011,Kvinnur,18-24 ár,Suðuroyar region,R4600,7.7
+2011,Kvinnur,18-24 ár,Vága region,R4400,6.5
+2011,Kvinnur,25-54 ár,,,4.3
+2011,Kvinnur,25-54 ár,Eysturoyar region,R4200,3
+2011,Kvinnur,25-54 ár,Norðoya region,R4100,5.5
+2011,Kvinnur,25-54 ár,Sandoyar region,R4500,5.1
+2011,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,4.4
+2011,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,4.1
+2011,Kvinnur,25-54 ár,Suðuroyar region,R4600,7.1
+2011,Kvinnur,25-54 ár,Vága region,R4400,3
+2011,Kvinnur,55-66 ár,,,3.1
+2011,Kvinnur,55-66 ár,Eysturoyar region,R4200,2.5
+2011,Kvinnur,55-66 ár,Norðoya region,R4100,2.7
+2011,Kvinnur,55-66 ár,Sandoyar region,R4500,1
+2011,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,0.9
+2011,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,3.7
+2011,Kvinnur,55-66 ár,Suðuroyar region,R4600,4.9
+2011,Kvinnur,55-66 ár,Vága region,R4400,2.5
+2011,Kvinnur,67+ ár,,,3.3
+2011,Kvinnur,67+ ár,Eysturoyar region,R4200,2.8
+2011,Kvinnur,67+ ár,Norðoya region,R4100,2.8
+2011,Kvinnur,67+ ár,Sandoyar region,R4500,1.7
+2011,Kvinnur,67+ ár,"Streymoyar region, north",R4300,3.6
+2011,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.9
+2011,Kvinnur,67+ ár,Suðuroyar region,R4600,5
+2011,Kvinnur,67+ ár,Vága region,R4400,6
+2011,Menn,,,,4.2
+2011,Menn,,Eysturoyar region,R4200,2.9
+2011,Menn,,Norðoya region,R4100,5
+2011,Menn,,Sandoyar region,R4500,5.9
+2011,Menn,,"Streymoyar region, north",R4300,4.1
+2011,Menn,,"Streymoyar region, south",R4700,4.3
+2011,Menn,,Suðuroyar region,R4600,5.7
+2011,Menn,,Vága region,R4400,3.7
+2011,Menn,00-17 ár,,,5.2
+2011,Menn,00-17 ár,Eysturoyar region,R4200,3
+2011,Menn,00-17 ár,Norðoya region,R4100,8
+2011,Menn,00-17 ár,Sandoyar region,R4500,8
+2011,Menn,00-17 ár,"Streymoyar region, north",R4300,6.6
+2011,Menn,00-17 ár,"Streymoyar region, south",R4700,4.9
+2011,Menn,00-17 ár,Suðuroyar region,R4600,7.7
+2011,Menn,00-17 ár,Vága region,R4400,3.4
+2011,Menn,18-24 ár,,,3.7
+2011,Menn,18-24 ár,Eysturoyar region,R4200,2.5
+2011,Menn,18-24 ár,Norðoya region,R4100,2.8
+2011,Menn,18-24 ár,Sandoyar region,R4500,2.9
+2011,Menn,18-24 ár,"Streymoyar region, north",R4300,3.7
+2011,Menn,18-24 ár,"Streymoyar region, south",R4700,5
+2011,Menn,18-24 ár,Suðuroyar region,R4600,4.1
+2011,Menn,18-24 ár,Vága region,R4400,2
+2011,Menn,25-54 ár,,,3.9
+2011,Menn,25-54 ár,Eysturoyar region,R4200,2.7
+2011,Menn,25-54 ár,Norðoya region,R4100,4.9
+2011,Menn,25-54 ár,Sandoyar region,R4500,5.1
+2011,Menn,25-54 ár,"Streymoyar region, north",R4300,3.1
+2011,Menn,25-54 ár,"Streymoyar region, south",R4700,3.7
+2011,Menn,25-54 ár,Suðuroyar region,R4600,6.4
+2011,Menn,25-54 ár,Vága region,R4400,4.1
+2011,Menn,55-66 ár,,,4.4
+2011,Menn,55-66 ár,Eysturoyar region,R4200,4
+2011,Menn,55-66 ár,Norðoya region,R4100,4
+2011,Menn,55-66 ár,Sandoyar region,R4500,8.6
+2011,Menn,55-66 ár,"Streymoyar region, north",R4300,3
+2011,Menn,55-66 ár,"Streymoyar region, south",R4700,4.2
+2011,Menn,55-66 ár,Suðuroyar region,R4600,5.4
+2011,Menn,55-66 ár,Vága region,R4400,4.4
+2011,Menn,67+ ár,,,3.2
+2011,Menn,67+ ár,Eysturoyar region,R4200,2.4
+2011,Menn,67+ ár,Norðoya region,R4100,1.9
+2011,Menn,67+ ár,Sandoyar region,R4500,2.9
+2011,Menn,67+ ár,"Streymoyar region, north",R4300,3.3
+2011,Menn,67+ ár,"Streymoyar region, south",R4700,4.4
+2011,Menn,67+ ár,Suðuroyar region,R4600,2.6
+2011,Menn,67+ ár,Vága region,R4400,3.3
+2012,,,,,4.7
+2012,,,Eysturoyar region,R4200,3.6
+2012,,,Norðoya region,R4100,5.5
+2012,,,Sandoyar region,R4500,5.9
+2012,,,"Streymoyar region, north",R4300,5
+2012,,,"Streymoyar region, south",R4700,4.7
+2012,,,Suðuroyar region,R4600,5.2
+2012,,,Vága region,R4400,5.2
+2012,,00-17 ár,,,6.2
+2012,,00-17 ár,Eysturoyar region,R4200,4.9
+2012,,00-17 ár,Norðoya region,R4100,8
+2012,,00-17 ár,Sandoyar region,R4500,7.6
+2012,,00-17 ár,"Streymoyar region, north",R4300,8.4
+2012,,00-17 ár,"Streymoyar region, south",R4700,5.4
+2012,,00-17 ár,Suðuroyar region,R4600,7.4
+2012,,00-17 ár,Vága region,R4400,7.8
+2012,,18-24 ár,,,5.7
+2012,,18-24 ár,Eysturoyar region,R4200,3
+2012,,18-24 ár,Norðoya region,R4100,4
+2012,,18-24 ár,Sandoyar region,R4500,9.8
+2012,,18-24 ár,"Streymoyar region, north",R4300,5.3
+2012,,18-24 ár,"Streymoyar region, south",R4700,7.8
+2012,,18-24 ár,Suðuroyar region,R4600,6.8
+2012,,18-24 ár,Vága region,R4400,4.6
+2012,,25-54 ár,,,4.4
+2012,,25-54 ár,Eysturoyar region,R4200,3.6
+2012,,25-54 ár,Norðoya region,R4100,5.9
+2012,,25-54 ár,Sandoyar region,R4500,5.3
+2012,,25-54 ár,"Streymoyar region, north",R4300,4.4
+2012,,25-54 ár,"Streymoyar region, south",R4700,4
+2012,,25-54 ár,Suðuroyar region,R4600,5.1
+2012,,25-54 ár,Vága region,R4400,4.7
+2012,,55-66 ár,,,4
+2012,,55-66 ár,Eysturoyar region,R4200,3
+2012,,55-66 ár,Norðoya region,R4100,3
+2012,,55-66 ár,Sandoyar region,R4500,7.9
+2012,,55-66 ár,"Streymoyar region, north",R4300,2.5
+2012,,55-66 ár,"Streymoyar region, south",R4700,4.4
+2012,,55-66 ár,Suðuroyar region,R4600,4.6
+2012,,55-66 ár,Vága region,R4400,4.5
+2012,,67+ ár,,,2.8
+2012,,67+ ár,Eysturoyar region,R4200,2.2
+2012,,67+ ár,Norðoya region,R4100,3.5
+2012,,67+ ár,Sandoyar region,R4500,0.9
+2012,,67+ ár,"Streymoyar region, north",R4300,2.7
+2012,,67+ ár,"Streymoyar region, south",R4700,3.2
+2012,,67+ ár,Suðuroyar region,R4600,2.4
+2012,,67+ ár,Vága region,R4400,2.9
+2012,Kvinnur,,,,4.8
+2012,Kvinnur,,Eysturoyar region,R4200,3.5
+2012,Kvinnur,,Norðoya region,R4100,5.9
+2012,Kvinnur,,Sandoyar region,R4500,5.3
+2012,Kvinnur,,"Streymoyar region, north",R4300,5.1
+2012,Kvinnur,,"Streymoyar region, south",R4700,4.9
+2012,Kvinnur,,Suðuroyar region,R4600,5.7
+2012,Kvinnur,,Vága region,R4400,5.1
+2012,Kvinnur,00-17 ár,,,6
+2012,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.5
+2012,Kvinnur,00-17 ár,Norðoya region,R4100,7.7
+2012,Kvinnur,00-17 ár,Sandoyar region,R4500,6.9
+2012,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,8
+2012,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,5.4
+2012,Kvinnur,00-17 ár,Suðuroyar region,R4600,7.5
+2012,Kvinnur,00-17 ár,Vága region,R4400,7.4
+2012,Kvinnur,18-24 ár,,,7.8
+2012,Kvinnur,18-24 ár,Eysturoyar region,R4200,3.9
+2012,Kvinnur,18-24 ár,Norðoya region,R4100,6.3
+2012,Kvinnur,18-24 ár,Sandoyar region,R4500,13.2
+2012,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,6.3
+2012,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,10.5
+2012,Kvinnur,18-24 ár,Suðuroyar region,R4600,8.9
+2012,Kvinnur,18-24 ár,Vága region,R4400,6.2
+2012,Kvinnur,25-54 ár,,,4.8
+2012,Kvinnur,25-54 ár,Eysturoyar region,R4200,4
+2012,Kvinnur,25-54 ár,Norðoya region,R4100,6.7
+2012,Kvinnur,25-54 ár,Sandoyar region,R4500,5.3
+2012,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,5.6
+2012,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,4.2
+2012,Kvinnur,25-54 ár,Suðuroyar region,R4600,6
+2012,Kvinnur,25-54 ár,Vága region,R4400,5.1
+2012,Kvinnur,55-66 ár,,,3.3
+2012,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.9
+2012,Kvinnur,55-66 ár,Norðoya region,R4100,3.1
+2012,Kvinnur,55-66 ár,Sandoyar region,R4500,3.9
+2012,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,0.8
+2012,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,4.3
+2012,Kvinnur,55-66 ár,Suðuroyar region,R4600,4.5
+2012,Kvinnur,55-66 ár,Vága region,R4400,2.9
+2012,Kvinnur,67+ ár,,,2.5
+2012,Kvinnur,67+ ár,Eysturoyar region,R4200,1.8
+2012,Kvinnur,67+ ár,Norðoya region,R4100,3.7
+2012,Kvinnur,67+ ár,Sandoyar region,R4500,1.7
+2012,Kvinnur,67+ ár,"Streymoyar region, north",R4300,2.5
+2012,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.6
+2012,Kvinnur,67+ ár,Suðuroyar region,R4600,2.3
+2012,Kvinnur,67+ ár,Vága region,R4400,2.6
+2012,Menn,,,,4.6
+2012,Menn,,Eysturoyar region,R4200,3.7
+2012,Menn,,Norðoya region,R4100,5.1
+2012,Menn,,Sandoyar region,R4500,6.5
+2012,Menn,,"Streymoyar region, north",R4300,4.8
+2012,Menn,,"Streymoyar region, south",R4700,4.5
+2012,Menn,,Suðuroyar region,R4600,4.9
+2012,Menn,,Vága region,R4400,5.3
+2012,Menn,00-17 ár,,,6.3
+2012,Menn,00-17 ár,Eysturoyar region,R4200,5.2
+2012,Menn,00-17 ár,Norðoya region,R4100,8.2
+2012,Menn,00-17 ár,Sandoyar region,R4500,8.2
+2012,Menn,00-17 ár,"Streymoyar region, north",R4300,8.7
+2012,Menn,00-17 ár,"Streymoyar region, south",R4700,5.3
+2012,Menn,00-17 ár,Suðuroyar region,R4600,7.4
+2012,Menn,00-17 ár,Vága region,R4400,8.3
+2012,Menn,18-24 ár,,,4.1
+2012,Menn,18-24 ár,Eysturoyar region,R4200,2.1
+2012,Menn,18-24 ár,Norðoya region,R4100,2.1
+2012,Menn,18-24 ár,Sandoyar region,R4500,7.8
+2012,Menn,18-24 ár,"Streymoyar region, north",R4300,4.5
+2012,Menn,18-24 ár,"Streymoyar region, south",R4700,5.4
+2012,Menn,18-24 ár,Suðuroyar region,R4600,5.2
+2012,Menn,18-24 ár,Vága region,R4400,3.5
+2012,Menn,25-54 ár,,,4
+2012,Menn,25-54 ár,Eysturoyar region,R4200,3.3
+2012,Menn,25-54 ár,Norðoya region,R4100,5.3
+2012,Menn,25-54 ár,Sandoyar region,R4500,5.4
+2012,Menn,25-54 ár,"Streymoyar region, north",R4300,3.3
+2012,Menn,25-54 ár,"Streymoyar region, south",R4700,3.9
+2012,Menn,25-54 ár,Suðuroyar region,R4600,4.4
+2012,Menn,25-54 ár,Vága region,R4400,4.3
+2012,Menn,55-66 ár,,,4.5
+2012,Menn,55-66 ár,Eysturoyar region,R4200,4
+2012,Menn,55-66 ár,Norðoya region,R4100,3
+2012,Menn,55-66 ár,Sandoyar region,R4500,10.7
+2012,Menn,55-66 ár,"Streymoyar region, north",R4300,4
+2012,Menn,55-66 ár,"Streymoyar region, south",R4700,4.5
+2012,Menn,55-66 ár,Suðuroyar region,R4600,4.7
+2012,Menn,55-66 ár,Vága region,R4400,5.9
+2012,Menn,67+ ár,,,3.1
+2012,Menn,67+ ár,Eysturoyar region,R4200,2.6
+2012,Menn,67+ ár,Norðoya region,R4100,3.1
+2012,Menn,67+ ár,Sandoyar region,R4500,-
+2012,Menn,67+ ár,"Streymoyar region, north",R4300,2.9
+2012,Menn,67+ ár,"Streymoyar region, south",R4700,3.9
+2012,Menn,67+ ár,Suðuroyar region,R4600,2.5
+2012,Menn,67+ ár,Vága region,R4400,3.2
+2013,,,,,3.8
+2013,,,Eysturoyar region,R4200,3.1
+2013,,,Norðoya region,R4100,4.1
+2013,,,Sandoyar region,R4500,5.3
+2013,,,"Streymoyar region, north",R4300,4.2
+2013,,,"Streymoyar region, south",R4700,3.5
+2013,,,Suðuroyar region,R4600,5.6
+2013,,,Vága region,R4400,3.2
+2013,,00-17 ár,,,5.2
+2013,,00-17 ár,Eysturoyar region,R4200,4.6
+2013,,00-17 ár,Norðoya region,R4100,6
+2013,,00-17 ár,Sandoyar region,R4500,7.9
+2013,,00-17 ár,"Streymoyar region, north",R4300,7
+2013,,00-17 ár,"Streymoyar region, south",R4700,4.3
+2013,,00-17 ár,Suðuroyar region,R4600,8.3
+2013,,00-17 ár,Vága region,R4400,4.1
+2013,,18-24 ár,,,4.3
+2013,,18-24 ár,Eysturoyar region,R4200,3
+2013,,18-24 ár,Norðoya region,R4100,3.4
+2013,,18-24 ár,Sandoyar region,R4500,4.6
+2013,,18-24 ár,"Streymoyar region, north",R4300,4.8
+2013,,18-24 ár,"Streymoyar region, south",R4700,4.8
+2013,,18-24 ár,Suðuroyar region,R4600,6.8
+2013,,18-24 ár,Vága region,R4400,2.8
+2013,,25-54 ár,,,3.4
+2013,,25-54 ár,Eysturoyar region,R4200,2.9
+2013,,25-54 ár,Norðoya region,R4100,3.9
+2013,,25-54 ár,Sandoyar region,R4500,5.1
+2013,,25-54 ár,"Streymoyar region, north",R4300,3.8
+2013,,25-54 ár,"Streymoyar region, south",R4700,3
+2013,,25-54 ár,Suðuroyar region,R4600,5.9
+2013,,25-54 ár,Vága region,R4400,2.7
+2013,,55-66 ár,,,3.4
+2013,,55-66 ár,Eysturoyar region,R4200,2.6
+2013,,55-66 ár,Norðoya region,R4100,2.6
+2013,,55-66 ár,Sandoyar region,R4500,5.9
+2013,,55-66 ár,"Streymoyar region, north",R4300,3
+2013,,55-66 ár,"Streymoyar region, south",R4700,3.7
+2013,,55-66 ár,Suðuroyar region,R4600,4.1
+2013,,55-66 ár,Vága region,R4400,4.2
+2013,,67+ ár,,,2.2
+2013,,67+ ár,Eysturoyar region,R4200,1.6
+2013,,67+ ár,Norðoya region,R4100,3.1
+2013,,67+ ár,Sandoyar region,R4500,1.8
+2013,,67+ ár,"Streymoyar region, north",R4300,1.6
+2013,,67+ ár,"Streymoyar region, south",R4700,2.2
+2013,,67+ ár,Suðuroyar region,R4600,2.4
+2013,,67+ ár,Vága region,R4400,2.2
+2013,Kvinnur,,,,4.1
+2013,Kvinnur,,Eysturoyar region,R4200,3.3
+2013,Kvinnur,,Norðoya region,R4100,4.4
+2013,Kvinnur,,Sandoyar region,R4500,5.5
+2013,Kvinnur,,"Streymoyar region, north",R4300,4.7
+2013,Kvinnur,,"Streymoyar region, south",R4700,3.7
+2013,Kvinnur,,Suðuroyar region,R4600,6.4
+2013,Kvinnur,,Vága region,R4400,3.1
+2013,Kvinnur,00-17 ár,,,5.4
+2013,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.5
+2013,Kvinnur,00-17 ár,Norðoya region,R4100,6.5
+2013,Kvinnur,00-17 ár,Sandoyar region,R4500,9.4
+2013,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,7.5
+2013,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,4.3
+2013,Kvinnur,00-17 ár,Suðuroyar region,R4600,9.8
+2013,Kvinnur,00-17 ár,Vága region,R4400,4.1
+2013,Kvinnur,18-24 ár,,,5.9
+2013,Kvinnur,18-24 ár,Eysturoyar region,R4200,4.5
+2013,Kvinnur,18-24 ár,Norðoya region,R4100,4.8
+2013,Kvinnur,18-24 ár,Sandoyar region,R4500,6.7
+2013,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,6
+2013,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,6.5
+2013,Kvinnur,18-24 ár,Suðuroyar region,R4600,9
+2013,Kvinnur,18-24 ár,Vága region,R4400,3.4
+2013,Kvinnur,25-54 ár,,,3.9
+2013,Kvinnur,25-54 ár,Eysturoyar region,R4200,3.2
+2013,Kvinnur,25-54 ár,Norðoya region,R4100,4.1
+2013,Kvinnur,25-54 ár,Sandoyar region,R4500,5.5
+2013,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,5.1
+2013,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,3.3
+2013,Kvinnur,25-54 ár,Suðuroyar region,R4600,7.4
+2013,Kvinnur,25-54 ár,Vága region,R4400,2.8
+2013,Kvinnur,55-66 ár,,,2.9
+2013,Kvinnur,55-66 ár,Eysturoyar region,R4200,2.5
+2013,Kvinnur,55-66 ár,Norðoya region,R4100,2.6
+2013,Kvinnur,55-66 ár,Sandoyar region,R4500,1.9
+2013,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,1.2
+2013,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,3.6
+2013,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.7
+2013,Kvinnur,55-66 ár,Vága region,R4400,3.4
+2013,Kvinnur,67+ ár,,,2.2
+2013,Kvinnur,67+ ár,Eysturoyar region,R4200,1.7
+2013,Kvinnur,67+ ár,Norðoya region,R4100,3.2
+2013,Kvinnur,67+ ár,Sandoyar region,R4500,3.3
+2013,Kvinnur,67+ ár,"Streymoyar region, north",R4300,1.7
+2013,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.1
+2013,Kvinnur,67+ ár,Suðuroyar region,R4600,2.6
+2013,Kvinnur,67+ ár,Vága region,R4400,1.7
+2013,Menn,,,,3.5
+2013,Menn,,Eysturoyar region,R4200,3
+2013,Menn,,Norðoya region,R4100,3.8
+2013,Menn,,Sandoyar region,R4500,5.1
+2013,Menn,,"Streymoyar region, north",R4300,3.8
+2013,Menn,,"Streymoyar region, south",R4700,3.3
+2013,Menn,,Suðuroyar region,R4600,4.9
+2013,Menn,,Vága region,R4400,3.3
+2013,Menn,00-17 ár,,,5
+2013,Menn,00-17 ár,Eysturoyar region,R4200,4.7
+2013,Menn,00-17 ár,Norðoya region,R4100,5.6
+2013,Menn,00-17 ár,Sandoyar region,R4500,6.5
+2013,Menn,00-17 ár,"Streymoyar region, north",R4300,6.5
+2013,Menn,00-17 ár,"Streymoyar region, south",R4700,4.4
+2013,Menn,00-17 ár,Suðuroyar region,R4600,6.9
+2013,Menn,00-17 ár,Vága region,R4400,4.2
+2013,Menn,18-24 ár,,,3
+2013,Menn,18-24 ár,Eysturoyar region,R4200,1.7
+2013,Menn,18-24 ár,Norðoya region,R4100,2.3
+2013,Menn,18-24 ár,Sandoyar region,R4500,3.1
+2013,Menn,18-24 ár,"Streymoyar region, north",R4300,3.9
+2013,Menn,18-24 ár,"Streymoyar region, south",R4700,3.3
+2013,Menn,18-24 ár,Suðuroyar region,R4600,5
+2013,Menn,18-24 ár,Vága region,R4400,2.3
+2013,Menn,25-54 ár,,,3
+2013,Menn,25-54 ár,Eysturoyar region,R4200,2.6
+2013,Menn,25-54 ár,Norðoya region,R4100,3.6
+2013,Menn,25-54 ár,Sandoyar region,R4500,4.8
+2013,Menn,25-54 ár,"Streymoyar region, north",R4300,2.6
+2013,Menn,25-54 ár,"Streymoyar region, south",R4700,2.7
+2013,Menn,25-54 ár,Suðuroyar region,R4600,4.6
+2013,Menn,25-54 ár,Vága region,R4400,2.6
+2013,Menn,55-66 ár,,,3.9
+2013,Menn,55-66 ár,Eysturoyar region,R4200,2.8
+2013,Menn,55-66 ár,Norðoya region,R4100,2.7
+2013,Menn,55-66 ár,Sandoyar region,R4500,8.9
+2013,Menn,55-66 ár,"Streymoyar region, north",R4300,4.5
+2013,Menn,55-66 ár,"Streymoyar region, south",R4700,3.7
+2013,Menn,55-66 ár,Suðuroyar region,R4600,5.3
+2013,Menn,55-66 ár,Vága region,R4400,5
+2013,Menn,67+ ár,,,2.1
+2013,Menn,67+ ár,Eysturoyar region,R4200,1.6
+2013,Menn,67+ ár,Norðoya region,R4100,3
+2013,Menn,67+ ár,Sandoyar region,R4500,-
+2013,Menn,67+ ár,"Streymoyar region, north",R4300,1.4
+2013,Menn,67+ ár,"Streymoyar region, south",R4700,2.4
+2013,Menn,67+ ár,Suðuroyar region,R4600,2.3
+2013,Menn,67+ ár,Vága region,R4400,2.8
+2014,,,,,3.5
+2014,,,Eysturoyar region,R4200,2.6
+2014,,,Norðoya region,R4100,3.7
+2014,,,Sandoyar region,R4500,4.6
+2014,,,"Streymoyar region, north",R4300,3.8
+2014,,,"Streymoyar region, south",R4700,3.5
+2014,,,Suðuroyar region,R4600,5.1
+2014,,,Vága region,R4400,3.8
+2014,,00-17 ár,,,4.8
+2014,,00-17 ár,Eysturoyar region,R4200,3.7
+2014,,00-17 ár,Norðoya region,R4100,6.1
+2014,,00-17 ár,Sandoyar region,R4500,5.5
+2014,,00-17 ár,"Streymoyar region, north",R4300,6.3
+2014,,00-17 ár,"Streymoyar region, south",R4700,4.1
+2014,,00-17 ár,Suðuroyar region,R4600,7.8
+2014,,00-17 ár,Vága region,R4400,5.1
+2014,,18-24 ár,,,4.6
+2014,,18-24 ár,Eysturoyar region,R4200,2.3
+2014,,18-24 ár,Norðoya region,R4100,4.2
+2014,,18-24 ár,Sandoyar region,R4500,8.3
+2014,,18-24 ár,"Streymoyar region, north",R4300,3
+2014,,18-24 ár,"Streymoyar region, south",R4700,5.8
+2014,,18-24 ár,Suðuroyar region,R4600,5.7
+2014,,18-24 ár,Vága region,R4400,4.8
+2014,,25-54 ár,,,3.1
+2014,,25-54 ár,Eysturoyar region,R4200,2.2
+2014,,25-54 ár,Norðoya region,R4100,3.6
+2014,,25-54 ár,Sandoyar region,R4500,2.8
+2014,,25-54 ár,"Streymoyar region, north",R4300,3.3
+2014,,25-54 ár,"Streymoyar region, south",R4700,2.9
+2014,,25-54 ár,Suðuroyar region,R4600,5.6
+2014,,25-54 ár,Vága region,R4400,3.5
+2014,,55-66 ár,,,3.2
+2014,,55-66 ár,Eysturoyar region,R4200,2.1
+2014,,55-66 ár,Norðoya region,R4100,1.7
+2014,,55-66 ár,Sandoyar region,R4500,7.6
+2014,,55-66 ár,"Streymoyar region, north",R4300,3.1
+2014,,55-66 ár,"Streymoyar region, south",R4700,3.8
+2014,,55-66 ár,Suðuroyar region,R4600,3.5
+2014,,55-66 ár,Vága region,R4400,3.2
+2014,,67+ ár,,,2
+2014,,67+ ár,Eysturoyar region,R4200,2.2
+2014,,67+ ár,Norðoya region,R4100,1.9
+2014,,67+ ár,Sandoyar region,R4500,2.1
+2014,,67+ ár,"Streymoyar region, north",R4300,1.9
+2014,,67+ ár,"Streymoyar region, south",R4700,1.9
+2014,,67+ ár,Suðuroyar region,R4600,1.9
+2014,,67+ ár,Vága region,R4400,2
+2014,Kvinnur,,,,3.8
+2014,Kvinnur,,Eysturoyar region,R4200,2.9
+2014,Kvinnur,,Norðoya region,R4100,4.2
+2014,Kvinnur,,Sandoyar region,R4500,4.5
+2014,Kvinnur,,"Streymoyar region, north",R4300,4.2
+2014,Kvinnur,,"Streymoyar region, south",R4700,3.6
+2014,Kvinnur,,Suðuroyar region,R4600,5.7
+2014,Kvinnur,,Vága region,R4400,3.8
+2014,Kvinnur,00-17 ár,,,5
+2014,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.7
+2014,Kvinnur,00-17 ár,Norðoya region,R4100,6.2
+2014,Kvinnur,00-17 ár,Sandoyar region,R4500,7
+2014,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,6.8
+2014,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3.8
+2014,Kvinnur,00-17 ár,Suðuroyar region,R4600,8.1
+2014,Kvinnur,00-17 ár,Vága region,R4400,5
+2014,Kvinnur,18-24 ár,,,5.9
+2014,Kvinnur,18-24 ár,Eysturoyar region,R4200,2.4
+2014,Kvinnur,18-24 ár,Norðoya region,R4100,5.8
+2014,Kvinnur,18-24 ár,Sandoyar region,R4500,12.5
+2014,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,5
+2014,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,8.1
+2014,Kvinnur,18-24 ár,Suðuroyar region,R4600,7.2
+2014,Kvinnur,18-24 ár,Vága region,R4400,2.1
+2014,Kvinnur,25-54 ár,,,3.6
+2014,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.4
+2014,Kvinnur,25-54 ár,Norðoya region,R4100,4.7
+2014,Kvinnur,25-54 ár,Sandoyar region,R4500,3.8
+2014,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,4.5
+2014,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.9
+2014,Kvinnur,25-54 ár,Suðuroyar region,R4600,7.2
+2014,Kvinnur,25-54 ár,Vága region,R4400,4.4
+2014,Kvinnur,55-66 ár,,,2.7
+2014,Kvinnur,55-66 ár,Eysturoyar region,R4200,2.1
+2014,Kvinnur,55-66 ár,Norðoya region,R4100,1.3
+2014,Kvinnur,55-66 ár,Sandoyar region,R4500,3
+2014,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,1.6
+2014,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,3.9
+2014,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.2
+2014,Kvinnur,55-66 ár,Vága region,R4400,2.3
+2014,Kvinnur,67+ ár,,,2
+2014,Kvinnur,67+ ár,Eysturoyar region,R4200,2.1
+2014,Kvinnur,67+ ár,Norðoya region,R4100,2
+2014,Kvinnur,67+ ár,Sandoyar region,R4500,1.6
+2014,Kvinnur,67+ ár,"Streymoyar region, north",R4300,1.7
+2014,Kvinnur,67+ ár,"Streymoyar region, south",R4700,1.8
+2014,Kvinnur,67+ ár,Suðuroyar region,R4600,2.3
+2014,Kvinnur,67+ ár,Vága region,R4400,2.6
+2014,Menn,,,,3.3
+2014,Menn,,Eysturoyar region,R4200,2.3
+2014,Menn,,Norðoya region,R4100,3.3
+2014,Menn,,Sandoyar region,R4500,4.7
+2014,Menn,,"Streymoyar region, north",R4300,3.4
+2014,Menn,,"Streymoyar region, south",R4700,3.4
+2014,Menn,,Suðuroyar region,R4600,4.6
+2014,Menn,,Vága region,R4400,3.7
+2014,Menn,00-17 ár,,,4.7
+2014,Menn,00-17 ár,Eysturoyar region,R4200,2.9
+2014,Menn,00-17 ár,Norðoya region,R4100,6
+2014,Menn,00-17 ár,Sandoyar region,R4500,4
+2014,Menn,00-17 ár,"Streymoyar region, north",R4300,5.9
+2014,Menn,00-17 ár,"Streymoyar region, south",R4700,4.4
+2014,Menn,00-17 ár,Suðuroyar region,R4600,7.5
+2014,Menn,00-17 ár,Vága region,R4400,5.2
+2014,Menn,18-24 ár,,,3.4
+2014,Menn,18-24 ár,Eysturoyar region,R4200,2.2
+2014,Menn,18-24 ár,Norðoya region,R4100,2.8
+2014,Menn,18-24 ár,Sandoyar region,R4500,5.3
+2014,Menn,18-24 ár,"Streymoyar region, north",R4300,1.6
+2014,Menn,18-24 ár,"Streymoyar region, south",R4700,3.8
+2014,Menn,18-24 ár,Suðuroyar region,R4600,4.4
+2014,Menn,18-24 ár,Vága region,R4400,6.8
+2014,Menn,25-54 ár,,,2.7
+2014,Menn,25-54 ár,Eysturoyar region,R4200,2
+2014,Menn,25-54 ár,Norðoya region,R4100,2.7
+2014,Menn,25-54 ár,Sandoyar region,R4500,1.9
+2014,Menn,25-54 ár,"Streymoyar region, north",R4300,2.3
+2014,Menn,25-54 ár,"Streymoyar region, south",R4700,2.9
+2014,Menn,25-54 ár,Suðuroyar region,R4600,4.3
+2014,Menn,25-54 ár,Vága region,R4400,2.7
+2014,Menn,55-66 ár,,,3.6
+2014,Menn,55-66 ár,Eysturoyar region,R4200,2.2
+2014,Menn,55-66 ár,Norðoya region,R4100,2
+2014,Menn,55-66 ár,Sandoyar region,R4500,11.1
+2014,Menn,55-66 ár,"Streymoyar region, north",R4300,4.5
+2014,Menn,55-66 ár,"Streymoyar region, south",R4700,3.6
+2014,Menn,55-66 ár,Suðuroyar region,R4600,4.7
+2014,Menn,55-66 ár,Vága region,R4400,4.1
+2014,Menn,67+ ár,,,2
+2014,Menn,67+ ár,Eysturoyar region,R4200,2.3
+2014,Menn,67+ ár,Norðoya region,R4100,1.7
+2014,Menn,67+ ár,Sandoyar region,R4500,2.8
+2014,Menn,67+ ár,"Streymoyar region, north",R4300,2.1
+2014,Menn,67+ ár,"Streymoyar region, south",R4700,2
+2014,Menn,67+ ár,Suðuroyar region,R4600,1.5
+2014,Menn,67+ ár,Vága region,R4400,1.3
+2015,,,,,3.4
+2015,,,Eysturoyar region,R4200,2.7
+2015,,,Norðoya region,R4100,3.3
+2015,,,Sandoyar region,R4500,6.2
+2015,,,"Streymoyar region, north",R4300,3
+2015,,,"Streymoyar region, south",R4700,3.3
+2015,,,Suðuroyar region,R4600,4.4
+2015,,,Vága region,R4400,4.2
+2015,,00-17 ár,,,4.5
+2015,,00-17 ár,Eysturoyar region,R4200,3.8
+2015,,00-17 ár,Norðoya region,R4100,4.6
+2015,,00-17 ár,Sandoyar region,R4500,8.9
+2015,,00-17 ár,"Streymoyar region, north",R4300,4.3
+2015,,00-17 ár,"Streymoyar region, south",R4700,3.8
+2015,,00-17 ár,Suðuroyar region,R4600,6.7
+2015,,00-17 ár,Vága region,R4400,6.4
+2015,,18-24 ár,,,4.2
+2015,,18-24 ár,Eysturoyar region,R4200,3.6
+2015,,18-24 ár,Norðoya region,R4100,2.3
+2015,,18-24 ár,Sandoyar region,R4500,7.2
+2015,,18-24 ár,"Streymoyar region, north",R4300,1.8
+2015,,18-24 ár,"Streymoyar region, south",R4700,5.5
+2015,,18-24 ár,Suðuroyar region,R4600,3.3
+2015,,18-24 ár,Vága region,R4400,4.3
+2015,,25-54 ár,,,3.2
+2015,,25-54 ár,Eysturoyar region,R4200,2.4
+2015,,25-54 ár,Norðoya region,R4100,3.5
+2015,,25-54 ár,Sandoyar region,R4500,7
+2015,,25-54 ár,"Streymoyar region, north",R4300,3.2
+2015,,25-54 ár,"Streymoyar region, south",R4700,3
+2015,,25-54 ár,Suðuroyar region,R4600,4.9
+2015,,25-54 ár,Vága region,R4400,4
+2015,,55-66 ár,,,2.8
+2015,,55-66 ár,Eysturoyar region,R4200,1.7
+2015,,55-66 ár,Norðoya region,R4100,1.8
+2015,,55-66 ár,Sandoyar region,R4500,6.4
+2015,,55-66 ár,"Streymoyar region, north",R4300,2.3
+2015,,55-66 ár,"Streymoyar region, south",R4700,3.5
+2015,,55-66 ár,Suðuroyar region,R4600,2.6
+2015,,55-66 ár,Vága region,R4400,2.5
+2015,,67+ ár,,,2
+2015,,67+ ár,Eysturoyar region,R4200,2
+2015,,67+ ár,Norðoya region,R4100,2.5
+2015,,67+ ár,Sandoyar region,R4500,1.6
+2015,,67+ ár,"Streymoyar region, north",R4300,1.9
+2015,,67+ ár,"Streymoyar region, south",R4700,1.5
+2015,,67+ ár,Suðuroyar region,R4600,2.7
+2015,,67+ ár,Vága region,R4400,2.2
+2015,Kvinnur,,,,3.6
+2015,Kvinnur,,Eysturoyar region,R4200,3.2
+2015,Kvinnur,,Norðoya region,R4100,3.5
+2015,Kvinnur,,Sandoyar region,R4500,6.3
+2015,Kvinnur,,"Streymoyar region, north",R4300,3.2
+2015,Kvinnur,,"Streymoyar region, south",R4700,3.4
+2015,Kvinnur,,Suðuroyar region,R4600,4.9
+2015,Kvinnur,,Vága region,R4400,4.3
+2015,Kvinnur,00-17 ár,,,4.9
+2015,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.4
+2015,Kvinnur,00-17 ár,Norðoya region,R4100,4.7
+2015,Kvinnur,00-17 ár,Sandoyar region,R4500,10.1
+2015,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,5.1
+2015,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,4
+2015,Kvinnur,00-17 ár,Suðuroyar region,R4600,7.1
+2015,Kvinnur,00-17 ár,Vága region,R4400,7.6
+2015,Kvinnur,18-24 ár,,,5.3
+2015,Kvinnur,18-24 ár,Eysturoyar region,R4200,5
+2015,Kvinnur,18-24 ár,Norðoya region,R4100,3.2
+2015,Kvinnur,18-24 ár,Sandoyar region,R4500,8.1
+2015,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,2.8
+2015,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,7
+2015,Kvinnur,18-24 ár,Suðuroyar region,R4600,2.5
+2015,Kvinnur,18-24 ár,Vága region,R4400,5.3
+2015,Kvinnur,25-54 ár,,,3.5
+2015,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.7
+2015,Kvinnur,25-54 ár,Norðoya region,R4100,3.9
+2015,Kvinnur,25-54 ár,Sandoyar region,R4500,7.8
+2015,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,3.8
+2015,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.9
+2015,Kvinnur,25-54 ár,Suðuroyar region,R4600,6.7
+2015,Kvinnur,25-54 ár,Vága region,R4400,3.7
+2015,Kvinnur,55-66 ár,,,2.2
+2015,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.9
+2015,Kvinnur,55-66 ár,Norðoya region,R4100,1.5
+2015,Kvinnur,55-66 ár,Sandoyar region,R4500,4
+2015,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,0.8
+2015,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,3
+2015,Kvinnur,55-66 ár,Suðuroyar region,R4600,1.6
+2015,Kvinnur,55-66 ár,Vága region,R4400,0.9
+2015,Kvinnur,67+ ár,,,1.9
+2015,Kvinnur,67+ ár,Eysturoyar region,R4200,2.1
+2015,Kvinnur,67+ ár,Norðoya region,R4100,2.6
+2015,Kvinnur,67+ ár,Sandoyar region,R4500,1.5
+2015,Kvinnur,67+ ár,"Streymoyar region, north",R4300,1
+2015,Kvinnur,67+ ár,"Streymoyar region, south",R4700,1.4
+2015,Kvinnur,67+ ár,Suðuroyar region,R4600,2.9
+2015,Kvinnur,67+ ár,Vága region,R4400,2.6
+2015,Menn,,,,3.2
+2015,Menn,,Eysturoyar region,R4200,2.3
+2015,Menn,,Norðoya region,R4100,3
+2015,Menn,,Sandoyar region,R4500,6.2
+2015,Menn,,"Streymoyar region, north",R4300,2.9
+2015,Menn,,"Streymoyar region, south",R4700,3.3
+2015,Menn,,Suðuroyar region,R4600,4
+2015,Menn,,Vága region,R4400,4
+2015,Menn,00-17 ár,,,4
+2015,Menn,00-17 ár,Eysturoyar region,R4200,3.2
+2015,Menn,00-17 ár,Norðoya region,R4100,4.5
+2015,Menn,00-17 ár,Sandoyar region,R4500,7.7
+2015,Menn,00-17 ár,"Streymoyar region, north",R4300,3.5
+2015,Menn,00-17 ár,"Streymoyar region, south",R4700,3.6
+2015,Menn,00-17 ár,Suðuroyar region,R4600,6.3
+2015,Menn,00-17 ár,Vága region,R4400,5.2
+2015,Menn,18-24 ár,,,3.2
+2015,Menn,18-24 ár,Eysturoyar region,R4200,2.3
+2015,Menn,18-24 ár,Norðoya region,R4100,1.5
+2015,Menn,18-24 ár,Sandoyar region,R4500,6.7
+2015,Menn,18-24 ár,"Streymoyar region, north",R4300,1
+2015,Menn,18-24 ár,"Streymoyar region, south",R4700,4.2
+2015,Menn,18-24 ár,Suðuroyar region,R4600,4
+2015,Menn,18-24 ár,Vága region,R4400,3.7
+2015,Menn,25-54 ár,,,3
+2015,Menn,25-54 ár,Eysturoyar region,R4200,2.1
+2015,Menn,25-54 ár,Norðoya region,R4100,3.1
+2015,Menn,25-54 ár,Sandoyar region,R4500,6.2
+2015,Menn,25-54 ár,"Streymoyar region, north",R4300,2.8
+2015,Menn,25-54 ár,"Streymoyar region, south",R4700,3
+2015,Menn,25-54 ár,Suðuroyar region,R4600,3.5
+2015,Menn,25-54 ár,Vága region,R4400,4.2
+2015,Menn,55-66 ár,,,3.4
+2015,Menn,55-66 ár,Eysturoyar region,R4200,1.6
+2015,Menn,55-66 ár,Norðoya region,R4100,2
+2015,Menn,55-66 ár,Sandoyar region,R4500,8.3
+2015,Menn,55-66 ár,"Streymoyar region, north",R4300,3.5
+2015,Menn,55-66 ár,"Streymoyar region, south",R4700,4.1
+2015,Menn,55-66 ár,Suðuroyar region,R4600,3.6
+2015,Menn,55-66 ár,Vága region,R4400,4
+2015,Menn,67+ ár,,,2
+2015,Menn,67+ ár,Eysturoyar region,R4200,2
+2015,Menn,67+ ár,Norðoya region,R4100,2.4
+2015,Menn,67+ ár,Sandoyar region,R4500,1.8
+2015,Menn,67+ ár,"Streymoyar region, north",R4300,2.8
+2015,Menn,67+ ár,"Streymoyar region, south",R4700,1.6
+2015,Menn,67+ ár,Suðuroyar region,R4600,2.6
+2015,Menn,67+ ár,Vága region,R4400,1.8
+2016,,,,,3.2
+2016,,,Eysturoyar region,R4200,2.5
+2016,,,Norðoya region,R4100,2.8
+2016,,,Sandoyar region,R4500,3.8
+2016,,,"Streymoyar region, north",R4300,3.1
+2016,,,"Streymoyar region, south",R4700,3.3
+2016,,,Suðuroyar region,R4600,5
+2016,,,Vága region,R4400,3.3
+2016,,00-17 ár,,,4.2
+2016,,00-17 ár,Eysturoyar region,R4200,3.8
+2016,,00-17 ár,Norðoya region,R4100,4.1
+2016,,00-17 ár,Sandoyar region,R4500,4.5
+2016,,00-17 ár,"Streymoyar region, north",R4300,4.1
+2016,,00-17 ár,"Streymoyar region, south",R4700,3.6
+2016,,00-17 ár,Suðuroyar region,R4600,8.8
+2016,,00-17 ár,Vága region,R4400,4.2
+2016,,18-24 ár,,,3.7
+2016,,18-24 ár,Eysturoyar region,R4200,2.8
+2016,,18-24 ár,Norðoya region,R4100,2.8
+2016,,18-24 ár,Sandoyar region,R4500,6
+2016,,18-24 ár,"Streymoyar region, north",R4300,3.2
+2016,,18-24 ár,"Streymoyar region, south",R4700,4.4
+2016,,18-24 ár,Suðuroyar region,R4600,4.6
+2016,,18-24 ár,Vága region,R4400,1.7
+2016,,25-54 ár,,,3.1
+2016,,25-54 ár,Eysturoyar region,R4200,2.3
+2016,,25-54 ár,Norðoya region,R4100,2.8
+2016,,25-54 ár,Sandoyar region,R4500,4
+2016,,25-54 ár,"Streymoyar region, north",R4300,2.9
+2016,,25-54 ár,"Streymoyar region, south",R4700,3.1
+2016,,25-54 ár,Suðuroyar region,R4600,4.7
+2016,,25-54 ár,Vága region,R4400,3.3
+2016,,55-66 ár,,,2.8
+2016,,55-66 ár,Eysturoyar region,R4200,1.9
+2016,,55-66 ár,Norðoya region,R4100,1.3
+2016,,55-66 ár,Sandoyar region,R4500,5.1
+2016,,55-66 ár,"Streymoyar region, north",R4300,3.5
+2016,,55-66 ár,"Streymoyar region, south",R4700,3.3
+2016,,55-66 ár,Suðuroyar region,R4600,3.6
+2016,,55-66 ár,Vága region,R4400,2.6
+2016,,67+ ár,,,1.9
+2016,,67+ ár,Eysturoyar region,R4200,1
+2016,,67+ ár,Norðoya region,R4100,2.2
+2016,,67+ ár,Sandoyar region,R4500,0.8
+2016,,67+ ár,"Streymoyar region, north",R4300,1.4
+2016,,67+ ár,"Streymoyar region, south",R4700,2.1
+2016,,67+ ár,Suðuroyar region,R4600,2.3
+2016,,67+ ár,Vága region,R4400,3.3
+2016,Kvinnur,,,,3.4
+2016,Kvinnur,,Eysturoyar region,R4200,2.8
+2016,Kvinnur,,Norðoya region,R4100,2.9
+2016,Kvinnur,,Sandoyar region,R4500,3.5
+2016,Kvinnur,,"Streymoyar region, north",R4300,3.3
+2016,Kvinnur,,"Streymoyar region, south",R4700,3.4
+2016,Kvinnur,,Suðuroyar region,R4600,5.5
+2016,Kvinnur,,Vága region,R4400,3
+2016,Kvinnur,00-17 ár,,,4.4
+2016,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.2
+2016,Kvinnur,00-17 ár,Norðoya region,R4100,4
+2016,Kvinnur,00-17 ár,Sandoyar region,R4500,6.3
+2016,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,4.5
+2016,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3.7
+2016,Kvinnur,00-17 ár,Suðuroyar region,R4600,9.1
+2016,Kvinnur,00-17 ár,Vága region,R4400,3.8
+2016,Kvinnur,18-24 ár,,,4.8
+2016,Kvinnur,18-24 ár,Eysturoyar region,R4200,4.1
+2016,Kvinnur,18-24 ár,Norðoya region,R4100,3.6
+2016,Kvinnur,18-24 ár,Sandoyar region,R4500,5.3
+2016,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,3.6
+2016,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,5.9
+2016,Kvinnur,18-24 ár,Suðuroyar region,R4600,5.6
+2016,Kvinnur,18-24 ár,Vága region,R4400,1.9
+2016,Kvinnur,25-54 ár,,,3.3
+2016,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.7
+2016,Kvinnur,25-54 ár,Norðoya region,R4100,2.8
+2016,Kvinnur,25-54 ár,Sandoyar region,R4500,3.4
+2016,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,4
+2016,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,3.2
+2016,Kvinnur,25-54 ár,Suðuroyar region,R4600,6.1
+2016,Kvinnur,25-54 ár,Vága region,R4400,2.9
+2016,Kvinnur,55-66 ár,,,2.4
+2016,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.9
+2016,Kvinnur,55-66 ár,Norðoya region,R4100,1.3
+2016,Kvinnur,55-66 ár,Sandoyar region,R4500,2.1
+2016,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,1.6
+2016,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,3.1
+2016,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.9
+2016,Kvinnur,55-66 ár,Vága region,R4400,1.5
+2016,Kvinnur,67+ ár,,,1.9
+2016,Kvinnur,67+ ár,Eysturoyar region,R4200,0.9
+2016,Kvinnur,67+ ár,Norðoya region,R4100,2.4
+2016,Kvinnur,67+ ár,Sandoyar region,R4500,1.4
+2016,Kvinnur,67+ ár,"Streymoyar region, north",R4300,1.3
+2016,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2
+2016,Kvinnur,67+ ár,Suðuroyar region,R4600,2.4
+2016,Kvinnur,67+ ár,Vága region,R4400,3.7
+2016,Menn,,,,3.1
+2016,Menn,,Eysturoyar region,R4200,2.3
+2016,Menn,,Norðoya region,R4100,2.8
+2016,Menn,,Sandoyar region,R4500,4.1
+2016,Menn,,"Streymoyar region, north",R4300,2.9
+2016,Menn,,"Streymoyar region, south",R4700,3.1
+2016,Menn,,Suðuroyar region,R4600,4.5
+2016,Menn,,Vága region,R4400,3.6
+2016,Menn,00-17 ár,,,4.1
+2016,Menn,00-17 ár,Eysturoyar region,R4200,3.5
+2016,Menn,00-17 ár,Norðoya region,R4100,4.2
+2016,Menn,00-17 ár,Sandoyar region,R4500,2.8
+2016,Menn,00-17 ár,"Streymoyar region, north",R4300,3.7
+2016,Menn,00-17 ár,"Streymoyar region, south",R4700,3.5
+2016,Menn,00-17 ár,Suðuroyar region,R4600,8.6
+2016,Menn,00-17 ár,Vága region,R4400,4.6
+2016,Menn,18-24 ár,,,2.7
+2016,Menn,18-24 ár,Eysturoyar region,R4200,1.7
+2016,Menn,18-24 ár,Norðoya region,R4100,2.1
+2016,Menn,18-24 ár,Sandoyar region,R4500,6.5
+2016,Menn,18-24 ár,"Streymoyar region, north",R4300,2.9
+2016,Menn,18-24 ár,"Streymoyar region, south",R4700,3
+2016,Menn,18-24 ár,Suðuroyar region,R4600,3.9
+2016,Menn,18-24 ár,Vága region,R4400,1.6
+2016,Menn,25-54 ár,,,2.8
+2016,Menn,25-54 ár,Eysturoyar region,R4200,2
+2016,Menn,25-54 ár,Norðoya region,R4100,2.8
+2016,Menn,25-54 ár,Sandoyar region,R4500,4.6
+2016,Menn,25-54 ár,"Streymoyar region, north",R4300,2.1
+2016,Menn,25-54 ár,"Streymoyar region, south",R4700,3
+2016,Menn,25-54 ár,Suðuroyar region,R4600,3.5
+2016,Menn,25-54 ár,Vága region,R4400,3.6
+2016,Menn,55-66 ár,,,3.3
+2016,Menn,55-66 ár,Eysturoyar region,R4200,2
+2016,Menn,55-66 ár,Norðoya region,R4100,1.3
+2016,Menn,55-66 ár,Sandoyar region,R4500,7.3
+2016,Menn,55-66 ár,"Streymoyar region, north",R4300,5.2
+2016,Menn,55-66 ár,"Streymoyar region, south",R4700,3.6
+2016,Menn,55-66 ár,Suðuroyar region,R4600,4.2
+2016,Menn,55-66 ár,Vága region,R4400,3.6
+2016,Menn,67+ ár,,,1.9
+2016,Menn,67+ ár,Eysturoyar region,R4200,1.2
+2016,Menn,67+ ár,Norðoya region,R4100,2.1
+2016,Menn,67+ ár,Sandoyar region,R4500,-
+2016,Menn,67+ ár,"Streymoyar region, north",R4300,1.4
+2016,Menn,67+ ár,"Streymoyar region, south",R4700,2.2
+2016,Menn,67+ ár,Suðuroyar region,R4600,2.1
+2016,Menn,67+ ár,Vága region,R4400,3
+2017,,,,,3
+2017,,,Eysturoyar region,R4200,2.7
+2017,,,Norðoya region,R4100,2.5
+2017,,,Sandoyar region,R4500,3.9
+2017,,,"Streymoyar region, north",R4300,3.3
+2017,,,"Streymoyar region, south",R4700,3
+2017,,,Suðuroyar region,R4600,4.4
+2017,,,Vága region,R4400,2.6
+2017,,00-17 ár,,,3.8
+2017,,00-17 ár,Eysturoyar region,R4200,4.1
+2017,,00-17 ár,Norðoya region,R4100,3.2
+2017,,00-17 ár,Sandoyar region,R4500,6.1
+2017,,00-17 ár,"Streymoyar region, north",R4300,4.7
+2017,,00-17 ár,"Streymoyar region, south",R4700,3.4
+2017,,00-17 ár,Suðuroyar region,R4600,5.1
+2017,,00-17 ár,Vága region,R4400,2.3
+2017,,18-24 ár,,,3
+2017,,18-24 ár,Eysturoyar region,R4200,1.8
+2017,,18-24 ár,Norðoya region,R4100,1.8
+2017,,18-24 ár,Sandoyar region,R4500,6.9
+2017,,18-24 ár,"Streymoyar region, north",R4300,3.5
+2017,,18-24 ár,"Streymoyar region, south",R4700,3.8
+2017,,18-24 ár,Suðuroyar region,R4600,3.4
+2017,,18-24 ár,Vága region,R4400,2.9
+2017,,25-54 ár,,,2.9
+2017,,25-54 ár,Eysturoyar region,R4200,2.5
+2017,,25-54 ár,Norðoya region,R4100,2.4
+2017,,25-54 ár,Sandoyar region,R4500,3.5
+2017,,25-54 ár,"Streymoyar region, north",R4300,2.6
+2017,,25-54 ár,"Streymoyar region, south",R4700,2.8
+2017,,25-54 ár,Suðuroyar region,R4600,4.8
+2017,,25-54 ár,Vága region,R4400,2.5
+2017,,55-66 ár,,,2.8
+2017,,55-66 ár,Eysturoyar region,R4200,1.6
+2017,,55-66 ár,Norðoya region,R4100,2
+2017,,55-66 ár,Sandoyar region,R4500,3.8
+2017,,55-66 ár,"Streymoyar region, north",R4300,3.2
+2017,,55-66 ár,"Streymoyar region, south",R4700,3.2
+2017,,55-66 ár,Suðuroyar region,R4600,3.7
+2017,,55-66 ár,Vága region,R4400,2.1
+2017,,67+ ár,,,2.5
+2017,,67+ ár,Eysturoyar region,R4200,2.2
+2017,,67+ ár,Norðoya region,R4100,2.6
+2017,,67+ ár,Sandoyar region,R4500,0.8
+2017,,67+ ár,"Streymoyar region, north",R4300,2.7
+2017,,67+ ár,"Streymoyar region, south",R4700,2.3
+2017,,67+ ár,Suðuroyar region,R4600,3.6
+2017,,67+ ár,Vága region,R4400,3.4
+2017,Kvinnur,,,,3.1
+2017,Kvinnur,,Eysturoyar region,R4200,3.1
+2017,Kvinnur,,Norðoya region,R4100,2.8
+2017,Kvinnur,,Sandoyar region,R4500,4
+2017,Kvinnur,,"Streymoyar region, north",R4300,3.4
+2017,Kvinnur,,"Streymoyar region, south",R4700,3
+2017,Kvinnur,,Suðuroyar region,R4600,4.3
+2017,Kvinnur,,Vága region,R4400,2.4
+2017,Kvinnur,00-17 ár,,,3.7
+2017,Kvinnur,00-17 ár,Eysturoyar region,R4200,4.7
+2017,Kvinnur,00-17 ár,Norðoya region,R4100,2.9
+2017,Kvinnur,00-17 ár,Sandoyar region,R4500,6.8
+2017,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,4.6
+2017,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3
+2017,Kvinnur,00-17 ár,Suðuroyar region,R4600,5.3
+2017,Kvinnur,00-17 ár,Vága region,R4400,2.6
+2017,Kvinnur,18-24 ár,,,4
+2017,Kvinnur,18-24 ár,Eysturoyar region,R4200,2.9
+2017,Kvinnur,18-24 ár,Norðoya region,R4100,3
+2017,Kvinnur,18-24 ár,Sandoyar region,R4500,8.9
+2017,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,4.3
+2017,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,5.1
+2017,Kvinnur,18-24 ár,Suðuroyar region,R4600,3.8
+2017,Kvinnur,18-24 ár,Vága region,R4400,1
+2017,Kvinnur,25-54 ár,,,2.9
+2017,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.7
+2017,Kvinnur,25-54 ár,Norðoya region,R4100,2.6
+2017,Kvinnur,25-54 ár,Sandoyar region,R4500,3.6
+2017,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,3.1
+2017,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.8
+2017,Kvinnur,25-54 ár,Suðuroyar region,R4600,5
+2017,Kvinnur,25-54 ár,Vága region,R4400,2.1
+2017,Kvinnur,55-66 ár,,,2.4
+2017,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.9
+2017,Kvinnur,55-66 ár,Norðoya region,R4100,2.3
+2017,Kvinnur,55-66 ár,Sandoyar region,R4500,2
+2017,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,2
+2017,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,2.6
+2017,Kvinnur,55-66 ár,Suðuroyar region,R4600,3
+2017,Kvinnur,55-66 ár,Vága region,R4400,1.9
+2017,Kvinnur,67+ ár,,,2.9
+2017,Kvinnur,67+ ár,Eysturoyar region,R4200,2.5
+2017,Kvinnur,67+ ár,Norðoya region,R4100,3.5
+2017,Kvinnur,67+ ár,Sandoyar region,R4500,1.4
+2017,Kvinnur,67+ ár,"Streymoyar region, north",R4300,3
+2017,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.9
+2017,Kvinnur,67+ ár,Suðuroyar region,R4600,3.1
+2017,Kvinnur,67+ ár,Vága region,R4400,3.5
+2017,Menn,,,,2.9
+2017,Menn,,Eysturoyar region,R4200,2.4
+2017,Menn,,Norðoya region,R4100,2.2
+2017,Menn,,Sandoyar region,R4500,3.8
+2017,Menn,,"Streymoyar region, north",R4300,3.2
+2017,Menn,,"Streymoyar region, south",R4700,3.1
+2017,Menn,,Suðuroyar region,R4600,4.5
+2017,Menn,,Vága region,R4400,2.7
+2017,Menn,00-17 ár,,,3.8
+2017,Menn,00-17 ár,Eysturoyar region,R4200,3.6
+2017,Menn,00-17 ár,Norðoya region,R4100,3.5
+2017,Menn,00-17 ár,Sandoyar region,R4500,5.4
+2017,Menn,00-17 ár,"Streymoyar region, north",R4300,4.8
+2017,Menn,00-17 ár,"Streymoyar region, south",R4700,3.8
+2017,Menn,00-17 ár,Suðuroyar region,R4600,5
+2017,Menn,00-17 ár,Vága region,R4400,1.9
+2017,Menn,18-24 ár,,,2.2
+2017,Menn,18-24 ár,Eysturoyar region,R4200,0.9
+2017,Menn,18-24 ár,Norðoya region,R4100,0.7
+2017,Menn,18-24 ár,Sandoyar region,R4500,5.3
+2017,Menn,18-24 ár,"Streymoyar region, north",R4300,2.8
+2017,Menn,18-24 ár,"Streymoyar region, south",R4700,2.6
+2017,Menn,18-24 ár,Suðuroyar region,R4600,3
+2017,Menn,18-24 ár,Vága region,R4400,4.4
+2017,Menn,25-54 ár,,,2.8
+2017,Menn,25-54 ár,Eysturoyar region,R4200,2.4
+2017,Menn,25-54 ár,Norðoya region,R4100,2.1
+2017,Menn,25-54 ár,Sandoyar region,R4500,3.4
+2017,Menn,25-54 ár,"Streymoyar region, north",R4300,2.1
+2017,Menn,25-54 ár,"Streymoyar region, south",R4700,2.8
+2017,Menn,25-54 ár,Suðuroyar region,R4600,4.6
+2017,Menn,25-54 ár,Vága region,R4400,2.9
+2017,Menn,55-66 ár,,,3.1
+2017,Menn,55-66 ár,Eysturoyar region,R4200,1.4
+2017,Menn,55-66 ár,Norðoya region,R4100,1.8
+2017,Menn,55-66 ár,Sandoyar region,R4500,5.2
+2017,Menn,55-66 ár,"Streymoyar region, north",R4300,4.3
+2017,Menn,55-66 ár,"Streymoyar region, south",R4700,3.9
+2017,Menn,55-66 ár,Suðuroyar region,R4600,4.4
+2017,Menn,55-66 ár,Vága region,R4400,2.3
+2017,Menn,67+ ár,,,2.2
+2017,Menn,67+ ár,Eysturoyar region,R4200,2
+2017,Menn,67+ ár,Norðoya region,R4100,1.6
+2017,Menn,67+ ár,Sandoyar region,R4500,-
+2017,Menn,67+ ár,"Streymoyar region, north",R4300,2.4
+2017,Menn,67+ ár,"Streymoyar region, south",R4700,1.7
+2017,Menn,67+ ár,Suðuroyar region,R4600,4.1
+2017,Menn,67+ ár,Vága region,R4400,3.2
+2018,,,,,2.9
+2018,,,Eysturoyar region,R4200,2.6
+2018,,,Norðoya region,R4100,2.7
+2018,,,Sandoyar region,R4500,4.3
+2018,,,"Streymoyar region, north",R4300,2.4
+2018,,,"Streymoyar region, south",R4700,2.8
+2018,,,Suðuroyar region,R4600,4.1
+2018,,,Vága region,R4400,3
+2018,,00-17 ár,,,3.5
+2018,,00-17 ár,Eysturoyar region,R4200,3.5
+2018,,00-17 ár,Norðoya region,R4100,4
+2018,,00-17 ár,Sandoyar region,R4500,6.8
+2018,,00-17 ár,"Streymoyar region, north",R4300,3
+2018,,00-17 ár,"Streymoyar region, south",R4700,3
+2018,,00-17 ár,Suðuroyar region,R4600,5.2
+2018,,00-17 ár,Vága region,R4400,2.7
+2018,,18-24 ár,,,3.4
+2018,,18-24 ár,Eysturoyar region,R4200,3.1
+2018,,18-24 ár,Norðoya region,R4100,2.8
+2018,,18-24 ár,Sandoyar region,R4500,6.7
+2018,,18-24 ár,"Streymoyar region, north",R4300,1
+2018,,18-24 ár,"Streymoyar region, south",R4700,3.8
+2018,,18-24 ár,Suðuroyar region,R4600,4.9
+2018,,18-24 ár,Vága region,R4400,3.2
+2018,,25-54 ár,,,2.8
+2018,,25-54 ár,Eysturoyar region,R4200,2.4
+2018,,25-54 ár,Norðoya region,R4100,2.7
+2018,,25-54 ár,Sandoyar region,R4500,4.3
+2018,,25-54 ár,"Streymoyar region, north",R4300,2.1
+2018,,25-54 ár,"Streymoyar region, south",R4700,2.8
+2018,,25-54 ár,Suðuroyar region,R4600,4.4
+2018,,25-54 ár,Vága region,R4400,2.8
+2018,,55-66 ár,,,2.3
+2018,,55-66 ár,Eysturoyar region,R4200,1.7
+2018,,55-66 ár,Norðoya region,R4100,0.8
+2018,,55-66 ár,Sandoyar region,R4500,2.2
+2018,,55-66 ár,"Streymoyar region, north",R4300,2.9
+2018,,55-66 ár,"Streymoyar region, south",R4700,2.7
+2018,,55-66 ár,Suðuroyar region,R4600,2.9
+2018,,55-66 ár,Vága region,R4400,3.6
+2018,,67+ ár,,,2.4
+2018,,67+ ár,Eysturoyar region,R4200,2.4
+2018,,67+ ár,Norðoya region,R4100,2.1
+2018,,67+ ár,Sandoyar region,R4500,2.6
+2018,,67+ ár,"Streymoyar region, north",R4300,2.2
+2018,,67+ ár,"Streymoyar region, south",R4700,1.9
+2018,,67+ ár,Suðuroyar region,R4600,3.3
+2018,,67+ ár,Vága region,R4400,3.4
+2018,Kvinnur,,,,3
+2018,Kvinnur,,Eysturoyar region,R4200,3
+2018,Kvinnur,,Norðoya region,R4100,3
+2018,Kvinnur,,Sandoyar region,R4500,4.2
+2018,Kvinnur,,"Streymoyar region, north",R4300,2.6
+2018,Kvinnur,,"Streymoyar region, south",R4700,2.7
+2018,Kvinnur,,Suðuroyar region,R4600,4.2
+2018,Kvinnur,,Vága region,R4400,2.7
+2018,Kvinnur,00-17 ár,,,3.4
+2018,Kvinnur,00-17 ár,Eysturoyar region,R4200,4
+2018,Kvinnur,00-17 ár,Norðoya region,R4100,3.5
+2018,Kvinnur,00-17 ár,Sandoyar region,R4500,6.7
+2018,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,3
+2018,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,2.8
+2018,Kvinnur,00-17 ár,Suðuroyar region,R4600,5.1
+2018,Kvinnur,00-17 ár,Vága region,R4400,2.1
+2018,Kvinnur,18-24 ár,,,4.2
+2018,Kvinnur,18-24 ár,Eysturoyar region,R4200,4.9
+2018,Kvinnur,18-24 ár,Norðoya region,R4100,3.7
+2018,Kvinnur,18-24 ár,Sandoyar region,R4500,3.9
+2018,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,0.7
+2018,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,4.2
+2018,Kvinnur,18-24 ár,Suðuroyar region,R4600,6.7
+2018,Kvinnur,18-24 ár,Vága region,R4400,3.8
+2018,Kvinnur,25-54 ár,,,2.9
+2018,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.5
+2018,Kvinnur,25-54 ár,Norðoya region,R4100,3.7
+2018,Kvinnur,25-54 ár,Sandoyar region,R4500,4.8
+2018,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,2.8
+2018,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.6
+2018,Kvinnur,25-54 ár,Suðuroyar region,R4600,4.7
+2018,Kvinnur,25-54 ár,Vága region,R4400,2.6
+2018,Kvinnur,55-66 ár,,,2.1
+2018,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.6
+2018,Kvinnur,55-66 ár,Norðoya region,R4100,1
+2018,Kvinnur,55-66 ár,Sandoyar region,R4500,2
+2018,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,2.3
+2018,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,2.3
+2018,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.6
+2018,Kvinnur,55-66 ár,Vága region,R4400,2.9
+2018,Kvinnur,67+ ár,,,2.6
+2018,Kvinnur,67+ ár,Eysturoyar region,R4200,2.7
+2018,Kvinnur,67+ ár,Norðoya region,R4100,2.2
+2018,Kvinnur,67+ ár,Sandoyar region,R4500,2.7
+2018,Kvinnur,67+ ár,"Streymoyar region, north",R4300,2.5
+2018,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.5
+2018,Kvinnur,67+ ár,Suðuroyar region,R4600,2.7
+2018,Kvinnur,67+ ár,Vága region,R4400,3.5
+2018,Menn,,,,2.8
+2018,Menn,,Eysturoyar region,R4200,2.3
+2018,Menn,,Norðoya region,R4100,2.3
+2018,Menn,,Sandoyar region,R4500,4.4
+2018,Menn,,"Streymoyar region, north",R4300,2.2
+2018,Menn,,"Streymoyar region, south",R4700,2.9
+2018,Menn,,Suðuroyar region,R4600,4.1
+2018,Menn,,Vága region,R4400,3.2
+2018,Menn,00-17 ár,,,3.6
+2018,Menn,00-17 ár,Eysturoyar region,R4200,3
+2018,Menn,00-17 ár,Norðoya region,R4100,4.4
+2018,Menn,00-17 ár,Sandoyar region,R4500,7
+2018,Menn,00-17 ár,"Streymoyar region, north",R4300,3
+2018,Menn,00-17 ár,"Streymoyar region, south",R4700,3.3
+2018,Menn,00-17 ár,Suðuroyar region,R4600,5.3
+2018,Menn,00-17 ár,Vága region,R4400,3.2
+2018,Menn,18-24 ár,,,2.8
+2018,Menn,18-24 ár,Eysturoyar region,R4200,1.7
+2018,Menn,18-24 ár,Norðoya region,R4100,2
+2018,Menn,18-24 ár,Sandoyar region,R4500,9.4
+2018,Menn,18-24 ár,"Streymoyar region, north",R4300,1.2
+2018,Menn,18-24 ár,"Streymoyar region, south",R4700,3.5
+2018,Menn,18-24 ár,Suðuroyar region,R4600,3.6
+2018,Menn,18-24 ár,Vága region,R4400,2.8
+2018,Menn,25-54 ár,,,2.6
+2018,Menn,25-54 ár,Eysturoyar region,R4200,2.2
+2018,Menn,25-54 ár,Norðoya region,R4100,1.9
+2018,Menn,25-54 ár,Sandoyar region,R4500,3.9
+2018,Menn,25-54 ár,"Streymoyar region, north",R4300,1.6
+2018,Menn,25-54 ár,"Streymoyar region, south",R4700,2.9
+2018,Menn,25-54 ár,Suðuroyar region,R4600,4.1
+2018,Menn,25-54 ár,Vága region,R4400,2.9
+2018,Menn,55-66 ár,,,2.6
+2018,Menn,55-66 ár,Eysturoyar region,R4200,1.7
+2018,Menn,55-66 ár,Norðoya region,R4100,0.7
+2018,Menn,55-66 ár,Sandoyar region,R4500,2.4
+2018,Menn,55-66 ár,"Streymoyar region, north",R4300,3.5
+2018,Menn,55-66 ár,"Streymoyar region, south",R4700,3.1
+2018,Menn,55-66 ár,Suðuroyar region,R4600,3.2
+2018,Menn,55-66 ár,Vága region,R4400,4.1
+2018,Menn,67+ ár,,,2.1
+2018,Menn,67+ ár,Eysturoyar region,R4200,2.2
+2018,Menn,67+ ár,Norðoya region,R4100,2
+2018,Menn,67+ ár,Sandoyar region,R4500,2.3
+2018,Menn,67+ ár,"Streymoyar region, north",R4300,2
+2018,Menn,67+ ár,"Streymoyar region, south",R4700,1.3
+2018,Menn,67+ ár,Suðuroyar region,R4600,3.8
+2018,Menn,67+ ár,Vága region,R4400,3.3
+2019,,,,,2.6
+2019,,,Eysturoyar region,R4200,2.1
+2019,,,Norðoya region,R4100,2.4
+2019,,,Sandoyar region,R4500,3.6
+2019,,,"Streymoyar region, north",R4300,2.1
+2019,,,"Streymoyar region, south",R4700,2.6
+2019,,,Suðuroyar region,R4600,4.4
+2019,,,Vága region,R4400,2.9
+2019,,00-17 ár,,,3.4
+2019,,00-17 ár,Eysturoyar region,R4200,3.2
+2019,,00-17 ár,Norðoya region,R4100,3.2
+2019,,00-17 ár,Sandoyar region,R4500,7.1
+2019,,00-17 ár,"Streymoyar region, north",R4300,2.7
+2019,,00-17 ár,"Streymoyar region, south",R4700,3
+2019,,00-17 ár,Suðuroyar region,R4600,6.7
+2019,,00-17 ár,Vága region,R4400,2.6
+2019,,18-24 ár,,,3
+2019,,18-24 ár,Eysturoyar region,R4200,2.5
+2019,,18-24 ár,Norðoya region,R4100,2.1
+2019,,18-24 ár,Sandoyar region,R4500,3.8
+2019,,18-24 ár,"Streymoyar region, north",R4300,0.3
+2019,,18-24 ár,"Streymoyar region, south",R4700,3.7
+2019,,18-24 ár,Suðuroyar region,R4600,4.1
+2019,,18-24 ár,Vága region,R4400,4.3
+2019,,25-54 ár,,,2.6
+2019,,25-54 ár,Eysturoyar region,R4200,1.8
+2019,,25-54 ár,Norðoya region,R4100,2.7
+2019,,25-54 ár,Sandoyar region,R4500,3.4
+2019,,25-54 ár,"Streymoyar region, north",R4300,2.4
+2019,,25-54 ár,"Streymoyar region, south",R4700,2.5
+2019,,25-54 ár,Suðuroyar region,R4600,5
+2019,,25-54 ár,Vága region,R4400,3.1
+2019,,55-66 ár,,,2.2
+2019,,55-66 ár,Eysturoyar region,R4200,1.3
+2019,,55-66 ár,Norðoya region,R4100,1.1
+2019,,55-66 ár,Sandoyar region,R4500,2.7
+2019,,55-66 ár,"Streymoyar region, north",R4300,2.4
+2019,,55-66 ár,"Streymoyar region, south",R4700,2.6
+2019,,55-66 ár,Suðuroyar region,R4600,3.6
+2019,,55-66 ár,Vága region,R4400,2.5
+2019,,67+ ár,,,1.5
+2019,,67+ ár,Eysturoyar region,R4200,1.2
+2019,,67+ ár,Norðoya region,R4100,1.9
+2019,,67+ ár,Sandoyar region,R4500,0.8
+2019,,67+ ár,"Streymoyar region, north",R4300,1
+2019,,67+ ár,"Streymoyar region, south",R4700,1.5
+2019,,67+ ár,Suðuroyar region,R4600,1.4
+2019,,67+ ár,Vága region,R4400,2.5
+2019,Kvinnur,,,,2.9
+2019,Kvinnur,,Eysturoyar region,R4200,2.4
+2019,Kvinnur,,Norðoya region,R4100,2.8
+2019,Kvinnur,,Sandoyar region,R4500,4.2
+2019,Kvinnur,,"Streymoyar region, north",R4300,2.1
+2019,Kvinnur,,"Streymoyar region, south",R4700,2.9
+2019,Kvinnur,,Suðuroyar region,R4600,4.6
+2019,Kvinnur,,Vága region,R4400,2.9
+2019,Kvinnur,00-17 ár,,,3.8
+2019,Kvinnur,00-17 ár,Eysturoyar region,R4200,3.6
+2019,Kvinnur,00-17 ár,Norðoya region,R4100,3.1
+2019,Kvinnur,00-17 ár,Sandoyar region,R4500,8.1
+2019,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,2.2
+2019,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3.7
+2019,Kvinnur,00-17 ár,Suðuroyar region,R4600,6.8
+2019,Kvinnur,00-17 ár,Vága region,R4400,2.8
+2019,Kvinnur,18-24 ár,,,4
+2019,Kvinnur,18-24 ár,Eysturoyar region,R4200,4.3
+2019,Kvinnur,18-24 ár,Norðoya region,R4100,2.5
+2019,Kvinnur,18-24 ár,Sandoyar region,R4500,3.9
+2019,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,0.7
+2019,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,4.8
+2019,Kvinnur,18-24 ár,Suðuroyar region,R4600,3.9
+2019,Kvinnur,18-24 ár,Vága region,R4400,4
+2019,Kvinnur,25-54 ár,,,3
+2019,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.2
+2019,Kvinnur,25-54 ár,Norðoya region,R4100,3.3
+2019,Kvinnur,25-54 ár,Sandoyar region,R4500,4.6
+2019,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,2.7
+2019,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.6
+2019,Kvinnur,25-54 ár,Suðuroyar region,R4600,6
+2019,Kvinnur,25-54 ár,Vága region,R4400,3.1
+2019,Kvinnur,55-66 ár,,,1.9
+2019,Kvinnur,55-66 ár,Eysturoyar region,R4200,0.8
+2019,Kvinnur,55-66 ár,Norðoya region,R4100,1.7
+2019,Kvinnur,55-66 ár,Sandoyar region,R4500,3
+2019,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,1.9
+2019,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,2.4
+2019,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.6
+2019,Kvinnur,55-66 ár,Vága region,R4400,1.4
+2019,Kvinnur,67+ ár,,,1.7
+2019,Kvinnur,67+ ár,Eysturoyar region,R4200,1.2
+2019,Kvinnur,67+ ár,Norðoya region,R4100,2.2
+2019,Kvinnur,67+ ár,Sandoyar region,R4500,0.7
+2019,Kvinnur,67+ ár,"Streymoyar region, north",R4300,1.6
+2019,Kvinnur,67+ ár,"Streymoyar region, south",R4700,1.8
+2019,Kvinnur,67+ ár,Suðuroyar region,R4600,1.6
+2019,Kvinnur,67+ ár,Vága region,R4400,3.4
+2019,Menn,,,,2.4
+2019,Menn,,Eysturoyar region,R4200,1.8
+2019,Menn,,Norðoya region,R4100,2.1
+2019,Menn,,Sandoyar region,R4500,3
+2019,Menn,,"Streymoyar region, north",R4300,2
+2019,Menn,,"Streymoyar region, south",R4700,2.3
+2019,Menn,,Suðuroyar region,R4600,4.2
+2019,Menn,,Vága region,R4400,2.8
+2019,Menn,00-17 ár,,,3
+2019,Menn,00-17 ár,Eysturoyar region,R4200,2.7
+2019,Menn,00-17 ár,Norðoya region,R4100,3.4
+2019,Menn,00-17 ár,Sandoyar region,R4500,6.2
+2019,Menn,00-17 ár,"Streymoyar region, north",R4300,3.2
+2019,Menn,00-17 ár,"Streymoyar region, south",R4700,2.2
+2019,Menn,00-17 ár,Suðuroyar region,R4600,6.7
+2019,Menn,00-17 ár,Vága region,R4400,2.3
+2019,Menn,18-24 ár,,,2.3
+2019,Menn,18-24 ár,Eysturoyar region,R4200,1.2
+2019,Menn,18-24 ár,Norðoya region,R4100,1.7
+2019,Menn,18-24 ár,Sandoyar region,R4500,3.7
+2019,Menn,18-24 ár,"Streymoyar region, north",R4300,-
+2019,Menn,18-24 ár,"Streymoyar region, south",R4700,2.7
+2019,Menn,18-24 ár,Suðuroyar region,R4600,4.2
+2019,Menn,18-24 ár,Vága region,R4400,4.6
+2019,Menn,25-54 ár,,,2.3
+2019,Menn,25-54 ár,Eysturoyar region,R4200,1.5
+2019,Menn,25-54 ár,Norðoya region,R4100,2.1
+2019,Menn,25-54 ár,Sandoyar region,R4500,2.4
+2019,Menn,25-54 ár,"Streymoyar region, north",R4300,2.1
+2019,Menn,25-54 ár,"Streymoyar region, south",R4700,2.4
+2019,Menn,25-54 ár,Suðuroyar region,R4600,4.1
+2019,Menn,25-54 ár,Vága region,R4400,3
+2019,Menn,55-66 ár,,,2.5
+2019,Menn,55-66 ár,Eysturoyar region,R4200,1.7
+2019,Menn,55-66 ár,Norðoya region,R4100,0.6
+2019,Menn,55-66 ár,Sandoyar region,R4500,2.4
+2019,Menn,55-66 ár,"Streymoyar region, north",R4300,2.8
+2019,Menn,55-66 ár,"Streymoyar region, south",R4700,2.8
+2019,Menn,55-66 ár,Suðuroyar region,R4600,4.4
+2019,Menn,55-66 ár,Vága region,R4400,3.4
+2019,Menn,67+ ár,,,1.2
+2019,Menn,67+ ár,Eysturoyar region,R4200,1.3
+2019,Menn,67+ ár,Norðoya region,R4100,1.5
+2019,Menn,67+ ár,Sandoyar region,R4500,0.8
+2019,Menn,67+ ár,"Streymoyar region, north",R4300,0.3
+2019,Menn,67+ ár,"Streymoyar region, south",R4700,1.2
+2019,Menn,67+ ár,Suðuroyar region,R4600,1.3
+2019,Menn,67+ ár,Vága region,R4400,1.6
+2020,,,,,2.4
+2020,,,Eysturoyar region,R4200,2
+2020,,,Norðoya region,R4100,2.3
+2020,,,Sandoyar region,R4500,3.4
+2020,,,"Streymoyar region, north",R4300,1.8
+2020,,,"Streymoyar region, south",R4700,2.2
+2020,,,Suðuroyar region,R4600,4.5
+2020,,,Vága region,R4400,2.5
+2020,,00-17 ár,,,3.2
+2020,,00-17 ár,Eysturoyar region,R4200,3.1
+2020,,00-17 ár,Norðoya region,R4100,3.5
+2020,,00-17 ár,Sandoyar region,R4500,6.3
+2020,,00-17 ár,"Streymoyar region, north",R4300,2.3
+2020,,00-17 ár,"Streymoyar region, south",R4700,2.6
+2020,,00-17 ár,Suðuroyar region,R4600,7.3
+2020,,00-17 ár,Vága region,R4400,2.9
+2020,,18-24 ár,,,2.7
+2020,,18-24 ár,Eysturoyar region,R4200,1.4
+2020,,18-24 ár,Norðoya region,R4100,2.4
+2020,,18-24 ár,Sandoyar region,R4500,4
+2020,,18-24 ár,"Streymoyar region, north",R4300,2.3
+2020,,18-24 ár,"Streymoyar region, south",R4700,3.1
+2020,,18-24 ár,Suðuroyar region,R4600,5
+2020,,18-24 ár,Vága region,R4400,2.1
+2020,,25-54 ár,,,2.3
+2020,,25-54 ár,Eysturoyar region,R4200,1.9
+2020,,25-54 ár,Norðoya region,R4100,2.2
+2020,,25-54 ár,Sandoyar region,R4500,2.8
+2020,,25-54 ár,"Streymoyar region, north",R4300,1.5
+2020,,25-54 ár,"Streymoyar region, south",R4700,2.1
+2020,,25-54 ár,Suðuroyar region,R4600,5
+2020,,25-54 ár,Vága region,R4400,2.2
+2020,,55-66 ár,,,2
+2020,,55-66 ár,Eysturoyar region,R4200,1.6
+2020,,55-66 ár,Norðoya region,R4100,1.1
+2020,,55-66 ár,Sandoyar region,R4500,2.2
+2020,,55-66 ár,"Streymoyar region, north",R4300,2.4
+2020,,55-66 ár,"Streymoyar region, south",R4700,1.9
+2020,,55-66 ár,Suðuroyar region,R4600,3.4
+2020,,55-66 ár,Vága region,R4400,3.3
+2020,,67+ ár,,,1.3
+2020,,67+ ár,Eysturoyar region,R4200,1.1
+2020,,67+ ár,Norðoya region,R4100,1.6
+2020,,67+ ár,Sandoyar region,R4500,1.8
+2020,,67+ ár,"Streymoyar region, north",R4300,1.1
+2020,,67+ ár,"Streymoyar region, south",R4700,1.3
+2020,,67+ ár,Suðuroyar region,R4600,1.1
+2020,,67+ ár,Vága region,R4400,2
+2020,Kvinnur,,,,2.6
+2020,Kvinnur,,Eysturoyar region,R4200,2.1
+2020,Kvinnur,,Norðoya region,R4100,2.7
+2020,Kvinnur,,Sandoyar region,R4500,4.5
+2020,Kvinnur,,"Streymoyar region, north",R4300,2
+2020,Kvinnur,,"Streymoyar region, south",R4700,2.3
+2020,Kvinnur,,Suðuroyar region,R4600,4.9
+2020,Kvinnur,,Vága region,R4400,3
+2020,Kvinnur,00-17 ár,,,3.5
+2020,Kvinnur,00-17 ár,Eysturoyar region,R4200,3
+2020,Kvinnur,00-17 ár,Norðoya region,R4100,3.2
+2020,Kvinnur,00-17 ár,Sandoyar region,R4500,8.8
+2020,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,3.2
+2020,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,2.7
+2020,Kvinnur,00-17 ár,Suðuroyar region,R4600,8.1
+2020,Kvinnur,00-17 ár,Vága region,R4400,3.8
+2020,Kvinnur,18-24 ár,,,3.8
+2020,Kvinnur,18-24 ár,Eysturoyar region,R4200,2.2
+2020,Kvinnur,18-24 ár,Norðoya region,R4100,3.7
+2020,Kvinnur,18-24 ár,Sandoyar region,R4500,4.3
+2020,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,3.5
+2020,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,4.5
+2020,Kvinnur,18-24 ár,Suðuroyar region,R4600,5
+2020,Kvinnur,18-24 ár,Vága region,R4400,3.1
+2020,Kvinnur,25-54 ár,,,2.6
+2020,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.2
+2020,Kvinnur,25-54 ár,Norðoya region,R4100,2.9
+2020,Kvinnur,25-54 ár,Sandoyar region,R4500,4.6
+2020,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,1.4
+2020,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.2
+2020,Kvinnur,25-54 ár,Suðuroyar region,R4600,6.1
+2020,Kvinnur,25-54 ár,Vága region,R4400,2.2
+2020,Kvinnur,55-66 ár,,,1.7
+2020,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.3
+2020,Kvinnur,55-66 ár,Norðoya region,R4100,1.2
+2020,Kvinnur,55-66 ár,Sandoyar region,R4500,2.1
+2020,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,1.8
+2020,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,1.5
+2020,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.4
+2020,Kvinnur,55-66 ár,Vága region,R4400,3.9
+2020,Kvinnur,67+ ár,,,1.6
+2020,Kvinnur,67+ ár,Eysturoyar region,R4200,1.3
+2020,Kvinnur,67+ ár,Norðoya region,R4100,1.9
+2020,Kvinnur,67+ ár,Sandoyar region,R4500,2.1
+2020,Kvinnur,67+ ár,"Streymoyar region, north",R4300,1.3
+2020,Kvinnur,67+ ár,"Streymoyar region, south",R4700,1.5
+2020,Kvinnur,67+ ár,Suðuroyar region,R4600,1.4
+2020,Kvinnur,67+ ár,Vága region,R4400,2.6
+2020,Menn,,,,2.1
+2020,Menn,,Eysturoyar region,R4200,1.9
+2020,Menn,,Norðoya region,R4100,1.9
+2020,Menn,,Sandoyar region,R4500,2.4
+2020,Menn,,"Streymoyar region, north",R4300,1.6
+2020,Menn,,"Streymoyar region, south",R4700,2
+2020,Menn,,Suðuroyar region,R4600,4.1
+2020,Menn,,Vága region,R4400,2
+2020,Menn,00-17 ár,,,3
+2020,Menn,00-17 ár,Eysturoyar region,R4200,3.1
+2020,Menn,00-17 ár,Norðoya region,R4100,3.7
+2020,Menn,00-17 ár,Sandoyar region,R4500,4.1
+2020,Menn,00-17 ár,"Streymoyar region, north",R4300,1.4
+2020,Menn,00-17 ár,"Streymoyar region, south",R4700,2.5
+2020,Menn,00-17 ár,Suðuroyar region,R4600,6.6
+2020,Menn,00-17 ár,Vága region,R4400,1.9
+2020,Menn,18-24 ár,,,1.7
+2020,Menn,18-24 ár,Eysturoyar region,R4200,0.7
+2020,Menn,18-24 ár,Norðoya region,R4100,1.2
+2020,Menn,18-24 ár,Sandoyar region,R4500,3.9
+2020,Menn,18-24 ár,"Streymoyar region, north",R4300,1.2
+2020,Menn,18-24 ár,"Streymoyar region, south",R4700,1.8
+2020,Menn,18-24 ár,Suðuroyar region,R4600,5
+2020,Menn,18-24 ár,Vága region,R4400,1.3
+2020,Menn,25-54 ár,,,2
+2020,Menn,25-54 ár,Eysturoyar region,R4200,1.6
+2020,Menn,25-54 ár,Norðoya region,R4100,1.6
+2020,Menn,25-54 ár,Sandoyar region,R4500,1.4
+2020,Menn,25-54 ár,"Streymoyar region, north",R4300,1.6
+2020,Menn,25-54 ár,"Streymoyar region, south",R4700,1.9
+2020,Menn,25-54 ár,Suðuroyar region,R4600,4.1
+2020,Menn,25-54 ár,Vága region,R4400,2.2
+2020,Menn,55-66 ár,,,2.3
+2020,Menn,55-66 ár,Eysturoyar region,R4200,1.8
+2020,Menn,55-66 ár,Norðoya region,R4100,1.1
+2020,Menn,55-66 ár,Sandoyar region,R4500,2.4
+2020,Menn,55-66 ár,"Streymoyar region, north",R4300,2.9
+2020,Menn,55-66 ár,"Streymoyar region, south",R4700,2.2
+2020,Menn,55-66 ár,Suðuroyar region,R4600,4.3
+2020,Menn,55-66 ár,Vága region,R4400,2.7
+2020,Menn,67+ ár,,,1.1
+2020,Menn,67+ ár,Eysturoyar region,R4200,1
+2020,Menn,67+ ár,Norðoya region,R4100,1.2
+2020,Menn,67+ ár,Sandoyar region,R4500,1.6
+2020,Menn,67+ ár,"Streymoyar region, north",R4300,0.9
+2020,Menn,67+ ár,"Streymoyar region, south",R4700,1.1
+2020,Menn,67+ ár,Suðuroyar region,R4600,0.9
+2020,Menn,67+ ár,Vága region,R4400,1.5
+2021,,,,,2.6
+2021,,,Eysturoyar region,R4200,2.1
+2021,,,Norðoya region,R4100,2.4
+2021,,,Sandoyar region,R4500,4.1
+2021,,,"Streymoyar region, north",R4300,2.3
+2021,,,"Streymoyar region, south",R4700,2.6
+2021,,,Suðuroyar region,R4600,3.8
+2021,,,Vága region,R4400,3.1
+2021,,00-17 ár,,,3.4
+2021,,00-17 ár,Eysturoyar region,R4200,2.5
+2021,,00-17 ár,Norðoya region,R4100,4.2
+2021,,00-17 ár,Sandoyar region,R4500,7.5
+2021,,00-17 ár,"Streymoyar region, north",R4300,3.6
+2021,,00-17 ár,"Streymoyar region, south",R4700,2.9
+2021,,00-17 ár,Suðuroyar region,R4600,5.9
+2021,,00-17 ár,Vága region,R4400,3.4
+2021,,18-24 ár,,,3.3
+2021,,18-24 ár,Eysturoyar region,R4200,2.6
+2021,,18-24 ár,Norðoya region,R4100,1.5
+2021,,18-24 ár,Sandoyar region,R4500,3.5
+2021,,18-24 ár,"Streymoyar region, north",R4300,1
+2021,,18-24 ár,"Streymoyar region, south",R4700,4.5
+2021,,18-24 ár,Suðuroyar region,R4600,4.1
+2021,,18-24 ár,Vága region,R4400,3.5
+2021,,25-54 ár,,,2.8
+2021,,25-54 ár,Eysturoyar region,R4200,2.3
+2021,,25-54 ár,Norðoya region,R4100,2.7
+2021,,25-54 ár,Sandoyar region,R4500,4.6
+2021,,25-54 ár,"Streymoyar region, north",R4300,2.5
+2021,,25-54 ár,"Streymoyar region, south",R4700,2.6
+2021,,25-54 ár,Suðuroyar region,R4600,4.3
+2021,,25-54 ár,Vága region,R4400,3.3
+2021,,55-66 ár,,,2.2
+2021,,55-66 ár,Eysturoyar region,R4200,1.7
+2021,,55-66 ár,Norðoya region,R4100,0.9
+2021,,55-66 ár,Sandoyar region,R4500,3.8
+2021,,55-66 ár,"Streymoyar region, north",R4300,2.3
+2021,,55-66 ár,"Streymoyar region, south",R4700,2.2
+2021,,55-66 ár,Suðuroyar region,R4600,3.3
+2021,,55-66 ár,Vága region,R4400,3.3
+2021,,67+ ár,,,1
+2021,,67+ ár,Eysturoyar region,R4200,0.8
+2021,,67+ ár,Norðoya region,R4100,1.1
+2021,,67+ ár,Sandoyar region,R4500,0.7
+2021,,67+ ár,"Streymoyar region, north",R4300,0.6
+2021,,67+ ár,"Streymoyar region, south",R4700,1
+2021,,67+ ár,Suðuroyar region,R4600,0.9
+2021,,67+ ár,Vága region,R4400,2
+2021,Kvinnur,,,,2.7
+2021,Kvinnur,,Eysturoyar region,R4200,2.1
+2021,Kvinnur,,Norðoya region,R4100,2.5
+2021,Kvinnur,,Sandoyar region,R4500,5.1
+2021,Kvinnur,,"Streymoyar region, north",R4300,2.5
+2021,Kvinnur,,"Streymoyar region, south",R4700,2.7
+2021,Kvinnur,,Suðuroyar region,R4600,3.5
+2021,Kvinnur,,Vága region,R4400,3.1
+2021,Kvinnur,00-17 ár,,,3.5
+2021,Kvinnur,00-17 ár,Eysturoyar region,R4200,2.7
+2021,Kvinnur,00-17 ár,Norðoya region,R4100,3.6
+2021,Kvinnur,00-17 ár,Sandoyar region,R4500,9.9
+2021,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,3.8
+2021,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3.2
+2021,Kvinnur,00-17 ár,Suðuroyar region,R4600,5.1
+2021,Kvinnur,00-17 ár,Vága region,R4400,4
+2021,Kvinnur,18-24 ár,,,4.1
+2021,Kvinnur,18-24 ár,Eysturoyar region,R4200,3.9
+2021,Kvinnur,18-24 ár,Norðoya region,R4100,1.5
+2021,Kvinnur,18-24 ár,Sandoyar region,R4500,5.1
+2021,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,1.4
+2021,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,5.9
+2021,Kvinnur,18-24 ár,Suðuroyar region,R4600,2.8
+2021,Kvinnur,18-24 ár,Vága region,R4400,2.4
+2021,Kvinnur,25-54 ár,,,2.9
+2021,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.2
+2021,Kvinnur,25-54 ár,Norðoya region,R4100,3.1
+2021,Kvinnur,25-54 ár,Sandoyar region,R4500,5.7
+2021,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,2.5
+2021,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.7
+2021,Kvinnur,25-54 ár,Suðuroyar region,R4600,4.9
+2021,Kvinnur,25-54 ár,Vága region,R4400,3.1
+2021,Kvinnur,55-66 ár,,,1.6
+2021,Kvinnur,55-66 ár,Eysturoyar region,R4200,0.9
+2021,Kvinnur,55-66 ár,Norðoya region,R4100,0.9
+2021,Kvinnur,55-66 ár,Sandoyar region,R4500,4.3
+2021,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,2.2
+2021,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,1.6
+2021,Kvinnur,55-66 ár,Suðuroyar region,R4600,2.1
+2021,Kvinnur,55-66 ár,Vága region,R4400,3.4
+2021,Kvinnur,67+ ár,,,1.1
+2021,Kvinnur,67+ ár,Eysturoyar region,R4200,0.8
+2021,Kvinnur,67+ ár,Norðoya region,R4100,1.6
+2021,Kvinnur,67+ ár,Sandoyar region,R4500,0.7
+2021,Kvinnur,67+ ár,"Streymoyar region, north",R4300,0.9
+2021,Kvinnur,67+ ár,"Streymoyar region, south",R4700,1.2
+2021,Kvinnur,67+ ár,Suðuroyar region,R4600,0.9
+2021,Kvinnur,67+ ár,Vága region,R4400,1.8
+2021,Menn,,,,2.5
+2021,Menn,,Eysturoyar region,R4200,2.1
+2021,Menn,,Norðoya region,R4100,2.3
+2021,Menn,,Sandoyar region,R4500,3.2
+2021,Menn,,"Streymoyar region, north",R4300,2.2
+2021,Menn,,"Streymoyar region, south",R4700,2.5
+2021,Menn,,Suðuroyar region,R4600,4
+2021,Menn,,Vága region,R4400,3.1
+2021,Menn,00-17 ár,,,3.2
+2021,Menn,00-17 ár,Eysturoyar region,R4200,2.3
+2021,Menn,00-17 ár,Norðoya region,R4100,4.7
+2021,Menn,00-17 ár,Sandoyar region,R4500,5.2
+2021,Menn,00-17 ár,"Streymoyar region, north",R4300,3.5
+2021,Menn,00-17 ár,"Streymoyar region, south",R4700,2.6
+2021,Menn,00-17 ár,Suðuroyar region,R4600,6.6
+2021,Menn,00-17 ár,Vága region,R4400,2.7
+2021,Menn,18-24 ár,,,2.6
+2021,Menn,18-24 ár,Eysturoyar region,R4200,1.6
+2021,Menn,18-24 ár,Norðoya region,R4100,1.5
+2021,Menn,18-24 ár,Sandoyar region,R4500,2.2
+2021,Menn,18-24 ár,"Streymoyar region, north",R4300,0.6
+2021,Menn,18-24 ár,"Streymoyar region, south",R4700,3.2
+2021,Menn,18-24 ár,Suðuroyar region,R4600,5.1
+2021,Menn,18-24 ár,Vága region,R4400,4.4
+2021,Menn,25-54 ár,,,2.7
+2021,Menn,25-54 ár,Eysturoyar region,R4200,2.4
+2021,Menn,25-54 ár,Norðoya region,R4100,2.3
+2021,Menn,25-54 ár,Sandoyar region,R4500,3.7
+2021,Menn,25-54 ár,"Streymoyar region, north",R4300,2.5
+2021,Menn,25-54 ár,"Streymoyar region, south",R4700,2.6
+2021,Menn,25-54 ár,Suðuroyar region,R4600,3.8
+2021,Menn,25-54 ár,Vága region,R4400,3.4
+2021,Menn,55-66 ár,,,2.7
+2021,Menn,55-66 ár,Eysturoyar region,R4200,2.4
+2021,Menn,55-66 ár,Norðoya region,R4100,0.8
+2021,Menn,55-66 ár,Sandoyar region,R4500,3.4
+2021,Menn,55-66 ár,"Streymoyar region, north",R4300,2.4
+2021,Menn,55-66 ár,"Streymoyar region, south",R4700,2.9
+2021,Menn,55-66 ár,Suðuroyar region,R4600,4.5
+2021,Menn,55-66 ár,Vága region,R4400,3.2
+2021,Menn,67+ ár,,,0.8
+2021,Menn,67+ ár,Eysturoyar region,R4200,0.8
+2021,Menn,67+ ár,Norðoya region,R4100,0.6
+2021,Menn,67+ ár,Sandoyar region,R4500,0.7
+2021,Menn,67+ ár,"Streymoyar region, north",R4300,0.3
+2021,Menn,67+ ár,"Streymoyar region, south",R4700,0.8
+2021,Menn,67+ ár,Suðuroyar region,R4600,0.8
+2021,Menn,67+ ár,Vága region,R4400,2.1
+2022,,,,,2.5
+2022,,,Eysturoyar region,R4200,1.8
+2022,,,Norðoya region,R4100,2.4
+2022,,,Sandoyar region,R4500,3.7
+2022,,,"Streymoyar region, north",R4300,2.4
+2022,,,"Streymoyar region, south",R4700,2.7
+2022,,,Suðuroyar region,R4600,3.2
+2022,,,Vága region,R4400,2
+2022,,00-17 ár,,,3.2
+2022,,00-17 ár,Eysturoyar region,R4200,2.4
+2022,,00-17 ár,Norðoya region,R4100,3.3
+2022,,00-17 ár,Sandoyar region,R4500,5
+2022,,00-17 ár,"Streymoyar region, north",R4300,4
+2022,,00-17 ár,"Streymoyar region, south",R4700,3.2
+2022,,00-17 ár,Suðuroyar region,R4600,4.5
+2022,,00-17 ár,Vága region,R4400,2.5
+2022,,18-24 ár,,,3.1
+2022,,18-24 ár,Eysturoyar region,R4200,0.8
+2022,,18-24 ár,Norðoya region,R4100,2.5
+2022,,18-24 ár,Sandoyar region,R4500,4.4
+2022,,18-24 ár,"Streymoyar region, north",R4300,1.3
+2022,,18-24 ár,"Streymoyar region, south",R4700,4.8
+2022,,18-24 ár,Suðuroyar region,R4600,3.6
+2022,,18-24 ár,Vága region,R4400,2.8
+2022,,25-54 ár,,,2.7
+2022,,25-54 ár,Eysturoyar region,R4200,2.1
+2022,,25-54 ár,Norðoya region,R4100,2.4
+2022,,25-54 ár,Sandoyar region,R4500,4.4
+2022,,25-54 ár,"Streymoyar region, north",R4300,2.5
+2022,,25-54 ár,"Streymoyar region, south",R4700,3
+2022,,25-54 ár,Suðuroyar region,R4600,3.2
+2022,,25-54 ár,Vága region,R4400,1.7
+2022,,55-66 ár,,,2
+2022,,55-66 ár,Eysturoyar region,R4200,1.4
+2022,,55-66 ár,Norðoya region,R4100,1.8
+2022,,55-66 ár,Sandoyar region,R4500,4.7
+2022,,55-66 ár,"Streymoyar region, north",R4300,2
+2022,,55-66 ár,"Streymoyar region, south",R4700,1.9
+2022,,55-66 ár,Suðuroyar region,R4600,3.6
+2022,,55-66 ár,Vága region,R4400,1.6
+2022,,67+ ár,,,1
+2022,,67+ ár,Eysturoyar region,R4200,0.6
+2022,,67+ ár,Norðoya region,R4100,1.5
+2022,,67+ ár,Sandoyar region,R4500,0.4
+2022,,67+ ár,"Streymoyar region, north",R4300,0.9
+2022,,67+ ár,"Streymoyar region, south",R4700,0.8
+2022,,67+ ár,Suðuroyar region,R4600,1.4
+2022,,67+ ár,Vága region,R4400,1.6
+2022,Kvinnur,,,,2.6
+2022,Kvinnur,,Eysturoyar region,R4200,1.7
+2022,Kvinnur,,Norðoya region,R4100,2.6
+2022,Kvinnur,,Sandoyar region,R4500,3.6
+2022,Kvinnur,,"Streymoyar region, north",R4300,2.4
+2022,Kvinnur,,"Streymoyar region, south",R4700,2.9
+2022,Kvinnur,,Suðuroyar region,R4600,3.3
+2022,Kvinnur,,Vága region,R4400,2.1
+2022,Kvinnur,00-17 ár,,,3
+2022,Kvinnur,00-17 ár,Eysturoyar region,R4200,2.2
+2022,Kvinnur,00-17 ár,Norðoya region,R4100,2.8
+2022,Kvinnur,00-17 ár,Sandoyar region,R4500,4.9
+2022,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,3.5
+2022,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,3.2
+2022,Kvinnur,00-17 ár,Suðuroyar region,R4600,4.7
+2022,Kvinnur,00-17 ár,Vága region,R4400,2.3
+2022,Kvinnur,18-24 ár,,,4.7
+2022,Kvinnur,18-24 ár,Eysturoyar region,R4200,1.4
+2022,Kvinnur,18-24 ár,Norðoya region,R4100,3.8
+2022,Kvinnur,18-24 ár,Sandoyar region,R4500,4.7
+2022,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,1.3
+2022,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,7.3
+2022,Kvinnur,18-24 ár,Suðuroyar region,R4600,4.3
+2022,Kvinnur,18-24 ár,Vága region,R4400,4.4
+2022,Kvinnur,25-54 ár,,,2.8
+2022,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.2
+2022,Kvinnur,25-54 ár,Norðoya region,R4100,2.8
+2022,Kvinnur,25-54 ár,Sandoyar region,R4500,5.1
+2022,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,2.8
+2022,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,3.1
+2022,Kvinnur,25-54 ár,Suðuroyar region,R4600,3.4
+2022,Kvinnur,25-54 ár,Vága region,R4400,1.6
+2022,Kvinnur,55-66 ár,,,1.6
+2022,Kvinnur,55-66 ár,Eysturoyar region,R4200,1
+2022,Kvinnur,55-66 ár,Norðoya region,R4100,1.6
+2022,Kvinnur,55-66 ár,Sandoyar region,R4500,4
+2022,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,1.9
+2022,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,1.4
+2022,Kvinnur,55-66 ár,Suðuroyar region,R4600,2
+2022,Kvinnur,55-66 ár,Vága region,R4400,2.5
+2022,Kvinnur,67+ ár,,,1.2
+2022,Kvinnur,67+ ár,Eysturoyar region,R4200,0.7
+2022,Kvinnur,67+ ár,Norðoya region,R4100,2
+2022,Kvinnur,67+ ár,Sandoyar region,R4500,-
+2022,Kvinnur,67+ ár,"Streymoyar region, north",R4300,0.9
+2022,Kvinnur,67+ ár,"Streymoyar region, south",R4700,1.1
+2022,Kvinnur,67+ ár,Suðuroyar region,R4600,2
+2022,Kvinnur,67+ ár,Vága region,R4400,1.5
+2022,Menn,,,,2.4
+2022,Menn,,Eysturoyar region,R4200,1.8
+2022,Menn,,Norðoya region,R4100,2.2
+2022,Menn,,Sandoyar region,R4500,3.7
+2022,Menn,,"Streymoyar region, north",R4300,2.5
+2022,Menn,,"Streymoyar region, south",R4700,2.6
+2022,Menn,,Suðuroyar region,R4600,3.2
+2022,Menn,,Vága region,R4400,1.9
+2022,Menn,00-17 ár,,,3.3
+2022,Menn,00-17 ár,Eysturoyar region,R4200,2.6
+2022,Menn,00-17 ár,Norðoya region,R4100,3.7
+2022,Menn,00-17 ár,Sandoyar region,R4500,5.2
+2022,Menn,00-17 ár,"Streymoyar region, north",R4300,4.4
+2022,Menn,00-17 ár,"Streymoyar region, south",R4700,3.2
+2022,Menn,00-17 ár,Suðuroyar region,R4600,4.4
+2022,Menn,00-17 ár,Vága region,R4400,2.8
+2022,Menn,18-24 ár,,,1.8
+2022,Menn,18-24 ár,Eysturoyar region,R4200,0.4
+2022,Menn,18-24 ár,Norðoya region,R4100,1.5
+2022,Menn,18-24 ár,Sandoyar region,R4500,4.1
+2022,Menn,18-24 ár,"Streymoyar region, north",R4300,1.2
+2022,Menn,18-24 ár,"Streymoyar region, south",R4700,2.6
+2022,Menn,18-24 ár,Suðuroyar region,R4600,3.1
+2022,Menn,18-24 ár,Vága region,R4400,1.3
+2022,Menn,25-54 ár,,,2.6
+2022,Menn,25-54 ár,Eysturoyar region,R4200,2
+2022,Menn,25-54 ár,Norðoya region,R4100,2.1
+2022,Menn,25-54 ár,Sandoyar region,R4500,3.9
+2022,Menn,25-54 ár,"Streymoyar region, north",R4300,2.3
+2022,Menn,25-54 ár,"Streymoyar region, south",R4700,3
+2022,Menn,25-54 ár,Suðuroyar region,R4600,3
+2022,Menn,25-54 ár,Vága region,R4400,1.9
+2022,Menn,55-66 ár,,,2.4
+2022,Menn,55-66 ár,Eysturoyar region,R4200,1.9
+2022,Menn,55-66 ár,Norðoya region,R4100,1.9
+2022,Menn,55-66 ár,Sandoyar region,R4500,5.3
+2022,Menn,55-66 ár,"Streymoyar region, north",R4300,2.1
+2022,Menn,55-66 ár,"Streymoyar region, south",R4700,2.3
+2022,Menn,55-66 ár,Suðuroyar region,R4600,5
+2022,Menn,55-66 ár,Vága region,R4400,0.9
+2022,Menn,67+ ár,,,0.7
+2022,Menn,67+ ár,Eysturoyar region,R4200,0.5
+2022,Menn,67+ ár,Norðoya region,R4100,1
+2022,Menn,67+ ár,Sandoyar region,R4500,0.7
+2022,Menn,67+ ár,"Streymoyar region, north",R4300,0.9
+2022,Menn,67+ ár,"Streymoyar region, south",R4700,0.4
+2022,Menn,67+ ár,Suðuroyar region,R4600,0.8
+2022,Menn,67+ ár,Vága region,R4400,1.7
+2023,,,,,2.5
+2023,,,Eysturoyar region,R4200,1.9
+2023,,,Norðoya region,R4100,2.5
+2023,,,Sandoyar region,R4500,3.6
+2023,,,"Streymoyar region, north",R4300,1.8
+2023,,,"Streymoyar region, south",R4700,2.6
+2023,,,Suðuroyar region,R4600,3.3
+2023,,,Vága region,R4400,2.4
+2023,,00-17 ár,,,3
+2023,,00-17 ár,Eysturoyar region,R4200,2.9
+2023,,00-17 ár,Norðoya region,R4100,3.3
+2023,,00-17 ár,Sandoyar region,R4500,4.3
+2023,,00-17 ár,"Streymoyar region, north",R4300,2.6
+2023,,00-17 ár,"Streymoyar region, south",R4700,2.4
+2023,,00-17 ár,Suðuroyar region,R4600,5.3
+2023,,00-17 ár,Vága region,R4400,3.5
+2023,,18-24 ár,,,3.3
+2023,,18-24 ár,Eysturoyar region,R4200,1.3
+2023,,18-24 ár,Norðoya region,R4100,2.7
+2023,,18-24 ár,Sandoyar region,R4500,1.9
+2023,,18-24 ár,"Streymoyar region, north",R4300,1.6
+2023,,18-24 ár,"Streymoyar region, south",R4700,5.1
+2023,,18-24 ár,Suðuroyar region,R4600,3.5
+2023,,18-24 ár,Vága region,R4400,2
+2023,,25-54 ár,,,2.6
+2023,,25-54 ár,Eysturoyar region,R4200,2.1
+2023,,25-54 ár,Norðoya region,R4100,2.5
+2023,,25-54 ár,Sandoyar region,R4500,3.5
+2023,,25-54 ár,"Streymoyar region, north",R4300,1.9
+2023,,25-54 ár,"Streymoyar region, south",R4700,2.8
+2023,,25-54 ár,Suðuroyar region,R4600,3.7
+2023,,25-54 ár,Vága region,R4400,2.2
+2023,,55-66 ár,,,2.1
+2023,,55-66 ár,Eysturoyar region,R4200,1.4
+2023,,55-66 ár,Norðoya region,R4100,2.1
+2023,,55-66 ár,Sandoyar region,R4500,6.8
+2023,,55-66 ár,"Streymoyar region, north",R4300,1.9
+2023,,55-66 ár,"Streymoyar region, south",R4700,2.1
+2023,,55-66 ár,Suðuroyar region,R4600,2.1
+2023,,55-66 ár,Vága region,R4400,1.9
+2023,,67+ ár,,,1.4
+2023,,67+ ár,Eysturoyar region,R4200,0.8
+2023,,67+ ár,Norðoya region,R4100,1.6
+2023,,67+ ár,Sandoyar region,R4500,1.5
+2023,,67+ ár,"Streymoyar region, north",R4300,0.7
+2023,,67+ ár,"Streymoyar region, south",R4700,1.6
+2023,,67+ ár,Suðuroyar region,R4600,1.5
+2023,,67+ ár,Vága region,R4400,1.9
+2023,Kvinnur,,,,2.6
+2023,Kvinnur,,Eysturoyar region,R4200,2
+2023,Kvinnur,,Norðoya region,R4100,2.4
+2023,Kvinnur,,Sandoyar region,R4500,3.9
+2023,Kvinnur,,"Streymoyar region, north",R4300,2.3
+2023,Kvinnur,,"Streymoyar region, south",R4700,2.8
+2023,Kvinnur,,Suðuroyar region,R4600,3.6
+2023,Kvinnur,,Vága region,R4400,2.7
+2023,Kvinnur,00-17 ár,,,3.3
+2023,Kvinnur,00-17 ár,Eysturoyar region,R4200,3.2
+2023,Kvinnur,00-17 ár,Norðoya region,R4100,2.6
+2023,Kvinnur,00-17 ár,Sandoyar region,R4500,4.9
+2023,Kvinnur,00-17 ár,"Streymoyar region, north",R4300,3.7
+2023,Kvinnur,00-17 ár,"Streymoyar region, south",R4700,2.8
+2023,Kvinnur,00-17 ár,Suðuroyar region,R4600,5.4
+2023,Kvinnur,00-17 ár,Vága region,R4400,3.9
+2023,Kvinnur,18-24 ár,,,4.5
+2023,Kvinnur,18-24 ár,Eysturoyar region,R4200,1.6
+2023,Kvinnur,18-24 ár,Norðoya region,R4100,3
+2023,Kvinnur,18-24 ár,Sandoyar region,R4500,2.1
+2023,Kvinnur,18-24 ár,"Streymoyar region, north",R4300,2
+2023,Kvinnur,18-24 ár,"Streymoyar region, south",R4700,7.3
+2023,Kvinnur,18-24 ár,Suðuroyar region,R4600,4
+2023,Kvinnur,18-24 ár,Vága region,R4400,3
+2023,Kvinnur,25-54 ár,,,2.6
+2023,Kvinnur,25-54 ár,Eysturoyar region,R4200,2.2
+2023,Kvinnur,25-54 ár,Norðoya region,R4100,2.5
+2023,Kvinnur,25-54 ár,Sandoyar region,R4500,4.3
+2023,Kvinnur,25-54 ár,"Streymoyar region, north",R4300,2
+2023,Kvinnur,25-54 ár,"Streymoyar region, south",R4700,2.4
+2023,Kvinnur,25-54 ár,Suðuroyar region,R4600,4.4
+2023,Kvinnur,25-54 ár,Vága region,R4400,2.8
+2023,Kvinnur,55-66 ár,,,1.8
+2023,Kvinnur,55-66 ár,Eysturoyar region,R4200,1.2
+2023,Kvinnur,55-66 ár,Norðoya region,R4100,2.2
+2023,Kvinnur,55-66 ár,Sandoyar region,R4500,6.5
+2023,Kvinnur,55-66 ár,"Streymoyar region, north",R4300,2.1
+2023,Kvinnur,55-66 ár,"Streymoyar region, south",R4700,1.6
+2023,Kvinnur,55-66 ár,Suðuroyar region,R4600,1.7
+2023,Kvinnur,55-66 ár,Vága region,R4400,2.1
+2023,Kvinnur,67+ ár,,,1.5
+2023,Kvinnur,67+ ár,Eysturoyar region,R4200,0.8
+2023,Kvinnur,67+ ár,Norðoya region,R4100,1.9
+2023,Kvinnur,67+ ár,Sandoyar region,R4500,1.5
+2023,Kvinnur,67+ ár,"Streymoyar region, north",R4300,0.9
+2023,Kvinnur,67+ ár,"Streymoyar region, south",R4700,2.1
+2023,Kvinnur,67+ ár,Suðuroyar region,R4600,1.5
+2023,Kvinnur,67+ ár,Vága region,R4400,1.1
+2023,Menn,,,,2.3
+2023,Menn,,Eysturoyar region,R4200,1.8
+2023,Menn,,Norðoya region,R4100,2.6
+2023,Menn,,Sandoyar region,R4500,3.3
+2023,Menn,,"Streymoyar region, north",R4300,1.5
+2023,Menn,,"Streymoyar region, south",R4700,2.5
+2023,Menn,,Suðuroyar region,R4600,3.1
+2023,Menn,,Vága region,R4400,2.1
+2023,Menn,00-17 ár,,,2.7
+2023,Menn,00-17 ár,Eysturoyar region,R4200,2.6
+2023,Menn,00-17 ár,Norðoya region,R4100,4.1
+2023,Menn,00-17 ár,Sandoyar region,R4500,3.8
+2023,Menn,00-17 ár,"Streymoyar region, north",R4300,1.4
+2023,Menn,00-17 ár,"Streymoyar region, south",R4700,2.1
+2023,Menn,00-17 ár,Suðuroyar region,R4600,5.1
+2023,Menn,00-17 ár,Vága region,R4400,3.1
+2023,Menn,18-24 ár,,,2.2
+2023,Menn,18-24 ár,Eysturoyar region,R4200,1
+2023,Menn,18-24 ár,Norðoya region,R4100,2.4
+2023,Menn,18-24 ár,Sandoyar region,R4500,1.8
+2023,Menn,18-24 ár,"Streymoyar region, north",R4300,1.2
+2023,Menn,18-24 ár,"Streymoyar region, south",R4700,3.1
+2023,Menn,18-24 ár,Suðuroyar region,R4600,3.1
+2023,Menn,18-24 ár,Vága region,R4400,1.2
+2023,Menn,25-54 ár,,,2.6
+2023,Menn,25-54 ár,Eysturoyar region,R4200,2.1
+2023,Menn,25-54 ár,Norðoya region,R4100,2.5
+2023,Menn,25-54 ár,Sandoyar region,R4500,2.8
+2023,Menn,25-54 ár,"Streymoyar region, north",R4300,1.9
+2023,Menn,25-54 ár,"Streymoyar region, south",R4700,3.2
+2023,Menn,25-54 ár,Suðuroyar region,R4600,3
+2023,Menn,25-54 ár,Vága region,R4400,1.6
+2023,Menn,55-66 ár,,,2.3
+2023,Menn,55-66 ár,Eysturoyar region,R4200,1.5
+2023,Menn,55-66 ár,Norðoya region,R4100,2
+2023,Menn,55-66 ár,Sandoyar region,R4500,7
+2023,Menn,55-66 ár,"Streymoyar region, north",R4300,1.8
+2023,Menn,55-66 ár,"Streymoyar region, south",R4700,2.6
+2023,Menn,55-66 ár,Suðuroyar region,R4600,2.5
+2023,Menn,55-66 ár,Vága region,R4400,1.8
+2023,Menn,67+ ár,,,1.2
+2023,Menn,67+ ár,Eysturoyar region,R4200,0.8
+2023,Menn,67+ ár,Norðoya region,R4100,1.3
+2023,Menn,67+ ár,Sandoyar region,R4500,1.5
+2023,Menn,67+ ár,"Streymoyar region, north",R4300,0.6
+2023,Menn,67+ ár,"Streymoyar region, south",R4700,1.1
+2023,Menn,67+ ár,Suðuroyar region,R4600,1.4
+2023,Menn,67+ ár,Vága region,R4400,2.7
