@@ -14,10 +14,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "data.sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.female",
+                "data.male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "date.age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +42,7 @@
             }
           },
           {
-            "name": "date.age",
+            "name": "Geography",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,6 +56,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

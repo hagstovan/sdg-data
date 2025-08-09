@@ -1,235 +1,2161 @@
-Year,data.sex,date.age,Value
-,,,4.0
-,,Eysturoyar region,R42003.5
-,,Norðoya region,R41005.5
-,,Sandoyar region,R45006.7
-,,"Streymoyar region, north",R43004.2
-,,"Streymoyar region, south",R47002.9
-,,Suðuroyar region,R46006.9
-,,Vága region,R44004.4
-,00-17years,,5.1
-,00-17years,Eysturoyar region,R42003.6
-,00-17years,Norðoya region,R41009.1
-,00-17years,Sandoyar region,R45008
-,00-17years,"Streymoyar region, north",R43006.6
-,00-17years,"Streymoyar region, south",R47002.9
-,00-17years,Suðuroyar region,R460011
-,00-17years,Vága region,R44005.7
-,18-24years,,3.8
-,18-24years,Eysturoyar region,R42003.6
-,18-24years,Norðoya region,R41005.1
-,18-24years,Sandoyar region,R45005.4
-,18-24years,"Streymoyar region, north",R43003.1
-,18-24years,"Streymoyar region, south",R47003
-,18-24years,Suðuroyar region,R46005.5
-,18-24years,Vága region,R44004.9
-,25-54years,,3.5
-,25-54years,Eysturoyar region,R42002.8
-,25-54years,Norðoya region,R41004.8
-,25-54years,Sandoyar region,R45006
-,25-54years,"Streymoyar region, north",R43002.9
-,25-54years,"Streymoyar region, south",R47002.7
-,25-54years,Suðuroyar region,R46006.9
-,25-54years,Vága region,R44003.8
-,55-66years,,4.1
-,55-66years,Eysturoyar region,R42004.1
-,55-66years,Norðoya region,R41003.6
-,55-66years,Sandoyar region,R450010.3
-,55-66years,"Streymoyar region, north",R43003.8
-,55-66years,"Streymoyar region, south",R47003.2
-,55-66years,Suðuroyar region,R46005.1
-,55-66years,Vága region,R44004.9
-,67years,,3.5
-,67years,Eysturoyar region,R42004.6
-,67years,Norðoya region,R41002.7
-,67years,Sandoyar region,R45003.5
-,67years,"Streymoyar region, north",R43004.7
-,67years,"Streymoyar region, south",R47002.9
-,67years,Suðuroyar region,R46003.4
-,67years,Vága region,R44002.8
-data.female,,,4.2
-data.female,,Eysturoyar region,R42003.5
-data.female,,Norðoya region,R41005.7
-data.female,,Sandoyar region,R45006.6
-data.female,,"Streymoyar region, north",R43004.8
-data.female,,"Streymoyar region, south",R47003
-data.female,,Suðuroyar region,R46008
-data.female,,Vága region,R44004.1
-data.female,00-17years,,5.3
-data.female,00-17years,Eysturoyar region,R42003.3
-data.female,00-17years,Norðoya region,R41008.7
-data.female,00-17years,Sandoyar region,R45008.9
-data.female,00-17years,"Streymoyar region, north",R43007.9
-data.female,00-17years,"Streymoyar region, south",R47003.1
-data.female,00-17years,Suðuroyar region,R460012.5
-data.female,00-17years,Vága region,R44005.5
-data.female,18-24years,,4.8
-data.female,18-24years,Eysturoyar region,R42004.3
-data.female,18-24years,Norðoya region,R41006.4
-data.female,18-24years,Sandoyar region,R45008.3
-data.female,18-24years,"Streymoyar region, north",R43005.5
-data.female,18-24years,"Streymoyar region, south",R47003.6
-data.female,18-24years,Suðuroyar region,R46007.5
-data.female,18-24years,Vága region,R44005.2
-data.female,25-54years,,4
-data.female,25-54years,Eysturoyar region,R42003.1
-data.female,25-54years,Norðoya region,R41005.8
-data.female,25-54years,Sandoyar region,R45005.8
-data.female,25-54years,"Streymoyar region, north",R43003.5
-data.female,25-54years,"Streymoyar region, south",R47003
-data.female,25-54years,Suðuroyar region,R46007.8
-data.female,25-54years,Vága region,R44004.3
-data.female,55-66years,,3.4
-data.female,55-66years,Eysturoyar region,R42003.8
-data.female,55-66years,Norðoya region,R41002.5
-data.female,55-66years,Sandoyar region,R45006.1
-data.female,55-66years,"Streymoyar region, north",R43002.5
-data.female,55-66years,"Streymoyar region, south",R47002.7
-data.female,55-66years,Suðuroyar region,R46005.7
-data.female,55-66years,Vága region,R44002.8
-data.female,67years,,3.4
-data.female,67years,Eysturoyar region,R42004.4
-data.female,67years,Norðoya region,R41002.2
-data.female,67years,Sandoyar region,R45004.8
-data.female,67years,"Streymoyar region, north",R43004.1
-data.female,67years,"Streymoyar region, south",R47002.8
-data.female,67years,Suðuroyar region,R46004.4
-data.female,67years,Vága region,R44001.9
-data.male,,,3.9
-data.male,,Eysturoyar region,R42003.5
-data.male,,Norðoya region,R41005.3
-data.male,,Sandoyar region,R45006.9
-data.male,,"Streymoyar region, north",R43003.8
-data.male,,"Streymoyar region, south",R47002.7
-data.male,,Suðuroyar region,R46005.9
-data.male,,Vága region,R44004.6
-data.male,00-17years,,4.9
-data.male,00-17years,Eysturoyar region,R42003.9
-data.male,00-17years,Norðoya region,R41009.4
-data.male,00-17years,Sandoyar region,R45007.2
-data.male,00-17years,"Streymoyar region, north",R43005.5
-data.male,00-17years,"Streymoyar region, south",R47002.7
-data.male,00-17years,Suðuroyar region,R46009.7
-data.male,00-17years,Vága region,R44005.8
-data.male,18-24years,,3
-data.male,18-24years,Eysturoyar region,R42003
-data.male,18-24years,Norðoya region,R41004
-data.male,18-24years,Sandoyar region,R45004
-data.male,18-24years,"Streymoyar region, north",R43001.1
-data.male,18-24years,"Streymoyar region, south",R47002.5
-data.male,18-24years,Suðuroyar region,R46003.9
-data.male,18-24years,Vága region,R44004.6
-data.male,25-54years,,3.2
-data.male,25-54years,Eysturoyar region,R42002.6
-data.male,25-54years,Norðoya region,R41004
-data.male,25-54years,Sandoyar region,R45006.2
-data.male,25-54years,"Streymoyar region, north",R43002.3
-data.male,25-54years,"Streymoyar region, south",R47002.4
-data.male,25-54years,Suðuroyar region,R46006.1
-data.male,25-54years,Vága region,R44003.4
-data.male,55-66years,,4.7
-data.male,55-66years,Eysturoyar region,R42004.3
-data.male,55-66years,Norðoya region,R41004.4
-data.male,55-66years,Sandoyar region,R450013.6
-data.male,55-66years,"Streymoyar region, north",R43005
-data.male,55-66years,"Streymoyar region, south",R47003.7
-data.male,55-66years,Suðuroyar region,R46004.5
-data.male,55-66years,Vága region,R44006.9
-data.male,67years,,3.6
-data.male,67years,Eysturoyar region,R42004.8
-data.male,67years,Norðoya region,R41003.2
-data.male,67years,Sandoyar region,R45002
-data.male,67years,"Streymoyar region, north",R43005.2
-data.male,67years,"Streymoyar region, south",R47003.1
-data.male,67years,Suðuroyar region,R46002.2
-data.male,67years,Vága region,R44003.7
-,,,4.2
-,,Eysturoyar region,R42003.9
-,,Norðoya region,R41005
-,,Sandoyar region,R45004.4
-,,"Streymoyar region, north",R43003.6
-,,"Streymoyar region, south",R47003.9
-,,Suðuroyar region,R46005.6
-,,Vága region,R44003.1
-,00-17years,,5.1
-,00-17years,Eysturoyar region,R42004.7
-,00-17years,Norðoya region,R41007.7
-,00-17years,Sandoyar region,R45006.4
-,00-17years,"Streymoyar region, north",R43004.1
-,00-17years,"Streymoyar region, south",R47004.2
-,00-17years,Suðuroyar region,R46008.2
-,00-17years,Vága region,R44003.8
-,18-24years,,4.4
-,18-24years,Eysturoyar region,R42004.4
-,18-24years,Norðoya region,R41004.4
-,18-24years,Sandoyar region,R4500-
-,18-24years,"Streymoyar region, north",R43002.7
-,18-24years,"Streymoyar region, south",R47005
-,18-24years,Suðuroyar region,R46005.1
-,18-24years,Vága region,R44003.2
-,25-54years,,3.9
-,25-54years,Eysturoyar region,R42003.4
-,25-54years,Norðoya region,R41004.7
-,25-54years,Sandoyar region,R45004
-,25-54years,"Streymoyar region, north",R43002.7
-,25-54years,"Streymoyar region, south",R47003.8
-,25-54years,Suðuroyar region,R46005.8
-,25-54years,Vága region,R44002.7
-,55-66years,,3.8
-,55-66years,Eysturoyar region,R42003.3
-,55-66years,Norðoya region,R41003.2
-,55-66years,Sandoyar region,R45005.2
-,55-66years,"Streymoyar region, north",R43004.2
-,55-66years,"Streymoyar region, south",R47003.9
-,55-66years,Suðuroyar region,R46004.3
-,55-66years,Vága region,R44003.8
-,67years,,3.3
-,67years,Eysturoyar region,R42004
-,67years,Norðoya region,R41002.9
-,67years,Sandoyar region,R45003.6
-,67years,"Streymoyar region, north",R43004.7
-,67years,"Streymoyar region, south",R47002.8
-,67years,Suðuroyar region,R46003.2
-,67years,Vága region,R44002.5
-data.female,,,4.3
-data.female,,Eysturoyar region,R42004
-data.female,,Norðoya region,R41005.3
-data.female,,Sandoyar region,R45003.6
-data.female,,"Streymoyar region, north",R43003.5
-data.female,,"Streymoyar region, south",R47004
-data.female,,Suðuroyar region,R46006.6
-data.female,,Vága region,R44003.2
-data.female,00-17years,,5.5
-data.female,00-17years,Eysturoyar region,R42004.9
-data.female,00-17years,Norðoya region,R41008.1
-data.female,00-17years,Sandoyar region,R45005.7
-data.female,00-17years,"Streymoyar region, north",R43004
-data.female,00-17years,"Streymoyar region, south",R47004.3
-data.female,00-17years,Suðuroyar region,R460010
-data.female,00-17years,Vága region,R44005.1
-data.female,18-24years,,5.7
-data.female,18-24years,Eysturoyar region,R42005.8
-data.female,18-24years,Norðoya region,R41005.6
-data.female,18-24years,Sandoyar region,R4500-
-data.female,18-24years,"Streymoyar region, north",R43004.7
-data.female,18-24years,"Streymoyar region, south",R47006.5
-data.female,18-24years,Suðuroyar region,R46007.4
-data.female,18-24years,Vága region,R44001.5
-data.female,25-54years,,4.1
-data.female,25-54years,Eysturoyar region,R42003.6
-data.female,25-54years,Norðoya region,R41005.2
-data.female,25-54years,Sandoyar region,R45003
-data.female,25-54years,"Streymoyar region, north",R43002.9
-data.female,25-54years,"Streymoyar region, south",R47004
-data.female,25-54years,Suðuroyar region,R46006.3
-data.female,25-54years,Vága region,R44002.9
-data.female,55-66years,,3.2
-data.female,55-66years,Eysturoyar region,R42002.8
-data.female,55-66years,Norðoya region,R41002.8
-data.female,55-66years,Sandoyar region,R45004.2
-data.female,55-66years,"Streymoyar region, north",R43002.6
-data.female,55-66years,"Streymoyar region, south",R47003.4
-data.female,55-66years,Suðuroyar region,R46004.2
-data.female,55-66years,Vága region,R44001.9
-data.female,67years,,3.1
-data.female,67years,Eysturoyar region,R42003.3
+Year,data.sex,date.age,Geography,GeoCode,Value
+2009,,,,,4.0
+2009,,,Eysturoyar region,R4200,3.5
+2009,,,Norðoya region,R4100,5.5
+2009,,,Sandoyar region,R4500,6.7
+2009,,,"Streymoyar region, north",R4300,4.2
+2009,,,"Streymoyar region, south",R4700,2.9
+2009,,,Suðuroyar region,R4600,6.9
+2009,,,Vága region,R4400,4.4
+2009,,00-17years,,,5.1
+2009,,00-17years,Eysturoyar region,R4200,3.6
+2009,,00-17years,Norðoya region,R4100,9.1
+2009,,00-17years,Sandoyar region,R4500,8
+2009,,00-17years,"Streymoyar region, north",R4300,6.6
+2009,,00-17years,"Streymoyar region, south",R4700,2.9
+2009,,00-17years,Suðuroyar region,R4600,11
+2009,,00-17years,Vága region,R4400,5.7
+2009,,18-24years,,,3.8
+2009,,18-24years,Eysturoyar region,R4200,3.6
+2009,,18-24years,Norðoya region,R4100,5.1
+2009,,18-24years,Sandoyar region,R4500,5.4
+2009,,18-24years,"Streymoyar region, north",R4300,3.1
+2009,,18-24years,"Streymoyar region, south",R4700,3
+2009,,18-24years,Suðuroyar region,R4600,5.5
+2009,,18-24years,Vága region,R4400,4.9
+2009,,25-54years,,,3.5
+2009,,25-54years,Eysturoyar region,R4200,2.8
+2009,,25-54years,Norðoya region,R4100,4.8
+2009,,25-54years,Sandoyar region,R4500,6
+2009,,25-54years,"Streymoyar region, north",R4300,2.9
+2009,,25-54years,"Streymoyar region, south",R4700,2.7
+2009,,25-54years,Suðuroyar region,R4600,6.9
+2009,,25-54years,Vága region,R4400,3.8
+2009,,55-66years,,,4.1
+2009,,55-66years,Eysturoyar region,R4200,4.1
+2009,,55-66years,Norðoya region,R4100,3.6
+2009,,55-66years,Sandoyar region,R4500,10.3
+2009,,55-66years,"Streymoyar region, north",R4300,3.8
+2009,,55-66years,"Streymoyar region, south",R4700,3.2
+2009,,55-66years,Suðuroyar region,R4600,5.1
+2009,,55-66years,Vága region,R4400,4.9
+2009,,67years,,,3.5
+2009,,67years,Eysturoyar region,R4200,4.6
+2009,,67years,Norðoya region,R4100,2.7
+2009,,67years,Sandoyar region,R4500,3.5
+2009,,67years,"Streymoyar region, north",R4300,4.7
+2009,,67years,"Streymoyar region, south",R4700,2.9
+2009,,67years,Suðuroyar region,R4600,3.4
+2009,,67years,Vága region,R4400,2.8
+2009,data.female,,,,4.2
+2009,data.female,,Eysturoyar region,R4200,3.5
+2009,data.female,,Norðoya region,R4100,5.7
+2009,data.female,,Sandoyar region,R4500,6.6
+2009,data.female,,"Streymoyar region, north",R4300,4.8
+2009,data.female,,"Streymoyar region, south",R4700,3
+2009,data.female,,Suðuroyar region,R4600,8
+2009,data.female,,Vága region,R4400,4.1
+2009,data.female,00-17years,,,5.3
+2009,data.female,00-17years,Eysturoyar region,R4200,3.3
+2009,data.female,00-17years,Norðoya region,R4100,8.7
+2009,data.female,00-17years,Sandoyar region,R4500,8.9
+2009,data.female,00-17years,"Streymoyar region, north",R4300,7.9
+2009,data.female,00-17years,"Streymoyar region, south",R4700,3.1
+2009,data.female,00-17years,Suðuroyar region,R4600,12.5
+2009,data.female,00-17years,Vága region,R4400,5.5
+2009,data.female,18-24years,,,4.8
+2009,data.female,18-24years,Eysturoyar region,R4200,4.3
+2009,data.female,18-24years,Norðoya region,R4100,6.4
+2009,data.female,18-24years,Sandoyar region,R4500,8.3
+2009,data.female,18-24years,"Streymoyar region, north",R4300,5.5
+2009,data.female,18-24years,"Streymoyar region, south",R4700,3.6
+2009,data.female,18-24years,Suðuroyar region,R4600,7.5
+2009,data.female,18-24years,Vága region,R4400,5.2
+2009,data.female,25-54years,,,4
+2009,data.female,25-54years,Eysturoyar region,R4200,3.1
+2009,data.female,25-54years,Norðoya region,R4100,5.8
+2009,data.female,25-54years,Sandoyar region,R4500,5.8
+2009,data.female,25-54years,"Streymoyar region, north",R4300,3.5
+2009,data.female,25-54years,"Streymoyar region, south",R4700,3
+2009,data.female,25-54years,Suðuroyar region,R4600,7.8
+2009,data.female,25-54years,Vága region,R4400,4.3
+2009,data.female,55-66years,,,3.4
+2009,data.female,55-66years,Eysturoyar region,R4200,3.8
+2009,data.female,55-66years,Norðoya region,R4100,2.5
+2009,data.female,55-66years,Sandoyar region,R4500,6.1
+2009,data.female,55-66years,"Streymoyar region, north",R4300,2.5
+2009,data.female,55-66years,"Streymoyar region, south",R4700,2.7
+2009,data.female,55-66years,Suðuroyar region,R4600,5.7
+2009,data.female,55-66years,Vága region,R4400,2.8
+2009,data.female,67years,,,3.4
+2009,data.female,67years,Eysturoyar region,R4200,4.4
+2009,data.female,67years,Norðoya region,R4100,2.2
+2009,data.female,67years,Sandoyar region,R4500,4.8
+2009,data.female,67years,"Streymoyar region, north",R4300,4.1
+2009,data.female,67years,"Streymoyar region, south",R4700,2.8
+2009,data.female,67years,Suðuroyar region,R4600,4.4
+2009,data.female,67years,Vága region,R4400,1.9
+2009,data.male,,,,3.9
+2009,data.male,,Eysturoyar region,R4200,3.5
+2009,data.male,,Norðoya region,R4100,5.3
+2009,data.male,,Sandoyar region,R4500,6.9
+2009,data.male,,"Streymoyar region, north",R4300,3.8
+2009,data.male,,"Streymoyar region, south",R4700,2.7
+2009,data.male,,Suðuroyar region,R4600,5.9
+2009,data.male,,Vága region,R4400,4.6
+2009,data.male,00-17years,,,4.9
+2009,data.male,00-17years,Eysturoyar region,R4200,3.9
+2009,data.male,00-17years,Norðoya region,R4100,9.4
+2009,data.male,00-17years,Sandoyar region,R4500,7.2
+2009,data.male,00-17years,"Streymoyar region, north",R4300,5.5
+2009,data.male,00-17years,"Streymoyar region, south",R4700,2.7
+2009,data.male,00-17years,Suðuroyar region,R4600,9.7
+2009,data.male,00-17years,Vága region,R4400,5.8
+2009,data.male,18-24years,,,3
+2009,data.male,18-24years,Eysturoyar region,R4200,3
+2009,data.male,18-24years,Norðoya region,R4100,4
+2009,data.male,18-24years,Sandoyar region,R4500,4
+2009,data.male,18-24years,"Streymoyar region, north",R4300,1.1
+2009,data.male,18-24years,"Streymoyar region, south",R4700,2.5
+2009,data.male,18-24years,Suðuroyar region,R4600,3.9
+2009,data.male,18-24years,Vága region,R4400,4.6
+2009,data.male,25-54years,,,3.2
+2009,data.male,25-54years,Eysturoyar region,R4200,2.6
+2009,data.male,25-54years,Norðoya region,R4100,4
+2009,data.male,25-54years,Sandoyar region,R4500,6.2
+2009,data.male,25-54years,"Streymoyar region, north",R4300,2.3
+2009,data.male,25-54years,"Streymoyar region, south",R4700,2.4
+2009,data.male,25-54years,Suðuroyar region,R4600,6.1
+2009,data.male,25-54years,Vága region,R4400,3.4
+2009,data.male,55-66years,,,4.7
+2009,data.male,55-66years,Eysturoyar region,R4200,4.3
+2009,data.male,55-66years,Norðoya region,R4100,4.4
+2009,data.male,55-66years,Sandoyar region,R4500,13.6
+2009,data.male,55-66years,"Streymoyar region, north",R4300,5
+2009,data.male,55-66years,"Streymoyar region, south",R4700,3.7
+2009,data.male,55-66years,Suðuroyar region,R4600,4.5
+2009,data.male,55-66years,Vága region,R4400,6.9
+2009,data.male,67years,,,3.6
+2009,data.male,67years,Eysturoyar region,R4200,4.8
+2009,data.male,67years,Norðoya region,R4100,3.2
+2009,data.male,67years,Sandoyar region,R4500,2
+2009,data.male,67years,"Streymoyar region, north",R4300,5.2
+2009,data.male,67years,"Streymoyar region, south",R4700,3.1
+2009,data.male,67years,Suðuroyar region,R4600,2.2
+2009,data.male,67years,Vága region,R4400,3.7
+2010,,,,,4.2
+2010,,,Eysturoyar region,R4200,3.9
+2010,,,Norðoya region,R4100,5
+2010,,,Sandoyar region,R4500,4.4
+2010,,,"Streymoyar region, north",R4300,3.6
+2010,,,"Streymoyar region, south",R4700,3.9
+2010,,,Suðuroyar region,R4600,5.6
+2010,,,Vága region,R4400,3.1
+2010,,00-17years,,,5.1
+2010,,00-17years,Eysturoyar region,R4200,4.7
+2010,,00-17years,Norðoya region,R4100,7.7
+2010,,00-17years,Sandoyar region,R4500,6.4
+2010,,00-17years,"Streymoyar region, north",R4300,4.1
+2010,,00-17years,"Streymoyar region, south",R4700,4.2
+2010,,00-17years,Suðuroyar region,R4600,8.2
+2010,,00-17years,Vága region,R4400,3.8
+2010,,18-24years,,,4.4
+2010,,18-24years,Eysturoyar region,R4200,4.4
+2010,,18-24years,Norðoya region,R4100,4.4
+2010,,18-24years,Sandoyar region,R4500,-
+2010,,18-24years,"Streymoyar region, north",R4300,2.7
+2010,,18-24years,"Streymoyar region, south",R4700,5
+2010,,18-24years,Suðuroyar region,R4600,5.1
+2010,,18-24years,Vága region,R4400,3.2
+2010,,25-54years,,,3.9
+2010,,25-54years,Eysturoyar region,R4200,3.4
+2010,,25-54years,Norðoya region,R4100,4.7
+2010,,25-54years,Sandoyar region,R4500,4
+2010,,25-54years,"Streymoyar region, north",R4300,2.7
+2010,,25-54years,"Streymoyar region, south",R4700,3.8
+2010,,25-54years,Suðuroyar region,R4600,5.8
+2010,,25-54years,Vága region,R4400,2.7
+2010,,55-66years,,,3.8
+2010,,55-66years,Eysturoyar region,R4200,3.3
+2010,,55-66years,Norðoya region,R4100,3.2
+2010,,55-66years,Sandoyar region,R4500,5.2
+2010,,55-66years,"Streymoyar region, north",R4300,4.2
+2010,,55-66years,"Streymoyar region, south",R4700,3.9
+2010,,55-66years,Suðuroyar region,R4600,4.3
+2010,,55-66years,Vága region,R4400,3.8
+2010,,67years,,,3.3
+2010,,67years,Eysturoyar region,R4200,4
+2010,,67years,Norðoya region,R4100,2.9
+2010,,67years,Sandoyar region,R4500,3.6
+2010,,67years,"Streymoyar region, north",R4300,4.7
+2010,,67years,"Streymoyar region, south",R4700,2.8
+2010,,67years,Suðuroyar region,R4600,3.2
+2010,,67years,Vága region,R4400,2.5
+2010,data.female,,,,4.3
+2010,data.female,,Eysturoyar region,R4200,4
+2010,data.female,,Norðoya region,R4100,5.3
+2010,data.female,,Sandoyar region,R4500,3.6
+2010,data.female,,"Streymoyar region, north",R4300,3.5
+2010,data.female,,"Streymoyar region, south",R4700,4
+2010,data.female,,Suðuroyar region,R4600,6.6
+2010,data.female,,Vága region,R4400,3.2
+2010,data.female,00-17years,,,5.5
+2010,data.female,00-17years,Eysturoyar region,R4200,4.9
+2010,data.female,00-17years,Norðoya region,R4100,8.1
+2010,data.female,00-17years,Sandoyar region,R4500,5.7
+2010,data.female,00-17years,"Streymoyar region, north",R4300,4
+2010,data.female,00-17years,"Streymoyar region, south",R4700,4.3
+2010,data.female,00-17years,Suðuroyar region,R4600,10
+2010,data.female,00-17years,Vága region,R4400,5.1
+2010,data.female,18-24years,,,5.7
+2010,data.female,18-24years,Eysturoyar region,R4200,5.8
+2010,data.female,18-24years,Norðoya region,R4100,5.6
+2010,data.female,18-24years,Sandoyar region,R4500,-
+2010,data.female,18-24years,"Streymoyar region, north",R4300,4.7
+2010,data.female,18-24years,"Streymoyar region, south",R4700,6.5
+2010,data.female,18-24years,Suðuroyar region,R4600,7.4
+2010,data.female,18-24years,Vága region,R4400,1.5
+2010,data.female,25-54years,,,4.1
+2010,data.female,25-54years,Eysturoyar region,R4200,3.6
+2010,data.female,25-54years,Norðoya region,R4100,5.2
+2010,data.female,25-54years,Sandoyar region,R4500,3
+2010,data.female,25-54years,"Streymoyar region, north",R4300,2.9
+2010,data.female,25-54years,"Streymoyar region, south",R4700,4
+2010,data.female,25-54years,Suðuroyar region,R4600,6.3
+2010,data.female,25-54years,Vága region,R4400,2.9
+2010,data.female,55-66years,,,3.2
+2010,data.female,55-66years,Eysturoyar region,R4200,2.8
+2010,data.female,55-66years,Norðoya region,R4100,2.8
+2010,data.female,55-66years,Sandoyar region,R4500,4.2
+2010,data.female,55-66years,"Streymoyar region, north",R4300,2.6
+2010,data.female,55-66years,"Streymoyar region, south",R4700,3.4
+2010,data.female,55-66years,Suðuroyar region,R4600,4.2
+2010,data.female,55-66years,Vága region,R4400,1.9
+2010,data.female,67years,,,3.1
+2010,data.female,67years,Eysturoyar region,R4200,3.3
+2010,data.female,67years,Norðoya region,R4100,2.9
+2010,data.female,67years,Sandoyar region,R4500,2.4
+2010,data.female,67years,"Streymoyar region, north",R4300,4
+2010,data.female,67years,"Streymoyar region, south",R4700,2.4
+2010,data.female,67years,Suðuroyar region,R4600,4.6
+2010,data.female,67years,Vága region,R4400,3.2
+2010,data.male,,,,4
+2010,data.male,,Eysturoyar region,R4200,3.8
+2010,data.male,,Norðoya region,R4100,4.7
+2010,data.male,,Sandoyar region,R4500,5
+2010,data.male,,"Streymoyar region, north",R4300,3.6
+2010,data.male,,"Streymoyar region, south",R4700,3.8
+2010,data.male,,Suðuroyar region,R4600,4.8
+2010,data.male,,Vága region,R4400,3.1
+2010,data.male,00-17years,,,4.8
+2010,data.male,00-17years,Eysturoyar region,R4200,4.4
+2010,data.male,00-17years,Norðoya region,R4100,7.4
+2010,data.male,00-17years,Sandoyar region,R4500,7
+2010,data.male,00-17years,"Streymoyar region, north",R4300,4.2
+2010,data.male,00-17years,"Streymoyar region, south",R4700,4.1
+2010,data.male,00-17years,Suðuroyar region,R4600,6.5
+2010,data.male,00-17years,Vága region,R4400,2.7
+2010,data.male,18-24years,,,3.2
+2010,data.male,18-24years,Eysturoyar region,R4200,3.3
+2010,data.male,18-24years,Norðoya region,R4100,3.3
+2010,data.male,18-24years,Sandoyar region,R4500,-
+2010,data.male,18-24years,"Streymoyar region, north",R4300,1.1
+2010,data.male,18-24years,"Streymoyar region, south",R4700,3.6
+2010,data.male,18-24years,Suðuroyar region,R4600,3.1
+2010,data.male,18-24years,Vága region,R4400,4.7
+2010,data.male,25-54years,,,3.7
+2010,data.male,25-54years,Eysturoyar region,R4200,3.3
+2010,data.male,25-54years,Norðoya region,R4100,4.3
+2010,data.male,25-54years,Sandoyar region,R4500,4.9
+2010,data.male,25-54years,"Streymoyar region, north",R4300,2.5
+2010,data.male,25-54years,"Streymoyar region, south",R4700,3.6
+2010,data.male,25-54years,Suðuroyar region,R4600,5.4
+2010,data.male,25-54years,Vága region,R4400,2.5
+2010,data.male,55-66years,,,4.4
+2010,data.male,55-66years,Eysturoyar region,R4200,3.7
+2010,data.male,55-66years,Norðoya region,R4100,3.5
+2010,data.male,55-66years,Sandoyar region,R4500,5.8
+2010,data.male,55-66years,"Streymoyar region, north",R4300,5.5
+2010,data.male,55-66years,"Streymoyar region, south",R4700,4.5
+2010,data.male,55-66years,Suðuroyar region,R4600,4.5
+2010,data.male,55-66years,Vága region,R4400,5.4
+2010,data.male,67years,,,3.5
+2010,data.male,67years,Eysturoyar region,R4200,4.8
+2010,data.male,67years,Norðoya region,R4100,2.9
+2010,data.male,67years,Sandoyar region,R4500,5.1
+2010,data.male,67years,"Streymoyar region, north",R4300,5.5
+2010,data.male,67years,"Streymoyar region, south",R4700,3.3
+2010,data.male,67years,Suðuroyar region,R4600,1.5
+2010,data.male,67years,Vága region,R4400,1.9
+2011,,,,,4.4
+2011,,,Eysturoyar region,R4200,3.1
+2011,,,Norðoya region,R4100,4.8
+2011,,,Sandoyar region,R4500,5.2
+2011,,,"Streymoyar region, north",R4300,4.3
+2011,,,"Streymoyar region, south",R4700,4.6
+2011,,,Suðuroyar region,R4600,6.5
+2011,,,Vága region,R4400,4.2
+2011,,00-17years,,,5.5
+2011,,00-17years,Eysturoyar region,R4200,3.5
+2011,,00-17years,Norðoya region,R4100,6.9
+2011,,00-17years,Sandoyar region,R4500,8
+2011,,00-17years,"Streymoyar region, north",R4300,6.2
+2011,,00-17years,"Streymoyar region, south",R4700,5.3
+2011,,00-17years,Suðuroyar region,R4600,9.3
+2011,,00-17years,Vága region,R4400,5.1
+2011,,18-24years,,,5.4
+2011,,18-24years,Eysturoyar region,R4200,3.2
+2011,,18-24years,Norðoya region,R4100,3.9
+2011,,18-24years,Sandoyar region,R4500,2.9
+2011,,18-24years,"Streymoyar region, north",R4300,6.1
+2011,,18-24years,"Streymoyar region, south",R4700,7.3
+2011,,18-24years,Suðuroyar region,R4600,5.6
+2011,,18-24years,Vága region,R4400,3.9
+2011,,25-54years,,,4.1
+2011,,25-54years,Eysturoyar region,R4200,2.8
+2011,,25-54years,Norðoya region,R4100,5.1
+2011,,25-54years,Sandoyar region,R4500,5.1
+2011,,25-54years,"Streymoyar region, north",R4300,3.7
+2011,,25-54years,"Streymoyar region, south",R4700,3.9
+2011,,25-54years,Suðuroyar region,R4600,6.7
+2011,,25-54years,Vága region,R4400,3.6
+2011,,55-66years,,,3.8
+2011,,55-66years,Eysturoyar region,R4200,3.3
+2011,,55-66years,Norðoya region,R4100,3.4
+2011,,55-66years,Sandoyar region,R4500,5.5
+2011,,55-66years,"Streymoyar region, north",R4300,2
+2011,,55-66years,"Streymoyar region, south",R4700,3.9
+2011,,55-66years,Suðuroyar region,R4600,5.1
+2011,,55-66years,Vága region,R4400,3.5
+2011,,67years,,,3.3
+2011,,67years,Eysturoyar region,R4200,2.6
+2011,,67years,Norðoya region,R4100,2.4
+2011,,67years,Sandoyar region,R4500,2.2
+2011,,67years,"Streymoyar region, north",R4300,3.4
+2011,,67years,"Streymoyar region, south",R4700,3.6
+2011,,67years,Suðuroyar region,R4600,3.8
+2011,,67years,Vága region,R4400,4.7
+2011,data.female,,,,4.7
+2011,data.female,,Eysturoyar region,R4200,3.3
+2011,data.female,,Norðoya region,R4100,4.7
+2011,data.female,,Sandoyar region,R4500,4.3
+2011,data.female,,"Streymoyar region, north",R4300,4.6
+2011,data.female,,"Streymoyar region, south",R4700,4.9
+2011,data.female,,Suðuroyar region,R4600,7.3
+2011,data.female,,Vága region,R4400,4.7
+2011,data.female,00-17years,,,5.9
+2011,data.female,00-17years,Eysturoyar region,R4200,4
+2011,data.female,00-17years,Norðoya region,R4100,5.7
+2011,data.female,00-17years,Sandoyar region,R4500,8
+2011,data.female,00-17years,"Streymoyar region, north",R4300,5.8
+2011,data.female,00-17years,"Streymoyar region, south",R4700,5.7
+2011,data.female,00-17years,Suðuroyar region,R4600,11
+2011,data.female,00-17years,Vága region,R4400,6.8
+2011,data.female,18-24years,,,7.3
+2011,data.female,18-24years,Eysturoyar region,R4200,3.9
+2011,data.female,18-24years,Norðoya region,R4100,5.1
+2011,data.female,18-24years,Sandoyar region,R4500,3
+2011,data.female,18-24years,"Streymoyar region, north",R4300,9.2
+2011,data.female,18-24years,"Streymoyar region, south",R4700,9.9
+2011,data.female,18-24years,Suðuroyar region,R4600,7.7
+2011,data.female,18-24years,Vága region,R4400,6.5
+2011,data.female,25-54years,,,4.3
+2011,data.female,25-54years,Eysturoyar region,R4200,3
+2011,data.female,25-54years,Norðoya region,R4100,5.5
+2011,data.female,25-54years,Sandoyar region,R4500,5.1
+2011,data.female,25-54years,"Streymoyar region, north",R4300,4.4
+2011,data.female,25-54years,"Streymoyar region, south",R4700,4.1
+2011,data.female,25-54years,Suðuroyar region,R4600,7.1
+2011,data.female,25-54years,Vága region,R4400,3
+2011,data.female,55-66years,,,3.1
+2011,data.female,55-66years,Eysturoyar region,R4200,2.5
+2011,data.female,55-66years,Norðoya region,R4100,2.7
+2011,data.female,55-66years,Sandoyar region,R4500,1
+2011,data.female,55-66years,"Streymoyar region, north",R4300,0.9
+2011,data.female,55-66years,"Streymoyar region, south",R4700,3.7
+2011,data.female,55-66years,Suðuroyar region,R4600,4.9
+2011,data.female,55-66years,Vága region,R4400,2.5
+2011,data.female,67years,,,3.3
+2011,data.female,67years,Eysturoyar region,R4200,2.8
+2011,data.female,67years,Norðoya region,R4100,2.8
+2011,data.female,67years,Sandoyar region,R4500,1.7
+2011,data.female,67years,"Streymoyar region, north",R4300,3.6
+2011,data.female,67years,"Streymoyar region, south",R4700,2.9
+2011,data.female,67years,Suðuroyar region,R4600,5
+2011,data.female,67years,Vága region,R4400,6
+2011,data.male,,,,4.2
+2011,data.male,,Eysturoyar region,R4200,2.9
+2011,data.male,,Norðoya region,R4100,5
+2011,data.male,,Sandoyar region,R4500,5.9
+2011,data.male,,"Streymoyar region, north",R4300,4.1
+2011,data.male,,"Streymoyar region, south",R4700,4.3
+2011,data.male,,Suðuroyar region,R4600,5.7
+2011,data.male,,Vága region,R4400,3.7
+2011,data.male,00-17years,,,5.2
+2011,data.male,00-17years,Eysturoyar region,R4200,3
+2011,data.male,00-17years,Norðoya region,R4100,8
+2011,data.male,00-17years,Sandoyar region,R4500,8
+2011,data.male,00-17years,"Streymoyar region, north",R4300,6.6
+2011,data.male,00-17years,"Streymoyar region, south",R4700,4.9
+2011,data.male,00-17years,Suðuroyar region,R4600,7.7
+2011,data.male,00-17years,Vága region,R4400,3.4
+2011,data.male,18-24years,,,3.7
+2011,data.male,18-24years,Eysturoyar region,R4200,2.5
+2011,data.male,18-24years,Norðoya region,R4100,2.8
+2011,data.male,18-24years,Sandoyar region,R4500,2.9
+2011,data.male,18-24years,"Streymoyar region, north",R4300,3.7
+2011,data.male,18-24years,"Streymoyar region, south",R4700,5
+2011,data.male,18-24years,Suðuroyar region,R4600,4.1
+2011,data.male,18-24years,Vága region,R4400,2
+2011,data.male,25-54years,,,3.9
+2011,data.male,25-54years,Eysturoyar region,R4200,2.7
+2011,data.male,25-54years,Norðoya region,R4100,4.9
+2011,data.male,25-54years,Sandoyar region,R4500,5.1
+2011,data.male,25-54years,"Streymoyar region, north",R4300,3.1
+2011,data.male,25-54years,"Streymoyar region, south",R4700,3.7
+2011,data.male,25-54years,Suðuroyar region,R4600,6.4
+2011,data.male,25-54years,Vága region,R4400,4.1
+2011,data.male,55-66years,,,4.4
+2011,data.male,55-66years,Eysturoyar region,R4200,4
+2011,data.male,55-66years,Norðoya region,R4100,4
+2011,data.male,55-66years,Sandoyar region,R4500,8.6
+2011,data.male,55-66years,"Streymoyar region, north",R4300,3
+2011,data.male,55-66years,"Streymoyar region, south",R4700,4.2
+2011,data.male,55-66years,Suðuroyar region,R4600,5.4
+2011,data.male,55-66years,Vága region,R4400,4.4
+2011,data.male,67years,,,3.2
+2011,data.male,67years,Eysturoyar region,R4200,2.4
+2011,data.male,67years,Norðoya region,R4100,1.9
+2011,data.male,67years,Sandoyar region,R4500,2.9
+2011,data.male,67years,"Streymoyar region, north",R4300,3.3
+2011,data.male,67years,"Streymoyar region, south",R4700,4.4
+2011,data.male,67years,Suðuroyar region,R4600,2.6
+2011,data.male,67years,Vága region,R4400,3.3
+2012,,,,,4.7
+2012,,,Eysturoyar region,R4200,3.6
+2012,,,Norðoya region,R4100,5.5
+2012,,,Sandoyar region,R4500,5.9
+2012,,,"Streymoyar region, north",R4300,5
+2012,,,"Streymoyar region, south",R4700,4.7
+2012,,,Suðuroyar region,R4600,5.2
+2012,,,Vága region,R4400,5.2
+2012,,00-17years,,,6.2
+2012,,00-17years,Eysturoyar region,R4200,4.9
+2012,,00-17years,Norðoya region,R4100,8
+2012,,00-17years,Sandoyar region,R4500,7.6
+2012,,00-17years,"Streymoyar region, north",R4300,8.4
+2012,,00-17years,"Streymoyar region, south",R4700,5.4
+2012,,00-17years,Suðuroyar region,R4600,7.4
+2012,,00-17years,Vága region,R4400,7.8
+2012,,18-24years,,,5.7
+2012,,18-24years,Eysturoyar region,R4200,3
+2012,,18-24years,Norðoya region,R4100,4
+2012,,18-24years,Sandoyar region,R4500,9.8
+2012,,18-24years,"Streymoyar region, north",R4300,5.3
+2012,,18-24years,"Streymoyar region, south",R4700,7.8
+2012,,18-24years,Suðuroyar region,R4600,6.8
+2012,,18-24years,Vága region,R4400,4.6
+2012,,25-54years,,,4.4
+2012,,25-54years,Eysturoyar region,R4200,3.6
+2012,,25-54years,Norðoya region,R4100,5.9
+2012,,25-54years,Sandoyar region,R4500,5.3
+2012,,25-54years,"Streymoyar region, north",R4300,4.4
+2012,,25-54years,"Streymoyar region, south",R4700,4
+2012,,25-54years,Suðuroyar region,R4600,5.1
+2012,,25-54years,Vága region,R4400,4.7
+2012,,55-66years,,,4
+2012,,55-66years,Eysturoyar region,R4200,3
+2012,,55-66years,Norðoya region,R4100,3
+2012,,55-66years,Sandoyar region,R4500,7.9
+2012,,55-66years,"Streymoyar region, north",R4300,2.5
+2012,,55-66years,"Streymoyar region, south",R4700,4.4
+2012,,55-66years,Suðuroyar region,R4600,4.6
+2012,,55-66years,Vága region,R4400,4.5
+2012,,67years,,,2.8
+2012,,67years,Eysturoyar region,R4200,2.2
+2012,,67years,Norðoya region,R4100,3.5
+2012,,67years,Sandoyar region,R4500,0.9
+2012,,67years,"Streymoyar region, north",R4300,2.7
+2012,,67years,"Streymoyar region, south",R4700,3.2
+2012,,67years,Suðuroyar region,R4600,2.4
+2012,,67years,Vága region,R4400,2.9
+2012,data.female,,,,4.8
+2012,data.female,,Eysturoyar region,R4200,3.5
+2012,data.female,,Norðoya region,R4100,5.9
+2012,data.female,,Sandoyar region,R4500,5.3
+2012,data.female,,"Streymoyar region, north",R4300,5.1
+2012,data.female,,"Streymoyar region, south",R4700,4.9
+2012,data.female,,Suðuroyar region,R4600,5.7
+2012,data.female,,Vága region,R4400,5.1
+2012,data.female,00-17years,,,6
+2012,data.female,00-17years,Eysturoyar region,R4200,4.5
+2012,data.female,00-17years,Norðoya region,R4100,7.7
+2012,data.female,00-17years,Sandoyar region,R4500,6.9
+2012,data.female,00-17years,"Streymoyar region, north",R4300,8
+2012,data.female,00-17years,"Streymoyar region, south",R4700,5.4
+2012,data.female,00-17years,Suðuroyar region,R4600,7.5
+2012,data.female,00-17years,Vága region,R4400,7.4
+2012,data.female,18-24years,,,7.8
+2012,data.female,18-24years,Eysturoyar region,R4200,3.9
+2012,data.female,18-24years,Norðoya region,R4100,6.3
+2012,data.female,18-24years,Sandoyar region,R4500,13.2
+2012,data.female,18-24years,"Streymoyar region, north",R4300,6.3
+2012,data.female,18-24years,"Streymoyar region, south",R4700,10.5
+2012,data.female,18-24years,Suðuroyar region,R4600,8.9
+2012,data.female,18-24years,Vága region,R4400,6.2
+2012,data.female,25-54years,,,4.8
+2012,data.female,25-54years,Eysturoyar region,R4200,4
+2012,data.female,25-54years,Norðoya region,R4100,6.7
+2012,data.female,25-54years,Sandoyar region,R4500,5.3
+2012,data.female,25-54years,"Streymoyar region, north",R4300,5.6
+2012,data.female,25-54years,"Streymoyar region, south",R4700,4.2
+2012,data.female,25-54years,Suðuroyar region,R4600,6
+2012,data.female,25-54years,Vága region,R4400,5.1
+2012,data.female,55-66years,,,3.3
+2012,data.female,55-66years,Eysturoyar region,R4200,1.9
+2012,data.female,55-66years,Norðoya region,R4100,3.1
+2012,data.female,55-66years,Sandoyar region,R4500,3.9
+2012,data.female,55-66years,"Streymoyar region, north",R4300,0.8
+2012,data.female,55-66years,"Streymoyar region, south",R4700,4.3
+2012,data.female,55-66years,Suðuroyar region,R4600,4.5
+2012,data.female,55-66years,Vága region,R4400,2.9
+2012,data.female,67years,,,2.5
+2012,data.female,67years,Eysturoyar region,R4200,1.8
+2012,data.female,67years,Norðoya region,R4100,3.7
+2012,data.female,67years,Sandoyar region,R4500,1.7
+2012,data.female,67years,"Streymoyar region, north",R4300,2.5
+2012,data.female,67years,"Streymoyar region, south",R4700,2.6
+2012,data.female,67years,Suðuroyar region,R4600,2.3
+2012,data.female,67years,Vága region,R4400,2.6
+2012,data.male,,,,4.6
+2012,data.male,,Eysturoyar region,R4200,3.7
+2012,data.male,,Norðoya region,R4100,5.1
+2012,data.male,,Sandoyar region,R4500,6.5
+2012,data.male,,"Streymoyar region, north",R4300,4.8
+2012,data.male,,"Streymoyar region, south",R4700,4.5
+2012,data.male,,Suðuroyar region,R4600,4.9
+2012,data.male,,Vága region,R4400,5.3
+2012,data.male,00-17years,,,6.3
+2012,data.male,00-17years,Eysturoyar region,R4200,5.2
+2012,data.male,00-17years,Norðoya region,R4100,8.2
+2012,data.male,00-17years,Sandoyar region,R4500,8.2
+2012,data.male,00-17years,"Streymoyar region, north",R4300,8.7
+2012,data.male,00-17years,"Streymoyar region, south",R4700,5.3
+2012,data.male,00-17years,Suðuroyar region,R4600,7.4
+2012,data.male,00-17years,Vága region,R4400,8.3
+2012,data.male,18-24years,,,4.1
+2012,data.male,18-24years,Eysturoyar region,R4200,2.1
+2012,data.male,18-24years,Norðoya region,R4100,2.1
+2012,data.male,18-24years,Sandoyar region,R4500,7.8
+2012,data.male,18-24years,"Streymoyar region, north",R4300,4.5
+2012,data.male,18-24years,"Streymoyar region, south",R4700,5.4
+2012,data.male,18-24years,Suðuroyar region,R4600,5.2
+2012,data.male,18-24years,Vága region,R4400,3.5
+2012,data.male,25-54years,,,4
+2012,data.male,25-54years,Eysturoyar region,R4200,3.3
+2012,data.male,25-54years,Norðoya region,R4100,5.3
+2012,data.male,25-54years,Sandoyar region,R4500,5.4
+2012,data.male,25-54years,"Streymoyar region, north",R4300,3.3
+2012,data.male,25-54years,"Streymoyar region, south",R4700,3.9
+2012,data.male,25-54years,Suðuroyar region,R4600,4.4
+2012,data.male,25-54years,Vága region,R4400,4.3
+2012,data.male,55-66years,,,4.5
+2012,data.male,55-66years,Eysturoyar region,R4200,4
+2012,data.male,55-66years,Norðoya region,R4100,3
+2012,data.male,55-66years,Sandoyar region,R4500,10.7
+2012,data.male,55-66years,"Streymoyar region, north",R4300,4
+2012,data.male,55-66years,"Streymoyar region, south",R4700,4.5
+2012,data.male,55-66years,Suðuroyar region,R4600,4.7
+2012,data.male,55-66years,Vága region,R4400,5.9
+2012,data.male,67years,,,3.1
+2012,data.male,67years,Eysturoyar region,R4200,2.6
+2012,data.male,67years,Norðoya region,R4100,3.1
+2012,data.male,67years,Sandoyar region,R4500,-
+2012,data.male,67years,"Streymoyar region, north",R4300,2.9
+2012,data.male,67years,"Streymoyar region, south",R4700,3.9
+2012,data.male,67years,Suðuroyar region,R4600,2.5
+2012,data.male,67years,Vága region,R4400,3.2
+2013,,,,,3.8
+2013,,,Eysturoyar region,R4200,3.1
+2013,,,Norðoya region,R4100,4.1
+2013,,,Sandoyar region,R4500,5.3
+2013,,,"Streymoyar region, north",R4300,4.2
+2013,,,"Streymoyar region, south",R4700,3.5
+2013,,,Suðuroyar region,R4600,5.6
+2013,,,Vága region,R4400,3.2
+2013,,00-17years,,,5.2
+2013,,00-17years,Eysturoyar region,R4200,4.6
+2013,,00-17years,Norðoya region,R4100,6
+2013,,00-17years,Sandoyar region,R4500,7.9
+2013,,00-17years,"Streymoyar region, north",R4300,7
+2013,,00-17years,"Streymoyar region, south",R4700,4.3
+2013,,00-17years,Suðuroyar region,R4600,8.3
+2013,,00-17years,Vága region,R4400,4.1
+2013,,18-24years,,,4.3
+2013,,18-24years,Eysturoyar region,R4200,3
+2013,,18-24years,Norðoya region,R4100,3.4
+2013,,18-24years,Sandoyar region,R4500,4.6
+2013,,18-24years,"Streymoyar region, north",R4300,4.8
+2013,,18-24years,"Streymoyar region, south",R4700,4.8
+2013,,18-24years,Suðuroyar region,R4600,6.8
+2013,,18-24years,Vága region,R4400,2.8
+2013,,25-54years,,,3.4
+2013,,25-54years,Eysturoyar region,R4200,2.9
+2013,,25-54years,Norðoya region,R4100,3.9
+2013,,25-54years,Sandoyar region,R4500,5.1
+2013,,25-54years,"Streymoyar region, north",R4300,3.8
+2013,,25-54years,"Streymoyar region, south",R4700,3
+2013,,25-54years,Suðuroyar region,R4600,5.9
+2013,,25-54years,Vága region,R4400,2.7
+2013,,55-66years,,,3.4
+2013,,55-66years,Eysturoyar region,R4200,2.6
+2013,,55-66years,Norðoya region,R4100,2.6
+2013,,55-66years,Sandoyar region,R4500,5.9
+2013,,55-66years,"Streymoyar region, north",R4300,3
+2013,,55-66years,"Streymoyar region, south",R4700,3.7
+2013,,55-66years,Suðuroyar region,R4600,4.1
+2013,,55-66years,Vága region,R4400,4.2
+2013,,67years,,,2.2
+2013,,67years,Eysturoyar region,R4200,1.6
+2013,,67years,Norðoya region,R4100,3.1
+2013,,67years,Sandoyar region,R4500,1.8
+2013,,67years,"Streymoyar region, north",R4300,1.6
+2013,,67years,"Streymoyar region, south",R4700,2.2
+2013,,67years,Suðuroyar region,R4600,2.4
+2013,,67years,Vága region,R4400,2.2
+2013,data.female,,,,4.1
+2013,data.female,,Eysturoyar region,R4200,3.3
+2013,data.female,,Norðoya region,R4100,4.4
+2013,data.female,,Sandoyar region,R4500,5.5
+2013,data.female,,"Streymoyar region, north",R4300,4.7
+2013,data.female,,"Streymoyar region, south",R4700,3.7
+2013,data.female,,Suðuroyar region,R4600,6.4
+2013,data.female,,Vága region,R4400,3.1
+2013,data.female,00-17years,,,5.4
+2013,data.female,00-17years,Eysturoyar region,R4200,4.5
+2013,data.female,00-17years,Norðoya region,R4100,6.5
+2013,data.female,00-17years,Sandoyar region,R4500,9.4
+2013,data.female,00-17years,"Streymoyar region, north",R4300,7.5
+2013,data.female,00-17years,"Streymoyar region, south",R4700,4.3
+2013,data.female,00-17years,Suðuroyar region,R4600,9.8
+2013,data.female,00-17years,Vága region,R4400,4.1
+2013,data.female,18-24years,,,5.9
+2013,data.female,18-24years,Eysturoyar region,R4200,4.5
+2013,data.female,18-24years,Norðoya region,R4100,4.8
+2013,data.female,18-24years,Sandoyar region,R4500,6.7
+2013,data.female,18-24years,"Streymoyar region, north",R4300,6
+2013,data.female,18-24years,"Streymoyar region, south",R4700,6.5
+2013,data.female,18-24years,Suðuroyar region,R4600,9
+2013,data.female,18-24years,Vága region,R4400,3.4
+2013,data.female,25-54years,,,3.9
+2013,data.female,25-54years,Eysturoyar region,R4200,3.2
+2013,data.female,25-54years,Norðoya region,R4100,4.1
+2013,data.female,25-54years,Sandoyar region,R4500,5.5
+2013,data.female,25-54years,"Streymoyar region, north",R4300,5.1
+2013,data.female,25-54years,"Streymoyar region, south",R4700,3.3
+2013,data.female,25-54years,Suðuroyar region,R4600,7.4
+2013,data.female,25-54years,Vága region,R4400,2.8
+2013,data.female,55-66years,,,2.9
+2013,data.female,55-66years,Eysturoyar region,R4200,2.5
+2013,data.female,55-66years,Norðoya region,R4100,2.6
+2013,data.female,55-66years,Sandoyar region,R4500,1.9
+2013,data.female,55-66years,"Streymoyar region, north",R4300,1.2
+2013,data.female,55-66years,"Streymoyar region, south",R4700,3.6
+2013,data.female,55-66years,Suðuroyar region,R4600,2.7
+2013,data.female,55-66years,Vága region,R4400,3.4
+2013,data.female,67years,,,2.2
+2013,data.female,67years,Eysturoyar region,R4200,1.7
+2013,data.female,67years,Norðoya region,R4100,3.2
+2013,data.female,67years,Sandoyar region,R4500,3.3
+2013,data.female,67years,"Streymoyar region, north",R4300,1.7
+2013,data.female,67years,"Streymoyar region, south",R4700,2.1
+2013,data.female,67years,Suðuroyar region,R4600,2.6
+2013,data.female,67years,Vága region,R4400,1.7
+2013,data.male,,,,3.5
+2013,data.male,,Eysturoyar region,R4200,3
+2013,data.male,,Norðoya region,R4100,3.8
+2013,data.male,,Sandoyar region,R4500,5.1
+2013,data.male,,"Streymoyar region, north",R4300,3.8
+2013,data.male,,"Streymoyar region, south",R4700,3.3
+2013,data.male,,Suðuroyar region,R4600,4.9
+2013,data.male,,Vága region,R4400,3.3
+2013,data.male,00-17years,,,5
+2013,data.male,00-17years,Eysturoyar region,R4200,4.7
+2013,data.male,00-17years,Norðoya region,R4100,5.6
+2013,data.male,00-17years,Sandoyar region,R4500,6.5
+2013,data.male,00-17years,"Streymoyar region, north",R4300,6.5
+2013,data.male,00-17years,"Streymoyar region, south",R4700,4.4
+2013,data.male,00-17years,Suðuroyar region,R4600,6.9
+2013,data.male,00-17years,Vága region,R4400,4.2
+2013,data.male,18-24years,,,3
+2013,data.male,18-24years,Eysturoyar region,R4200,1.7
+2013,data.male,18-24years,Norðoya region,R4100,2.3
+2013,data.male,18-24years,Sandoyar region,R4500,3.1
+2013,data.male,18-24years,"Streymoyar region, north",R4300,3.9
+2013,data.male,18-24years,"Streymoyar region, south",R4700,3.3
+2013,data.male,18-24years,Suðuroyar region,R4600,5
+2013,data.male,18-24years,Vága region,R4400,2.3
+2013,data.male,25-54years,,,3
+2013,data.male,25-54years,Eysturoyar region,R4200,2.6
+2013,data.male,25-54years,Norðoya region,R4100,3.6
+2013,data.male,25-54years,Sandoyar region,R4500,4.8
+2013,data.male,25-54years,"Streymoyar region, north",R4300,2.6
+2013,data.male,25-54years,"Streymoyar region, south",R4700,2.7
+2013,data.male,25-54years,Suðuroyar region,R4600,4.6
+2013,data.male,25-54years,Vága region,R4400,2.6
+2013,data.male,55-66years,,,3.9
+2013,data.male,55-66years,Eysturoyar region,R4200,2.8
+2013,data.male,55-66years,Norðoya region,R4100,2.7
+2013,data.male,55-66years,Sandoyar region,R4500,8.9
+2013,data.male,55-66years,"Streymoyar region, north",R4300,4.5
+2013,data.male,55-66years,"Streymoyar region, south",R4700,3.7
+2013,data.male,55-66years,Suðuroyar region,R4600,5.3
+2013,data.male,55-66years,Vága region,R4400,5
+2013,data.male,67years,,,2.1
+2013,data.male,67years,Eysturoyar region,R4200,1.6
+2013,data.male,67years,Norðoya region,R4100,3
+2013,data.male,67years,Sandoyar region,R4500,-
+2013,data.male,67years,"Streymoyar region, north",R4300,1.4
+2013,data.male,67years,"Streymoyar region, south",R4700,2.4
+2013,data.male,67years,Suðuroyar region,R4600,2.3
+2013,data.male,67years,Vága region,R4400,2.8
+2014,,,,,3.5
+2014,,,Eysturoyar region,R4200,2.6
+2014,,,Norðoya region,R4100,3.7
+2014,,,Sandoyar region,R4500,4.6
+2014,,,"Streymoyar region, north",R4300,3.8
+2014,,,"Streymoyar region, south",R4700,3.5
+2014,,,Suðuroyar region,R4600,5.1
+2014,,,Vága region,R4400,3.8
+2014,,00-17years,,,4.8
+2014,,00-17years,Eysturoyar region,R4200,3.7
+2014,,00-17years,Norðoya region,R4100,6.1
+2014,,00-17years,Sandoyar region,R4500,5.5
+2014,,00-17years,"Streymoyar region, north",R4300,6.3
+2014,,00-17years,"Streymoyar region, south",R4700,4.1
+2014,,00-17years,Suðuroyar region,R4600,7.8
+2014,,00-17years,Vága region,R4400,5.1
+2014,,18-24years,,,4.6
+2014,,18-24years,Eysturoyar region,R4200,2.3
+2014,,18-24years,Norðoya region,R4100,4.2
+2014,,18-24years,Sandoyar region,R4500,8.3
+2014,,18-24years,"Streymoyar region, north",R4300,3
+2014,,18-24years,"Streymoyar region, south",R4700,5.8
+2014,,18-24years,Suðuroyar region,R4600,5.7
+2014,,18-24years,Vága region,R4400,4.8
+2014,,25-54years,,,3.1
+2014,,25-54years,Eysturoyar region,R4200,2.2
+2014,,25-54years,Norðoya region,R4100,3.6
+2014,,25-54years,Sandoyar region,R4500,2.8
+2014,,25-54years,"Streymoyar region, north",R4300,3.3
+2014,,25-54years,"Streymoyar region, south",R4700,2.9
+2014,,25-54years,Suðuroyar region,R4600,5.6
+2014,,25-54years,Vága region,R4400,3.5
+2014,,55-66years,,,3.2
+2014,,55-66years,Eysturoyar region,R4200,2.1
+2014,,55-66years,Norðoya region,R4100,1.7
+2014,,55-66years,Sandoyar region,R4500,7.6
+2014,,55-66years,"Streymoyar region, north",R4300,3.1
+2014,,55-66years,"Streymoyar region, south",R4700,3.8
+2014,,55-66years,Suðuroyar region,R4600,3.5
+2014,,55-66years,Vága region,R4400,3.2
+2014,,67years,,,2
+2014,,67years,Eysturoyar region,R4200,2.2
+2014,,67years,Norðoya region,R4100,1.9
+2014,,67years,Sandoyar region,R4500,2.1
+2014,,67years,"Streymoyar region, north",R4300,1.9
+2014,,67years,"Streymoyar region, south",R4700,1.9
+2014,,67years,Suðuroyar region,R4600,1.9
+2014,,67years,Vága region,R4400,2
+2014,data.female,,,,3.8
+2014,data.female,,Eysturoyar region,R4200,2.9
+2014,data.female,,Norðoya region,R4100,4.2
+2014,data.female,,Sandoyar region,R4500,4.5
+2014,data.female,,"Streymoyar region, north",R4300,4.2
+2014,data.female,,"Streymoyar region, south",R4700,3.6
+2014,data.female,,Suðuroyar region,R4600,5.7
+2014,data.female,,Vága region,R4400,3.8
+2014,data.female,00-17years,,,5
+2014,data.female,00-17years,Eysturoyar region,R4200,4.7
+2014,data.female,00-17years,Norðoya region,R4100,6.2
+2014,data.female,00-17years,Sandoyar region,R4500,7
+2014,data.female,00-17years,"Streymoyar region, north",R4300,6.8
+2014,data.female,00-17years,"Streymoyar region, south",R4700,3.8
+2014,data.female,00-17years,Suðuroyar region,R4600,8.1
+2014,data.female,00-17years,Vága region,R4400,5
+2014,data.female,18-24years,,,5.9
+2014,data.female,18-24years,Eysturoyar region,R4200,2.4
+2014,data.female,18-24years,Norðoya region,R4100,5.8
+2014,data.female,18-24years,Sandoyar region,R4500,12.5
+2014,data.female,18-24years,"Streymoyar region, north",R4300,5
+2014,data.female,18-24years,"Streymoyar region, south",R4700,8.1
+2014,data.female,18-24years,Suðuroyar region,R4600,7.2
+2014,data.female,18-24years,Vága region,R4400,2.1
+2014,data.female,25-54years,,,3.6
+2014,data.female,25-54years,Eysturoyar region,R4200,2.4
+2014,data.female,25-54years,Norðoya region,R4100,4.7
+2014,data.female,25-54years,Sandoyar region,R4500,3.8
+2014,data.female,25-54years,"Streymoyar region, north",R4300,4.5
+2014,data.female,25-54years,"Streymoyar region, south",R4700,2.9
+2014,data.female,25-54years,Suðuroyar region,R4600,7.2
+2014,data.female,25-54years,Vága region,R4400,4.4
+2014,data.female,55-66years,,,2.7
+2014,data.female,55-66years,Eysturoyar region,R4200,2.1
+2014,data.female,55-66years,Norðoya region,R4100,1.3
+2014,data.female,55-66years,Sandoyar region,R4500,3
+2014,data.female,55-66years,"Streymoyar region, north",R4300,1.6
+2014,data.female,55-66years,"Streymoyar region, south",R4700,3.9
+2014,data.female,55-66years,Suðuroyar region,R4600,2.2
+2014,data.female,55-66years,Vága region,R4400,2.3
+2014,data.female,67years,,,2
+2014,data.female,67years,Eysturoyar region,R4200,2.1
+2014,data.female,67years,Norðoya region,R4100,2
+2014,data.female,67years,Sandoyar region,R4500,1.6
+2014,data.female,67years,"Streymoyar region, north",R4300,1.7
+2014,data.female,67years,"Streymoyar region, south",R4700,1.8
+2014,data.female,67years,Suðuroyar region,R4600,2.3
+2014,data.female,67years,Vága region,R4400,2.6
+2014,data.male,,,,3.3
+2014,data.male,,Eysturoyar region,R4200,2.3
+2014,data.male,,Norðoya region,R4100,3.3
+2014,data.male,,Sandoyar region,R4500,4.7
+2014,data.male,,"Streymoyar region, north",R4300,3.4
+2014,data.male,,"Streymoyar region, south",R4700,3.4
+2014,data.male,,Suðuroyar region,R4600,4.6
+2014,data.male,,Vága region,R4400,3.7
+2014,data.male,00-17years,,,4.7
+2014,data.male,00-17years,Eysturoyar region,R4200,2.9
+2014,data.male,00-17years,Norðoya region,R4100,6
+2014,data.male,00-17years,Sandoyar region,R4500,4
+2014,data.male,00-17years,"Streymoyar region, north",R4300,5.9
+2014,data.male,00-17years,"Streymoyar region, south",R4700,4.4
+2014,data.male,00-17years,Suðuroyar region,R4600,7.5
+2014,data.male,00-17years,Vága region,R4400,5.2
+2014,data.male,18-24years,,,3.4
+2014,data.male,18-24years,Eysturoyar region,R4200,2.2
+2014,data.male,18-24years,Norðoya region,R4100,2.8
+2014,data.male,18-24years,Sandoyar region,R4500,5.3
+2014,data.male,18-24years,"Streymoyar region, north",R4300,1.6
+2014,data.male,18-24years,"Streymoyar region, south",R4700,3.8
+2014,data.male,18-24years,Suðuroyar region,R4600,4.4
+2014,data.male,18-24years,Vága region,R4400,6.8
+2014,data.male,25-54years,,,2.7
+2014,data.male,25-54years,Eysturoyar region,R4200,2
+2014,data.male,25-54years,Norðoya region,R4100,2.7
+2014,data.male,25-54years,Sandoyar region,R4500,1.9
+2014,data.male,25-54years,"Streymoyar region, north",R4300,2.3
+2014,data.male,25-54years,"Streymoyar region, south",R4700,2.9
+2014,data.male,25-54years,Suðuroyar region,R4600,4.3
+2014,data.male,25-54years,Vága region,R4400,2.7
+2014,data.male,55-66years,,,3.6
+2014,data.male,55-66years,Eysturoyar region,R4200,2.2
+2014,data.male,55-66years,Norðoya region,R4100,2
+2014,data.male,55-66years,Sandoyar region,R4500,11.1
+2014,data.male,55-66years,"Streymoyar region, north",R4300,4.5
+2014,data.male,55-66years,"Streymoyar region, south",R4700,3.6
+2014,data.male,55-66years,Suðuroyar region,R4600,4.7
+2014,data.male,55-66years,Vága region,R4400,4.1
+2014,data.male,67years,,,2
+2014,data.male,67years,Eysturoyar region,R4200,2.3
+2014,data.male,67years,Norðoya region,R4100,1.7
+2014,data.male,67years,Sandoyar region,R4500,2.8
+2014,data.male,67years,"Streymoyar region, north",R4300,2.1
+2014,data.male,67years,"Streymoyar region, south",R4700,2
+2014,data.male,67years,Suðuroyar region,R4600,1.5
+2014,data.male,67years,Vága region,R4400,1.3
+2015,,,,,3.4
+2015,,,Eysturoyar region,R4200,2.7
+2015,,,Norðoya region,R4100,3.3
+2015,,,Sandoyar region,R4500,6.2
+2015,,,"Streymoyar region, north",R4300,3
+2015,,,"Streymoyar region, south",R4700,3.3
+2015,,,Suðuroyar region,R4600,4.4
+2015,,,Vága region,R4400,4.2
+2015,,00-17years,,,4.5
+2015,,00-17years,Eysturoyar region,R4200,3.8
+2015,,00-17years,Norðoya region,R4100,4.6
+2015,,00-17years,Sandoyar region,R4500,8.9
+2015,,00-17years,"Streymoyar region, north",R4300,4.3
+2015,,00-17years,"Streymoyar region, south",R4700,3.8
+2015,,00-17years,Suðuroyar region,R4600,6.7
+2015,,00-17years,Vága region,R4400,6.4
+2015,,18-24years,,,4.2
+2015,,18-24years,Eysturoyar region,R4200,3.6
+2015,,18-24years,Norðoya region,R4100,2.3
+2015,,18-24years,Sandoyar region,R4500,7.2
+2015,,18-24years,"Streymoyar region, north",R4300,1.8
+2015,,18-24years,"Streymoyar region, south",R4700,5.5
+2015,,18-24years,Suðuroyar region,R4600,3.3
+2015,,18-24years,Vága region,R4400,4.3
+2015,,25-54years,,,3.2
+2015,,25-54years,Eysturoyar region,R4200,2.4
+2015,,25-54years,Norðoya region,R4100,3.5
+2015,,25-54years,Sandoyar region,R4500,7
+2015,,25-54years,"Streymoyar region, north",R4300,3.2
+2015,,25-54years,"Streymoyar region, south",R4700,3
+2015,,25-54years,Suðuroyar region,R4600,4.9
+2015,,25-54years,Vága region,R4400,4
+2015,,55-66years,,,2.8
+2015,,55-66years,Eysturoyar region,R4200,1.7
+2015,,55-66years,Norðoya region,R4100,1.8
+2015,,55-66years,Sandoyar region,R4500,6.4
+2015,,55-66years,"Streymoyar region, north",R4300,2.3
+2015,,55-66years,"Streymoyar region, south",R4700,3.5
+2015,,55-66years,Suðuroyar region,R4600,2.6
+2015,,55-66years,Vága region,R4400,2.5
+2015,,67years,,,2
+2015,,67years,Eysturoyar region,R4200,2
+2015,,67years,Norðoya region,R4100,2.5
+2015,,67years,Sandoyar region,R4500,1.6
+2015,,67years,"Streymoyar region, north",R4300,1.9
+2015,,67years,"Streymoyar region, south",R4700,1.5
+2015,,67years,Suðuroyar region,R4600,2.7
+2015,,67years,Vága region,R4400,2.2
+2015,data.female,,,,3.6
+2015,data.female,,Eysturoyar region,R4200,3.2
+2015,data.female,,Norðoya region,R4100,3.5
+2015,data.female,,Sandoyar region,R4500,6.3
+2015,data.female,,"Streymoyar region, north",R4300,3.2
+2015,data.female,,"Streymoyar region, south",R4700,3.4
+2015,data.female,,Suðuroyar region,R4600,4.9
+2015,data.female,,Vága region,R4400,4.3
+2015,data.female,00-17years,,,4.9
+2015,data.female,00-17years,Eysturoyar region,R4200,4.4
+2015,data.female,00-17years,Norðoya region,R4100,4.7
+2015,data.female,00-17years,Sandoyar region,R4500,10.1
+2015,data.female,00-17years,"Streymoyar region, north",R4300,5.1
+2015,data.female,00-17years,"Streymoyar region, south",R4700,4
+2015,data.female,00-17years,Suðuroyar region,R4600,7.1
+2015,data.female,00-17years,Vága region,R4400,7.6
+2015,data.female,18-24years,,,5.3
+2015,data.female,18-24years,Eysturoyar region,R4200,5
+2015,data.female,18-24years,Norðoya region,R4100,3.2
+2015,data.female,18-24years,Sandoyar region,R4500,8.1
+2015,data.female,18-24years,"Streymoyar region, north",R4300,2.8
+2015,data.female,18-24years,"Streymoyar region, south",R4700,7
+2015,data.female,18-24years,Suðuroyar region,R4600,2.5
+2015,data.female,18-24years,Vága region,R4400,5.3
+2015,data.female,25-54years,,,3.5
+2015,data.female,25-54years,Eysturoyar region,R4200,2.7
+2015,data.female,25-54years,Norðoya region,R4100,3.9
+2015,data.female,25-54years,Sandoyar region,R4500,7.8
+2015,data.female,25-54years,"Streymoyar region, north",R4300,3.8
+2015,data.female,25-54years,"Streymoyar region, south",R4700,2.9
+2015,data.female,25-54years,Suðuroyar region,R4600,6.7
+2015,data.female,25-54years,Vága region,R4400,3.7
+2015,data.female,55-66years,,,2.2
+2015,data.female,55-66years,Eysturoyar region,R4200,1.9
+2015,data.female,55-66years,Norðoya region,R4100,1.5
+2015,data.female,55-66years,Sandoyar region,R4500,4
+2015,data.female,55-66years,"Streymoyar region, north",R4300,0.8
+2015,data.female,55-66years,"Streymoyar region, south",R4700,3
+2015,data.female,55-66years,Suðuroyar region,R4600,1.6
+2015,data.female,55-66years,Vága region,R4400,0.9
+2015,data.female,67years,,,1.9
+2015,data.female,67years,Eysturoyar region,R4200,2.1
+2015,data.female,67years,Norðoya region,R4100,2.6
+2015,data.female,67years,Sandoyar region,R4500,1.5
+2015,data.female,67years,"Streymoyar region, north",R4300,1
+2015,data.female,67years,"Streymoyar region, south",R4700,1.4
+2015,data.female,67years,Suðuroyar region,R4600,2.9
+2015,data.female,67years,Vága region,R4400,2.6
+2015,data.male,,,,3.2
+2015,data.male,,Eysturoyar region,R4200,2.3
+2015,data.male,,Norðoya region,R4100,3
+2015,data.male,,Sandoyar region,R4500,6.2
+2015,data.male,,"Streymoyar region, north",R4300,2.9
+2015,data.male,,"Streymoyar region, south",R4700,3.3
+2015,data.male,,Suðuroyar region,R4600,4
+2015,data.male,,Vága region,R4400,4
+2015,data.male,00-17years,,,4
+2015,data.male,00-17years,Eysturoyar region,R4200,3.2
+2015,data.male,00-17years,Norðoya region,R4100,4.5
+2015,data.male,00-17years,Sandoyar region,R4500,7.7
+2015,data.male,00-17years,"Streymoyar region, north",R4300,3.5
+2015,data.male,00-17years,"Streymoyar region, south",R4700,3.6
+2015,data.male,00-17years,Suðuroyar region,R4600,6.3
+2015,data.male,00-17years,Vága region,R4400,5.2
+2015,data.male,18-24years,,,3.2
+2015,data.male,18-24years,Eysturoyar region,R4200,2.3
+2015,data.male,18-24years,Norðoya region,R4100,1.5
+2015,data.male,18-24years,Sandoyar region,R4500,6.7
+2015,data.male,18-24years,"Streymoyar region, north",R4300,1
+2015,data.male,18-24years,"Streymoyar region, south",R4700,4.2
+2015,data.male,18-24years,Suðuroyar region,R4600,4
+2015,data.male,18-24years,Vága region,R4400,3.7
+2015,data.male,25-54years,,,3
+2015,data.male,25-54years,Eysturoyar region,R4200,2.1
+2015,data.male,25-54years,Norðoya region,R4100,3.1
+2015,data.male,25-54years,Sandoyar region,R4500,6.2
+2015,data.male,25-54years,"Streymoyar region, north",R4300,2.8
+2015,data.male,25-54years,"Streymoyar region, south",R4700,3
+2015,data.male,25-54years,Suðuroyar region,R4600,3.5
+2015,data.male,25-54years,Vága region,R4400,4.2
+2015,data.male,55-66years,,,3.4
+2015,data.male,55-66years,Eysturoyar region,R4200,1.6
+2015,data.male,55-66years,Norðoya region,R4100,2
+2015,data.male,55-66years,Sandoyar region,R4500,8.3
+2015,data.male,55-66years,"Streymoyar region, north",R4300,3.5
+2015,data.male,55-66years,"Streymoyar region, south",R4700,4.1
+2015,data.male,55-66years,Suðuroyar region,R4600,3.6
+2015,data.male,55-66years,Vága region,R4400,4
+2015,data.male,67years,,,2
+2015,data.male,67years,Eysturoyar region,R4200,2
+2015,data.male,67years,Norðoya region,R4100,2.4
+2015,data.male,67years,Sandoyar region,R4500,1.8
+2015,data.male,67years,"Streymoyar region, north",R4300,2.8
+2015,data.male,67years,"Streymoyar region, south",R4700,1.6
+2015,data.male,67years,Suðuroyar region,R4600,2.6
+2015,data.male,67years,Vága region,R4400,1.8
+2016,,,,,3.2
+2016,,,Eysturoyar region,R4200,2.5
+2016,,,Norðoya region,R4100,2.8
+2016,,,Sandoyar region,R4500,3.8
+2016,,,"Streymoyar region, north",R4300,3.1
+2016,,,"Streymoyar region, south",R4700,3.3
+2016,,,Suðuroyar region,R4600,5
+2016,,,Vága region,R4400,3.3
+2016,,00-17years,,,4.2
+2016,,00-17years,Eysturoyar region,R4200,3.8
+2016,,00-17years,Norðoya region,R4100,4.1
+2016,,00-17years,Sandoyar region,R4500,4.5
+2016,,00-17years,"Streymoyar region, north",R4300,4.1
+2016,,00-17years,"Streymoyar region, south",R4700,3.6
+2016,,00-17years,Suðuroyar region,R4600,8.8
+2016,,00-17years,Vága region,R4400,4.2
+2016,,18-24years,,,3.7
+2016,,18-24years,Eysturoyar region,R4200,2.8
+2016,,18-24years,Norðoya region,R4100,2.8
+2016,,18-24years,Sandoyar region,R4500,6
+2016,,18-24years,"Streymoyar region, north",R4300,3.2
+2016,,18-24years,"Streymoyar region, south",R4700,4.4
+2016,,18-24years,Suðuroyar region,R4600,4.6
+2016,,18-24years,Vága region,R4400,1.7
+2016,,25-54years,,,3.1
+2016,,25-54years,Eysturoyar region,R4200,2.3
+2016,,25-54years,Norðoya region,R4100,2.8
+2016,,25-54years,Sandoyar region,R4500,4
+2016,,25-54years,"Streymoyar region, north",R4300,2.9
+2016,,25-54years,"Streymoyar region, south",R4700,3.1
+2016,,25-54years,Suðuroyar region,R4600,4.7
+2016,,25-54years,Vága region,R4400,3.3
+2016,,55-66years,,,2.8
+2016,,55-66years,Eysturoyar region,R4200,1.9
+2016,,55-66years,Norðoya region,R4100,1.3
+2016,,55-66years,Sandoyar region,R4500,5.1
+2016,,55-66years,"Streymoyar region, north",R4300,3.5
+2016,,55-66years,"Streymoyar region, south",R4700,3.3
+2016,,55-66years,Suðuroyar region,R4600,3.6
+2016,,55-66years,Vága region,R4400,2.6
+2016,,67years,,,1.9
+2016,,67years,Eysturoyar region,R4200,1
+2016,,67years,Norðoya region,R4100,2.2
+2016,,67years,Sandoyar region,R4500,0.8
+2016,,67years,"Streymoyar region, north",R4300,1.4
+2016,,67years,"Streymoyar region, south",R4700,2.1
+2016,,67years,Suðuroyar region,R4600,2.3
+2016,,67years,Vága region,R4400,3.3
+2016,data.female,,,,3.4
+2016,data.female,,Eysturoyar region,R4200,2.8
+2016,data.female,,Norðoya region,R4100,2.9
+2016,data.female,,Sandoyar region,R4500,3.5
+2016,data.female,,"Streymoyar region, north",R4300,3.3
+2016,data.female,,"Streymoyar region, south",R4700,3.4
+2016,data.female,,Suðuroyar region,R4600,5.5
+2016,data.female,,Vága region,R4400,3
+2016,data.female,00-17years,,,4.4
+2016,data.female,00-17years,Eysturoyar region,R4200,4.2
+2016,data.female,00-17years,Norðoya region,R4100,4
+2016,data.female,00-17years,Sandoyar region,R4500,6.3
+2016,data.female,00-17years,"Streymoyar region, north",R4300,4.5
+2016,data.female,00-17years,"Streymoyar region, south",R4700,3.7
+2016,data.female,00-17years,Suðuroyar region,R4600,9.1
+2016,data.female,00-17years,Vága region,R4400,3.8
+2016,data.female,18-24years,,,4.8
+2016,data.female,18-24years,Eysturoyar region,R4200,4.1
+2016,data.female,18-24years,Norðoya region,R4100,3.6
+2016,data.female,18-24years,Sandoyar region,R4500,5.3
+2016,data.female,18-24years,"Streymoyar region, north",R4300,3.6
+2016,data.female,18-24years,"Streymoyar region, south",R4700,5.9
+2016,data.female,18-24years,Suðuroyar region,R4600,5.6
+2016,data.female,18-24years,Vága region,R4400,1.9
+2016,data.female,25-54years,,,3.3
+2016,data.female,25-54years,Eysturoyar region,R4200,2.7
+2016,data.female,25-54years,Norðoya region,R4100,2.8
+2016,data.female,25-54years,Sandoyar region,R4500,3.4
+2016,data.female,25-54years,"Streymoyar region, north",R4300,4
+2016,data.female,25-54years,"Streymoyar region, south",R4700,3.2
+2016,data.female,25-54years,Suðuroyar region,R4600,6.1
+2016,data.female,25-54years,Vága region,R4400,2.9
+2016,data.female,55-66years,,,2.4
+2016,data.female,55-66years,Eysturoyar region,R4200,1.9
+2016,data.female,55-66years,Norðoya region,R4100,1.3
+2016,data.female,55-66years,Sandoyar region,R4500,2.1
+2016,data.female,55-66years,"Streymoyar region, north",R4300,1.6
+2016,data.female,55-66years,"Streymoyar region, south",R4700,3.1
+2016,data.female,55-66years,Suðuroyar region,R4600,2.9
+2016,data.female,55-66years,Vága region,R4400,1.5
+2016,data.female,67years,,,1.9
+2016,data.female,67years,Eysturoyar region,R4200,0.9
+2016,data.female,67years,Norðoya region,R4100,2.4
+2016,data.female,67years,Sandoyar region,R4500,1.4
+2016,data.female,67years,"Streymoyar region, north",R4300,1.3
+2016,data.female,67years,"Streymoyar region, south",R4700,2
+2016,data.female,67years,Suðuroyar region,R4600,2.4
+2016,data.female,67years,Vága region,R4400,3.7
+2016,data.male,,,,3.1
+2016,data.male,,Eysturoyar region,R4200,2.3
+2016,data.male,,Norðoya region,R4100,2.8
+2016,data.male,,Sandoyar region,R4500,4.1
+2016,data.male,,"Streymoyar region, north",R4300,2.9
+2016,data.male,,"Streymoyar region, south",R4700,3.1
+2016,data.male,,Suðuroyar region,R4600,4.5
+2016,data.male,,Vága region,R4400,3.6
+2016,data.male,00-17years,,,4.1
+2016,data.male,00-17years,Eysturoyar region,R4200,3.5
+2016,data.male,00-17years,Norðoya region,R4100,4.2
+2016,data.male,00-17years,Sandoyar region,R4500,2.8
+2016,data.male,00-17years,"Streymoyar region, north",R4300,3.7
+2016,data.male,00-17years,"Streymoyar region, south",R4700,3.5
+2016,data.male,00-17years,Suðuroyar region,R4600,8.6
+2016,data.male,00-17years,Vága region,R4400,4.6
+2016,data.male,18-24years,,,2.7
+2016,data.male,18-24years,Eysturoyar region,R4200,1.7
+2016,data.male,18-24years,Norðoya region,R4100,2.1
+2016,data.male,18-24years,Sandoyar region,R4500,6.5
+2016,data.male,18-24years,"Streymoyar region, north",R4300,2.9
+2016,data.male,18-24years,"Streymoyar region, south",R4700,3
+2016,data.male,18-24years,Suðuroyar region,R4600,3.9
+2016,data.male,18-24years,Vága region,R4400,1.6
+2016,data.male,25-54years,,,2.8
+2016,data.male,25-54years,Eysturoyar region,R4200,2
+2016,data.male,25-54years,Norðoya region,R4100,2.8
+2016,data.male,25-54years,Sandoyar region,R4500,4.6
+2016,data.male,25-54years,"Streymoyar region, north",R4300,2.1
+2016,data.male,25-54years,"Streymoyar region, south",R4700,3
+2016,data.male,25-54years,Suðuroyar region,R4600,3.5
+2016,data.male,25-54years,Vága region,R4400,3.6
+2016,data.male,55-66years,,,3.3
+2016,data.male,55-66years,Eysturoyar region,R4200,2
+2016,data.male,55-66years,Norðoya region,R4100,1.3
+2016,data.male,55-66years,Sandoyar region,R4500,7.3
+2016,data.male,55-66years,"Streymoyar region, north",R4300,5.2
+2016,data.male,55-66years,"Streymoyar region, south",R4700,3.6
+2016,data.male,55-66years,Suðuroyar region,R4600,4.2
+2016,data.male,55-66years,Vága region,R4400,3.6
+2016,data.male,67years,,,1.9
+2016,data.male,67years,Eysturoyar region,R4200,1.2
+2016,data.male,67years,Norðoya region,R4100,2.1
+2016,data.male,67years,Sandoyar region,R4500,-
+2016,data.male,67years,"Streymoyar region, north",R4300,1.4
+2016,data.male,67years,"Streymoyar region, south",R4700,2.2
+2016,data.male,67years,Suðuroyar region,R4600,2.1
+2016,data.male,67years,Vága region,R4400,3
+2017,,,,,3
+2017,,,Eysturoyar region,R4200,2.7
+2017,,,Norðoya region,R4100,2.5
+2017,,,Sandoyar region,R4500,3.9
+2017,,,"Streymoyar region, north",R4300,3.3
+2017,,,"Streymoyar region, south",R4700,3
+2017,,,Suðuroyar region,R4600,4.4
+2017,,,Vága region,R4400,2.6
+2017,,00-17years,,,3.8
+2017,,00-17years,Eysturoyar region,R4200,4.1
+2017,,00-17years,Norðoya region,R4100,3.2
+2017,,00-17years,Sandoyar region,R4500,6.1
+2017,,00-17years,"Streymoyar region, north",R4300,4.7
+2017,,00-17years,"Streymoyar region, south",R4700,3.4
+2017,,00-17years,Suðuroyar region,R4600,5.1
+2017,,00-17years,Vága region,R4400,2.3
+2017,,18-24years,,,3
+2017,,18-24years,Eysturoyar region,R4200,1.8
+2017,,18-24years,Norðoya region,R4100,1.8
+2017,,18-24years,Sandoyar region,R4500,6.9
+2017,,18-24years,"Streymoyar region, north",R4300,3.5
+2017,,18-24years,"Streymoyar region, south",R4700,3.8
+2017,,18-24years,Suðuroyar region,R4600,3.4
+2017,,18-24years,Vága region,R4400,2.9
+2017,,25-54years,,,2.9
+2017,,25-54years,Eysturoyar region,R4200,2.5
+2017,,25-54years,Norðoya region,R4100,2.4
+2017,,25-54years,Sandoyar region,R4500,3.5
+2017,,25-54years,"Streymoyar region, north",R4300,2.6
+2017,,25-54years,"Streymoyar region, south",R4700,2.8
+2017,,25-54years,Suðuroyar region,R4600,4.8
+2017,,25-54years,Vága region,R4400,2.5
+2017,,55-66years,,,2.8
+2017,,55-66years,Eysturoyar region,R4200,1.6
+2017,,55-66years,Norðoya region,R4100,2
+2017,,55-66years,Sandoyar region,R4500,3.8
+2017,,55-66years,"Streymoyar region, north",R4300,3.2
+2017,,55-66years,"Streymoyar region, south",R4700,3.2
+2017,,55-66years,Suðuroyar region,R4600,3.7
+2017,,55-66years,Vága region,R4400,2.1
+2017,,67years,,,2.5
+2017,,67years,Eysturoyar region,R4200,2.2
+2017,,67years,Norðoya region,R4100,2.6
+2017,,67years,Sandoyar region,R4500,0.8
+2017,,67years,"Streymoyar region, north",R4300,2.7
+2017,,67years,"Streymoyar region, south",R4700,2.3
+2017,,67years,Suðuroyar region,R4600,3.6
+2017,,67years,Vága region,R4400,3.4
+2017,data.female,,,,3.1
+2017,data.female,,Eysturoyar region,R4200,3.1
+2017,data.female,,Norðoya region,R4100,2.8
+2017,data.female,,Sandoyar region,R4500,4
+2017,data.female,,"Streymoyar region, north",R4300,3.4
+2017,data.female,,"Streymoyar region, south",R4700,3
+2017,data.female,,Suðuroyar region,R4600,4.3
+2017,data.female,,Vága region,R4400,2.4
+2017,data.female,00-17years,,,3.7
+2017,data.female,00-17years,Eysturoyar region,R4200,4.7
+2017,data.female,00-17years,Norðoya region,R4100,2.9
+2017,data.female,00-17years,Sandoyar region,R4500,6.8
+2017,data.female,00-17years,"Streymoyar region, north",R4300,4.6
+2017,data.female,00-17years,"Streymoyar region, south",R4700,3
+2017,data.female,00-17years,Suðuroyar region,R4600,5.3
+2017,data.female,00-17years,Vága region,R4400,2.6
+2017,data.female,18-24years,,,4
+2017,data.female,18-24years,Eysturoyar region,R4200,2.9
+2017,data.female,18-24years,Norðoya region,R4100,3
+2017,data.female,18-24years,Sandoyar region,R4500,8.9
+2017,data.female,18-24years,"Streymoyar region, north",R4300,4.3
+2017,data.female,18-24years,"Streymoyar region, south",R4700,5.1
+2017,data.female,18-24years,Suðuroyar region,R4600,3.8
+2017,data.female,18-24years,Vága region,R4400,1
+2017,data.female,25-54years,,,2.9
+2017,data.female,25-54years,Eysturoyar region,R4200,2.7
+2017,data.female,25-54years,Norðoya region,R4100,2.6
+2017,data.female,25-54years,Sandoyar region,R4500,3.6
+2017,data.female,25-54years,"Streymoyar region, north",R4300,3.1
+2017,data.female,25-54years,"Streymoyar region, south",R4700,2.8
+2017,data.female,25-54years,Suðuroyar region,R4600,5
+2017,data.female,25-54years,Vága region,R4400,2.1
+2017,data.female,55-66years,,,2.4
+2017,data.female,55-66years,Eysturoyar region,R4200,1.9
+2017,data.female,55-66years,Norðoya region,R4100,2.3
+2017,data.female,55-66years,Sandoyar region,R4500,2
+2017,data.female,55-66years,"Streymoyar region, north",R4300,2
+2017,data.female,55-66years,"Streymoyar region, south",R4700,2.6
+2017,data.female,55-66years,Suðuroyar region,R4600,3
+2017,data.female,55-66years,Vága region,R4400,1.9
+2017,data.female,67years,,,2.9
+2017,data.female,67years,Eysturoyar region,R4200,2.5
+2017,data.female,67years,Norðoya region,R4100,3.5
+2017,data.female,67years,Sandoyar region,R4500,1.4
+2017,data.female,67years,"Streymoyar region, north",R4300,3
+2017,data.female,67years,"Streymoyar region, south",R4700,2.9
+2017,data.female,67years,Suðuroyar region,R4600,3.1
+2017,data.female,67years,Vága region,R4400,3.5
+2017,data.male,,,,2.9
+2017,data.male,,Eysturoyar region,R4200,2.4
+2017,data.male,,Norðoya region,R4100,2.2
+2017,data.male,,Sandoyar region,R4500,3.8
+2017,data.male,,"Streymoyar region, north",R4300,3.2
+2017,data.male,,"Streymoyar region, south",R4700,3.1
+2017,data.male,,Suðuroyar region,R4600,4.5
+2017,data.male,,Vága region,R4400,2.7
+2017,data.male,00-17years,,,3.8
+2017,data.male,00-17years,Eysturoyar region,R4200,3.6
+2017,data.male,00-17years,Norðoya region,R4100,3.5
+2017,data.male,00-17years,Sandoyar region,R4500,5.4
+2017,data.male,00-17years,"Streymoyar region, north",R4300,4.8
+2017,data.male,00-17years,"Streymoyar region, south",R4700,3.8
+2017,data.male,00-17years,Suðuroyar region,R4600,5
+2017,data.male,00-17years,Vága region,R4400,1.9
+2017,data.male,18-24years,,,2.2
+2017,data.male,18-24years,Eysturoyar region,R4200,0.9
+2017,data.male,18-24years,Norðoya region,R4100,0.7
+2017,data.male,18-24years,Sandoyar region,R4500,5.3
+2017,data.male,18-24years,"Streymoyar region, north",R4300,2.8
+2017,data.male,18-24years,"Streymoyar region, south",R4700,2.6
+2017,data.male,18-24years,Suðuroyar region,R4600,3
+2017,data.male,18-24years,Vága region,R4400,4.4
+2017,data.male,25-54years,,,2.8
+2017,data.male,25-54years,Eysturoyar region,R4200,2.4
+2017,data.male,25-54years,Norðoya region,R4100,2.1
+2017,data.male,25-54years,Sandoyar region,R4500,3.4
+2017,data.male,25-54years,"Streymoyar region, north",R4300,2.1
+2017,data.male,25-54years,"Streymoyar region, south",R4700,2.8
+2017,data.male,25-54years,Suðuroyar region,R4600,4.6
+2017,data.male,25-54years,Vága region,R4400,2.9
+2017,data.male,55-66years,,,3.1
+2017,data.male,55-66years,Eysturoyar region,R4200,1.4
+2017,data.male,55-66years,Norðoya region,R4100,1.8
+2017,data.male,55-66years,Sandoyar region,R4500,5.2
+2017,data.male,55-66years,"Streymoyar region, north",R4300,4.3
+2017,data.male,55-66years,"Streymoyar region, south",R4700,3.9
+2017,data.male,55-66years,Suðuroyar region,R4600,4.4
+2017,data.male,55-66years,Vága region,R4400,2.3
+2017,data.male,67years,,,2.2
+2017,data.male,67years,Eysturoyar region,R4200,2
+2017,data.male,67years,Norðoya region,R4100,1.6
+2017,data.male,67years,Sandoyar region,R4500,-
+2017,data.male,67years,"Streymoyar region, north",R4300,2.4
+2017,data.male,67years,"Streymoyar region, south",R4700,1.7
+2017,data.male,67years,Suðuroyar region,R4600,4.1
+2017,data.male,67years,Vága region,R4400,3.2
+2018,,,,,2.9
+2018,,,Eysturoyar region,R4200,2.6
+2018,,,Norðoya region,R4100,2.7
+2018,,,Sandoyar region,R4500,4.3
+2018,,,"Streymoyar region, north",R4300,2.4
+2018,,,"Streymoyar region, south",R4700,2.8
+2018,,,Suðuroyar region,R4600,4.1
+2018,,,Vága region,R4400,3
+2018,,00-17years,,,3.5
+2018,,00-17years,Eysturoyar region,R4200,3.5
+2018,,00-17years,Norðoya region,R4100,4
+2018,,00-17years,Sandoyar region,R4500,6.8
+2018,,00-17years,"Streymoyar region, north",R4300,3
+2018,,00-17years,"Streymoyar region, south",R4700,3
+2018,,00-17years,Suðuroyar region,R4600,5.2
+2018,,00-17years,Vága region,R4400,2.7
+2018,,18-24years,,,3.4
+2018,,18-24years,Eysturoyar region,R4200,3.1
+2018,,18-24years,Norðoya region,R4100,2.8
+2018,,18-24years,Sandoyar region,R4500,6.7
+2018,,18-24years,"Streymoyar region, north",R4300,1
+2018,,18-24years,"Streymoyar region, south",R4700,3.8
+2018,,18-24years,Suðuroyar region,R4600,4.9
+2018,,18-24years,Vága region,R4400,3.2
+2018,,25-54years,,,2.8
+2018,,25-54years,Eysturoyar region,R4200,2.4
+2018,,25-54years,Norðoya region,R4100,2.7
+2018,,25-54years,Sandoyar region,R4500,4.3
+2018,,25-54years,"Streymoyar region, north",R4300,2.1
+2018,,25-54years,"Streymoyar region, south",R4700,2.8
+2018,,25-54years,Suðuroyar region,R4600,4.4
+2018,,25-54years,Vága region,R4400,2.8
+2018,,55-66years,,,2.3
+2018,,55-66years,Eysturoyar region,R4200,1.7
+2018,,55-66years,Norðoya region,R4100,0.8
+2018,,55-66years,Sandoyar region,R4500,2.2
+2018,,55-66years,"Streymoyar region, north",R4300,2.9
+2018,,55-66years,"Streymoyar region, south",R4700,2.7
+2018,,55-66years,Suðuroyar region,R4600,2.9
+2018,,55-66years,Vága region,R4400,3.6
+2018,,67years,,,2.4
+2018,,67years,Eysturoyar region,R4200,2.4
+2018,,67years,Norðoya region,R4100,2.1
+2018,,67years,Sandoyar region,R4500,2.6
+2018,,67years,"Streymoyar region, north",R4300,2.2
+2018,,67years,"Streymoyar region, south",R4700,1.9
+2018,,67years,Suðuroyar region,R4600,3.3
+2018,,67years,Vága region,R4400,3.4
+2018,data.female,,,,3
+2018,data.female,,Eysturoyar region,R4200,3
+2018,data.female,,Norðoya region,R4100,3
+2018,data.female,,Sandoyar region,R4500,4.2
+2018,data.female,,"Streymoyar region, north",R4300,2.6
+2018,data.female,,"Streymoyar region, south",R4700,2.7
+2018,data.female,,Suðuroyar region,R4600,4.2
+2018,data.female,,Vága region,R4400,2.7
+2018,data.female,00-17years,,,3.4
+2018,data.female,00-17years,Eysturoyar region,R4200,4
+2018,data.female,00-17years,Norðoya region,R4100,3.5
+2018,data.female,00-17years,Sandoyar region,R4500,6.7
+2018,data.female,00-17years,"Streymoyar region, north",R4300,3
+2018,data.female,00-17years,"Streymoyar region, south",R4700,2.8
+2018,data.female,00-17years,Suðuroyar region,R4600,5.1
+2018,data.female,00-17years,Vága region,R4400,2.1
+2018,data.female,18-24years,,,4.2
+2018,data.female,18-24years,Eysturoyar region,R4200,4.9
+2018,data.female,18-24years,Norðoya region,R4100,3.7
+2018,data.female,18-24years,Sandoyar region,R4500,3.9
+2018,data.female,18-24years,"Streymoyar region, north",R4300,0.7
+2018,data.female,18-24years,"Streymoyar region, south",R4700,4.2
+2018,data.female,18-24years,Suðuroyar region,R4600,6.7
+2018,data.female,18-24years,Vága region,R4400,3.8
+2018,data.female,25-54years,,,2.9
+2018,data.female,25-54years,Eysturoyar region,R4200,2.5
+2018,data.female,25-54years,Norðoya region,R4100,3.7
+2018,data.female,25-54years,Sandoyar region,R4500,4.8
+2018,data.female,25-54years,"Streymoyar region, north",R4300,2.8
+2018,data.female,25-54years,"Streymoyar region, south",R4700,2.6
+2018,data.female,25-54years,Suðuroyar region,R4600,4.7
+2018,data.female,25-54years,Vága region,R4400,2.6
+2018,data.female,55-66years,,,2.1
+2018,data.female,55-66years,Eysturoyar region,R4200,1.6
+2018,data.female,55-66years,Norðoya region,R4100,1
+2018,data.female,55-66years,Sandoyar region,R4500,2
+2018,data.female,55-66years,"Streymoyar region, north",R4300,2.3
+2018,data.female,55-66years,"Streymoyar region, south",R4700,2.3
+2018,data.female,55-66years,Suðuroyar region,R4600,2.6
+2018,data.female,55-66years,Vága region,R4400,2.9
+2018,data.female,67years,,,2.6
+2018,data.female,67years,Eysturoyar region,R4200,2.7
+2018,data.female,67years,Norðoya region,R4100,2.2
+2018,data.female,67years,Sandoyar region,R4500,2.7
+2018,data.female,67years,"Streymoyar region, north",R4300,2.5
+2018,data.female,67years,"Streymoyar region, south",R4700,2.5
+2018,data.female,67years,Suðuroyar region,R4600,2.7
+2018,data.female,67years,Vága region,R4400,3.5
+2018,data.male,,,,2.8
+2018,data.male,,Eysturoyar region,R4200,2.3
+2018,data.male,,Norðoya region,R4100,2.3
+2018,data.male,,Sandoyar region,R4500,4.4
+2018,data.male,,"Streymoyar region, north",R4300,2.2
+2018,data.male,,"Streymoyar region, south",R4700,2.9
+2018,data.male,,Suðuroyar region,R4600,4.1
+2018,data.male,,Vága region,R4400,3.2
+2018,data.male,00-17years,,,3.6
+2018,data.male,00-17years,Eysturoyar region,R4200,3
+2018,data.male,00-17years,Norðoya region,R4100,4.4
+2018,data.male,00-17years,Sandoyar region,R4500,7
+2018,data.male,00-17years,"Streymoyar region, north",R4300,3
+2018,data.male,00-17years,"Streymoyar region, south",R4700,3.3
+2018,data.male,00-17years,Suðuroyar region,R4600,5.3
+2018,data.male,00-17years,Vága region,R4400,3.2
+2018,data.male,18-24years,,,2.8
+2018,data.male,18-24years,Eysturoyar region,R4200,1.7
+2018,data.male,18-24years,Norðoya region,R4100,2
+2018,data.male,18-24years,Sandoyar region,R4500,9.4
+2018,data.male,18-24years,"Streymoyar region, north",R4300,1.2
+2018,data.male,18-24years,"Streymoyar region, south",R4700,3.5
+2018,data.male,18-24years,Suðuroyar region,R4600,3.6
+2018,data.male,18-24years,Vága region,R4400,2.8
+2018,data.male,25-54years,,,2.6
+2018,data.male,25-54years,Eysturoyar region,R4200,2.2
+2018,data.male,25-54years,Norðoya region,R4100,1.9
+2018,data.male,25-54years,Sandoyar region,R4500,3.9
+2018,data.male,25-54years,"Streymoyar region, north",R4300,1.6
+2018,data.male,25-54years,"Streymoyar region, south",R4700,2.9
+2018,data.male,25-54years,Suðuroyar region,R4600,4.1
+2018,data.male,25-54years,Vága region,R4400,2.9
+2018,data.male,55-66years,,,2.6
+2018,data.male,55-66years,Eysturoyar region,R4200,1.7
+2018,data.male,55-66years,Norðoya region,R4100,0.7
+2018,data.male,55-66years,Sandoyar region,R4500,2.4
+2018,data.male,55-66years,"Streymoyar region, north",R4300,3.5
+2018,data.male,55-66years,"Streymoyar region, south",R4700,3.1
+2018,data.male,55-66years,Suðuroyar region,R4600,3.2
+2018,data.male,55-66years,Vága region,R4400,4.1
+2018,data.male,67years,,,2.1
+2018,data.male,67years,Eysturoyar region,R4200,2.2
+2018,data.male,67years,Norðoya region,R4100,2
+2018,data.male,67years,Sandoyar region,R4500,2.3
+2018,data.male,67years,"Streymoyar region, north",R4300,2
+2018,data.male,67years,"Streymoyar region, south",R4700,1.3
+2018,data.male,67years,Suðuroyar region,R4600,3.8
+2018,data.male,67years,Vága region,R4400,3.3
+2019,,,,,2.6
+2019,,,Eysturoyar region,R4200,2.1
+2019,,,Norðoya region,R4100,2.4
+2019,,,Sandoyar region,R4500,3.6
+2019,,,"Streymoyar region, north",R4300,2.1
+2019,,,"Streymoyar region, south",R4700,2.6
+2019,,,Suðuroyar region,R4600,4.4
+2019,,,Vága region,R4400,2.9
+2019,,00-17years,,,3.4
+2019,,00-17years,Eysturoyar region,R4200,3.2
+2019,,00-17years,Norðoya region,R4100,3.2
+2019,,00-17years,Sandoyar region,R4500,7.1
+2019,,00-17years,"Streymoyar region, north",R4300,2.7
+2019,,00-17years,"Streymoyar region, south",R4700,3
+2019,,00-17years,Suðuroyar region,R4600,6.7
+2019,,00-17years,Vága region,R4400,2.6
+2019,,18-24years,,,3
+2019,,18-24years,Eysturoyar region,R4200,2.5
+2019,,18-24years,Norðoya region,R4100,2.1
+2019,,18-24years,Sandoyar region,R4500,3.8
+2019,,18-24years,"Streymoyar region, north",R4300,0.3
+2019,,18-24years,"Streymoyar region, south",R4700,3.7
+2019,,18-24years,Suðuroyar region,R4600,4.1
+2019,,18-24years,Vága region,R4400,4.3
+2019,,25-54years,,,2.6
+2019,,25-54years,Eysturoyar region,R4200,1.8
+2019,,25-54years,Norðoya region,R4100,2.7
+2019,,25-54years,Sandoyar region,R4500,3.4
+2019,,25-54years,"Streymoyar region, north",R4300,2.4
+2019,,25-54years,"Streymoyar region, south",R4700,2.5
+2019,,25-54years,Suðuroyar region,R4600,5
+2019,,25-54years,Vága region,R4400,3.1
+2019,,55-66years,,,2.2
+2019,,55-66years,Eysturoyar region,R4200,1.3
+2019,,55-66years,Norðoya region,R4100,1.1
+2019,,55-66years,Sandoyar region,R4500,2.7
+2019,,55-66years,"Streymoyar region, north",R4300,2.4
+2019,,55-66years,"Streymoyar region, south",R4700,2.6
+2019,,55-66years,Suðuroyar region,R4600,3.6
+2019,,55-66years,Vága region,R4400,2.5
+2019,,67years,,,1.5
+2019,,67years,Eysturoyar region,R4200,1.2
+2019,,67years,Norðoya region,R4100,1.9
+2019,,67years,Sandoyar region,R4500,0.8
+2019,,67years,"Streymoyar region, north",R4300,1
+2019,,67years,"Streymoyar region, south",R4700,1.5
+2019,,67years,Suðuroyar region,R4600,1.4
+2019,,67years,Vága region,R4400,2.5
+2019,data.female,,,,2.9
+2019,data.female,,Eysturoyar region,R4200,2.4
+2019,data.female,,Norðoya region,R4100,2.8
+2019,data.female,,Sandoyar region,R4500,4.2
+2019,data.female,,"Streymoyar region, north",R4300,2.1
+2019,data.female,,"Streymoyar region, south",R4700,2.9
+2019,data.female,,Suðuroyar region,R4600,4.6
+2019,data.female,,Vága region,R4400,2.9
+2019,data.female,00-17years,,,3.8
+2019,data.female,00-17years,Eysturoyar region,R4200,3.6
+2019,data.female,00-17years,Norðoya region,R4100,3.1
+2019,data.female,00-17years,Sandoyar region,R4500,8.1
+2019,data.female,00-17years,"Streymoyar region, north",R4300,2.2
+2019,data.female,00-17years,"Streymoyar region, south",R4700,3.7
+2019,data.female,00-17years,Suðuroyar region,R4600,6.8
+2019,data.female,00-17years,Vága region,R4400,2.8
+2019,data.female,18-24years,,,4
+2019,data.female,18-24years,Eysturoyar region,R4200,4.3
+2019,data.female,18-24years,Norðoya region,R4100,2.5
+2019,data.female,18-24years,Sandoyar region,R4500,3.9
+2019,data.female,18-24years,"Streymoyar region, north",R4300,0.7
+2019,data.female,18-24years,"Streymoyar region, south",R4700,4.8
+2019,data.female,18-24years,Suðuroyar region,R4600,3.9
+2019,data.female,18-24years,Vága region,R4400,4
+2019,data.female,25-54years,,,3
+2019,data.female,25-54years,Eysturoyar region,R4200,2.2
+2019,data.female,25-54years,Norðoya region,R4100,3.3
+2019,data.female,25-54years,Sandoyar region,R4500,4.6
+2019,data.female,25-54years,"Streymoyar region, north",R4300,2.7
+2019,data.female,25-54years,"Streymoyar region, south",R4700,2.6
+2019,data.female,25-54years,Suðuroyar region,R4600,6
+2019,data.female,25-54years,Vága region,R4400,3.1
+2019,data.female,55-66years,,,1.9
+2019,data.female,55-66years,Eysturoyar region,R4200,0.8
+2019,data.female,55-66years,Norðoya region,R4100,1.7
+2019,data.female,55-66years,Sandoyar region,R4500,3
+2019,data.female,55-66years,"Streymoyar region, north",R4300,1.9
+2019,data.female,55-66years,"Streymoyar region, south",R4700,2.4
+2019,data.female,55-66years,Suðuroyar region,R4600,2.6
+2019,data.female,55-66years,Vága region,R4400,1.4
+2019,data.female,67years,,,1.7
+2019,data.female,67years,Eysturoyar region,R4200,1.2
+2019,data.female,67years,Norðoya region,R4100,2.2
+2019,data.female,67years,Sandoyar region,R4500,0.7
+2019,data.female,67years,"Streymoyar region, north",R4300,1.6
+2019,data.female,67years,"Streymoyar region, south",R4700,1.8
+2019,data.female,67years,Suðuroyar region,R4600,1.6
+2019,data.female,67years,Vága region,R4400,3.4
+2019,data.male,,,,2.4
+2019,data.male,,Eysturoyar region,R4200,1.8
+2019,data.male,,Norðoya region,R4100,2.1
+2019,data.male,,Sandoyar region,R4500,3
+2019,data.male,,"Streymoyar region, north",R4300,2
+2019,data.male,,"Streymoyar region, south",R4700,2.3
+2019,data.male,,Suðuroyar region,R4600,4.2
+2019,data.male,,Vága region,R4400,2.8
+2019,data.male,00-17years,,,3
+2019,data.male,00-17years,Eysturoyar region,R4200,2.7
+2019,data.male,00-17years,Norðoya region,R4100,3.4
+2019,data.male,00-17years,Sandoyar region,R4500,6.2
+2019,data.male,00-17years,"Streymoyar region, north",R4300,3.2
+2019,data.male,00-17years,"Streymoyar region, south",R4700,2.2
+2019,data.male,00-17years,Suðuroyar region,R4600,6.7
+2019,data.male,00-17years,Vága region,R4400,2.3
+2019,data.male,18-24years,,,2.3
+2019,data.male,18-24years,Eysturoyar region,R4200,1.2
+2019,data.male,18-24years,Norðoya region,R4100,1.7
+2019,data.male,18-24years,Sandoyar region,R4500,3.7
+2019,data.male,18-24years,"Streymoyar region, north",R4300,-
+2019,data.male,18-24years,"Streymoyar region, south",R4700,2.7
+2019,data.male,18-24years,Suðuroyar region,R4600,4.2
+2019,data.male,18-24years,Vága region,R4400,4.6
+2019,data.male,25-54years,,,2.3
+2019,data.male,25-54years,Eysturoyar region,R4200,1.5
+2019,data.male,25-54years,Norðoya region,R4100,2.1
+2019,data.male,25-54years,Sandoyar region,R4500,2.4
+2019,data.male,25-54years,"Streymoyar region, north",R4300,2.1
+2019,data.male,25-54years,"Streymoyar region, south",R4700,2.4
+2019,data.male,25-54years,Suðuroyar region,R4600,4.1
+2019,data.male,25-54years,Vága region,R4400,3
+2019,data.male,55-66years,,,2.5
+2019,data.male,55-66years,Eysturoyar region,R4200,1.7
+2019,data.male,55-66years,Norðoya region,R4100,0.6
+2019,data.male,55-66years,Sandoyar region,R4500,2.4
+2019,data.male,55-66years,"Streymoyar region, north",R4300,2.8
+2019,data.male,55-66years,"Streymoyar region, south",R4700,2.8
+2019,data.male,55-66years,Suðuroyar region,R4600,4.4
+2019,data.male,55-66years,Vága region,R4400,3.4
+2019,data.male,67years,,,1.2
+2019,data.male,67years,Eysturoyar region,R4200,1.3
+2019,data.male,67years,Norðoya region,R4100,1.5
+2019,data.male,67years,Sandoyar region,R4500,0.8
+2019,data.male,67years,"Streymoyar region, north",R4300,0.3
+2019,data.male,67years,"Streymoyar region, south",R4700,1.2
+2019,data.male,67years,Suðuroyar region,R4600,1.3
+2019,data.male,67years,Vága region,R4400,1.6
+2020,,,,,2.4
+2020,,,Eysturoyar region,R4200,2
+2020,,,Norðoya region,R4100,2.3
+2020,,,Sandoyar region,R4500,3.4
+2020,,,"Streymoyar region, north",R4300,1.8
+2020,,,"Streymoyar region, south",R4700,2.2
+2020,,,Suðuroyar region,R4600,4.5
+2020,,,Vága region,R4400,2.5
+2020,,00-17years,,,3.2
+2020,,00-17years,Eysturoyar region,R4200,3.1
+2020,,00-17years,Norðoya region,R4100,3.5
+2020,,00-17years,Sandoyar region,R4500,6.3
+2020,,00-17years,"Streymoyar region, north",R4300,2.3
+2020,,00-17years,"Streymoyar region, south",R4700,2.6
+2020,,00-17years,Suðuroyar region,R4600,7.3
+2020,,00-17years,Vága region,R4400,2.9
+2020,,18-24years,,,2.7
+2020,,18-24years,Eysturoyar region,R4200,1.4
+2020,,18-24years,Norðoya region,R4100,2.4
+2020,,18-24years,Sandoyar region,R4500,4
+2020,,18-24years,"Streymoyar region, north",R4300,2.3
+2020,,18-24years,"Streymoyar region, south",R4700,3.1
+2020,,18-24years,Suðuroyar region,R4600,5
+2020,,18-24years,Vága region,R4400,2.1
+2020,,25-54years,,,2.3
+2020,,25-54years,Eysturoyar region,R4200,1.9
+2020,,25-54years,Norðoya region,R4100,2.2
+2020,,25-54years,Sandoyar region,R4500,2.8
+2020,,25-54years,"Streymoyar region, north",R4300,1.5
+2020,,25-54years,"Streymoyar region, south",R4700,2.1
+2020,,25-54years,Suðuroyar region,R4600,5
+2020,,25-54years,Vága region,R4400,2.2
+2020,,55-66years,,,2
+2020,,55-66years,Eysturoyar region,R4200,1.6
+2020,,55-66years,Norðoya region,R4100,1.1
+2020,,55-66years,Sandoyar region,R4500,2.2
+2020,,55-66years,"Streymoyar region, north",R4300,2.4
+2020,,55-66years,"Streymoyar region, south",R4700,1.9
+2020,,55-66years,Suðuroyar region,R4600,3.4
+2020,,55-66years,Vága region,R4400,3.3
+2020,,67years,,,1.3
+2020,,67years,Eysturoyar region,R4200,1.1
+2020,,67years,Norðoya region,R4100,1.6
+2020,,67years,Sandoyar region,R4500,1.8
+2020,,67years,"Streymoyar region, north",R4300,1.1
+2020,,67years,"Streymoyar region, south",R4700,1.3
+2020,,67years,Suðuroyar region,R4600,1.1
+2020,,67years,Vága region,R4400,2
+2020,data.female,,,,2.6
+2020,data.female,,Eysturoyar region,R4200,2.1
+2020,data.female,,Norðoya region,R4100,2.7
+2020,data.female,,Sandoyar region,R4500,4.5
+2020,data.female,,"Streymoyar region, north",R4300,2
+2020,data.female,,"Streymoyar region, south",R4700,2.3
+2020,data.female,,Suðuroyar region,R4600,4.9
+2020,data.female,,Vága region,R4400,3
+2020,data.female,00-17years,,,3.5
+2020,data.female,00-17years,Eysturoyar region,R4200,3
+2020,data.female,00-17years,Norðoya region,R4100,3.2
+2020,data.female,00-17years,Sandoyar region,R4500,8.8
+2020,data.female,00-17years,"Streymoyar region, north",R4300,3.2
+2020,data.female,00-17years,"Streymoyar region, south",R4700,2.7
+2020,data.female,00-17years,Suðuroyar region,R4600,8.1
+2020,data.female,00-17years,Vága region,R4400,3.8
+2020,data.female,18-24years,,,3.8
+2020,data.female,18-24years,Eysturoyar region,R4200,2.2
+2020,data.female,18-24years,Norðoya region,R4100,3.7
+2020,data.female,18-24years,Sandoyar region,R4500,4.3
+2020,data.female,18-24years,"Streymoyar region, north",R4300,3.5
+2020,data.female,18-24years,"Streymoyar region, south",R4700,4.5
+2020,data.female,18-24years,Suðuroyar region,R4600,5
+2020,data.female,18-24years,Vága region,R4400,3.1
+2020,data.female,25-54years,,,2.6
+2020,data.female,25-54years,Eysturoyar region,R4200,2.2
+2020,data.female,25-54years,Norðoya region,R4100,2.9
+2020,data.female,25-54years,Sandoyar region,R4500,4.6
+2020,data.female,25-54years,"Streymoyar region, north",R4300,1.4
+2020,data.female,25-54years,"Streymoyar region, south",R4700,2.2
+2020,data.female,25-54years,Suðuroyar region,R4600,6.1
+2020,data.female,25-54years,Vága region,R4400,2.2
+2020,data.female,55-66years,,,1.7
+2020,data.female,55-66years,Eysturoyar region,R4200,1.3
+2020,data.female,55-66years,Norðoya region,R4100,1.2
+2020,data.female,55-66years,Sandoyar region,R4500,2.1
+2020,data.female,55-66years,"Streymoyar region, north",R4300,1.8
+2020,data.female,55-66years,"Streymoyar region, south",R4700,1.5
+2020,data.female,55-66years,Suðuroyar region,R4600,2.4
+2020,data.female,55-66years,Vága region,R4400,3.9
+2020,data.female,67years,,,1.6
+2020,data.female,67years,Eysturoyar region,R4200,1.3
+2020,data.female,67years,Norðoya region,R4100,1.9
+2020,data.female,67years,Sandoyar region,R4500,2.1
+2020,data.female,67years,"Streymoyar region, north",R4300,1.3
+2020,data.female,67years,"Streymoyar region, south",R4700,1.5
+2020,data.female,67years,Suðuroyar region,R4600,1.4
+2020,data.female,67years,Vága region,R4400,2.6
+2020,data.male,,,,2.1
+2020,data.male,,Eysturoyar region,R4200,1.9
+2020,data.male,,Norðoya region,R4100,1.9
+2020,data.male,,Sandoyar region,R4500,2.4
+2020,data.male,,"Streymoyar region, north",R4300,1.6
+2020,data.male,,"Streymoyar region, south",R4700,2
+2020,data.male,,Suðuroyar region,R4600,4.1
+2020,data.male,,Vága region,R4400,2
+2020,data.male,00-17years,,,3
+2020,data.male,00-17years,Eysturoyar region,R4200,3.1
+2020,data.male,00-17years,Norðoya region,R4100,3.7
+2020,data.male,00-17years,Sandoyar region,R4500,4.1
+2020,data.male,00-17years,"Streymoyar region, north",R4300,1.4
+2020,data.male,00-17years,"Streymoyar region, south",R4700,2.5
+2020,data.male,00-17years,Suðuroyar region,R4600,6.6
+2020,data.male,00-17years,Vága region,R4400,1.9
+2020,data.male,18-24years,,,1.7
+2020,data.male,18-24years,Eysturoyar region,R4200,0.7
+2020,data.male,18-24years,Norðoya region,R4100,1.2
+2020,data.male,18-24years,Sandoyar region,R4500,3.9
+2020,data.male,18-24years,"Streymoyar region, north",R4300,1.2
+2020,data.male,18-24years,"Streymoyar region, south",R4700,1.8
+2020,data.male,18-24years,Suðuroyar region,R4600,5
+2020,data.male,18-24years,Vága region,R4400,1.3
+2020,data.male,25-54years,,,2
+2020,data.male,25-54years,Eysturoyar region,R4200,1.6
+2020,data.male,25-54years,Norðoya region,R4100,1.6
+2020,data.male,25-54years,Sandoyar region,R4500,1.4
+2020,data.male,25-54years,"Streymoyar region, north",R4300,1.6
+2020,data.male,25-54years,"Streymoyar region, south",R4700,1.9
+2020,data.male,25-54years,Suðuroyar region,R4600,4.1
+2020,data.male,25-54years,Vága region,R4400,2.2
+2020,data.male,55-66years,,,2.3
+2020,data.male,55-66years,Eysturoyar region,R4200,1.8
+2020,data.male,55-66years,Norðoya region,R4100,1.1
+2020,data.male,55-66years,Sandoyar region,R4500,2.4
+2020,data.male,55-66years,"Streymoyar region, north",R4300,2.9
+2020,data.male,55-66years,"Streymoyar region, south",R4700,2.2
+2020,data.male,55-66years,Suðuroyar region,R4600,4.3
+2020,data.male,55-66years,Vága region,R4400,2.7
+2020,data.male,67years,,,1.1
+2020,data.male,67years,Eysturoyar region,R4200,1
+2020,data.male,67years,Norðoya region,R4100,1.2
+2020,data.male,67years,Sandoyar region,R4500,1.6
+2020,data.male,67years,"Streymoyar region, north",R4300,0.9
+2020,data.male,67years,"Streymoyar region, south",R4700,1.1
+2020,data.male,67years,Suðuroyar region,R4600,0.9
+2020,data.male,67years,Vága region,R4400,1.5
+2021,,,,,2.6
+2021,,,Eysturoyar region,R4200,2.1
+2021,,,Norðoya region,R4100,2.4
+2021,,,Sandoyar region,R4500,4.1
+2021,,,"Streymoyar region, north",R4300,2.3
+2021,,,"Streymoyar region, south",R4700,2.6
+2021,,,Suðuroyar region,R4600,3.8
+2021,,,Vága region,R4400,3.1
+2021,,00-17years,,,3.4
+2021,,00-17years,Eysturoyar region,R4200,2.5
+2021,,00-17years,Norðoya region,R4100,4.2
+2021,,00-17years,Sandoyar region,R4500,7.5
+2021,,00-17years,"Streymoyar region, north",R4300,3.6
+2021,,00-17years,"Streymoyar region, south",R4700,2.9
+2021,,00-17years,Suðuroyar region,R4600,5.9
+2021,,00-17years,Vága region,R4400,3.4
+2021,,18-24years,,,3.3
+2021,,18-24years,Eysturoyar region,R4200,2.6
+2021,,18-24years,Norðoya region,R4100,1.5
+2021,,18-24years,Sandoyar region,R4500,3.5
+2021,,18-24years,"Streymoyar region, north",R4300,1
+2021,,18-24years,"Streymoyar region, south",R4700,4.5
+2021,,18-24years,Suðuroyar region,R4600,4.1
+2021,,18-24years,Vága region,R4400,3.5
+2021,,25-54years,,,2.8
+2021,,25-54years,Eysturoyar region,R4200,2.3
+2021,,25-54years,Norðoya region,R4100,2.7
+2021,,25-54years,Sandoyar region,R4500,4.6
+2021,,25-54years,"Streymoyar region, north",R4300,2.5
+2021,,25-54years,"Streymoyar region, south",R4700,2.6
+2021,,25-54years,Suðuroyar region,R4600,4.3
+2021,,25-54years,Vága region,R4400,3.3
+2021,,55-66years,,,2.2
+2021,,55-66years,Eysturoyar region,R4200,1.7
+2021,,55-66years,Norðoya region,R4100,0.9
+2021,,55-66years,Sandoyar region,R4500,3.8
+2021,,55-66years,"Streymoyar region, north",R4300,2.3
+2021,,55-66years,"Streymoyar region, south",R4700,2.2
+2021,,55-66years,Suðuroyar region,R4600,3.3
+2021,,55-66years,Vága region,R4400,3.3
+2021,,67years,,,1
+2021,,67years,Eysturoyar region,R4200,0.8
+2021,,67years,Norðoya region,R4100,1.1
+2021,,67years,Sandoyar region,R4500,0.7
+2021,,67years,"Streymoyar region, north",R4300,0.6
+2021,,67years,"Streymoyar region, south",R4700,1
+2021,,67years,Suðuroyar region,R4600,0.9
+2021,,67years,Vága region,R4400,2
+2021,data.female,,,,2.7
+2021,data.female,,Eysturoyar region,R4200,2.1
+2021,data.female,,Norðoya region,R4100,2.5
+2021,data.female,,Sandoyar region,R4500,5.1
+2021,data.female,,"Streymoyar region, north",R4300,2.5
+2021,data.female,,"Streymoyar region, south",R4700,2.7
+2021,data.female,,Suðuroyar region,R4600,3.5
+2021,data.female,,Vága region,R4400,3.1
+2021,data.female,00-17years,,,3.5
+2021,data.female,00-17years,Eysturoyar region,R4200,2.7
+2021,data.female,00-17years,Norðoya region,R4100,3.6
+2021,data.female,00-17years,Sandoyar region,R4500,9.9
+2021,data.female,00-17years,"Streymoyar region, north",R4300,3.8
+2021,data.female,00-17years,"Streymoyar region, south",R4700,3.2
+2021,data.female,00-17years,Suðuroyar region,R4600,5.1
+2021,data.female,00-17years,Vága region,R4400,4
+2021,data.female,18-24years,,,4.1
+2021,data.female,18-24years,Eysturoyar region,R4200,3.9
+2021,data.female,18-24years,Norðoya region,R4100,1.5
+2021,data.female,18-24years,Sandoyar region,R4500,5.1
+2021,data.female,18-24years,"Streymoyar region, north",R4300,1.4
+2021,data.female,18-24years,"Streymoyar region, south",R4700,5.9
+2021,data.female,18-24years,Suðuroyar region,R4600,2.8
+2021,data.female,18-24years,Vága region,R4400,2.4
+2021,data.female,25-54years,,,2.9
+2021,data.female,25-54years,Eysturoyar region,R4200,2.2
+2021,data.female,25-54years,Norðoya region,R4100,3.1
+2021,data.female,25-54years,Sandoyar region,R4500,5.7
+2021,data.female,25-54years,"Streymoyar region, north",R4300,2.5
+2021,data.female,25-54years,"Streymoyar region, south",R4700,2.7
+2021,data.female,25-54years,Suðuroyar region,R4600,4.9
+2021,data.female,25-54years,Vága region,R4400,3.1
+2021,data.female,55-66years,,,1.6
+2021,data.female,55-66years,Eysturoyar region,R4200,0.9
+2021,data.female,55-66years,Norðoya region,R4100,0.9
+2021,data.female,55-66years,Sandoyar region,R4500,4.3
+2021,data.female,55-66years,"Streymoyar region, north",R4300,2.2
+2021,data.female,55-66years,"Streymoyar region, south",R4700,1.6
+2021,data.female,55-66years,Suðuroyar region,R4600,2.1
+2021,data.female,55-66years,Vága region,R4400,3.4
+2021,data.female,67years,,,1.1
+2021,data.female,67years,Eysturoyar region,R4200,0.8
+2021,data.female,67years,Norðoya region,R4100,1.6
+2021,data.female,67years,Sandoyar region,R4500,0.7
+2021,data.female,67years,"Streymoyar region, north",R4300,0.9
+2021,data.female,67years,"Streymoyar region, south",R4700,1.2
+2021,data.female,67years,Suðuroyar region,R4600,0.9
+2021,data.female,67years,Vága region,R4400,1.8
+2021,data.male,,,,2.5
+2021,data.male,,Eysturoyar region,R4200,2.1
+2021,data.male,,Norðoya region,R4100,2.3
+2021,data.male,,Sandoyar region,R4500,3.2
+2021,data.male,,"Streymoyar region, north",R4300,2.2
+2021,data.male,,"Streymoyar region, south",R4700,2.5
+2021,data.male,,Suðuroyar region,R4600,4
+2021,data.male,,Vága region,R4400,3.1
+2021,data.male,00-17years,,,3.2
+2021,data.male,00-17years,Eysturoyar region,R4200,2.3
+2021,data.male,00-17years,Norðoya region,R4100,4.7
+2021,data.male,00-17years,Sandoyar region,R4500,5.2
+2021,data.male,00-17years,"Streymoyar region, north",R4300,3.5
+2021,data.male,00-17years,"Streymoyar region, south",R4700,2.6
+2021,data.male,00-17years,Suðuroyar region,R4600,6.6
+2021,data.male,00-17years,Vága region,R4400,2.7
+2021,data.male,18-24years,,,2.6
+2021,data.male,18-24years,Eysturoyar region,R4200,1.6
+2021,data.male,18-24years,Norðoya region,R4100,1.5
+2021,data.male,18-24years,Sandoyar region,R4500,2.2
+2021,data.male,18-24years,"Streymoyar region, north",R4300,0.6
+2021,data.male,18-24years,"Streymoyar region, south",R4700,3.2
+2021,data.male,18-24years,Suðuroyar region,R4600,5.1
+2021,data.male,18-24years,Vága region,R4400,4.4
+2021,data.male,25-54years,,,2.7
+2021,data.male,25-54years,Eysturoyar region,R4200,2.4
+2021,data.male,25-54years,Norðoya region,R4100,2.3
+2021,data.male,25-54years,Sandoyar region,R4500,3.7
+2021,data.male,25-54years,"Streymoyar region, north",R4300,2.5
+2021,data.male,25-54years,"Streymoyar region, south",R4700,2.6
+2021,data.male,25-54years,Suðuroyar region,R4600,3.8
+2021,data.male,25-54years,Vága region,R4400,3.4
+2021,data.male,55-66years,,,2.7
+2021,data.male,55-66years,Eysturoyar region,R4200,2.4
+2021,data.male,55-66years,Norðoya region,R4100,0.8
+2021,data.male,55-66years,Sandoyar region,R4500,3.4
+2021,data.male,55-66years,"Streymoyar region, north",R4300,2.4
+2021,data.male,55-66years,"Streymoyar region, south",R4700,2.9
+2021,data.male,55-66years,Suðuroyar region,R4600,4.5
+2021,data.male,55-66years,Vága region,R4400,3.2
+2021,data.male,67years,,,0.8
+2021,data.male,67years,Eysturoyar region,R4200,0.8
+2021,data.male,67years,Norðoya region,R4100,0.6
+2021,data.male,67years,Sandoyar region,R4500,0.7
+2021,data.male,67years,"Streymoyar region, north",R4300,0.3
+2021,data.male,67years,"Streymoyar region, south",R4700,0.8
+2021,data.male,67years,Suðuroyar region,R4600,0.8
+2021,data.male,67years,Vága region,R4400,2.1
+2022,,,,,2.5
+2022,,,Eysturoyar region,R4200,1.8
+2022,,,Norðoya region,R4100,2.4
+2022,,,Sandoyar region,R4500,3.7
+2022,,,"Streymoyar region, north",R4300,2.4
+2022,,,"Streymoyar region, south",R4700,2.7
+2022,,,Suðuroyar region,R4600,3.2
+2022,,,Vága region,R4400,2
+2022,,00-17years,,,3.2
+2022,,00-17years,Eysturoyar region,R4200,2.4
+2022,,00-17years,Norðoya region,R4100,3.3
+2022,,00-17years,Sandoyar region,R4500,5
+2022,,00-17years,"Streymoyar region, north",R4300,4
+2022,,00-17years,"Streymoyar region, south",R4700,3.2
+2022,,00-17years,Suðuroyar region,R4600,4.5
+2022,,00-17years,Vága region,R4400,2.5
+2022,,18-24years,,,3.1
+2022,,18-24years,Eysturoyar region,R4200,0.8
+2022,,18-24years,Norðoya region,R4100,2.5
+2022,,18-24years,Sandoyar region,R4500,4.4
+2022,,18-24years,"Streymoyar region, north",R4300,1.3
+2022,,18-24years,"Streymoyar region, south",R4700,4.8
+2022,,18-24years,Suðuroyar region,R4600,3.6
+2022,,18-24years,Vága region,R4400,2.8
+2022,,25-54years,,,2.7
+2022,,25-54years,Eysturoyar region,R4200,2.1
+2022,,25-54years,Norðoya region,R4100,2.4
+2022,,25-54years,Sandoyar region,R4500,4.4
+2022,,25-54years,"Streymoyar region, north",R4300,2.5
+2022,,25-54years,"Streymoyar region, south",R4700,3
+2022,,25-54years,Suðuroyar region,R4600,3.2
+2022,,25-54years,Vága region,R4400,1.7
+2022,,55-66years,,,2
+2022,,55-66years,Eysturoyar region,R4200,1.4
+2022,,55-66years,Norðoya region,R4100,1.8
+2022,,55-66years,Sandoyar region,R4500,4.7
+2022,,55-66years,"Streymoyar region, north",R4300,2
+2022,,55-66years,"Streymoyar region, south",R4700,1.9
+2022,,55-66years,Suðuroyar region,R4600,3.6
+2022,,55-66years,Vága region,R4400,1.6
+2022,,67years,,,1
+2022,,67years,Eysturoyar region,R4200,0.6
+2022,,67years,Norðoya region,R4100,1.5
+2022,,67years,Sandoyar region,R4500,0.4
+2022,,67years,"Streymoyar region, north",R4300,0.9
+2022,,67years,"Streymoyar region, south",R4700,0.8
+2022,,67years,Suðuroyar region,R4600,1.4
+2022,,67years,Vága region,R4400,1.6
+2022,data.female,,,,2.6
+2022,data.female,,Eysturoyar region,R4200,1.7
+2022,data.female,,Norðoya region,R4100,2.6
+2022,data.female,,Sandoyar region,R4500,3.6
+2022,data.female,,"Streymoyar region, north",R4300,2.4
+2022,data.female,,"Streymoyar region, south",R4700,2.9
+2022,data.female,,Suðuroyar region,R4600,3.3
+2022,data.female,,Vága region,R4400,2.1
+2022,data.female,00-17years,,,3
+2022,data.female,00-17years,Eysturoyar region,R4200,2.2
+2022,data.female,00-17years,Norðoya region,R4100,2.8
+2022,data.female,00-17years,Sandoyar region,R4500,4.9
+2022,data.female,00-17years,"Streymoyar region, north",R4300,3.5
+2022,data.female,00-17years,"Streymoyar region, south",R4700,3.2
+2022,data.female,00-17years,Suðuroyar region,R4600,4.7
+2022,data.female,00-17years,Vága region,R4400,2.3
+2022,data.female,18-24years,,,4.7
+2022,data.female,18-24years,Eysturoyar region,R4200,1.4
+2022,data.female,18-24years,Norðoya region,R4100,3.8
+2022,data.female,18-24years,Sandoyar region,R4500,4.7
+2022,data.female,18-24years,"Streymoyar region, north",R4300,1.3
+2022,data.female,18-24years,"Streymoyar region, south",R4700,7.3
+2022,data.female,18-24years,Suðuroyar region,R4600,4.3
+2022,data.female,18-24years,Vága region,R4400,4.4
+2022,data.female,25-54years,,,2.8
+2022,data.female,25-54years,Eysturoyar region,R4200,2.2
+2022,data.female,25-54years,Norðoya region,R4100,2.8
+2022,data.female,25-54years,Sandoyar region,R4500,5.1
+2022,data.female,25-54years,"Streymoyar region, north",R4300,2.8
+2022,data.female,25-54years,"Streymoyar region, south",R4700,3.1
+2022,data.female,25-54years,Suðuroyar region,R4600,3.4
+2022,data.female,25-54years,Vága region,R4400,1.6
+2022,data.female,55-66years,,,1.6
+2022,data.female,55-66years,Eysturoyar region,R4200,1
+2022,data.female,55-66years,Norðoya region,R4100,1.6
+2022,data.female,55-66years,Sandoyar region,R4500,4
+2022,data.female,55-66years,"Streymoyar region, north",R4300,1.9
+2022,data.female,55-66years,"Streymoyar region, south",R4700,1.4
+2022,data.female,55-66years,Suðuroyar region,R4600,2
+2022,data.female,55-66years,Vága region,R4400,2.5
+2022,data.female,67years,,,1.2
+2022,data.female,67years,Eysturoyar region,R4200,0.7
+2022,data.female,67years,Norðoya region,R4100,2
+2022,data.female,67years,Sandoyar region,R4500,-
+2022,data.female,67years,"Streymoyar region, north",R4300,0.9
+2022,data.female,67years,"Streymoyar region, south",R4700,1.1
+2022,data.female,67years,Suðuroyar region,R4600,2
+2022,data.female,67years,Vága region,R4400,1.5
+2022,data.male,,,,2.4
+2022,data.male,,Eysturoyar region,R4200,1.8
+2022,data.male,,Norðoya region,R4100,2.2
+2022,data.male,,Sandoyar region,R4500,3.7
+2022,data.male,,"Streymoyar region, north",R4300,2.5
+2022,data.male,,"Streymoyar region, south",R4700,2.6
+2022,data.male,,Suðuroyar region,R4600,3.2
+2022,data.male,,Vága region,R4400,1.9
+2022,data.male,00-17years,,,3.3
+2022,data.male,00-17years,Eysturoyar region,R4200,2.6
+2022,data.male,00-17years,Norðoya region,R4100,3.7
+2022,data.male,00-17years,Sandoyar region,R4500,5.2
+2022,data.male,00-17years,"Streymoyar region, north",R4300,4.4
+2022,data.male,00-17years,"Streymoyar region, south",R4700,3.2
+2022,data.male,00-17years,Suðuroyar region,R4600,4.4
+2022,data.male,00-17years,Vága region,R4400,2.8
+2022,data.male,18-24years,,,1.8
+2022,data.male,18-24years,Eysturoyar region,R4200,0.4
+2022,data.male,18-24years,Norðoya region,R4100,1.5
+2022,data.male,18-24years,Sandoyar region,R4500,4.1
+2022,data.male,18-24years,"Streymoyar region, north",R4300,1.2
+2022,data.male,18-24years,"Streymoyar region, south",R4700,2.6
+2022,data.male,18-24years,Suðuroyar region,R4600,3.1
+2022,data.male,18-24years,Vága region,R4400,1.3
+2022,data.male,25-54years,,,2.6
+2022,data.male,25-54years,Eysturoyar region,R4200,2
+2022,data.male,25-54years,Norðoya region,R4100,2.1
+2022,data.male,25-54years,Sandoyar region,R4500,3.9
+2022,data.male,25-54years,"Streymoyar region, north",R4300,2.3
+2022,data.male,25-54years,"Streymoyar region, south",R4700,3
+2022,data.male,25-54years,Suðuroyar region,R4600,3
+2022,data.male,25-54years,Vága region,R4400,1.9
+2022,data.male,55-66years,,,2.4
+2022,data.male,55-66years,Eysturoyar region,R4200,1.9
+2022,data.male,55-66years,Norðoya region,R4100,1.9
+2022,data.male,55-66years,Sandoyar region,R4500,5.3
+2022,data.male,55-66years,"Streymoyar region, north",R4300,2.1
+2022,data.male,55-66years,"Streymoyar region, south",R4700,2.3
+2022,data.male,55-66years,Suðuroyar region,R4600,5
+2022,data.male,55-66years,Vága region,R4400,0.9
+2022,data.male,67years,,,0.7
+2022,data.male,67years,Eysturoyar region,R4200,0.5
+2022,data.male,67years,Norðoya region,R4100,1
+2022,data.male,67years,Sandoyar region,R4500,0.7
+2022,data.male,67years,"Streymoyar region, north",R4300,0.9
+2022,data.male,67years,"Streymoyar region, south",R4700,0.4
+2022,data.male,67years,Suðuroyar region,R4600,0.8
+2022,data.male,67years,Vága region,R4400,1.7
+2023,,,,,2.5
+2023,,,Eysturoyar region,R4200,1.9
+2023,,,Norðoya region,R4100,2.5
+2023,,,Sandoyar region,R4500,3.6
+2023,,,"Streymoyar region, north",R4300,1.8
+2023,,,"Streymoyar region, south",R4700,2.6
+2023,,,Suðuroyar region,R4600,3.3
+2023,,,Vága region,R4400,2.4
+2023,,00-17years,,,3
+2023,,00-17years,Eysturoyar region,R4200,2.9
+2023,,00-17years,Norðoya region,R4100,3.3
+2023,,00-17years,Sandoyar region,R4500,4.3
+2023,,00-17years,"Streymoyar region, north",R4300,2.6
+2023,,00-17years,"Streymoyar region, south",R4700,2.4
+2023,,00-17years,Suðuroyar region,R4600,5.3
+2023,,00-17years,Vága region,R4400,3.5
+2023,,18-24years,,,3.3
+2023,,18-24years,Eysturoyar region,R4200,1.3
+2023,,18-24years,Norðoya region,R4100,2.7
+2023,,18-24years,Sandoyar region,R4500,1.9
+2023,,18-24years,"Streymoyar region, north",R4300,1.6
+2023,,18-24years,"Streymoyar region, south",R4700,5.1
+2023,,18-24years,Suðuroyar region,R4600,3.5
+2023,,18-24years,Vága region,R4400,2
+2023,,25-54years,,,2.6
+2023,,25-54years,Eysturoyar region,R4200,2.1
+2023,,25-54years,Norðoya region,R4100,2.5
+2023,,25-54years,Sandoyar region,R4500,3.5
+2023,,25-54years,"Streymoyar region, north",R4300,1.9
+2023,,25-54years,"Streymoyar region, south",R4700,2.8
+2023,,25-54years,Suðuroyar region,R4600,3.7
+2023,,25-54years,Vága region,R4400,2.2
+2023,,55-66years,,,2.1
+2023,,55-66years,Eysturoyar region,R4200,1.4
+2023,,55-66years,Norðoya region,R4100,2.1
+2023,,55-66years,Sandoyar region,R4500,6.8
+2023,,55-66years,"Streymoyar region, north",R4300,1.9
+2023,,55-66years,"Streymoyar region, south",R4700,2.1
+2023,,55-66years,Suðuroyar region,R4600,2.1
+2023,,55-66years,Vága region,R4400,1.9
+2023,,67years,,,1.4
+2023,,67years,Eysturoyar region,R4200,0.8
+2023,,67years,Norðoya region,R4100,1.6
+2023,,67years,Sandoyar region,R4500,1.5
+2023,,67years,"Streymoyar region, north",R4300,0.7
+2023,,67years,"Streymoyar region, south",R4700,1.6
+2023,,67years,Suðuroyar region,R4600,1.5
+2023,,67years,Vága region,R4400,1.9
+2023,data.female,,,,2.6
+2023,data.female,,Eysturoyar region,R4200,2
+2023,data.female,,Norðoya region,R4100,2.4
+2023,data.female,,Sandoyar region,R4500,3.9
+2023,data.female,,"Streymoyar region, north",R4300,2.3
+2023,data.female,,"Streymoyar region, south",R4700,2.8
+2023,data.female,,Suðuroyar region,R4600,3.6
+2023,data.female,,Vága region,R4400,2.7
+2023,data.female,00-17years,,,3.3
+2023,data.female,00-17years,Eysturoyar region,R4200,3.2
+2023,data.female,00-17years,Norðoya region,R4100,2.6
+2023,data.female,00-17years,Sandoyar region,R4500,4.9
+2023,data.female,00-17years,"Streymoyar region, north",R4300,3.7
+2023,data.female,00-17years,"Streymoyar region, south",R4700,2.8
+2023,data.female,00-17years,Suðuroyar region,R4600,5.4
+2023,data.female,00-17years,Vága region,R4400,3.9
+2023,data.female,18-24years,,,4.5
+2023,data.female,18-24years,Eysturoyar region,R4200,1.6
+2023,data.female,18-24years,Norðoya region,R4100,3
+2023,data.female,18-24years,Sandoyar region,R4500,2.1
+2023,data.female,18-24years,"Streymoyar region, north",R4300,2
+2023,data.female,18-24years,"Streymoyar region, south",R4700,7.3
+2023,data.female,18-24years,Suðuroyar region,R4600,4
+2023,data.female,18-24years,Vága region,R4400,3
+2023,data.female,25-54years,,,2.6
+2023,data.female,25-54years,Eysturoyar region,R4200,2.2
+2023,data.female,25-54years,Norðoya region,R4100,2.5
+2023,data.female,25-54years,Sandoyar region,R4500,4.3
+2023,data.female,25-54years,"Streymoyar region, north",R4300,2
+2023,data.female,25-54years,"Streymoyar region, south",R4700,2.4
+2023,data.female,25-54years,Suðuroyar region,R4600,4.4
+2023,data.female,25-54years,Vága region,R4400,2.8
+2023,data.female,55-66years,,,1.8
+2023,data.female,55-66years,Eysturoyar region,R4200,1.2
+2023,data.female,55-66years,Norðoya region,R4100,2.2
+2023,data.female,55-66years,Sandoyar region,R4500,6.5
+2023,data.female,55-66years,"Streymoyar region, north",R4300,2.1
+2023,data.female,55-66years,"Streymoyar region, south",R4700,1.6
+2023,data.female,55-66years,Suðuroyar region,R4600,1.7
+2023,data.female,55-66years,Vága region,R4400,2.1
+2023,data.female,67years,,,1.5
+2023,data.female,67years,Eysturoyar region,R4200,0.8
+2023,data.female,67years,Norðoya region,R4100,1.9
+2023,data.female,67years,Sandoyar region,R4500,1.5
+2023,data.female,67years,"Streymoyar region, north",R4300,0.9
+2023,data.female,67years,"Streymoyar region, south",R4700,2.1
+2023,data.female,67years,Suðuroyar region,R4600,1.5
+2023,data.female,67years,Vága region,R4400,1.1
+2023,data.male,,,,2.3
+2023,data.male,,Eysturoyar region,R4200,1.8
+2023,data.male,,Norðoya region,R4100,2.6
+2023,data.male,,Sandoyar region,R4500,3.3
+2023,data.male,,"Streymoyar region, north",R4300,1.5
+2023,data.male,,"Streymoyar region, south",R4700,2.5
+2023,data.male,,Suðuroyar region,R4600,3.1
+2023,data.male,,Vága region,R4400,2.1
+2023,data.male,00-17years,,,2.7
+2023,data.male,00-17years,Eysturoyar region,R4200,2.6
+2023,data.male,00-17years,Norðoya region,R4100,4.1
+2023,data.male,00-17years,Sandoyar region,R4500,3.8
+2023,data.male,00-17years,"Streymoyar region, north",R4300,1.4
+2023,data.male,00-17years,"Streymoyar region, south",R4700,2.1
+2023,data.male,00-17years,Suðuroyar region,R4600,5.1
+2023,data.male,00-17years,Vága region,R4400,3.1
+2023,data.male,18-24years,,,2.2
+2023,data.male,18-24years,Eysturoyar region,R4200,1
+2023,data.male,18-24years,Norðoya region,R4100,2.4
+2023,data.male,18-24years,Sandoyar region,R4500,1.8
+2023,data.male,18-24years,"Streymoyar region, north",R4300,1.2
+2023,data.male,18-24years,"Streymoyar region, south",R4700,3.1
+2023,data.male,18-24years,Suðuroyar region,R4600,3.1
+2023,data.male,18-24years,Vága region,R4400,1.2
+2023,data.male,25-54years,,,2.6
+2023,data.male,25-54years,Eysturoyar region,R4200,2.1
+2023,data.male,25-54years,Norðoya region,R4100,2.5
+2023,data.male,25-54years,Sandoyar region,R4500,2.8
+2023,data.male,25-54years,"Streymoyar region, north",R4300,1.9
+2023,data.male,25-54years,"Streymoyar region, south",R4700,3.2
+2023,data.male,25-54years,Suðuroyar region,R4600,3
+2023,data.male,25-54years,Vága region,R4400,1.6
+2023,data.male,55-66years,,,2.3
+2023,data.male,55-66years,Eysturoyar region,R4200,1.5
+2023,data.male,55-66years,Norðoya region,R4100,2
+2023,data.male,55-66years,Sandoyar region,R4500,7
+2023,data.male,55-66years,"Streymoyar region, north",R4300,1.8
+2023,data.male,55-66years,"Streymoyar region, south",R4700,2.6
+2023,data.male,55-66years,Suðuroyar region,R4600,2.5
+2023,data.male,55-66years,Vága region,R4400,1.8
+2023,data.male,67years,,,1.2
+2023,data.male,67years,Eysturoyar region,R4200,0.8
+2023,data.male,67years,Norðoya region,R4100,1.3
+2023,data.male,67years,Sandoyar region,R4500,1.5
+2023,data.male,67years,"Streymoyar region, north",R4300,0.6
+2023,data.male,67years,"Streymoyar region, south",R4700,1.1
+2023,data.male,67years,Suðuroyar region,R4600,1.4
+2023,data.male,67years,Vága region,R4400,2.7
