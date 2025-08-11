@@ -30,7 +30,7 @@
             "title": "Sex"
           },
           {
-            "name": "date.age",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "date.age"
+            "title": "Age"
           },
           {
             "name": "Geography",

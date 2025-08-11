@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "date.age",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
