@@ -1,4 +1,4 @@
-"Year","data.sex","date.age","Geography","GeoCode","Value"
+"Year","data.sex","Age","Geography","GeoCode","Value"
 "2009","","","","",4.0
 "2009","","","Eysturoyar region","R4200",3.5
 "2009","","","Norðoya region","R4100",5.5
@@ -2159,3 +2159,4 @@
 "2023","data.male","67years","Streymoyar region, south","R4700",1.1
 "2023","data.male","67years","Suðuroyar region","R4600",1.4
 "2023","data.male","67years","Vága region","R4400",2.7
+
