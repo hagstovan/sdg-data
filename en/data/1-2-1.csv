@@ -10,23 +10,23 @@ Year,Sex,Age,Geography,GeoCode,Value
 2009,,00-17 years,,,5.1
 2009,,00-17 years,Eysturoyar region,R4200,3.6
 2009,,00-17 years,Norðoya region,R4100,9.1
-2009,,00-17 years,Sandoyar region,R4500,8
+2009,,00-17 years,Sandoyar region,R4500,8.0
 2009,,00-17 years,"Streymoyar region, north",R4300,6.6
 2009,,00-17 years,"Streymoyar region, south",R4700,2.9
-2009,,00-17 years,Suðuroyar region,R4600,11
+2009,,00-17 years,Suðuroyar region,R4600,11.0
 2009,,00-17 years,Vága region,R4400,5.7
 2009,,18-24 years,,,3.8
 2009,,18-24 years,Eysturoyar region,R4200,3.6
 2009,,18-24 years,Norðoya region,R4100,5.1
 2009,,18-24 years,Sandoyar region,R4500,5.4
 2009,,18-24 years,"Streymoyar region, north",R4300,3.1
-2009,,18-24 years,"Streymoyar region, south",R4700,3
+2009,,18-24 years,"Streymoyar region, south",R4700,3.0
 2009,,18-24 years,Suðuroyar region,R4600,5.5
 2009,,18-24 years,Vága region,R4400,4.9
 2009,,25-54 years,,,3.5
 2009,,25-54 years,Eysturoyar region,R4200,2.8
 2009,,25-54 years,Norðoya region,R4100,4.8
-2009,,25-54 years,Sandoyar region,R4500,6
+2009,,25-54 years,Sandoyar region,R4500,6.0
 2009,,25-54 years,"Streymoyar region, north",R4300,2.9
 2009,,25-54 years,"Streymoyar region, south",R4700,2.7
 2009,,25-54 years,Suðuroyar region,R4600,6.9
@@ -52,8 +52,8 @@ Year,Sex,Age,Geography,GeoCode,Value
 2009,Females,,Norðoya region,R4100,5.7
 2009,Females,,Sandoyar region,R4500,6.6
 2009,Females,,"Streymoyar region, north",R4300,4.8
-2009,Females,,"Streymoyar region, south",R4700,3
-2009,Females,,Suðuroyar region,R4600,8
+2009,Females,,"Streymoyar region, south",R4700,3.0
+2009,Females,,Suðuroyar region,R4600,8.0
 2009,Females,,Vága region,R4400,4.1
 2009,Females,00-17 years,,,5.3
 2009,Females,00-17 years,Eysturoyar region,R4200,3.3
@@ -71,12 +71,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2009,Females,18-24 years,"Streymoyar region, south",R4700,3.6
 2009,Females,18-24 years,Suðuroyar region,R4600,7.5
 2009,Females,18-24 years,Vága region,R4400,5.2
-2009,Females,25-54 years,,,4
+2009,Females,25-54 years,,,4.0
 2009,Females,25-54 years,Eysturoyar region,R4200,3.1
 2009,Females,25-54 years,Norðoya region,R4100,5.8
 2009,Females,25-54 years,Sandoyar region,R4500,5.8
 2009,Females,25-54 years,"Streymoyar region, north",R4300,3.5
-2009,Females,25-54 years,"Streymoyar region, south",R4700,3
+2009,Females,25-54 years,"Streymoyar region, south",R4700,3.0
 2009,Females,25-54 years,Suðuroyar region,R4600,7.8
 2009,Females,25-54 years,Vága region,R4400,4.3
 2009,Females,55-66 years,,,3.4
@@ -111,17 +111,17 @@ Year,Sex,Age,Geography,GeoCode,Value
 2009,Males,00-17 years,"Streymoyar region, south",R4700,2.7
 2009,Males,00-17 years,Suðuroyar region,R4600,9.7
 2009,Males,00-17 years,Vága region,R4400,5.8
-2009,Males,18-24 years,,,3
-2009,Males,18-24 years,Eysturoyar region,R4200,3
-2009,Males,18-24 years,Norðoya region,R4100,4
-2009,Males,18-24 years,Sandoyar region,R4500,4
+2009,Males,18-24 years,,,3.0
+2009,Males,18-24 years,Eysturoyar region,R4200,3.0
+2009,Males,18-24 years,Norðoya region,R4100,4.0
+2009,Males,18-24 years,Sandoyar region,R4500,4.0
 2009,Males,18-24 years,"Streymoyar region, north",R4300,1.1
 2009,Males,18-24 years,"Streymoyar region, south",R4700,2.5
 2009,Males,18-24 years,Suðuroyar region,R4600,3.9
 2009,Males,18-24 years,Vága region,R4400,4.6
 2009,Males,25-54 years,,,3.2
 2009,Males,25-54 years,Eysturoyar region,R4200,2.6
-2009,Males,25-54 years,Norðoya region,R4100,4
+2009,Males,25-54 years,Norðoya region,R4100,4.0
 2009,Males,25-54 years,Sandoyar region,R4500,6.2
 2009,Males,25-54 years,"Streymoyar region, north",R4300,2.3
 2009,Males,25-54 years,"Streymoyar region, south",R4700,2.4
@@ -131,21 +131,21 @@ Year,Sex,Age,Geography,GeoCode,Value
 2009,Males,55-66 years,Eysturoyar region,R4200,4.3
 2009,Males,55-66 years,Norðoya region,R4100,4.4
 2009,Males,55-66 years,Sandoyar region,R4500,13.6
-2009,Males,55-66 years,"Streymoyar region, north",R4300,5
+2009,Males,55-66 years,"Streymoyar region, north",R4300,5.0
 2009,Males,55-66 years,"Streymoyar region, south",R4700,3.7
 2009,Males,55-66 years,Suðuroyar region,R4600,4.5
 2009,Males,55-66 years,Vága region,R4400,6.9
 2009,Males,67+ years,,,3.6
 2009,Males,67+ years,Eysturoyar region,R4200,4.8
 2009,Males,67+ years,Norðoya region,R4100,3.2
-2009,Males,67+ years,Sandoyar region,R4500,2
+2009,Males,67+ years,Sandoyar region,R4500,2.0
 2009,Males,67+ years,"Streymoyar region, north",R4300,5.2
 2009,Males,67+ years,"Streymoyar region, south",R4700,3.1
 2009,Males,67+ years,Suðuroyar region,R4600,2.2
 2009,Males,67+ years,Vága region,R4400,3.7
 2010,,,,,4.2
 2010,,,Eysturoyar region,R4200,3.9
-2010,,,Norðoya region,R4100,5
+2010,,,Norðoya region,R4100,5.0
 2010,,,Sandoyar region,R4500,4.4
 2010,,,"Streymoyar region, north",R4300,3.6
 2010,,,"Streymoyar region, south",R4700,3.9
@@ -162,15 +162,15 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,,18-24 years,,,4.4
 2010,,18-24 years,Eysturoyar region,R4200,4.4
 2010,,18-24 years,Norðoya region,R4100,4.4
-2010,,18-24 years,Sandoyar region,R4500,-
+2010,,18-24 years,Sandoyar region,R4500,0.0
 2010,,18-24 years,"Streymoyar region, north",R4300,2.7
-2010,,18-24 years,"Streymoyar region, south",R4700,5
+2010,,18-24 years,"Streymoyar region, south",R4700,5.0
 2010,,18-24 years,Suðuroyar region,R4600,5.1
 2010,,18-24 years,Vága region,R4400,3.2
 2010,,25-54 years,,,3.9
 2010,,25-54 years,Eysturoyar region,R4200,3.4
 2010,,25-54 years,Norðoya region,R4100,4.7
-2010,,25-54 years,Sandoyar region,R4500,4
+2010,,25-54 years,Sandoyar region,R4500,4.0
 2010,,25-54 years,"Streymoyar region, north",R4300,2.7
 2010,,25-54 years,"Streymoyar region, south",R4700,3.8
 2010,,25-54 years,Suðuroyar region,R4600,5.8
@@ -184,7 +184,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,,55-66 years,Suðuroyar region,R4600,4.3
 2010,,55-66 years,Vága region,R4400,3.8
 2010,,67+ years,,,3.3
-2010,,67+ years,Eysturoyar region,R4200,4
+2010,,67+ years,Eysturoyar region,R4200,4.0
 2010,,67+ years,Norðoya region,R4100,2.9
 2010,,67+ years,Sandoyar region,R4500,3.6
 2010,,67+ years,"Streymoyar region, north",R4300,4.7
@@ -192,25 +192,25 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,,67+ years,Suðuroyar region,R4600,3.2
 2010,,67+ years,Vága region,R4400,2.5
 2010,Females,,,,4.3
-2010,Females,,Eysturoyar region,R4200,4
+2010,Females,,Eysturoyar region,R4200,4.0
 2010,Females,,Norðoya region,R4100,5.3
 2010,Females,,Sandoyar region,R4500,3.6
 2010,Females,,"Streymoyar region, north",R4300,3.5
-2010,Females,,"Streymoyar region, south",R4700,4
+2010,Females,,"Streymoyar region, south",R4700,4.0
 2010,Females,,Suðuroyar region,R4600,6.6
 2010,Females,,Vága region,R4400,3.2
 2010,Females,00-17 years,,,5.5
 2010,Females,00-17 years,Eysturoyar region,R4200,4.9
 2010,Females,00-17 years,Norðoya region,R4100,8.1
 2010,Females,00-17 years,Sandoyar region,R4500,5.7
-2010,Females,00-17 years,"Streymoyar region, north",R4300,4
+2010,Females,00-17 years,"Streymoyar region, north",R4300,4.0
 2010,Females,00-17 years,"Streymoyar region, south",R4700,4.3
-2010,Females,00-17 years,Suðuroyar region,R4600,10
+2010,Females,00-17 years,Suðuroyar region,R4600,10.0
 2010,Females,00-17 years,Vága region,R4400,5.1
 2010,Females,18-24 years,,,5.7
 2010,Females,18-24 years,Eysturoyar region,R4200,5.8
 2010,Females,18-24 years,Norðoya region,R4100,5.6
-2010,Females,18-24 years,Sandoyar region,R4500,-
+2010,Females,18-24 years,Sandoyar region,R4500,0.0
 2010,Females,18-24 years,"Streymoyar region, north",R4300,4.7
 2010,Females,18-24 years,"Streymoyar region, south",R4700,6.5
 2010,Females,18-24 years,Suðuroyar region,R4600,7.4
@@ -218,9 +218,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,Females,25-54 years,,,4.1
 2010,Females,25-54 years,Eysturoyar region,R4200,3.6
 2010,Females,25-54 years,Norðoya region,R4100,5.2
-2010,Females,25-54 years,Sandoyar region,R4500,3
+2010,Females,25-54 years,Sandoyar region,R4500,3.0
 2010,Females,25-54 years,"Streymoyar region, north",R4300,2.9
-2010,Females,25-54 years,"Streymoyar region, south",R4700,4
+2010,Females,25-54 years,"Streymoyar region, south",R4700,4.0
 2010,Females,25-54 years,Suðuroyar region,R4600,6.3
 2010,Females,25-54 years,Vága region,R4400,2.9
 2010,Females,55-66 years,,,3.2
@@ -235,14 +235,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,Females,67+ years,Eysturoyar region,R4200,3.3
 2010,Females,67+ years,Norðoya region,R4100,2.9
 2010,Females,67+ years,Sandoyar region,R4500,2.4
-2010,Females,67+ years,"Streymoyar region, north",R4300,4
+2010,Females,67+ years,"Streymoyar region, north",R4300,4.0
 2010,Females,67+ years,"Streymoyar region, south",R4700,2.4
 2010,Females,67+ years,Suðuroyar region,R4600,4.6
 2010,Females,67+ years,Vága region,R4400,3.2
-2010,Males,,,,4
+2010,Males,,,,4.0
 2010,Males,,Eysturoyar region,R4200,3.8
 2010,Males,,Norðoya region,R4100,4.7
-2010,Males,,Sandoyar region,R4500,5
+2010,Males,,Sandoyar region,R4500,5.0
 2010,Males,,"Streymoyar region, north",R4300,3.6
 2010,Males,,"Streymoyar region, south",R4700,3.8
 2010,Males,,Suðuroyar region,R4600,4.8
@@ -250,7 +250,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,Males,00-17 years,,,4.8
 2010,Males,00-17 years,Eysturoyar region,R4200,4.4
 2010,Males,00-17 years,Norðoya region,R4100,7.4
-2010,Males,00-17 years,Sandoyar region,R4500,7
+2010,Males,00-17 years,Sandoyar region,R4500,7.0
 2010,Males,00-17 years,"Streymoyar region, north",R4300,4.2
 2010,Males,00-17 years,"Streymoyar region, south",R4700,4.1
 2010,Males,00-17 years,Suðuroyar region,R4600,6.5
@@ -258,7 +258,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2010,Males,18-24 years,,,3.2
 2010,Males,18-24 years,Eysturoyar region,R4200,3.3
 2010,Males,18-24 years,Norðoya region,R4100,3.3
-2010,Males,18-24 years,Sandoyar region,R4500,-
+2010,Males,18-24 years,Sandoyar region,R4500,0.0
 2010,Males,18-24 years,"Streymoyar region, north",R4300,1.1
 2010,Males,18-24 years,"Streymoyar region, south",R4700,3.6
 2010,Males,18-24 years,Suðuroyar region,R4600,3.1
@@ -298,7 +298,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2011,,00-17 years,,,5.5
 2011,,00-17 years,Eysturoyar region,R4200,3.5
 2011,,00-17 years,Norðoya region,R4100,6.9
-2011,,00-17 years,Sandoyar region,R4500,8
+2011,,00-17 years,Sandoyar region,R4500,8.0
 2011,,00-17 years,"Streymoyar region, north",R4300,6.2
 2011,,00-17 years,"Streymoyar region, south",R4700,5.3
 2011,,00-17 years,Suðuroyar region,R4600,9.3
@@ -323,7 +323,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2011,,55-66 years,Eysturoyar region,R4200,3.3
 2011,,55-66 years,Norðoya region,R4100,3.4
 2011,,55-66 years,Sandoyar region,R4500,5.5
-2011,,55-66 years,"Streymoyar region, north",R4300,2
+2011,,55-66 years,"Streymoyar region, north",R4300,2.0
 2011,,55-66 years,"Streymoyar region, south",R4700,3.9
 2011,,55-66 years,Suðuroyar region,R4600,5.1
 2011,,55-66 years,Vága region,R4400,3.5
@@ -344,33 +344,33 @@ Year,Sex,Age,Geography,GeoCode,Value
 2011,Females,,Suðuroyar region,R4600,7.3
 2011,Females,,Vága region,R4400,4.7
 2011,Females,00-17 years,,,5.9
-2011,Females,00-17 years,Eysturoyar region,R4200,4
+2011,Females,00-17 years,Eysturoyar region,R4200,4.0
 2011,Females,00-17 years,Norðoya region,R4100,5.7
-2011,Females,00-17 years,Sandoyar region,R4500,8
+2011,Females,00-17 years,Sandoyar region,R4500,8.0
 2011,Females,00-17 years,"Streymoyar region, north",R4300,5.8
 2011,Females,00-17 years,"Streymoyar region, south",R4700,5.7
-2011,Females,00-17 years,Suðuroyar region,R4600,11
+2011,Females,00-17 years,Suðuroyar region,R4600,11.0
 2011,Females,00-17 years,Vága region,R4400,6.8
 2011,Females,18-24 years,,,7.3
 2011,Females,18-24 years,Eysturoyar region,R4200,3.9
 2011,Females,18-24 years,Norðoya region,R4100,5.1
-2011,Females,18-24 years,Sandoyar region,R4500,3
+2011,Females,18-24 years,Sandoyar region,R4500,3.0
 2011,Females,18-24 years,"Streymoyar region, north",R4300,9.2
 2011,Females,18-24 years,"Streymoyar region, south",R4700,9.9
 2011,Females,18-24 years,Suðuroyar region,R4600,7.7
 2011,Females,18-24 years,Vága region,R4400,6.5
 2011,Females,25-54 years,,,4.3
-2011,Females,25-54 years,Eysturoyar region,R4200,3
+2011,Females,25-54 years,Eysturoyar region,R4200,3.0
 2011,Females,25-54 years,Norðoya region,R4100,5.5
 2011,Females,25-54 years,Sandoyar region,R4500,5.1
 2011,Females,25-54 years,"Streymoyar region, north",R4300,4.4
 2011,Females,25-54 years,"Streymoyar region, south",R4700,4.1
 2011,Females,25-54 years,Suðuroyar region,R4600,7.1
-2011,Females,25-54 years,Vága region,R4400,3
+2011,Females,25-54 years,Vága region,R4400,3.0
 2011,Females,55-66 years,,,3.1
 2011,Females,55-66 years,Eysturoyar region,R4200,2.5
 2011,Females,55-66 years,Norðoya region,R4100,2.7
-2011,Females,55-66 years,Sandoyar region,R4500,1
+2011,Females,55-66 years,Sandoyar region,R4500,1.0
 2011,Females,55-66 years,"Streymoyar region, north",R4300,0.9
 2011,Females,55-66 years,"Streymoyar region, south",R4700,3.7
 2011,Females,55-66 years,Suðuroyar region,R4600,4.9
@@ -381,20 +381,20 @@ Year,Sex,Age,Geography,GeoCode,Value
 2011,Females,67+ years,Sandoyar region,R4500,1.7
 2011,Females,67+ years,"Streymoyar region, north",R4300,3.6
 2011,Females,67+ years,"Streymoyar region, south",R4700,2.9
-2011,Females,67+ years,Suðuroyar region,R4600,5
-2011,Females,67+ years,Vága region,R4400,6
+2011,Females,67+ years,Suðuroyar region,R4600,5.0
+2011,Females,67+ years,Vága region,R4400,6.0
 2011,Males,,,,4.2
 2011,Males,,Eysturoyar region,R4200,2.9
-2011,Males,,Norðoya region,R4100,5
+2011,Males,,Norðoya region,R4100,5.0
 2011,Males,,Sandoyar region,R4500,5.9
 2011,Males,,"Streymoyar region, north",R4300,4.1
 2011,Males,,"Streymoyar region, south",R4700,4.3
 2011,Males,,Suðuroyar region,R4600,5.7
 2011,Males,,Vága region,R4400,3.7
 2011,Males,00-17 years,,,5.2
-2011,Males,00-17 years,Eysturoyar region,R4200,3
-2011,Males,00-17 years,Norðoya region,R4100,8
-2011,Males,00-17 years,Sandoyar region,R4500,8
+2011,Males,00-17 years,Eysturoyar region,R4200,3.0
+2011,Males,00-17 years,Norðoya region,R4100,8.0
+2011,Males,00-17 years,Sandoyar region,R4500,8.0
 2011,Males,00-17 years,"Streymoyar region, north",R4300,6.6
 2011,Males,00-17 years,"Streymoyar region, south",R4700,4.9
 2011,Males,00-17 years,Suðuroyar region,R4600,7.7
@@ -404,9 +404,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2011,Males,18-24 years,Norðoya region,R4100,2.8
 2011,Males,18-24 years,Sandoyar region,R4500,2.9
 2011,Males,18-24 years,"Streymoyar region, north",R4300,3.7
-2011,Males,18-24 years,"Streymoyar region, south",R4700,5
+2011,Males,18-24 years,"Streymoyar region, south",R4700,5.0
 2011,Males,18-24 years,Suðuroyar region,R4600,4.1
-2011,Males,18-24 years,Vága region,R4400,2
+2011,Males,18-24 years,Vága region,R4400,2.0
 2011,Males,25-54 years,,,3.9
 2011,Males,25-54 years,Eysturoyar region,R4200,2.7
 2011,Males,25-54 years,Norðoya region,R4100,4.9
@@ -416,10 +416,10 @@ Year,Sex,Age,Geography,GeoCode,Value
 2011,Males,25-54 years,Suðuroyar region,R4600,6.4
 2011,Males,25-54 years,Vága region,R4400,4.1
 2011,Males,55-66 years,,,4.4
-2011,Males,55-66 years,Eysturoyar region,R4200,4
-2011,Males,55-66 years,Norðoya region,R4100,4
+2011,Males,55-66 years,Eysturoyar region,R4200,4.0
+2011,Males,55-66 years,Norðoya region,R4100,4.0
 2011,Males,55-66 years,Sandoyar region,R4500,8.6
-2011,Males,55-66 years,"Streymoyar region, north",R4300,3
+2011,Males,55-66 years,"Streymoyar region, north",R4300,3.0
 2011,Males,55-66 years,"Streymoyar region, south",R4700,4.2
 2011,Males,55-66 years,Suðuroyar region,R4600,5.4
 2011,Males,55-66 years,Vága region,R4400,4.4
@@ -435,21 +435,21 @@ Year,Sex,Age,Geography,GeoCode,Value
 2012,,,Eysturoyar region,R4200,3.6
 2012,,,Norðoya region,R4100,5.5
 2012,,,Sandoyar region,R4500,5.9
-2012,,,"Streymoyar region, north",R4300,5
+2012,,,"Streymoyar region, north",R4300,5.0
 2012,,,"Streymoyar region, south",R4700,4.7
 2012,,,Suðuroyar region,R4600,5.2
 2012,,,Vága region,R4400,5.2
 2012,,00-17 years,,,6.2
 2012,,00-17 years,Eysturoyar region,R4200,4.9
-2012,,00-17 years,Norðoya region,R4100,8
+2012,,00-17 years,Norðoya region,R4100,8.0
 2012,,00-17 years,Sandoyar region,R4500,7.6
 2012,,00-17 years,"Streymoyar region, north",R4300,8.4
 2012,,00-17 years,"Streymoyar region, south",R4700,5.4
 2012,,00-17 years,Suðuroyar region,R4600,7.4
 2012,,00-17 years,Vága region,R4400,7.8
 2012,,18-24 years,,,5.7
-2012,,18-24 years,Eysturoyar region,R4200,3
-2012,,18-24 years,Norðoya region,R4100,4
+2012,,18-24 years,Eysturoyar region,R4200,3.0
+2012,,18-24 years,Norðoya region,R4100,4.0
 2012,,18-24 years,Sandoyar region,R4500,9.8
 2012,,18-24 years,"Streymoyar region, north",R4300,5.3
 2012,,18-24 years,"Streymoyar region, south",R4700,7.8
@@ -460,12 +460,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2012,,25-54 years,Norðoya region,R4100,5.9
 2012,,25-54 years,Sandoyar region,R4500,5.3
 2012,,25-54 years,"Streymoyar region, north",R4300,4.4
-2012,,25-54 years,"Streymoyar region, south",R4700,4
+2012,,25-54 years,"Streymoyar region, south",R4700,4.0
 2012,,25-54 years,Suðuroyar region,R4600,5.1
 2012,,25-54 years,Vága region,R4400,4.7
-2012,,55-66 years,,,4
-2012,,55-66 years,Eysturoyar region,R4200,3
-2012,,55-66 years,Norðoya region,R4100,3
+2012,,55-66 years,,,4.0
+2012,,55-66 years,Eysturoyar region,R4200,3.0
+2012,,55-66 years,Norðoya region,R4100,3.0
 2012,,55-66 years,Sandoyar region,R4500,7.9
 2012,,55-66 years,"Streymoyar region, north",R4300,2.5
 2012,,55-66 years,"Streymoyar region, south",R4700,4.4
@@ -487,11 +487,11 @@ Year,Sex,Age,Geography,GeoCode,Value
 2012,Females,,"Streymoyar region, south",R4700,4.9
 2012,Females,,Suðuroyar region,R4600,5.7
 2012,Females,,Vága region,R4400,5.1
-2012,Females,00-17 years,,,6
+2012,Females,00-17 years,,,6.0
 2012,Females,00-17 years,Eysturoyar region,R4200,4.5
 2012,Females,00-17 years,Norðoya region,R4100,7.7
 2012,Females,00-17 years,Sandoyar region,R4500,6.9
-2012,Females,00-17 years,"Streymoyar region, north",R4300,8
+2012,Females,00-17 years,"Streymoyar region, north",R4300,8.0
 2012,Females,00-17 years,"Streymoyar region, south",R4700,5.4
 2012,Females,00-17 years,Suðuroyar region,R4600,7.5
 2012,Females,00-17 years,Vága region,R4400,7.4
@@ -504,12 +504,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2012,Females,18-24 years,Suðuroyar region,R4600,8.9
 2012,Females,18-24 years,Vága region,R4400,6.2
 2012,Females,25-54 years,,,4.8
-2012,Females,25-54 years,Eysturoyar region,R4200,4
+2012,Females,25-54 years,Eysturoyar region,R4200,4.0
 2012,Females,25-54 years,Norðoya region,R4100,6.7
 2012,Females,25-54 years,Sandoyar region,R4500,5.3
 2012,Females,25-54 years,"Streymoyar region, north",R4300,5.6
 2012,Females,25-54 years,"Streymoyar region, south",R4700,4.2
-2012,Females,25-54 years,Suðuroyar region,R4600,6
+2012,Females,25-54 years,Suðuroyar region,R4600,6.0
 2012,Females,25-54 years,Vága region,R4400,5.1
 2012,Females,55-66 years,,,3.3
 2012,Females,55-66 years,Eysturoyar region,R4200,1.9
@@ -551,7 +551,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2012,Males,18-24 years,"Streymoyar region, south",R4700,5.4
 2012,Males,18-24 years,Suðuroyar region,R4600,5.2
 2012,Males,18-24 years,Vága region,R4400,3.5
-2012,Males,25-54 years,,,4
+2012,Males,25-54 years,,,4.0
 2012,Males,25-54 years,Eysturoyar region,R4200,3.3
 2012,Males,25-54 years,Norðoya region,R4100,5.3
 2012,Males,25-54 years,Sandoyar region,R4500,5.4
@@ -560,17 +560,17 @@ Year,Sex,Age,Geography,GeoCode,Value
 2012,Males,25-54 years,Suðuroyar region,R4600,4.4
 2012,Males,25-54 years,Vága region,R4400,4.3
 2012,Males,55-66 years,,,4.5
-2012,Males,55-66 years,Eysturoyar region,R4200,4
-2012,Males,55-66 years,Norðoya region,R4100,3
+2012,Males,55-66 years,Eysturoyar region,R4200,4.0
+2012,Males,55-66 years,Norðoya region,R4100,3.0
 2012,Males,55-66 years,Sandoyar region,R4500,10.7
-2012,Males,55-66 years,"Streymoyar region, north",R4300,4
+2012,Males,55-66 years,"Streymoyar region, north",R4300,4.0
 2012,Males,55-66 years,"Streymoyar region, south",R4700,4.5
 2012,Males,55-66 years,Suðuroyar region,R4600,4.7
 2012,Males,55-66 years,Vága region,R4400,5.9
 2012,Males,67+ years,,,3.1
 2012,Males,67+ years,Eysturoyar region,R4200,2.6
 2012,Males,67+ years,Norðoya region,R4100,3.1
-2012,Males,67+ years,Sandoyar region,R4500,-
+2012,Males,67+ years,Sandoyar region,R4500,0.0
 2012,Males,67+ years,"Streymoyar region, north",R4300,2.9
 2012,Males,67+ years,"Streymoyar region, south",R4700,3.9
 2012,Males,67+ years,Suðuroyar region,R4600,2.5
@@ -585,14 +585,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2013,,,Vága region,R4400,3.2
 2013,,00-17 years,,,5.2
 2013,,00-17 years,Eysturoyar region,R4200,4.6
-2013,,00-17 years,Norðoya region,R4100,6
+2013,,00-17 years,Norðoya region,R4100,6.0
 2013,,00-17 years,Sandoyar region,R4500,7.9
-2013,,00-17 years,"Streymoyar region, north",R4300,7
+2013,,00-17 years,"Streymoyar region, north",R4300,7.0
 2013,,00-17 years,"Streymoyar region, south",R4700,4.3
 2013,,00-17 years,Suðuroyar region,R4600,8.3
 2013,,00-17 years,Vága region,R4400,4.1
 2013,,18-24 years,,,4.3
-2013,,18-24 years,Eysturoyar region,R4200,3
+2013,,18-24 years,Eysturoyar region,R4200,3.0
 2013,,18-24 years,Norðoya region,R4100,3.4
 2013,,18-24 years,Sandoyar region,R4500,4.6
 2013,,18-24 years,"Streymoyar region, north",R4300,4.8
@@ -604,14 +604,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2013,,25-54 years,Norðoya region,R4100,3.9
 2013,,25-54 years,Sandoyar region,R4500,5.1
 2013,,25-54 years,"Streymoyar region, north",R4300,3.8
-2013,,25-54 years,"Streymoyar region, south",R4700,3
+2013,,25-54 years,"Streymoyar region, south",R4700,3.0
 2013,,25-54 years,Suðuroyar region,R4600,5.9
 2013,,25-54 years,Vága region,R4400,2.7
 2013,,55-66 years,,,3.4
 2013,,55-66 years,Eysturoyar region,R4200,2.6
 2013,,55-66 years,Norðoya region,R4100,2.6
 2013,,55-66 years,Sandoyar region,R4500,5.9
-2013,,55-66 years,"Streymoyar region, north",R4300,3
+2013,,55-66 years,"Streymoyar region, north",R4300,3.0
 2013,,55-66 years,"Streymoyar region, south",R4700,3.7
 2013,,55-66 years,Suðuroyar region,R4600,4.1
 2013,,55-66 years,Vága region,R4400,4.2
@@ -643,9 +643,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2013,Females,18-24 years,Eysturoyar region,R4200,4.5
 2013,Females,18-24 years,Norðoya region,R4100,4.8
 2013,Females,18-24 years,Sandoyar region,R4500,6.7
-2013,Females,18-24 years,"Streymoyar region, north",R4300,6
+2013,Females,18-24 years,"Streymoyar region, north",R4300,6.0
 2013,Females,18-24 years,"Streymoyar region, south",R4700,6.5
-2013,Females,18-24 years,Suðuroyar region,R4600,9
+2013,Females,18-24 years,Suðuroyar region,R4600,9.0
 2013,Females,18-24 years,Vága region,R4400,3.4
 2013,Females,25-54 years,,,3.9
 2013,Females,25-54 years,Eysturoyar region,R4200,3.2
@@ -672,14 +672,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2013,Females,67+ years,Suðuroyar region,R4600,2.6
 2013,Females,67+ years,Vága region,R4400,1.7
 2013,Males,,,,3.5
-2013,Males,,Eysturoyar region,R4200,3
+2013,Males,,Eysturoyar region,R4200,3.0
 2013,Males,,Norðoya region,R4100,3.8
 2013,Males,,Sandoyar region,R4500,5.1
 2013,Males,,"Streymoyar region, north",R4300,3.8
 2013,Males,,"Streymoyar region, south",R4700,3.3
 2013,Males,,Suðuroyar region,R4600,4.9
 2013,Males,,Vága region,R4400,3.3
-2013,Males,00-17 years,,,5
+2013,Males,00-17 years,,,5.0
 2013,Males,00-17 years,Eysturoyar region,R4200,4.7
 2013,Males,00-17 years,Norðoya region,R4100,5.6
 2013,Males,00-17 years,Sandoyar region,R4500,6.5
@@ -687,15 +687,15 @@ Year,Sex,Age,Geography,GeoCode,Value
 2013,Males,00-17 years,"Streymoyar region, south",R4700,4.4
 2013,Males,00-17 years,Suðuroyar region,R4600,6.9
 2013,Males,00-17 years,Vága region,R4400,4.2
-2013,Males,18-24 years,,,3
+2013,Males,18-24 years,,,3.0
 2013,Males,18-24 years,Eysturoyar region,R4200,1.7
 2013,Males,18-24 years,Norðoya region,R4100,2.3
 2013,Males,18-24 years,Sandoyar region,R4500,3.1
 2013,Males,18-24 years,"Streymoyar region, north",R4300,3.9
 2013,Males,18-24 years,"Streymoyar region, south",R4700,3.3
-2013,Males,18-24 years,Suðuroyar region,R4600,5
+2013,Males,18-24 years,Suðuroyar region,R4600,5.0
 2013,Males,18-24 years,Vága region,R4400,2.3
-2013,Males,25-54 years,,,3
+2013,Males,25-54 years,,,3.0
 2013,Males,25-54 years,Eysturoyar region,R4200,2.6
 2013,Males,25-54 years,Norðoya region,R4100,3.6
 2013,Males,25-54 years,Sandoyar region,R4500,4.8
@@ -710,11 +710,11 @@ Year,Sex,Age,Geography,GeoCode,Value
 2013,Males,55-66 years,"Streymoyar region, north",R4300,4.5
 2013,Males,55-66 years,"Streymoyar region, south",R4700,3.7
 2013,Males,55-66 years,Suðuroyar region,R4600,5.3
-2013,Males,55-66 years,Vága region,R4400,5
+2013,Males,55-66 years,Vága region,R4400,5.0
 2013,Males,67+ years,,,2.1
 2013,Males,67+ years,Eysturoyar region,R4200,1.6
-2013,Males,67+ years,Norðoya region,R4100,3
-2013,Males,67+ years,Sandoyar region,R4500,-
+2013,Males,67+ years,Norðoya region,R4100,3.0
+2013,Males,67+ years,Sandoyar region,R4500,0.0
 2013,Males,67+ years,"Streymoyar region, north",R4300,1.4
 2013,Males,67+ years,"Streymoyar region, south",R4700,2.4
 2013,Males,67+ years,Suðuroyar region,R4600,2.3
@@ -739,7 +739,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,,18-24 years,Eysturoyar region,R4200,2.3
 2014,,18-24 years,Norðoya region,R4100,4.2
 2014,,18-24 years,Sandoyar region,R4500,8.3
-2014,,18-24 years,"Streymoyar region, north",R4300,3
+2014,,18-24 years,"Streymoyar region, north",R4300,3.0
 2014,,18-24 years,"Streymoyar region, south",R4700,5.8
 2014,,18-24 years,Suðuroyar region,R4600,5.7
 2014,,18-24 years,Vága region,R4400,4.8
@@ -759,14 +759,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,,55-66 years,"Streymoyar region, south",R4700,3.8
 2014,,55-66 years,Suðuroyar region,R4600,3.5
 2014,,55-66 years,Vága region,R4400,3.2
-2014,,67+ years,,,2
+2014,,67+ years,,,2.0
 2014,,67+ years,Eysturoyar region,R4200,2.2
 2014,,67+ years,Norðoya region,R4100,1.9
 2014,,67+ years,Sandoyar region,R4500,2.1
 2014,,67+ years,"Streymoyar region, north",R4300,1.9
 2014,,67+ years,"Streymoyar region, south",R4700,1.9
 2014,,67+ years,Suðuroyar region,R4600,1.9
-2014,,67+ years,Vága region,R4400,2
+2014,,67+ years,Vága region,R4400,2.0
 2014,Females,,,,3.8
 2014,Females,,Eysturoyar region,R4200,2.9
 2014,Females,,Norðoya region,R4100,4.2
@@ -775,19 +775,19 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,Females,,"Streymoyar region, south",R4700,3.6
 2014,Females,,Suðuroyar region,R4600,5.7
 2014,Females,,Vága region,R4400,3.8
-2014,Females,00-17 years,,,5
+2014,Females,00-17 years,,,5.0
 2014,Females,00-17 years,Eysturoyar region,R4200,4.7
 2014,Females,00-17 years,Norðoya region,R4100,6.2
-2014,Females,00-17 years,Sandoyar region,R4500,7
+2014,Females,00-17 years,Sandoyar region,R4500,7.0
 2014,Females,00-17 years,"Streymoyar region, north",R4300,6.8
 2014,Females,00-17 years,"Streymoyar region, south",R4700,3.8
 2014,Females,00-17 years,Suðuroyar region,R4600,8.1
-2014,Females,00-17 years,Vága region,R4400,5
+2014,Females,00-17 years,Vága region,R4400,5.0
 2014,Females,18-24 years,,,5.9
 2014,Females,18-24 years,Eysturoyar region,R4200,2.4
 2014,Females,18-24 years,Norðoya region,R4100,5.8
 2014,Females,18-24 years,Sandoyar region,R4500,12.5
-2014,Females,18-24 years,"Streymoyar region, north",R4300,5
+2014,Females,18-24 years,"Streymoyar region, north",R4300,5.0
 2014,Females,18-24 years,"Streymoyar region, south",R4700,8.1
 2014,Females,18-24 years,Suðuroyar region,R4600,7.2
 2014,Females,18-24 years,Vága region,R4400,2.1
@@ -802,14 +802,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,Females,55-66 years,,,2.7
 2014,Females,55-66 years,Eysturoyar region,R4200,2.1
 2014,Females,55-66 years,Norðoya region,R4100,1.3
-2014,Females,55-66 years,Sandoyar region,R4500,3
+2014,Females,55-66 years,Sandoyar region,R4500,3.0
 2014,Females,55-66 years,"Streymoyar region, north",R4300,1.6
 2014,Females,55-66 years,"Streymoyar region, south",R4700,3.9
 2014,Females,55-66 years,Suðuroyar region,R4600,2.2
 2014,Females,55-66 years,Vága region,R4400,2.3
-2014,Females,67+ years,,,2
+2014,Females,67+ years,,,2.0
 2014,Females,67+ years,Eysturoyar region,R4200,2.1
-2014,Females,67+ years,Norðoya region,R4100,2
+2014,Females,67+ years,Norðoya region,R4100,2.0
 2014,Females,67+ years,Sandoyar region,R4500,1.6
 2014,Females,67+ years,"Streymoyar region, north",R4300,1.7
 2014,Females,67+ years,"Streymoyar region, south",R4700,1.8
@@ -825,8 +825,8 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,Males,,Vága region,R4400,3.7
 2014,Males,00-17 years,,,4.7
 2014,Males,00-17 years,Eysturoyar region,R4200,2.9
-2014,Males,00-17 years,Norðoya region,R4100,6
-2014,Males,00-17 years,Sandoyar region,R4500,4
+2014,Males,00-17 years,Norðoya region,R4100,6.0
+2014,Males,00-17 years,Sandoyar region,R4500,4.0
 2014,Males,00-17 years,"Streymoyar region, north",R4300,5.9
 2014,Males,00-17 years,"Streymoyar region, south",R4700,4.4
 2014,Males,00-17 years,Suðuroyar region,R4600,7.5
@@ -840,7 +840,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,Males,18-24 years,Suðuroyar region,R4600,4.4
 2014,Males,18-24 years,Vága region,R4400,6.8
 2014,Males,25-54 years,,,2.7
-2014,Males,25-54 years,Eysturoyar region,R4200,2
+2014,Males,25-54 years,Eysturoyar region,R4200,2.0
 2014,Males,25-54 years,Norðoya region,R4100,2.7
 2014,Males,25-54 years,Sandoyar region,R4500,1.9
 2014,Males,25-54 years,"Streymoyar region, north",R4300,2.3
@@ -849,25 +849,25 @@ Year,Sex,Age,Geography,GeoCode,Value
 2014,Males,25-54 years,Vága region,R4400,2.7
 2014,Males,55-66 years,,,3.6
 2014,Males,55-66 years,Eysturoyar region,R4200,2.2
-2014,Males,55-66 years,Norðoya region,R4100,2
+2014,Males,55-66 years,Norðoya region,R4100,2.0
 2014,Males,55-66 years,Sandoyar region,R4500,11.1
 2014,Males,55-66 years,"Streymoyar region, north",R4300,4.5
 2014,Males,55-66 years,"Streymoyar region, south",R4700,3.6
 2014,Males,55-66 years,Suðuroyar region,R4600,4.7
 2014,Males,55-66 years,Vága region,R4400,4.1
-2014,Males,67+ years,,,2
+2014,Males,67+ years,,,2.0
 2014,Males,67+ years,Eysturoyar region,R4200,2.3
 2014,Males,67+ years,Norðoya region,R4100,1.7
 2014,Males,67+ years,Sandoyar region,R4500,2.8
 2014,Males,67+ years,"Streymoyar region, north",R4300,2.1
-2014,Males,67+ years,"Streymoyar region, south",R4700,2
+2014,Males,67+ years,"Streymoyar region, south",R4700,2.0
 2014,Males,67+ years,Suðuroyar region,R4600,1.5
 2014,Males,67+ years,Vága region,R4400,1.3
 2015,,,,,3.4
 2015,,,Eysturoyar region,R4200,2.7
 2015,,,Norðoya region,R4100,3.3
 2015,,,Sandoyar region,R4500,6.2
-2015,,,"Streymoyar region, north",R4300,3
+2015,,,"Streymoyar region, north",R4300,3.0
 2015,,,"Streymoyar region, south",R4700,3.3
 2015,,,Suðuroyar region,R4600,4.4
 2015,,,Vága region,R4400,4.2
@@ -890,11 +890,11 @@ Year,Sex,Age,Geography,GeoCode,Value
 2015,,25-54 years,,,3.2
 2015,,25-54 years,Eysturoyar region,R4200,2.4
 2015,,25-54 years,Norðoya region,R4100,3.5
-2015,,25-54 years,Sandoyar region,R4500,7
+2015,,25-54 years,Sandoyar region,R4500,7.0
 2015,,25-54 years,"Streymoyar region, north",R4300,3.2
-2015,,25-54 years,"Streymoyar region, south",R4700,3
+2015,,25-54 years,"Streymoyar region, south",R4700,3.0
 2015,,25-54 years,Suðuroyar region,R4600,4.9
-2015,,25-54 years,Vága region,R4400,4
+2015,,25-54 years,Vága region,R4400,4.0
 2015,,55-66 years,,,2.8
 2015,,55-66 years,Eysturoyar region,R4200,1.7
 2015,,55-66 years,Norðoya region,R4100,1.8
@@ -903,8 +903,8 @@ Year,Sex,Age,Geography,GeoCode,Value
 2015,,55-66 years,"Streymoyar region, south",R4700,3.5
 2015,,55-66 years,Suðuroyar region,R4600,2.6
 2015,,55-66 years,Vága region,R4400,2.5
-2015,,67+ years,,,2
-2015,,67+ years,Eysturoyar region,R4200,2
+2015,,67+ years,,,2.0
+2015,,67+ years,Eysturoyar region,R4200,2.0
 2015,,67+ years,Norðoya region,R4100,2.5
 2015,,67+ years,Sandoyar region,R4500,1.6
 2015,,67+ years,"Streymoyar region, north",R4300,1.9
@@ -924,15 +924,15 @@ Year,Sex,Age,Geography,GeoCode,Value
 2015,Females,00-17 years,Norðoya region,R4100,4.7
 2015,Females,00-17 years,Sandoyar region,R4500,10.1
 2015,Females,00-17 years,"Streymoyar region, north",R4300,5.1
-2015,Females,00-17 years,"Streymoyar region, south",R4700,4
+2015,Females,00-17 years,"Streymoyar region, south",R4700,4.0
 2015,Females,00-17 years,Suðuroyar region,R4600,7.1
 2015,Females,00-17 years,Vága region,R4400,7.6
 2015,Females,18-24 years,,,5.3
-2015,Females,18-24 years,Eysturoyar region,R4200,5
+2015,Females,18-24 years,Eysturoyar region,R4200,5.0
 2015,Females,18-24 years,Norðoya region,R4100,3.2
 2015,Females,18-24 years,Sandoyar region,R4500,8.1
 2015,Females,18-24 years,"Streymoyar region, north",R4300,2.8
-2015,Females,18-24 years,"Streymoyar region, south",R4700,7
+2015,Females,18-24 years,"Streymoyar region, south",R4700,7.0
 2015,Females,18-24 years,Suðuroyar region,R4600,2.5
 2015,Females,18-24 years,Vága region,R4400,5.3
 2015,Females,25-54 years,,,3.5
@@ -946,28 +946,28 @@ Year,Sex,Age,Geography,GeoCode,Value
 2015,Females,55-66 years,,,2.2
 2015,Females,55-66 years,Eysturoyar region,R4200,1.9
 2015,Females,55-66 years,Norðoya region,R4100,1.5
-2015,Females,55-66 years,Sandoyar region,R4500,4
+2015,Females,55-66 years,Sandoyar region,R4500,4.0
 2015,Females,55-66 years,"Streymoyar region, north",R4300,0.8
-2015,Females,55-66 years,"Streymoyar region, south",R4700,3
+2015,Females,55-66 years,"Streymoyar region, south",R4700,3.0
 2015,Females,55-66 years,Suðuroyar region,R4600,1.6
 2015,Females,55-66 years,Vága region,R4400,0.9
 2015,Females,67+ years,,,1.9
 2015,Females,67+ years,Eysturoyar region,R4200,2.1
 2015,Females,67+ years,Norðoya region,R4100,2.6
 2015,Females,67+ years,Sandoyar region,R4500,1.5
-2015,Females,67+ years,"Streymoyar region, north",R4300,1
+2015,Females,67+ years,"Streymoyar region, north",R4300,1.0
 2015,Females,67+ years,"Streymoyar region, south",R4700,1.4
 2015,Females,67+ years,Suðuroyar region,R4600,2.9
 2015,Females,67+ years,Vága region,R4400,2.6
 2015,Males,,,,3.2
 2015,Males,,Eysturoyar region,R4200,2.3
-2015,Males,,Norðoya region,R4100,3
+2015,Males,,Norðoya region,R4100,3.0
 2015,Males,,Sandoyar region,R4500,6.2
 2015,Males,,"Streymoyar region, north",R4300,2.9
 2015,Males,,"Streymoyar region, south",R4700,3.3
-2015,Males,,Suðuroyar region,R4600,4
-2015,Males,,Vága region,R4400,4
-2015,Males,00-17 years,,,4
+2015,Males,,Suðuroyar region,R4600,4.0
+2015,Males,,Vága region,R4400,4.0
+2015,Males,00-17 years,,,4.0
 2015,Males,00-17 years,Eysturoyar region,R4200,3.2
 2015,Males,00-17 years,Norðoya region,R4100,4.5
 2015,Males,00-17 years,Sandoyar region,R4500,7.7
@@ -979,28 +979,28 @@ Year,Sex,Age,Geography,GeoCode,Value
 2015,Males,18-24 years,Eysturoyar region,R4200,2.3
 2015,Males,18-24 years,Norðoya region,R4100,1.5
 2015,Males,18-24 years,Sandoyar region,R4500,6.7
-2015,Males,18-24 years,"Streymoyar region, north",R4300,1
+2015,Males,18-24 years,"Streymoyar region, north",R4300,1.0
 2015,Males,18-24 years,"Streymoyar region, south",R4700,4.2
-2015,Males,18-24 years,Suðuroyar region,R4600,4
+2015,Males,18-24 years,Suðuroyar region,R4600,4.0
 2015,Males,18-24 years,Vága region,R4400,3.7
-2015,Males,25-54 years,,,3
+2015,Males,25-54 years,,,3.0
 2015,Males,25-54 years,Eysturoyar region,R4200,2.1
 2015,Males,25-54 years,Norðoya region,R4100,3.1
 2015,Males,25-54 years,Sandoyar region,R4500,6.2
 2015,Males,25-54 years,"Streymoyar region, north",R4300,2.8
-2015,Males,25-54 years,"Streymoyar region, south",R4700,3
+2015,Males,25-54 years,"Streymoyar region, south",R4700,3.0
 2015,Males,25-54 years,Suðuroyar region,R4600,3.5
 2015,Males,25-54 years,Vága region,R4400,4.2
 2015,Males,55-66 years,,,3.4
 2015,Males,55-66 years,Eysturoyar region,R4200,1.6
-2015,Males,55-66 years,Norðoya region,R4100,2
+2015,Males,55-66 years,Norðoya region,R4100,2.0
 2015,Males,55-66 years,Sandoyar region,R4500,8.3
 2015,Males,55-66 years,"Streymoyar region, north",R4300,3.5
 2015,Males,55-66 years,"Streymoyar region, south",R4700,4.1
 2015,Males,55-66 years,Suðuroyar region,R4600,3.6
-2015,Males,55-66 years,Vága region,R4400,4
-2015,Males,67+ years,,,2
-2015,Males,67+ years,Eysturoyar region,R4200,2
+2015,Males,55-66 years,Vága region,R4400,4.0
+2015,Males,67+ years,,,2.0
+2015,Males,67+ years,Eysturoyar region,R4200,2.0
 2015,Males,67+ years,Norðoya region,R4100,2.4
 2015,Males,67+ years,Sandoyar region,R4500,1.8
 2015,Males,67+ years,"Streymoyar region, north",R4300,2.8
@@ -1013,7 +1013,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,,,Sandoyar region,R4500,3.8
 2016,,,"Streymoyar region, north",R4300,3.1
 2016,,,"Streymoyar region, south",R4700,3.3
-2016,,,Suðuroyar region,R4600,5
+2016,,,Suðuroyar region,R4600,5.0
 2016,,,Vága region,R4400,3.3
 2016,,00-17 years,,,4.2
 2016,,00-17 years,Eysturoyar region,R4200,3.8
@@ -1026,7 +1026,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,,18-24 years,,,3.7
 2016,,18-24 years,Eysturoyar region,R4200,2.8
 2016,,18-24 years,Norðoya region,R4100,2.8
-2016,,18-24 years,Sandoyar region,R4500,6
+2016,,18-24 years,Sandoyar region,R4500,6.0
 2016,,18-24 years,"Streymoyar region, north",R4300,3.2
 2016,,18-24 years,"Streymoyar region, south",R4700,4.4
 2016,,18-24 years,Suðuroyar region,R4600,4.6
@@ -1034,7 +1034,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,,25-54 years,,,3.1
 2016,,25-54 years,Eysturoyar region,R4200,2.3
 2016,,25-54 years,Norðoya region,R4100,2.8
-2016,,25-54 years,Sandoyar region,R4500,4
+2016,,25-54 years,Sandoyar region,R4500,4.0
 2016,,25-54 years,"Streymoyar region, north",R4300,2.9
 2016,,25-54 years,"Streymoyar region, south",R4700,3.1
 2016,,25-54 years,Suðuroyar region,R4600,4.7
@@ -1048,7 +1048,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,,55-66 years,Suðuroyar region,R4600,3.6
 2016,,55-66 years,Vága region,R4400,2.6
 2016,,67+ years,,,1.9
-2016,,67+ years,Eysturoyar region,R4200,1
+2016,,67+ years,Eysturoyar region,R4200,1.0
 2016,,67+ years,Norðoya region,R4100,2.2
 2016,,67+ years,Sandoyar region,R4500,0.8
 2016,,67+ years,"Streymoyar region, north",R4300,1.4
@@ -1062,10 +1062,10 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,Females,,"Streymoyar region, north",R4300,3.3
 2016,Females,,"Streymoyar region, south",R4700,3.4
 2016,Females,,Suðuroyar region,R4600,5.5
-2016,Females,,Vága region,R4400,3
+2016,Females,,Vága region,R4400,3.0
 2016,Females,00-17 years,,,4.4
 2016,Females,00-17 years,Eysturoyar region,R4200,4.2
-2016,Females,00-17 years,Norðoya region,R4100,4
+2016,Females,00-17 years,Norðoya region,R4100,4.0
 2016,Females,00-17 years,Sandoyar region,R4500,6.3
 2016,Females,00-17 years,"Streymoyar region, north",R4300,4.5
 2016,Females,00-17 years,"Streymoyar region, south",R4700,3.7
@@ -1083,7 +1083,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,Females,25-54 years,Eysturoyar region,R4200,2.7
 2016,Females,25-54 years,Norðoya region,R4100,2.8
 2016,Females,25-54 years,Sandoyar region,R4500,3.4
-2016,Females,25-54 years,"Streymoyar region, north",R4300,4
+2016,Females,25-54 years,"Streymoyar region, north",R4300,4.0
 2016,Females,25-54 years,"Streymoyar region, south",R4700,3.2
 2016,Females,25-54 years,Suðuroyar region,R4600,6.1
 2016,Females,25-54 years,Vága region,R4400,2.9
@@ -1100,7 +1100,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,Females,67+ years,Norðoya region,R4100,2.4
 2016,Females,67+ years,Sandoyar region,R4500,1.4
 2016,Females,67+ years,"Streymoyar region, north",R4300,1.3
-2016,Females,67+ years,"Streymoyar region, south",R4700,2
+2016,Females,67+ years,"Streymoyar region, south",R4700,2.0
 2016,Females,67+ years,Suðuroyar region,R4600,2.4
 2016,Females,67+ years,Vága region,R4400,3.7
 2016,Males,,,,3.1
@@ -1124,19 +1124,19 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,Males,18-24 years,Norðoya region,R4100,2.1
 2016,Males,18-24 years,Sandoyar region,R4500,6.5
 2016,Males,18-24 years,"Streymoyar region, north",R4300,2.9
-2016,Males,18-24 years,"Streymoyar region, south",R4700,3
+2016,Males,18-24 years,"Streymoyar region, south",R4700,3.0
 2016,Males,18-24 years,Suðuroyar region,R4600,3.9
 2016,Males,18-24 years,Vága region,R4400,1.6
 2016,Males,25-54 years,,,2.8
-2016,Males,25-54 years,Eysturoyar region,R4200,2
+2016,Males,25-54 years,Eysturoyar region,R4200,2.0
 2016,Males,25-54 years,Norðoya region,R4100,2.8
 2016,Males,25-54 years,Sandoyar region,R4500,4.6
 2016,Males,25-54 years,"Streymoyar region, north",R4300,2.1
-2016,Males,25-54 years,"Streymoyar region, south",R4700,3
+2016,Males,25-54 years,"Streymoyar region, south",R4700,3.0
 2016,Males,25-54 years,Suðuroyar region,R4600,3.5
 2016,Males,25-54 years,Vága region,R4400,3.6
 2016,Males,55-66 years,,,3.3
-2016,Males,55-66 years,Eysturoyar region,R4200,2
+2016,Males,55-66 years,Eysturoyar region,R4200,2.0
 2016,Males,55-66 years,Norðoya region,R4100,1.3
 2016,Males,55-66 years,Sandoyar region,R4500,7.3
 2016,Males,55-66 years,"Streymoyar region, north",R4300,5.2
@@ -1146,17 +1146,17 @@ Year,Sex,Age,Geography,GeoCode,Value
 2016,Males,67+ years,,,1.9
 2016,Males,67+ years,Eysturoyar region,R4200,1.2
 2016,Males,67+ years,Norðoya region,R4100,2.1
-2016,Males,67+ years,Sandoyar region,R4500,-
+2016,Males,67+ years,Sandoyar region,R4500,0.0
 2016,Males,67+ years,"Streymoyar region, north",R4300,1.4
 2016,Males,67+ years,"Streymoyar region, south",R4700,2.2
 2016,Males,67+ years,Suðuroyar region,R4600,2.1
-2016,Males,67+ years,Vága region,R4400,3
-2017,,,,,3
+2016,Males,67+ years,Vága region,R4400,3.0
+2017,,,,,3.0
 2017,,,Eysturoyar region,R4200,2.7
 2017,,,Norðoya region,R4100,2.5
 2017,,,Sandoyar region,R4500,3.9
 2017,,,"Streymoyar region, north",R4300,3.3
-2017,,,"Streymoyar region, south",R4700,3
+2017,,,"Streymoyar region, south",R4700,3.0
 2017,,,Suðuroyar region,R4600,4.4
 2017,,,Vága region,R4400,2.6
 2017,,00-17 years,,,3.8
@@ -1167,7 +1167,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,,00-17 years,"Streymoyar region, south",R4700,3.4
 2017,,00-17 years,Suðuroyar region,R4600,5.1
 2017,,00-17 years,Vága region,R4400,2.3
-2017,,18-24 years,,,3
+2017,,18-24 years,,,3.0
 2017,,18-24 years,Eysturoyar region,R4200,1.8
 2017,,18-24 years,Norðoya region,R4100,1.8
 2017,,18-24 years,Sandoyar region,R4500,6.9
@@ -1185,7 +1185,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,,25-54 years,Vága region,R4400,2.5
 2017,,55-66 years,,,2.8
 2017,,55-66 years,Eysturoyar region,R4200,1.6
-2017,,55-66 years,Norðoya region,R4100,2
+2017,,55-66 years,Norðoya region,R4100,2.0
 2017,,55-66 years,Sandoyar region,R4500,3.8
 2017,,55-66 years,"Streymoyar region, north",R4300,3.2
 2017,,55-66 years,"Streymoyar region, south",R4700,3.2
@@ -1202,9 +1202,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,Females,,,,3.1
 2017,Females,,Eysturoyar region,R4200,3.1
 2017,Females,,Norðoya region,R4100,2.8
-2017,Females,,Sandoyar region,R4500,4
+2017,Females,,Sandoyar region,R4500,4.0
 2017,Females,,"Streymoyar region, north",R4300,3.4
-2017,Females,,"Streymoyar region, south",R4700,3
+2017,Females,,"Streymoyar region, south",R4700,3.0
 2017,Females,,Suðuroyar region,R4600,4.3
 2017,Females,,Vága region,R4400,2.4
 2017,Females,00-17 years,,,3.7
@@ -1212,38 +1212,38 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,Females,00-17 years,Norðoya region,R4100,2.9
 2017,Females,00-17 years,Sandoyar region,R4500,6.8
 2017,Females,00-17 years,"Streymoyar region, north",R4300,4.6
-2017,Females,00-17 years,"Streymoyar region, south",R4700,3
+2017,Females,00-17 years,"Streymoyar region, south",R4700,3.0
 2017,Females,00-17 years,Suðuroyar region,R4600,5.3
 2017,Females,00-17 years,Vága region,R4400,2.6
-2017,Females,18-24 years,,,4
+2017,Females,18-24 years,,,4.0
 2017,Females,18-24 years,Eysturoyar region,R4200,2.9
-2017,Females,18-24 years,Norðoya region,R4100,3
+2017,Females,18-24 years,Norðoya region,R4100,3.0
 2017,Females,18-24 years,Sandoyar region,R4500,8.9
 2017,Females,18-24 years,"Streymoyar region, north",R4300,4.3
 2017,Females,18-24 years,"Streymoyar region, south",R4700,5.1
 2017,Females,18-24 years,Suðuroyar region,R4600,3.8
-2017,Females,18-24 years,Vága region,R4400,1
+2017,Females,18-24 years,Vága region,R4400,1.0
 2017,Females,25-54 years,,,2.9
 2017,Females,25-54 years,Eysturoyar region,R4200,2.7
 2017,Females,25-54 years,Norðoya region,R4100,2.6
 2017,Females,25-54 years,Sandoyar region,R4500,3.6
 2017,Females,25-54 years,"Streymoyar region, north",R4300,3.1
 2017,Females,25-54 years,"Streymoyar region, south",R4700,2.8
-2017,Females,25-54 years,Suðuroyar region,R4600,5
+2017,Females,25-54 years,Suðuroyar region,R4600,5.0
 2017,Females,25-54 years,Vága region,R4400,2.1
 2017,Females,55-66 years,,,2.4
 2017,Females,55-66 years,Eysturoyar region,R4200,1.9
 2017,Females,55-66 years,Norðoya region,R4100,2.3
-2017,Females,55-66 years,Sandoyar region,R4500,2
-2017,Females,55-66 years,"Streymoyar region, north",R4300,2
+2017,Females,55-66 years,Sandoyar region,R4500,2.0
+2017,Females,55-66 years,"Streymoyar region, north",R4300,2.0
 2017,Females,55-66 years,"Streymoyar region, south",R4700,2.6
-2017,Females,55-66 years,Suðuroyar region,R4600,3
+2017,Females,55-66 years,Suðuroyar region,R4600,3.0
 2017,Females,55-66 years,Vága region,R4400,1.9
 2017,Females,67+ years,,,2.9
 2017,Females,67+ years,Eysturoyar region,R4200,2.5
 2017,Females,67+ years,Norðoya region,R4100,3.5
 2017,Females,67+ years,Sandoyar region,R4500,1.4
-2017,Females,67+ years,"Streymoyar region, north",R4300,3
+2017,Females,67+ years,"Streymoyar region, north",R4300,3.0
 2017,Females,67+ years,"Streymoyar region, south",R4700,2.9
 2017,Females,67+ years,Suðuroyar region,R4600,3.1
 2017,Females,67+ years,Vága region,R4400,3.5
@@ -1261,7 +1261,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,Males,00-17 years,Sandoyar region,R4500,5.4
 2017,Males,00-17 years,"Streymoyar region, north",R4300,4.8
 2017,Males,00-17 years,"Streymoyar region, south",R4700,3.8
-2017,Males,00-17 years,Suðuroyar region,R4600,5
+2017,Males,00-17 years,Suðuroyar region,R4600,5.0
 2017,Males,00-17 years,Vága region,R4400,1.9
 2017,Males,18-24 years,,,2.2
 2017,Males,18-24 years,Eysturoyar region,R4200,0.9
@@ -1269,7 +1269,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,Males,18-24 years,Sandoyar region,R4500,5.3
 2017,Males,18-24 years,"Streymoyar region, north",R4300,2.8
 2017,Males,18-24 years,"Streymoyar region, south",R4700,2.6
-2017,Males,18-24 years,Suðuroyar region,R4600,3
+2017,Males,18-24 years,Suðuroyar region,R4600,3.0
 2017,Males,18-24 years,Vága region,R4400,4.4
 2017,Males,25-54 years,,,2.8
 2017,Males,25-54 years,Eysturoyar region,R4200,2.4
@@ -1288,9 +1288,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2017,Males,55-66 years,Suðuroyar region,R4600,4.4
 2017,Males,55-66 years,Vága region,R4400,2.3
 2017,Males,67+ years,,,2.2
-2017,Males,67+ years,Eysturoyar region,R4200,2
+2017,Males,67+ years,Eysturoyar region,R4200,2.0
 2017,Males,67+ years,Norðoya region,R4100,1.6
-2017,Males,67+ years,Sandoyar region,R4500,-
+2017,Males,67+ years,Sandoyar region,R4500,0.0
 2017,Males,67+ years,"Streymoyar region, north",R4300,2.4
 2017,Males,67+ years,"Streymoyar region, south",R4700,1.7
 2017,Males,67+ years,Suðuroyar region,R4600,4.1
@@ -1302,20 +1302,20 @@ Year,Sex,Age,Geography,GeoCode,Value
 2018,,,"Streymoyar region, north",R4300,2.4
 2018,,,"Streymoyar region, south",R4700,2.8
 2018,,,Suðuroyar region,R4600,4.1
-2018,,,Vága region,R4400,3
+2018,,,Vága region,R4400,3.0
 2018,,00-17 years,,,3.5
 2018,,00-17 years,Eysturoyar region,R4200,3.5
-2018,,00-17 years,Norðoya region,R4100,4
+2018,,00-17 years,Norðoya region,R4100,4.0
 2018,,00-17 years,Sandoyar region,R4500,6.8
-2018,,00-17 years,"Streymoyar region, north",R4300,3
-2018,,00-17 years,"Streymoyar region, south",R4700,3
+2018,,00-17 years,"Streymoyar region, north",R4300,3.0
+2018,,00-17 years,"Streymoyar region, south",R4700,3.0
 2018,,00-17 years,Suðuroyar region,R4600,5.2
 2018,,00-17 years,Vága region,R4400,2.7
 2018,,18-24 years,,,3.4
 2018,,18-24 years,Eysturoyar region,R4200,3.1
 2018,,18-24 years,Norðoya region,R4100,2.8
 2018,,18-24 years,Sandoyar region,R4500,6.7
-2018,,18-24 years,"Streymoyar region, north",R4300,1
+2018,,18-24 years,"Streymoyar region, north",R4300,1.0
 2018,,18-24 years,"Streymoyar region, south",R4700,3.8
 2018,,18-24 years,Suðuroyar region,R4600,4.9
 2018,,18-24 years,Vága region,R4400,3.2
@@ -1343,19 +1343,19 @@ Year,Sex,Age,Geography,GeoCode,Value
 2018,,67+ years,"Streymoyar region, south",R4700,1.9
 2018,,67+ years,Suðuroyar region,R4600,3.3
 2018,,67+ years,Vága region,R4400,3.4
-2018,Females,,,,3
-2018,Females,,Eysturoyar region,R4200,3
-2018,Females,,Norðoya region,R4100,3
+2018,Females,,,,3.0
+2018,Females,,Eysturoyar region,R4200,3.0
+2018,Females,,Norðoya region,R4100,3.0
 2018,Females,,Sandoyar region,R4500,4.2
 2018,Females,,"Streymoyar region, north",R4300,2.6
 2018,Females,,"Streymoyar region, south",R4700,2.7
 2018,Females,,Suðuroyar region,R4600,4.2
 2018,Females,,Vága region,R4400,2.7
 2018,Females,00-17 years,,,3.4
-2018,Females,00-17 years,Eysturoyar region,R4200,4
+2018,Females,00-17 years,Eysturoyar region,R4200,4.0
 2018,Females,00-17 years,Norðoya region,R4100,3.5
 2018,Females,00-17 years,Sandoyar region,R4500,6.7
-2018,Females,00-17 years,"Streymoyar region, north",R4300,3
+2018,Females,00-17 years,"Streymoyar region, north",R4300,3.0
 2018,Females,00-17 years,"Streymoyar region, south",R4700,2.8
 2018,Females,00-17 years,Suðuroyar region,R4600,5.1
 2018,Females,00-17 years,Vága region,R4400,2.1
@@ -1377,8 +1377,8 @@ Year,Sex,Age,Geography,GeoCode,Value
 2018,Females,25-54 years,Vága region,R4400,2.6
 2018,Females,55-66 years,,,2.1
 2018,Females,55-66 years,Eysturoyar region,R4200,1.6
-2018,Females,55-66 years,Norðoya region,R4100,1
-2018,Females,55-66 years,Sandoyar region,R4500,2
+2018,Females,55-66 years,Norðoya region,R4100,1.0
+2018,Females,55-66 years,Sandoyar region,R4500,2.0
 2018,Females,55-66 years,"Streymoyar region, north",R4300,2.3
 2018,Females,55-66 years,"Streymoyar region, south",R4700,2.3
 2018,Females,55-66 years,Suðuroyar region,R4600,2.6
@@ -1400,16 +1400,16 @@ Year,Sex,Age,Geography,GeoCode,Value
 2018,Males,,Suðuroyar region,R4600,4.1
 2018,Males,,Vága region,R4400,3.2
 2018,Males,00-17 years,,,3.6
-2018,Males,00-17 years,Eysturoyar region,R4200,3
+2018,Males,00-17 years,Eysturoyar region,R4200,3.0
 2018,Males,00-17 years,Norðoya region,R4100,4.4
-2018,Males,00-17 years,Sandoyar region,R4500,7
-2018,Males,00-17 years,"Streymoyar region, north",R4300,3
+2018,Males,00-17 years,Sandoyar region,R4500,7.0
+2018,Males,00-17 years,"Streymoyar region, north",R4300,3.0
 2018,Males,00-17 years,"Streymoyar region, south",R4700,3.3
 2018,Males,00-17 years,Suðuroyar region,R4600,5.3
 2018,Males,00-17 years,Vága region,R4400,3.2
 2018,Males,18-24 years,,,2.8
 2018,Males,18-24 years,Eysturoyar region,R4200,1.7
-2018,Males,18-24 years,Norðoya region,R4100,2
+2018,Males,18-24 years,Norðoya region,R4100,2.0
 2018,Males,18-24 years,Sandoyar region,R4500,9.4
 2018,Males,18-24 years,"Streymoyar region, north",R4300,1.2
 2018,Males,18-24 years,"Streymoyar region, south",R4700,3.5
@@ -1433,9 +1433,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2018,Males,55-66 years,Vága region,R4400,4.1
 2018,Males,67+ years,,,2.1
 2018,Males,67+ years,Eysturoyar region,R4200,2.2
-2018,Males,67+ years,Norðoya region,R4100,2
+2018,Males,67+ years,Norðoya region,R4100,2.0
 2018,Males,67+ years,Sandoyar region,R4500,2.3
-2018,Males,67+ years,"Streymoyar region, north",R4300,2
+2018,Males,67+ years,"Streymoyar region, north",R4300,2.0
 2018,Males,67+ years,"Streymoyar region, south",R4700,1.3
 2018,Males,67+ years,Suðuroyar region,R4600,3.8
 2018,Males,67+ years,Vága region,R4400,3.3
@@ -1452,10 +1452,10 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,,00-17 years,Norðoya region,R4100,3.2
 2019,,00-17 years,Sandoyar region,R4500,7.1
 2019,,00-17 years,"Streymoyar region, north",R4300,2.7
-2019,,00-17 years,"Streymoyar region, south",R4700,3
+2019,,00-17 years,"Streymoyar region, south",R4700,3.0
 2019,,00-17 years,Suðuroyar region,R4600,6.7
 2019,,00-17 years,Vága region,R4400,2.6
-2019,,18-24 years,,,3
+2019,,18-24 years,,,3.0
 2019,,18-24 years,Eysturoyar region,R4200,2.5
 2019,,18-24 years,Norðoya region,R4100,2.1
 2019,,18-24 years,Sandoyar region,R4500,3.8
@@ -1469,7 +1469,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,,25-54 years,Sandoyar region,R4500,3.4
 2019,,25-54 years,"Streymoyar region, north",R4300,2.4
 2019,,25-54 years,"Streymoyar region, south",R4700,2.5
-2019,,25-54 years,Suðuroyar region,R4600,5
+2019,,25-54 years,Suðuroyar region,R4600,5.0
 2019,,25-54 years,Vága region,R4400,3.1
 2019,,55-66 years,,,2.2
 2019,,55-66 years,Eysturoyar region,R4200,1.3
@@ -1483,7 +1483,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,,67+ years,Eysturoyar region,R4200,1.2
 2019,,67+ years,Norðoya region,R4100,1.9
 2019,,67+ years,Sandoyar region,R4500,0.8
-2019,,67+ years,"Streymoyar region, north",R4300,1
+2019,,67+ years,"Streymoyar region, north",R4300,1.0
 2019,,67+ years,"Streymoyar region, south",R4700,1.5
 2019,,67+ years,Suðuroyar region,R4600,1.4
 2019,,67+ years,Vága region,R4400,2.5
@@ -1503,26 +1503,26 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,Females,00-17 years,"Streymoyar region, south",R4700,3.7
 2019,Females,00-17 years,Suðuroyar region,R4600,6.8
 2019,Females,00-17 years,Vága region,R4400,2.8
-2019,Females,18-24 years,,,4
+2019,Females,18-24 years,,,4.0
 2019,Females,18-24 years,Eysturoyar region,R4200,4.3
 2019,Females,18-24 years,Norðoya region,R4100,2.5
 2019,Females,18-24 years,Sandoyar region,R4500,3.9
 2019,Females,18-24 years,"Streymoyar region, north",R4300,0.7
 2019,Females,18-24 years,"Streymoyar region, south",R4700,4.8
 2019,Females,18-24 years,Suðuroyar region,R4600,3.9
-2019,Females,18-24 years,Vága region,R4400,4
-2019,Females,25-54 years,,,3
+2019,Females,18-24 years,Vága region,R4400,4.0
+2019,Females,25-54 years,,,3.0
 2019,Females,25-54 years,Eysturoyar region,R4200,2.2
 2019,Females,25-54 years,Norðoya region,R4100,3.3
 2019,Females,25-54 years,Sandoyar region,R4500,4.6
 2019,Females,25-54 years,"Streymoyar region, north",R4300,2.7
 2019,Females,25-54 years,"Streymoyar region, south",R4700,2.6
-2019,Females,25-54 years,Suðuroyar region,R4600,6
+2019,Females,25-54 years,Suðuroyar region,R4600,6.0
 2019,Females,25-54 years,Vága region,R4400,3.1
 2019,Females,55-66 years,,,1.9
 2019,Females,55-66 years,Eysturoyar region,R4200,0.8
 2019,Females,55-66 years,Norðoya region,R4100,1.7
-2019,Females,55-66 years,Sandoyar region,R4500,3
+2019,Females,55-66 years,Sandoyar region,R4500,3.0
 2019,Females,55-66 years,"Streymoyar region, north",R4300,1.9
 2019,Females,55-66 years,"Streymoyar region, south",R4700,2.4
 2019,Females,55-66 years,Suðuroyar region,R4600,2.6
@@ -1538,12 +1538,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,Males,,,,2.4
 2019,Males,,Eysturoyar region,R4200,1.8
 2019,Males,,Norðoya region,R4100,2.1
-2019,Males,,Sandoyar region,R4500,3
-2019,Males,,"Streymoyar region, north",R4300,2
+2019,Males,,Sandoyar region,R4500,3.0
+2019,Males,,"Streymoyar region, north",R4300,2.0
 2019,Males,,"Streymoyar region, south",R4700,2.3
 2019,Males,,Suðuroyar region,R4600,4.2
 2019,Males,,Vága region,R4400,2.8
-2019,Males,00-17 years,,,3
+2019,Males,00-17 years,,,3.0
 2019,Males,00-17 years,Eysturoyar region,R4200,2.7
 2019,Males,00-17 years,Norðoya region,R4100,3.4
 2019,Males,00-17 years,Sandoyar region,R4500,6.2
@@ -1555,7 +1555,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,Males,18-24 years,Eysturoyar region,R4200,1.2
 2019,Males,18-24 years,Norðoya region,R4100,1.7
 2019,Males,18-24 years,Sandoyar region,R4500,3.7
-2019,Males,18-24 years,"Streymoyar region, north",R4300,-
+2019,Males,18-24 years,"Streymoyar region, north",R4300,0.0
 2019,Males,18-24 years,"Streymoyar region, south",R4700,2.7
 2019,Males,18-24 years,Suðuroyar region,R4600,4.2
 2019,Males,18-24 years,Vága region,R4400,4.6
@@ -1566,7 +1566,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,Males,25-54 years,"Streymoyar region, north",R4300,2.1
 2019,Males,25-54 years,"Streymoyar region, south",R4700,2.4
 2019,Males,25-54 years,Suðuroyar region,R4600,4.1
-2019,Males,25-54 years,Vága region,R4400,3
+2019,Males,25-54 years,Vága region,R4400,3.0
 2019,Males,55-66 years,,,2.5
 2019,Males,55-66 years,Eysturoyar region,R4200,1.7
 2019,Males,55-66 years,Norðoya region,R4100,0.6
@@ -1584,7 +1584,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2019,Males,67+ years,Suðuroyar region,R4600,1.3
 2019,Males,67+ years,Vága region,R4400,1.6
 2020,,,,,2.4
-2020,,,Eysturoyar region,R4200,2
+2020,,,Eysturoyar region,R4200,2.0
 2020,,,Norðoya region,R4100,2.3
 2020,,,Sandoyar region,R4500,3.4
 2020,,,"Streymoyar region, north",R4300,1.8
@@ -1602,10 +1602,10 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,,18-24 years,,,2.7
 2020,,18-24 years,Eysturoyar region,R4200,1.4
 2020,,18-24 years,Norðoya region,R4100,2.4
-2020,,18-24 years,Sandoyar region,R4500,4
+2020,,18-24 years,Sandoyar region,R4500,4.0
 2020,,18-24 years,"Streymoyar region, north",R4300,2.3
 2020,,18-24 years,"Streymoyar region, south",R4700,3.1
-2020,,18-24 years,Suðuroyar region,R4600,5
+2020,,18-24 years,Suðuroyar region,R4600,5.0
 2020,,18-24 years,Vága region,R4400,2.1
 2020,,25-54 years,,,2.3
 2020,,25-54 years,Eysturoyar region,R4200,1.9
@@ -1613,9 +1613,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,,25-54 years,Sandoyar region,R4500,2.8
 2020,,25-54 years,"Streymoyar region, north",R4300,1.5
 2020,,25-54 years,"Streymoyar region, south",R4700,2.1
-2020,,25-54 years,Suðuroyar region,R4600,5
+2020,,25-54 years,Suðuroyar region,R4600,5.0
 2020,,25-54 years,Vága region,R4400,2.2
-2020,,55-66 years,,,2
+2020,,55-66 years,,,2.0
 2020,,55-66 years,Eysturoyar region,R4200,1.6
 2020,,55-66 years,Norðoya region,R4100,1.1
 2020,,55-66 years,Sandoyar region,R4500,2.2
@@ -1630,17 +1630,17 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,,67+ years,"Streymoyar region, north",R4300,1.1
 2020,,67+ years,"Streymoyar region, south",R4700,1.3
 2020,,67+ years,Suðuroyar region,R4600,1.1
-2020,,67+ years,Vága region,R4400,2
+2020,,67+ years,Vága region,R4400,2.0
 2020,Females,,,,2.6
 2020,Females,,Eysturoyar region,R4200,2.1
 2020,Females,,Norðoya region,R4100,2.7
 2020,Females,,Sandoyar region,R4500,4.5
-2020,Females,,"Streymoyar region, north",R4300,2
+2020,Females,,"Streymoyar region, north",R4300,2.0
 2020,Females,,"Streymoyar region, south",R4700,2.3
 2020,Females,,Suðuroyar region,R4600,4.9
-2020,Females,,Vága region,R4400,3
+2020,Females,,Vága region,R4400,3.0
 2020,Females,00-17 years,,,3.5
-2020,Females,00-17 years,Eysturoyar region,R4200,3
+2020,Females,00-17 years,Eysturoyar region,R4200,3.0
 2020,Females,00-17 years,Norðoya region,R4100,3.2
 2020,Females,00-17 years,Sandoyar region,R4500,8.8
 2020,Females,00-17 years,"Streymoyar region, north",R4300,3.2
@@ -1653,7 +1653,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,Females,18-24 years,Sandoyar region,R4500,4.3
 2020,Females,18-24 years,"Streymoyar region, north",R4300,3.5
 2020,Females,18-24 years,"Streymoyar region, south",R4700,4.5
-2020,Females,18-24 years,Suðuroyar region,R4600,5
+2020,Females,18-24 years,Suðuroyar region,R4600,5.0
 2020,Females,18-24 years,Vága region,R4400,3.1
 2020,Females,25-54 years,,,2.6
 2020,Females,25-54 years,Eysturoyar region,R4200,2.2
@@ -1684,10 +1684,10 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,Males,,Norðoya region,R4100,1.9
 2020,Males,,Sandoyar region,R4500,2.4
 2020,Males,,"Streymoyar region, north",R4300,1.6
-2020,Males,,"Streymoyar region, south",R4700,2
+2020,Males,,"Streymoyar region, south",R4700,2.0
 2020,Males,,Suðuroyar region,R4600,4.1
-2020,Males,,Vága region,R4400,2
-2020,Males,00-17 years,,,3
+2020,Males,,Vága region,R4400,2.0
+2020,Males,00-17 years,,,3.0
 2020,Males,00-17 years,Eysturoyar region,R4200,3.1
 2020,Males,00-17 years,Norðoya region,R4100,3.7
 2020,Males,00-17 years,Sandoyar region,R4500,4.1
@@ -1701,9 +1701,9 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,Males,18-24 years,Sandoyar region,R4500,3.9
 2020,Males,18-24 years,"Streymoyar region, north",R4300,1.2
 2020,Males,18-24 years,"Streymoyar region, south",R4700,1.8
-2020,Males,18-24 years,Suðuroyar region,R4600,5
+2020,Males,18-24 years,Suðuroyar region,R4600,5.0
 2020,Males,18-24 years,Vága region,R4400,1.3
-2020,Males,25-54 years,,,2
+2020,Males,25-54 years,,,2.0
 2020,Males,25-54 years,Eysturoyar region,R4200,1.6
 2020,Males,25-54 years,Norðoya region,R4100,1.6
 2020,Males,25-54 years,Sandoyar region,R4500,1.4
@@ -1720,7 +1720,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2020,Males,55-66 years,Suðuroyar region,R4600,4.3
 2020,Males,55-66 years,Vága region,R4400,2.7
 2020,Males,67+ years,,,1.1
-2020,Males,67+ years,Eysturoyar region,R4200,1
+2020,Males,67+ years,Eysturoyar region,R4200,1.0
 2020,Males,67+ years,Norðoya region,R4100,1.2
 2020,Males,67+ years,Sandoyar region,R4500,1.6
 2020,Males,67+ years,"Streymoyar region, north",R4300,0.9
@@ -1747,7 +1747,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2021,,18-24 years,Eysturoyar region,R4200,2.6
 2021,,18-24 years,Norðoya region,R4100,1.5
 2021,,18-24 years,Sandoyar region,R4500,3.5
-2021,,18-24 years,"Streymoyar region, north",R4300,1
+2021,,18-24 years,"Streymoyar region, north",R4300,1.0
 2021,,18-24 years,"Streymoyar region, south",R4700,4.5
 2021,,18-24 years,Suðuroyar region,R4600,4.1
 2021,,18-24 years,Vága region,R4400,3.5
@@ -1767,14 +1767,14 @@ Year,Sex,Age,Geography,GeoCode,Value
 2021,,55-66 years,"Streymoyar region, south",R4700,2.2
 2021,,55-66 years,Suðuroyar region,R4600,3.3
 2021,,55-66 years,Vága region,R4400,3.3
-2021,,67+ years,,,1
+2021,,67+ years,,,1.0
 2021,,67+ years,Eysturoyar region,R4200,0.8
 2021,,67+ years,Norðoya region,R4100,1.1
 2021,,67+ years,Sandoyar region,R4500,0.7
 2021,,67+ years,"Streymoyar region, north",R4300,0.6
-2021,,67+ years,"Streymoyar region, south",R4700,1
+2021,,67+ years,"Streymoyar region, south",R4700,1.0
 2021,,67+ years,Suðuroyar region,R4600,0.9
-2021,,67+ years,Vága region,R4400,2
+2021,,67+ years,Vága region,R4400,2.0
 2021,Females,,,,2.7
 2021,Females,,Eysturoyar region,R4200,2.1
 2021,Females,,Norðoya region,R4100,2.5
@@ -1790,7 +1790,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2021,Females,00-17 years,"Streymoyar region, north",R4300,3.8
 2021,Females,00-17 years,"Streymoyar region, south",R4700,3.2
 2021,Females,00-17 years,Suðuroyar region,R4600,5.1
-2021,Females,00-17 years,Vága region,R4400,4
+2021,Females,00-17 years,Vága region,R4400,4.0
 2021,Females,18-24 years,,,4.1
 2021,Females,18-24 years,Eysturoyar region,R4200,3.9
 2021,Females,18-24 years,Norðoya region,R4100,1.5
@@ -1829,7 +1829,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2021,Males,,Sandoyar region,R4500,3.2
 2021,Males,,"Streymoyar region, north",R4300,2.2
 2021,Males,,"Streymoyar region, south",R4700,2.5
-2021,Males,,Suðuroyar region,R4600,4
+2021,Males,,Suðuroyar region,R4600,4.0
 2021,Males,,Vága region,R4400,3.1
 2021,Males,00-17 years,,,3.2
 2021,Males,00-17 years,Eysturoyar region,R4200,2.3
@@ -1878,12 +1878,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2022,,,"Streymoyar region, north",R4300,2.4
 2022,,,"Streymoyar region, south",R4700,2.7
 2022,,,Suðuroyar region,R4600,3.2
-2022,,,Vága region,R4400,2
+2022,,,Vága region,R4400,2.0
 2022,,00-17 years,,,3.2
 2022,,00-17 years,Eysturoyar region,R4200,2.4
 2022,,00-17 years,Norðoya region,R4100,3.3
-2022,,00-17 years,Sandoyar region,R4500,5
-2022,,00-17 years,"Streymoyar region, north",R4300,4
+2022,,00-17 years,Sandoyar region,R4500,5.0
+2022,,00-17 years,"Streymoyar region, north",R4300,4.0
 2022,,00-17 years,"Streymoyar region, south",R4700,3.2
 2022,,00-17 years,Suðuroyar region,R4600,4.5
 2022,,00-17 years,Vága region,R4400,2.5
@@ -1900,18 +1900,18 @@ Year,Sex,Age,Geography,GeoCode,Value
 2022,,25-54 years,Norðoya region,R4100,2.4
 2022,,25-54 years,Sandoyar region,R4500,4.4
 2022,,25-54 years,"Streymoyar region, north",R4300,2.5
-2022,,25-54 years,"Streymoyar region, south",R4700,3
+2022,,25-54 years,"Streymoyar region, south",R4700,3.0
 2022,,25-54 years,Suðuroyar region,R4600,3.2
 2022,,25-54 years,Vága region,R4400,1.7
-2022,,55-66 years,,,2
+2022,,55-66 years,,,2.0
 2022,,55-66 years,Eysturoyar region,R4200,1.4
 2022,,55-66 years,Norðoya region,R4100,1.8
 2022,,55-66 years,Sandoyar region,R4500,4.7
-2022,,55-66 years,"Streymoyar region, north",R4300,2
+2022,,55-66 years,"Streymoyar region, north",R4300,2.0
 2022,,55-66 years,"Streymoyar region, south",R4700,1.9
 2022,,55-66 years,Suðuroyar region,R4600,3.6
 2022,,55-66 years,Vága region,R4400,1.6
-2022,,67+ years,,,1
+2022,,67+ years,,,1.0
 2022,,67+ years,Eysturoyar region,R4200,0.6
 2022,,67+ years,Norðoya region,R4100,1.5
 2022,,67+ years,Sandoyar region,R4500,0.4
@@ -1927,7 +1927,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2022,Females,,"Streymoyar region, south",R4700,2.9
 2022,Females,,Suðuroyar region,R4600,3.3
 2022,Females,,Vága region,R4400,2.1
-2022,Females,00-17 years,,,3
+2022,Females,00-17 years,,,3.0
 2022,Females,00-17 years,Eysturoyar region,R4200,2.2
 2022,Females,00-17 years,Norðoya region,R4100,2.8
 2022,Females,00-17 years,Sandoyar region,R4500,4.9
@@ -1952,20 +1952,20 @@ Year,Sex,Age,Geography,GeoCode,Value
 2022,Females,25-54 years,Suðuroyar region,R4600,3.4
 2022,Females,25-54 years,Vága region,R4400,1.6
 2022,Females,55-66 years,,,1.6
-2022,Females,55-66 years,Eysturoyar region,R4200,1
+2022,Females,55-66 years,Eysturoyar region,R4200,1.0
 2022,Females,55-66 years,Norðoya region,R4100,1.6
-2022,Females,55-66 years,Sandoyar region,R4500,4
+2022,Females,55-66 years,Sandoyar region,R4500,4.0
 2022,Females,55-66 years,"Streymoyar region, north",R4300,1.9
 2022,Females,55-66 years,"Streymoyar region, south",R4700,1.4
-2022,Females,55-66 years,Suðuroyar region,R4600,2
+2022,Females,55-66 years,Suðuroyar region,R4600,2.0
 2022,Females,55-66 years,Vága region,R4400,2.5
 2022,Females,67+ years,,,1.2
 2022,Females,67+ years,Eysturoyar region,R4200,0.7
-2022,Females,67+ years,Norðoya region,R4100,2
-2022,Females,67+ years,Sandoyar region,R4500,-
+2022,Females,67+ years,Norðoya region,R4100,2.0
+2022,Females,67+ years,Sandoyar region,R4500,0.0
 2022,Females,67+ years,"Streymoyar region, north",R4300,0.9
 2022,Females,67+ years,"Streymoyar region, south",R4700,1.1
-2022,Females,67+ years,Suðuroyar region,R4600,2
+2022,Females,67+ years,Suðuroyar region,R4600,2.0
 2022,Females,67+ years,Vága region,R4400,1.5
 2022,Males,,,,2.4
 2022,Males,,Eysturoyar region,R4200,1.8
@@ -1992,12 +1992,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2022,Males,18-24 years,Suðuroyar region,R4600,3.1
 2022,Males,18-24 years,Vága region,R4400,1.3
 2022,Males,25-54 years,,,2.6
-2022,Males,25-54 years,Eysturoyar region,R4200,2
+2022,Males,25-54 years,Eysturoyar region,R4200,2.0
 2022,Males,25-54 years,Norðoya region,R4100,2.1
 2022,Males,25-54 years,Sandoyar region,R4500,3.9
 2022,Males,25-54 years,"Streymoyar region, north",R4300,2.3
-2022,Males,25-54 years,"Streymoyar region, south",R4700,3
-2022,Males,25-54 years,Suðuroyar region,R4600,3
+2022,Males,25-54 years,"Streymoyar region, south",R4700,3.0
+2022,Males,25-54 years,Suðuroyar region,R4600,3.0
 2022,Males,25-54 years,Vága region,R4400,1.9
 2022,Males,55-66 years,,,2.4
 2022,Males,55-66 years,Eysturoyar region,R4200,1.9
@@ -2005,11 +2005,11 @@ Year,Sex,Age,Geography,GeoCode,Value
 2022,Males,55-66 years,Sandoyar region,R4500,5.3
 2022,Males,55-66 years,"Streymoyar region, north",R4300,2.1
 2022,Males,55-66 years,"Streymoyar region, south",R4700,2.3
-2022,Males,55-66 years,Suðuroyar region,R4600,5
+2022,Males,55-66 years,Suðuroyar region,R4600,5.0
 2022,Males,55-66 years,Vága region,R4400,0.9
 2022,Males,67+ years,,,0.7
 2022,Males,67+ years,Eysturoyar region,R4200,0.5
-2022,Males,67+ years,Norðoya region,R4100,1
+2022,Males,67+ years,Norðoya region,R4100,1.0
 2022,Males,67+ years,Sandoyar region,R4500,0.7
 2022,Males,67+ years,"Streymoyar region, north",R4300,0.9
 2022,Males,67+ years,"Streymoyar region, south",R4700,0.4
@@ -2023,7 +2023,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2023,,,"Streymoyar region, south",R4700,2.6
 2023,,,Suðuroyar region,R4600,3.3
 2023,,,Vága region,R4400,2.4
-2023,,00-17 years,,,3
+2023,,00-17 years,,,3.0
 2023,,00-17 years,Eysturoyar region,R4200,2.9
 2023,,00-17 years,Norðoya region,R4100,3.3
 2023,,00-17 years,Sandoyar region,R4500,4.3
@@ -2038,7 +2038,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2023,,18-24 years,"Streymoyar region, north",R4300,1.6
 2023,,18-24 years,"Streymoyar region, south",R4700,5.1
 2023,,18-24 years,Suðuroyar region,R4600,3.5
-2023,,18-24 years,Vága region,R4400,2
+2023,,18-24 years,Vága region,R4400,2.0
 2023,,25-54 years,,,2.6
 2023,,25-54 years,Eysturoyar region,R4200,2.1
 2023,,25-54 years,Norðoya region,R4100,2.5
@@ -2064,7 +2064,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2023,,67+ years,Suðuroyar region,R4600,1.5
 2023,,67+ years,Vága region,R4400,1.9
 2023,Females,,,,2.6
-2023,Females,,Eysturoyar region,R4200,2
+2023,Females,,Eysturoyar region,R4200,2.0
 2023,Females,,Norðoya region,R4100,2.4
 2023,Females,,Sandoyar region,R4500,3.9
 2023,Females,,"Streymoyar region, north",R4300,2.3
@@ -2081,17 +2081,17 @@ Year,Sex,Age,Geography,GeoCode,Value
 2023,Females,00-17 years,Vága region,R4400,3.9
 2023,Females,18-24 years,,,4.5
 2023,Females,18-24 years,Eysturoyar region,R4200,1.6
-2023,Females,18-24 years,Norðoya region,R4100,3
+2023,Females,18-24 years,Norðoya region,R4100,3.0
 2023,Females,18-24 years,Sandoyar region,R4500,2.1
-2023,Females,18-24 years,"Streymoyar region, north",R4300,2
+2023,Females,18-24 years,"Streymoyar region, north",R4300,2.0
 2023,Females,18-24 years,"Streymoyar region, south",R4700,7.3
-2023,Females,18-24 years,Suðuroyar region,R4600,4
-2023,Females,18-24 years,Vága region,R4400,3
+2023,Females,18-24 years,Suðuroyar region,R4600,4.0
+2023,Females,18-24 years,Vága region,R4400,3.0
 2023,Females,25-54 years,,,2.6
 2023,Females,25-54 years,Eysturoyar region,R4200,2.2
 2023,Females,25-54 years,Norðoya region,R4100,2.5
 2023,Females,25-54 years,Sandoyar region,R4500,4.3
-2023,Females,25-54 years,"Streymoyar region, north",R4300,2
+2023,Females,25-54 years,"Streymoyar region, north",R4300,2.0
 2023,Females,25-54 years,"Streymoyar region, south",R4700,2.4
 2023,Females,25-54 years,Suðuroyar region,R4600,4.4
 2023,Females,25-54 years,Vága region,R4400,2.8
@@ -2128,7 +2128,7 @@ Year,Sex,Age,Geography,GeoCode,Value
 2023,Males,00-17 years,Suðuroyar region,R4600,5.1
 2023,Males,00-17 years,Vága region,R4400,3.1
 2023,Males,18-24 years,,,2.2
-2023,Males,18-24 years,Eysturoyar region,R4200,1
+2023,Males,18-24 years,Eysturoyar region,R4200,1.0
 2023,Males,18-24 years,Norðoya region,R4100,2.4
 2023,Males,18-24 years,Sandoyar region,R4500,1.8
 2023,Males,18-24 years,"Streymoyar region, north",R4300,1.2
@@ -2141,12 +2141,12 @@ Year,Sex,Age,Geography,GeoCode,Value
 2023,Males,25-54 years,Sandoyar region,R4500,2.8
 2023,Males,25-54 years,"Streymoyar region, north",R4300,1.9
 2023,Males,25-54 years,"Streymoyar region, south",R4700,3.2
-2023,Males,25-54 years,Suðuroyar region,R4600,3
+2023,Males,25-54 years,Suðuroyar region,R4600,3.0
 2023,Males,25-54 years,Vága region,R4400,1.6
 2023,Males,55-66 years,,,2.3
 2023,Males,55-66 years,Eysturoyar region,R4200,1.5
-2023,Males,55-66 years,Norðoya region,R4100,2
-2023,Males,55-66 years,Sandoyar region,R4500,7
+2023,Males,55-66 years,Norðoya region,R4100,2.0
+2023,Males,55-66 years,Sandoyar region,R4500,7.0
 2023,Males,55-66 years,"Streymoyar region, north",R4300,1.8
 2023,Males,55-66 years,"Streymoyar region, south",R4700,2.6
 2023,Males,55-66 years,Suðuroyar region,R4600,2.5
