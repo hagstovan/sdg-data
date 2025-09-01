@@ -1,1 +1,1081 @@
-Year,Value
+Year,Series,party,Units,Value
+1984,National parliament,All parties,Proportion of seats held by women,3.1
+1984,National parliament,All parties,Seats held by women,1.0
+1984,National parliament,All parties,Number of seats,32.0
+1988,National parliament,All parties,Proportion of seats held by women,9.4
+1988,National parliament,All parties,Seats held by women,3.0
+1988,National parliament,All parties,Number of seats,32.0
+1990,National parliament,All parties,Proportion of seats held by women,9.4
+1990,National parliament,All parties,Seats held by women,3.0
+1990,National parliament,All parties,Number of seats,32.0
+1994,National parliament,All parties,Proportion of seats held by women,15.6
+1994,National parliament,All parties,Seats held by women,5.0
+1994,National parliament,All parties,Number of seats,32.0
+1998,National parliament,All parties,Proportion of seats held by women,12.5
+1998,National parliament,All parties,Seats held by women,4.0
+1998,National parliament,All parties,Number of seats,32.0
+2002,National parliament,All parties,Proportion of seats held by women,12.5
+2002,National parliament,All parties,Seats held by women,4.0
+2002,National parliament,All parties,Number of seats,32.0
+2004,National parliament,All parties,Proportion of seats held by women,9.4
+2004,National parliament,All parties,Seats held by women,3.0
+2004,National parliament,All parties,Number of seats,32.0
+2008,National parliament,All parties,Proportion of seats held by women,21.2
+2008,National parliament,All parties,Seats held by women,7.0
+2008,National parliament,All parties,Number of seats,33.0
+2011,National parliament,All parties,Proportion of seats held by women,30.3
+2011,National parliament,All parties,Seats held by women,10.0
+2011,National parliament,All parties,Number of seats,33.0
+2015,National parliament,All parties,Proportion of seats held by women,30.3
+2015,National parliament,All parties,Seats held by women,10.0
+2015,National parliament,All parties,Number of seats,33.0
+2019,National parliament,All parties,Proportion of seats held by women,24.2
+2019,National parliament,All parties,Seats held by women,8.0
+2019,National parliament,All parties,Number of seats,33.0
+2022,National parliament,All parties,Proportion of seats held by women,30.3
+2022,National parliament,All parties,Seats held by women,10.0
+2022,National parliament,All parties,Number of seats,33.0
+1984,National parliament,Conservative Party,Proportion of seats held by women,0.0
+1984,National parliament,Conservative Party,Seats held by women,0.0
+1984,National parliament,Conservative Party,Number of seats,7.0
+1988,National parliament,Conservative Party,Proportion of seats held by women,0.0
+1988,National parliament,Conservative Party,Seats held by women,0.0
+1988,National parliament,Conservative Party,Number of seats,8.0
+1990,National parliament,Conservative Party,Proportion of seats held by women,0.0
+1990,National parliament,Conservative Party,Seats held by women,0.0
+1990,National parliament,Conservative Party,Number of seats,7.0
+1994,National parliament,Conservative Party,Proportion of seats held by women,0.0
+1994,National parliament,Conservative Party,Seats held by women,0.0
+1994,National parliament,Conservative Party,Number of seats,6.0
+1998,National parliament,Conservative Party,Proportion of seats held by women,0.0
+1998,National parliament,Conservative Party,Seats held by women,0.0
+1998,National parliament,Conservative Party,Number of seats,8.0
+2002,National parliament,Conservative Party,Proportion of seats held by women,0.0
+2002,National parliament,Conservative Party,Seats held by women,0.0
+2002,National parliament,Conservative Party,Number of seats,7.0
+2004,National parliament,Conservative Party,Proportion of seats held by women,0.0
+2004,National parliament,Conservative Party,Seats held by women,0.0
+2004,National parliament,Conservative Party,Number of seats,7.0
+2008,National parliament,Conservative Party,Proportion of seats held by women,14.3
+2008,National parliament,Conservative Party,Seats held by women,1.0
+2008,National parliament,Conservative Party,Number of seats,7.0
+2011,National parliament,Conservative Party,Proportion of seats held by women,25.0
+2011,National parliament,Conservative Party,Seats held by women,2.0
+2011,National parliament,Conservative Party,Number of seats,8.0
+2015,National parliament,Conservative Party,Proportion of seats held by women,33.3
+2015,National parliament,Conservative Party,Seats held by women,2.0
+2015,National parliament,Conservative Party,Number of seats,6.0
+2019,National parliament,Conservative Party,Proportion of seats held by women,12.5
+2019,National parliament,Conservative Party,Seats held by women,1.0
+2019,National parliament,Conservative Party,Number of seats,8.0
+2022,National parliament,Conservative Party,Proportion of seats held by women,16.7
+2022,National parliament,Conservative Party,Seats held by women,1.0
+2022,National parliament,Conservative Party,Number of seats,6.0
+1984,National parliament,Progress Party,Proportion of seats held by women,0.0
+1984,National parliament,Progress Party,Seats held by women,0.0
+1984,National parliament,Progress Party,Number of seats,2.0
+2011,National parliament,Onward Party,Proportion of seats held by women,0.0
+2011,National parliament,Onward Party,Seats held by women,0.0
+2011,National parliament,Onward Party,Number of seats,2.0
+2015,National parliament,Onward Party,Proportion of seats held by women,50.0
+2015,National parliament,Onward Party,Seats held by women,1.0
+2015,National parliament,Onward Party,Number of seats,2.0
+2019,National parliament,Onward Party,Proportion of seats held by women,0.0
+2019,National parliament,Onward Party,Seats held by women,0.0
+2019,National parliament,Onward Party,Number of seats,2.0
+2022,National parliament,Onward Party,Proportion of seats held by women,33.3
+2022,National parliament,Onward Party,Seats held by women,1.0
+2022,National parliament,Onward Party,Number of seats,3.0
+1984,National parliament,Social Democratic Party,Proportion of seats held by women,0.0
+1984,National parliament,Social Democratic Party,Seats held by women,0.0
+1984,National parliament,Social Democratic Party,Number of seats,8.0
+1988,National parliament,Social Democratic Party,Proportion of seats held by women,14.3
+1988,National parliament,Social Democratic Party,Seats held by women,1.0
+1988,National parliament,Social Democratic Party,Number of seats,7.0
+1990,National parliament,Social Democratic Party,Proportion of seats held by women,10.0
+1990,National parliament,Social Democratic Party,Seats held by women,1.0
+1990,National parliament,Social Democratic Party,Number of seats,10.0
+1994,National parliament,Social Democratic Party,Proportion of seats held by women,20.0
+1994,National parliament,Social Democratic Party,Seats held by women,1.0
+1994,National parliament,Social Democratic Party,Number of seats,5.0
+1998,National parliament,Social Democratic Party,Proportion of seats held by women,14.3
+1998,National parliament,Social Democratic Party,Seats held by women,1.0
+1998,National parliament,Social Democratic Party,Number of seats,7.0
+2002,National parliament,Social Democratic Party,Proportion of seats held by women,14.3
+2002,National parliament,Social Democratic Party,Seats held by women,1.0
+2002,National parliament,Social Democratic Party,Number of seats,7.0
+2004,National parliament,Social Democratic Party,Proportion of seats held by women,0.0
+2004,National parliament,Social Democratic Party,Seats held by women,0.0
+2004,National parliament,Social Democratic Party,Number of seats,7.0
+2008,National parliament,Social Democratic Party,Proportion of seats held by women,33.3
+2008,National parliament,Social Democratic Party,Seats held by women,2.0
+2008,National parliament,Social Democratic Party,Number of seats,6.0
+2011,National parliament,Social Democratic Party,Proportion of seats held by women,33.3
+2011,National parliament,Social Democratic Party,Seats held by women,2.0
+2011,National parliament,Social Democratic Party,Number of seats,6.0
+2015,National parliament,Social Democratic Party,Proportion of seats held by women,37.5
+2015,National parliament,Social Democratic Party,Seats held by women,3.0
+2015,National parliament,Social Democratic Party,Number of seats,8.0
+2019,National parliament,Social Democratic Party,Proportion of seats held by women,14.3
+2019,National parliament,Social Democratic Party,Seats held by women,1.0
+2019,National parliament,Social Democratic Party,Number of seats,7.0
+2022,National parliament,Social Democratic Party,Proportion of seats held by women,33.3
+2022,National parliament,Social Democratic Party,Seats held by women,3.0
+2022,National parliament,Social Democratic Party,Number of seats,9.0
+1988,National parliament,Christian Party,Proportion of seats held by women,0.0
+1988,National parliament,Christian Party,Seats held by women,0.0
+1988,National parliament,Christian Party,Number of seats,2.0
+1990,National parliament,Christian Party,Proportion of seats held by women,0.0
+1990,National parliament,Christian Party,Seats held by women,0.0
+1990,National parliament,Christian Party,Number of seats,2.0
+1994,National parliament,Christian Party,Proportion of seats held by women,0.0
+1994,National parliament,Christian Party,Seats held by women,0.0
+1994,National parliament,Christian Party,Number of seats,2.0
+1994,National parliament,The Centre Party,Proportion of seats held by women,0.0
+1994,National parliament,The Centre Party,Seats held by women,0.0
+1994,National parliament,The Centre Party,Number of seats,2.0
+1998,National parliament,The Centre Party,Proportion of seats held by women,0.0
+1998,National parliament,The Centre Party,Seats held by women,0.0
+1998,National parliament,The Centre Party,Number of seats,1.0
+2002,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2002,National parliament,The Centre Party,Seats held by women,0.0
+2002,National parliament,The Centre Party,Number of seats,1.0
+2004,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2004,National parliament,The Centre Party,Seats held by women,0.0
+2004,National parliament,The Centre Party,Number of seats,2.0
+2008,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2008,National parliament,The Centre Party,Seats held by women,0.0
+2008,National parliament,The Centre Party,Number of seats,3.0
+2011,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2011,National parliament,The Centre Party,Seats held by women,0.0
+2011,National parliament,The Centre Party,Number of seats,2.0
+2015,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2015,National parliament,The Centre Party,Seats held by women,0.0
+2015,National parliament,The Centre Party,Number of seats,2.0
+2019,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2019,National parliament,The Centre Party,Seats held by women,0.0
+2019,National parliament,The Centre Party,Number of seats,2.0
+2022,National parliament,The Centre Party,Proportion of seats held by women,0.0
+2022,National parliament,The Centre Party,Seats held by women,0.0
+2022,National parliament,The Centre Party,Number of seats,2.0
+1984,National parliament,Unionist Party,Proportion of seats held by women,0.0
+1984,National parliament,Unionist Party,Seats held by women,0.0
+1984,National parliament,Unionist Party,Number of seats,7.0
+1988,National parliament,Unionist Party,Proportion of seats held by women,0.0
+1988,National parliament,Unionist Party,Seats held by women,0.0
+1988,National parliament,Unionist Party,Number of seats,7.0
+1990,National parliament,Unionist Party,Proportion of seats held by women,16.7
+1990,National parliament,Unionist Party,Seats held by women,1.0
+1990,National parliament,Unionist Party,Number of seats,6.0
+1994,National parliament,Unionist Party,Proportion of seats held by women,25.0
+1994,National parliament,Unionist Party,Seats held by women,2.0
+1994,National parliament,Unionist Party,Number of seats,8.0
+1998,National parliament,Unionist Party,Proportion of seats held by women,16.7
+1998,National parliament,Unionist Party,Seats held by women,1.0
+1998,National parliament,Unionist Party,Number of seats,6.0
+2002,National parliament,Unionist Party,Proportion of seats held by women,12.5
+2002,National parliament,Unionist Party,Seats held by women,1.0
+2002,National parliament,Unionist Party,Number of seats,8.0
+2004,National parliament,Unionist Party,Proportion of seats held by women,14.3
+2004,National parliament,Unionist Party,Seats held by women,1.0
+2004,National parliament,Unionist Party,Number of seats,7.0
+2008,National parliament,Unionist Party,Proportion of seats held by women,14.3
+2008,National parliament,Unionist Party,Seats held by women,1.0
+2008,National parliament,Unionist Party,Number of seats,7.0
+2011,National parliament,Unionist Party,Proportion of seats held by women,25.0
+2011,National parliament,Unionist Party,Seats held by women,2.0
+2011,National parliament,Unionist Party,Number of seats,8.0
+2015,National parliament,Unionist Party,Proportion of seats held by women,0.0
+2015,National parliament,Unionist Party,Seats held by women,0.0
+2015,National parliament,Unionist Party,Number of seats,6.0
+2019,National parliament,Unionist Party,Proportion of seats held by women,14.3
+2019,National parliament,Unionist Party,Seats held by women,1.0
+2019,National parliament,Unionist Party,Number of seats,7.0
+2022,National parliament,Unionist Party,Proportion of seats held by women,14.3
+2022,National parliament,Unionist Party,Seats held by women,1.0
+2022,National parliament,Unionist Party,Number of seats,7.0
+1984,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+1984,National parliament,Workers´ Movement,Seats held by women,0.0
+1984,National parliament,Workers´ Movement,Number of seats,2.0
+1988,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+1988,National parliament,Workers´ Movement,Seats held by women,0.0
+1988,National parliament,Workers´ Movement,Number of seats,2.0
+1990,National parliament,Workers´ Movement,Proportion of seats held by women,33.3
+1990,National parliament,Workers´ Movement,Seats held by women,1.0
+1990,National parliament,Workers´ Movement,Number of seats,3.0
+1994,National parliament,Workers´ Movement,Proportion of seats held by women,50.0
+1994,National parliament,Workers´ Movement,Seats held by women,1.0
+1994,National parliament,Workers´ Movement,Number of seats,2.0
+1998,National parliament,Workers´ Movement,Proportion of seats held by women,50.0
+1998,National parliament,Workers´ Movement,Seats held by women,1.0
+1998,National parliament,Workers´ Movement,Number of seats,2.0
+2002,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+2002,National parliament,Workers´ Movement,Seats held by women,0.0
+2002,National parliament,Workers´ Movement,Number of seats,1.0
+2004,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+2004,National parliament,Workers´ Movement,Seats held by women,0.0
+2004,National parliament,Workers´ Movement,Number of seats,1.0
+2008,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+2008,National parliament,Workers´ Movement,Seats held by women,0.0
+2008,National parliament,Workers´ Movement,Number of seats,2.0
+2011,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+2011,National parliament,Workers´ Movement,Seats held by women,0.0
+2011,National parliament,Workers´ Movement,Number of seats,1.0
+2015,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+2015,National parliament,Workers´ Movement,Seats held by women,0.0
+2015,National parliament,Workers´ Movement,Number of seats,2.0
+2019,National parliament,Workers´ Movement,Proportion of seats held by women,0.0
+2019,National parliament,Workers´ Movement,Seats held by women,0.0
+2019,National parliament,Workers´ Movement,Number of seats,1.0
+1984,National parliament,Republican Party,Proportion of seats held by women,16.7
+1984,National parliament,Republican Party,Seats held by women,1.0
+1984,National parliament,Republican Party,Number of seats,6.0
+1988,National parliament,Republican Party,Proportion of seats held by women,33.3
+1988,National parliament,Republican Party,Seats held by women,2.0
+1988,National parliament,Republican Party,Number of seats,6.0
+1990,National parliament,Republican Party,Proportion of seats held by women,0.0
+1990,National parliament,Republican Party,Seats held by women,0.0
+1990,National parliament,Republican Party,Number of seats,4.0
+1994,National parliament,Republican Party,Proportion of seats held by women,0.0
+1994,National parliament,Republican Party,Seats held by women,0.0
+1994,National parliament,Republican Party,Number of seats,4.0
+1998,National parliament,Republican Party,Proportion of seats held by women,12.5
+1998,National parliament,Republican Party,Seats held by women,1.0
+1998,National parliament,Republican Party,Number of seats,8.0
+2002,National parliament,Republican Party,Proportion of seats held by women,25.0
+2002,National parliament,Republican Party,Seats held by women,2.0
+2002,National parliament,Republican Party,Number of seats,8.0
+2004,National parliament,Republican Party,Proportion of seats held by women,25.0
+2004,National parliament,Republican Party,Seats held by women,2.0
+2004,National parliament,Republican Party,Number of seats,8.0
+2008,National parliament,Republican Party,Proportion of seats held by women,37.5
+2008,National parliament,Republican Party,Seats held by women,3.0
+2008,National parliament,Republican Party,Number of seats,8.0
+2011,National parliament,Republican Party,Proportion of seats held by women,66.7
+2011,National parliament,Republican Party,Seats held by women,4.0
+2011,National parliament,Republican Party,Number of seats,6.0
+2015,National parliament,Republican Party,Proportion of seats held by women,57.1
+2015,National parliament,Republican Party,Seats held by women,4.0
+2015,National parliament,Republican Party,Number of seats,7.0
+2019,National parliament,Republican Party,Proportion of seats held by women,83.3
+2019,National parliament,Republican Party,Seats held by women,5.0
+2019,National parliament,Republican Party,Number of seats,6.0
+2022,National parliament,Republican Party,Proportion of seats held by women,66.7
+2022,National parliament,Republican Party,Seats held by women,4.0
+2022,National parliament,Republican Party,Number of seats,6.0
+1994,National parliament,Verkamannafylkingin,Proportion of seats held by women,33.3
+1994,National parliament,Verkamannafylkingin,Seats held by women,1.0
+1994,National parliament,Verkamannafylkingin,Number of seats,3.0
+1992,Local goverment,All municipalities,Proportion of seats held by women,15.3
+1992,Local goverment,All municipalities,Seats held by women,43.0
+1992,Local goverment,All municipalities,Number of seats,281.0
+1996,Local goverment,All municipalities,Proportion of seats held by women,15.8
+1996,Local goverment,All municipalities,Seats held by women,44.0
+1996,Local goverment,All municipalities,Number of seats,279.0
+2000,Local goverment,All municipalities,Proportion of seats held by women,23.2
+2000,Local goverment,All municipalities,Seats held by women,63.0
+2000,Local goverment,All municipalities,Number of seats,272.0
+2004,Local goverment,All municipalities,Proportion of seats held by women,22.7
+2004,Local goverment,All municipalities,Seats held by women,50.0
+2004,Local goverment,All municipalities,Number of seats,220.0
+2012,Local goverment,All municipalities,Proportion of seats held by women,27.8
+2012,Local goverment,All municipalities,Seats held by women,57.0
+2012,Local goverment,All municipalities,Number of seats,205.0
+2016,Local goverment,All municipalities,Proportion of seats held by women,33.8
+2016,Local goverment,All municipalities,Seats held by women,68.0
+2016,Local goverment,All municipalities,Number of seats,201.0
+2020,Local goverment,All municipalities,Proportion of seats held by women,35.7
+2020,Local goverment,All municipalities,Seats held by women,71.0
+2020,Local goverment,All municipalities,Number of seats,199.0
+1992,Local goverment,Argja municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Argja municipality,Seats held by women,0.0
+1992,Local goverment,Argja municipality,Number of seats,7.0
+1992,Local goverment,Bíggjar municipality,Proportion of seats held by women,66.7
+1992,Local goverment,Bíggjar municipality,Seats held by women,2.0
+1992,Local goverment,Bíggjar municipality,Number of seats,3.0
+1996,Local goverment,Bíggjar municipality,Proportion of seats held by women,33.3
+1996,Local goverment,Bíggjar municipality,Seats held by women,1.0
+1996,Local goverment,Bíggjar municipality,Number of seats,3.0
+2000,Local goverment,Bíggjar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Bíggjar municipality,Seats held by women,0.0
+2000,Local goverment,Bíggjar municipality,Number of seats,3.0
+1992,Local goverment,Eiðis municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Eiðis municipality,Seats held by women,0.0
+1992,Local goverment,Eiðis municipality,Number of seats,7.0
+1996,Local goverment,Eiðis municipality,Proportion of seats held by women,14.3
+1996,Local goverment,Eiðis municipality,Seats held by women,1.0
+1996,Local goverment,Eiðis municipality,Number of seats,7.0
+2000,Local goverment,Eiðis municipality,Proportion of seats held by women,14.3
+2000,Local goverment,Eiðis municipality,Seats held by women,1.0
+2000,Local goverment,Eiðis municipality,Number of seats,7.0
+2004,Local goverment,Eiðis municipality,Proportion of seats held by women,14.3
+2004,Local goverment,Eiðis municipality,Seats held by women,1.0
+2004,Local goverment,Eiðis municipality,Number of seats,7.0
+2012,Local goverment,Eiðis municipality,Proportion of seats held by women,14.3
+2012,Local goverment,Eiðis municipality,Seats held by women,1.0
+2012,Local goverment,Eiðis municipality,Number of seats,7.0
+2016,Local goverment,Eiðis municipality,Proportion of seats held by women,14.3
+2016,Local goverment,Eiðis municipality,Seats held by women,1.0
+2016,Local goverment,Eiðis municipality,Number of seats,7.0
+2020,Local goverment,Eiðis municipality,Proportion of seats held by women,57.1
+2020,Local goverment,Eiðis municipality,Seats held by women,4.0
+2020,Local goverment,Eiðis municipality,Number of seats,7.0
+1992,Local goverment,Elduvíkar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Elduvíkar municipality,Seats held by women,0.0
+1992,Local goverment,Elduvíkar municipality,Number of seats,5.0
+1996,Local goverment,Elduvíkar municipality,Proportion of seats held by women,25.0
+1996,Local goverment,Elduvíkar municipality,Seats held by women,1.0
+1996,Local goverment,Elduvíkar municipality,Number of seats,4.0
+2000,Local goverment,Elduvíkar municipality,Proportion of seats held by women,25.0
+2000,Local goverment,Elduvíkar municipality,Seats held by women,1.0
+2000,Local goverment,Elduvíkar municipality,Number of seats,4.0
+2012,Local goverment,Eystur municipality,Proportion of seats held by women,33.3
+2012,Local goverment,Eystur municipality,Seats held by women,3.0
+2012,Local goverment,Eystur municipality,Number of seats,9.0
+2016,Local goverment,Eystur municipality,Proportion of seats held by women,22.2
+2016,Local goverment,Eystur municipality,Seats held by women,2.0
+2016,Local goverment,Eystur municipality,Number of seats,9.0
+2020,Local goverment,Eystur municipality,Proportion of seats held by women,44.4
+2020,Local goverment,Eystur municipality,Seats held by women,4.0
+2020,Local goverment,Eystur municipality,Number of seats,9.0
+1992,Local goverment,Fámjins municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Fámjins municipality,Seats held by women,1.0
+1992,Local goverment,Fámjins municipality,Number of seats,5.0
+1996,Local goverment,Fámjins municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Fámjins municipality,Seats held by women,1.0
+1996,Local goverment,Fámjins municipality,Number of seats,5.0
+2000,Local goverment,Fámjins municipality,Proportion of seats held by women,20.0
+2000,Local goverment,Fámjins municipality,Seats held by women,1.0
+2000,Local goverment,Fámjins municipality,Number of seats,5.0
+2004,Local goverment,Fámjins municipality,Proportion of seats held by women,40.0
+2004,Local goverment,Fámjins municipality,Seats held by women,2.0
+2004,Local goverment,Fámjins municipality,Number of seats,5.0
+2012,Local goverment,Fámjins municipality,Proportion of seats held by women,42.9
+2012,Local goverment,Fámjins municipality,Seats held by women,3.0
+2012,Local goverment,Fámjins municipality,Number of seats,7.0
+2016,Local goverment,Fámjins municipality,Proportion of seats held by women,0.0
+2016,Local goverment,Fámjins municipality,Seats held by women,0.0
+2016,Local goverment,Fámjins municipality,Number of seats,3.0
+2020,Local goverment,Fámjins municipality,Proportion of seats held by women,0.0
+2020,Local goverment,Fámjins municipality,Seats held by women,0.0
+2020,Local goverment,Fámjins municipality,Number of seats,3.0
+1992,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,33.3
+1992,Local goverment,Fuglafjarðar municipality,Seats held by women,3.0
+1992,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+1996,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,11.1
+1996,Local goverment,Fuglafjarðar municipality,Seats held by women,1.0
+1996,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+2000,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,11.1
+2000,Local goverment,Fuglafjarðar municipality,Seats held by women,1.0
+2000,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+2004,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,11.1
+2004,Local goverment,Fuglafjarðar municipality,Seats held by women,1.0
+2004,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+2012,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,11.1
+2012,Local goverment,Fuglafjarðar municipality,Seats held by women,1.0
+2012,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+2016,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,11.1
+2016,Local goverment,Fuglafjarðar municipality,Seats held by women,1.0
+2016,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+2020,Local goverment,Fuglafjarðar municipality,Proportion of seats held by women,22.2
+2020,Local goverment,Fuglafjarðar municipality,Seats held by women,2.0
+2020,Local goverment,Fuglafjarðar municipality,Number of seats,9.0
+1992,Local goverment,Fugloyar municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Fugloyar municipality,Seats held by women,1.0
+1992,Local goverment,Fugloyar municipality,Number of seats,5.0
+1996,Local goverment,Fugloyar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Fugloyar municipality,Seats held by women,0.0
+1996,Local goverment,Fugloyar municipality,Number of seats,5.0
+2000,Local goverment,Fugloyar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Fugloyar municipality,Seats held by women,0.0
+2000,Local goverment,Fugloyar municipality,Number of seats,3.0
+2004,Local goverment,Fugloyar municipality,Proportion of seats held by women,33.3
+2004,Local goverment,Fugloyar municipality,Seats held by women,1.0
+2004,Local goverment,Fugloyar municipality,Number of seats,3.0
+2012,Local goverment,Fugloyar municipality,Proportion of seats held by women,33.3
+2012,Local goverment,Fugloyar municipality,Seats held by women,1.0
+2012,Local goverment,Fugloyar municipality,Number of seats,3.0
+2016,Local goverment,Fugloyar municipality,Proportion of seats held by women,66.7
+2016,Local goverment,Fugloyar municipality,Seats held by women,2.0
+2016,Local goverment,Fugloyar municipality,Number of seats,3.0
+2020,Local goverment,Fugloyar municipality,Proportion of seats held by women,66.7
+2020,Local goverment,Fugloyar municipality,Seats held by women,2.0
+2020,Local goverment,Fugloyar municipality,Number of seats,3.0
+1992,Local goverment,Funnings municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Funnings municipality,Seats held by women,1.0
+1992,Local goverment,Funnings municipality,Number of seats,5.0
+1996,Local goverment,Funnings municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Funnings municipality,Seats held by women,0.0
+1996,Local goverment,Funnings municipality,Number of seats,5.0
+2000,Local goverment,Funnings municipality,Proportion of seats held by women,33.3
+2000,Local goverment,Funnings municipality,Seats held by women,1.0
+2000,Local goverment,Funnings municipality,Number of seats,3.0
+2004,Local goverment,Funnings municipality,Proportion of seats held by women,50.0
+2004,Local goverment,Funnings municipality,Seats held by women,1.0
+2004,Local goverment,Funnings municipality,Number of seats,2.0
+1992,Local goverment,Gjáar municipality,Proportion of seats held by women,25.0
+1992,Local goverment,Gjáar municipality,Seats held by women,1.0
+1992,Local goverment,Gjáar municipality,Number of seats,4.0
+1996,Local goverment,Gjáar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Gjáar municipality,Seats held by women,0.0
+1996,Local goverment,Gjáar municipality,Number of seats,4.0
+2000,Local goverment,Gjáar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Gjáar municipality,Seats held by women,0.0
+2000,Local goverment,Gjáar municipality,Number of seats,1.0
+1992,Local goverment,Gøtu municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Gøtu municipality,Seats held by women,0.0
+1992,Local goverment,Gøtu municipality,Number of seats,5.0
+1996,Local goverment,Gøtu municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Gøtu municipality,Seats held by women,0.0
+1996,Local goverment,Gøtu municipality,Number of seats,5.0
+2000,Local goverment,Gøtu municipality,Proportion of seats held by women,33.3
+2000,Local goverment,Gøtu municipality,Seats held by women,3.0
+2000,Local goverment,Gøtu municipality,Number of seats,9.0
+2004,Local goverment,Gøtu municipality,Proportion of seats held by women,33.3
+2004,Local goverment,Gøtu municipality,Seats held by women,4.0
+2004,Local goverment,Gøtu municipality,Number of seats,12.0
+1992,Local goverment,Haldórsvíkar municipality,Proportion of seats held by women,25.0
+1992,Local goverment,Haldórsvíkar municipality,Seats held by women,1.0
+1992,Local goverment,Haldórsvíkar municipality,Number of seats,4.0
+1996,Local goverment,Haldórsvíkar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Haldórsvíkar municipality,Seats held by women,0.0
+1996,Local goverment,Haldórsvíkar municipality,Number of seats,3.0
+2000,Local goverment,Haldórsvíkar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Haldórsvíkar municipality,Seats held by women,0.0
+2000,Local goverment,Haldórsvíkar municipality,Number of seats,3.0
+1992,Local goverment,Hests municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Hests municipality,Seats held by women,1.0
+1992,Local goverment,Hests municipality,Number of seats,5.0
+1996,Local goverment,Hests municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Hests municipality,Seats held by women,0.0
+1996,Local goverment,Hests municipality,Number of seats,5.0
+2000,Local goverment,Hests municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Hests municipality,Seats held by women,0.0
+2000,Local goverment,Hests municipality,Number of seats,3.0
+1992,Local goverment,Hósvíkar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Hósvíkar municipality,Seats held by women,0.0
+1992,Local goverment,Hósvíkar municipality,Number of seats,3.0
+1996,Local goverment,Hósvíkar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Hósvíkar municipality,Seats held by women,0.0
+1996,Local goverment,Hósvíkar municipality,Number of seats,4.0
+2000,Local goverment,Hósvíkar municipality,Proportion of seats held by women,50.0
+2000,Local goverment,Hósvíkar municipality,Seats held by women,2.0
+2000,Local goverment,Hósvíkar municipality,Number of seats,4.0
+1992,Local goverment,Hovs municipality,Proportion of seats held by women,60.0
+1992,Local goverment,Hovs municipality,Seats held by women,3.0
+1992,Local goverment,Hovs municipality,Number of seats,5.0
+1996,Local goverment,Hovs municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Hovs municipality,Seats held by women,1.0
+1996,Local goverment,Hovs municipality,Number of seats,5.0
+2000,Local goverment,Hovs municipality,Proportion of seats held by women,40.0
+2000,Local goverment,Hovs municipality,Seats held by women,2.0
+2000,Local goverment,Hovs municipality,Number of seats,5.0
+2004,Local goverment,Hovs municipality,Proportion of seats held by women,40.0
+2004,Local goverment,Hovs municipality,Seats held by women,2.0
+2004,Local goverment,Hovs municipality,Number of seats,5.0
+2012,Local goverment,Hovs municipality,Proportion of seats held by women,40.0
+2012,Local goverment,Hovs municipality,Seats held by women,2.0
+2012,Local goverment,Hovs municipality,Number of seats,5.0
+2016,Local goverment,Hovs municipality,Proportion of seats held by women,40.0
+2016,Local goverment,Hovs municipality,Seats held by women,2.0
+2016,Local goverment,Hovs municipality,Number of seats,5.0
+2020,Local goverment,Hovs municipality,Proportion of seats held by women,33.3
+2020,Local goverment,Hovs municipality,Seats held by women,1.0
+2020,Local goverment,Hovs municipality,Number of seats,3.0
+1992,Local goverment,Húsa municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Húsa municipality,Seats held by women,0.0
+1992,Local goverment,Húsa municipality,Number of seats,5.0
+1996,Local goverment,Húsa municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Húsa municipality,Seats held by women,1.0
+1996,Local goverment,Húsa municipality,Number of seats,5.0
+2000,Local goverment,Húsa municipality,Proportion of seats held by women,33.3
+2000,Local goverment,Húsa municipality,Seats held by women,1.0
+2000,Local goverment,Húsa municipality,Number of seats,3.0
+2004,Local goverment,Húsa municipality,Proportion of seats held by women,33.3
+2004,Local goverment,Húsa municipality,Seats held by women,1.0
+2004,Local goverment,Húsa municipality,Number of seats,3.0
+1992,Local goverment,Húsavíkar municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Húsavíkar municipality,Seats held by women,1.0
+1992,Local goverment,Húsavíkar municipality,Number of seats,5.0
+1996,Local goverment,Húsavíkar municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Húsavíkar municipality,Seats held by women,1.0
+1996,Local goverment,Húsavíkar municipality,Number of seats,5.0
+2000,Local goverment,Húsavíkar municipality,Proportion of seats held by women,20.0
+2000,Local goverment,Húsavíkar municipality,Seats held by women,1.0
+2000,Local goverment,Húsavíkar municipality,Number of seats,5.0
+2004,Local goverment,Húsavíkar municipality,Proportion of seats held by women,20.0
+2004,Local goverment,Húsavíkar municipality,Seats held by women,1.0
+2004,Local goverment,Húsavíkar municipality,Number of seats,5.0
+2012,Local goverment,Húsavíkar municipality,Proportion of seats held by women,40.0
+2012,Local goverment,Húsavíkar municipality,Seats held by women,2.0
+2012,Local goverment,Húsavíkar municipality,Number of seats,5.0
+2016,Local goverment,Húsavíkar municipality,Proportion of seats held by women,60.0
+2016,Local goverment,Húsavíkar municipality,Seats held by women,3.0
+2016,Local goverment,Húsavíkar municipality,Number of seats,5.0
+2020,Local goverment,Húsavíkar municipality,Proportion of seats held by women,40.0
+2020,Local goverment,Húsavíkar municipality,Seats held by women,2.0
+2020,Local goverment,Húsavíkar municipality,Number of seats,5.0
+1992,Local goverment,Hvalbiar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Hvalbiar municipality,Seats held by women,0.0
+1992,Local goverment,Hvalbiar municipality,Number of seats,5.0
+1996,Local goverment,Hvalbiar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Hvalbiar municipality,Seats held by women,0.0
+1996,Local goverment,Hvalbiar municipality,Number of seats,5.0
+2000,Local goverment,Hvalbiar municipality,Proportion of seats held by women,14.3
+2000,Local goverment,Hvalbiar municipality,Seats held by women,1.0
+2000,Local goverment,Hvalbiar municipality,Number of seats,7.0
+2004,Local goverment,Hvalbiar municipality,Proportion of seats held by women,14.3
+2004,Local goverment,Hvalbiar municipality,Seats held by women,1.0
+2004,Local goverment,Hvalbiar municipality,Number of seats,7.0
+2012,Local goverment,Hvalbiar municipality,Proportion of seats held by women,0.0
+2012,Local goverment,Hvalbiar municipality,Seats held by women,0.0
+2012,Local goverment,Hvalbiar municipality,Number of seats,7.0
+2016,Local goverment,Hvalbiar municipality,Proportion of seats held by women,28.6
+2016,Local goverment,Hvalbiar municipality,Seats held by women,2.0
+2016,Local goverment,Hvalbiar municipality,Number of seats,7.0
+2020,Local goverment,Hvalbiar municipality,Proportion of seats held by women,28.6
+2020,Local goverment,Hvalbiar municipality,Seats held by women,2.0
+2020,Local goverment,Hvalbiar municipality,Number of seats,7.0
+1992,Local goverment,Hvalvíkar municipality,Proportion of seats held by women,33.3
+1992,Local goverment,Hvalvíkar municipality,Seats held by women,1.0
+1992,Local goverment,Hvalvíkar municipality,Number of seats,3.0
+1996,Local goverment,Hvalvíkar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Hvalvíkar municipality,Seats held by women,0.0
+1996,Local goverment,Hvalvíkar municipality,Number of seats,4.0
+2000,Local goverment,Hvalvíkar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Hvalvíkar municipality,Seats held by women,0.0
+2000,Local goverment,Hvalvíkar municipality,Number of seats,1.0
+1992,Local goverment,Hvannasunds municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Hvannasunds municipality,Seats held by women,0.0
+1992,Local goverment,Hvannasunds municipality,Number of seats,5.0
+1996,Local goverment,Hvannasunds municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Hvannasunds municipality,Seats held by women,0.0
+1996,Local goverment,Hvannasunds municipality,Number of seats,6.0
+2000,Local goverment,Hvannasunds municipality,Proportion of seats held by women,40.0
+2000,Local goverment,Hvannasunds municipality,Seats held by women,2.0
+2000,Local goverment,Hvannasunds municipality,Number of seats,5.0
+2004,Local goverment,Hvannasunds municipality,Proportion of seats held by women,20.0
+2004,Local goverment,Hvannasunds municipality,Seats held by women,1.0
+2004,Local goverment,Hvannasunds municipality,Number of seats,5.0
+2012,Local goverment,Hvannasunds municipality,Proportion of seats held by women,40.0
+2012,Local goverment,Hvannasunds municipality,Seats held by women,2.0
+2012,Local goverment,Hvannasunds municipality,Number of seats,5.0
+2016,Local goverment,Hvannasunds municipality,Proportion of seats held by women,40.0
+2016,Local goverment,Hvannasunds municipality,Seats held by women,2.0
+2016,Local goverment,Hvannasunds municipality,Number of seats,5.0
+2020,Local goverment,Hvannasunds municipality,Proportion of seats held by women,80.0
+2020,Local goverment,Hvannasunds municipality,Seats held by women,4.0
+2020,Local goverment,Hvannasunds municipality,Number of seats,5.0
+1992,Local goverment,Kirkjubøar municipality,Proportion of seats held by women,25.0
+1992,Local goverment,Kirkjubøar municipality,Seats held by women,1.0
+1992,Local goverment,Kirkjubøar municipality,Number of seats,4.0
+1996,Local goverment,Kirkjubøar municipality,Proportion of seats held by women,33.3
+1996,Local goverment,Kirkjubøar municipality,Seats held by women,1.0
+1996,Local goverment,Kirkjubøar municipality,Number of seats,3.0
+2000,Local goverment,Kirkjubøar municipality,Proportion of seats held by women,33.3
+2000,Local goverment,Kirkjubøar municipality,Seats held by women,1.0
+2000,Local goverment,Kirkjubøar municipality,Number of seats,3.0
+1992,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,18.2
+1992,Local goverment,Klaksvíkar municipality,Seats held by women,2.0
+1992,Local goverment,Klaksvíkar municipality,Number of seats,11.0
+1996,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,18.2
+1996,Local goverment,Klaksvíkar municipality,Seats held by women,2.0
+1996,Local goverment,Klaksvíkar municipality,Number of seats,11.0
+2000,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,25.0
+2000,Local goverment,Klaksvíkar municipality,Seats held by women,3.0
+2000,Local goverment,Klaksvíkar municipality,Number of seats,12.0
+2004,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,25.0
+2004,Local goverment,Klaksvíkar municipality,Seats held by women,3.0
+2004,Local goverment,Klaksvíkar municipality,Number of seats,12.0
+2012,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,45.5
+2012,Local goverment,Klaksvíkar municipality,Seats held by women,5.0
+2012,Local goverment,Klaksvíkar municipality,Number of seats,11.0
+2016,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,36.4
+2016,Local goverment,Klaksvíkar municipality,Seats held by women,4.0
+2016,Local goverment,Klaksvíkar municipality,Number of seats,11.0
+2020,Local goverment,Klaksvíkar municipality,Proportion of seats held by women,36.4
+2020,Local goverment,Klaksvíkar municipality,Seats held by women,4.0
+2020,Local goverment,Klaksvíkar municipality,Number of seats,11.0
+1992,Local goverment,Kollafjarðar municipality,Proportion of seats held by women,12.5
+1992,Local goverment,Kollafjarðar municipality,Seats held by women,1.0
+1992,Local goverment,Kollafjarðar municipality,Number of seats,8.0
+1996,Local goverment,Kollafjarðar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Kollafjarðar municipality,Seats held by women,0.0
+1996,Local goverment,Kollafjarðar municipality,Number of seats,7.0
+1992,Local goverment,Kunoyar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Kunoyar municipality,Seats held by women,0.0
+1992,Local goverment,Kunoyar municipality,Number of seats,5.0
+1996,Local goverment,Kunoyar municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Kunoyar municipality,Seats held by women,1.0
+1996,Local goverment,Kunoyar municipality,Number of seats,5.0
+2000,Local goverment,Kunoyar municipality,Proportion of seats held by women,20.0
+2000,Local goverment,Kunoyar municipality,Seats held by women,1.0
+2000,Local goverment,Kunoyar municipality,Number of seats,5.0
+2004,Local goverment,Kunoyar municipality,Proportion of seats held by women,20.0
+2004,Local goverment,Kunoyar municipality,Seats held by women,1.0
+2004,Local goverment,Kunoyar municipality,Number of seats,5.0
+2012,Local goverment,Kunoyar municipality,Proportion of seats held by women,40.0
+2012,Local goverment,Kunoyar municipality,Seats held by women,2.0
+2012,Local goverment,Kunoyar municipality,Number of seats,5.0
+2016,Local goverment,Kunoyar municipality,Proportion of seats held by women,40.0
+2016,Local goverment,Kunoyar municipality,Seats held by women,2.0
+2016,Local goverment,Kunoyar municipality,Number of seats,5.0
+2020,Local goverment,Kunoyar municipality,Proportion of seats held by women,20.0
+2020,Local goverment,Kunoyar municipality,Seats held by women,1.0
+2020,Local goverment,Kunoyar municipality,Number of seats,5.0
+1992,Local goverment,Kvívíkar municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Kvívíkar municipality,Seats held by women,1.0
+1992,Local goverment,Kvívíkar municipality,Number of seats,5.0
+1996,Local goverment,Kvívíkar municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Kvívíkar municipality,Seats held by women,1.0
+1996,Local goverment,Kvívíkar municipality,Number of seats,5.0
+2000,Local goverment,Kvívíkar municipality,Proportion of seats held by women,28.6
+2000,Local goverment,Kvívíkar municipality,Seats held by women,2.0
+2000,Local goverment,Kvívíkar municipality,Number of seats,7.0
+2004,Local goverment,Kvívíkar municipality,Proportion of seats held by women,28.6
+2004,Local goverment,Kvívíkar municipality,Seats held by women,2.0
+2004,Local goverment,Kvívíkar municipality,Number of seats,7.0
+2012,Local goverment,Kvívíkar municipality,Proportion of seats held by women,42.9
+2012,Local goverment,Kvívíkar municipality,Seats held by women,3.0
+2012,Local goverment,Kvívíkar municipality,Number of seats,7.0
+2016,Local goverment,Kvívíkar municipality,Proportion of seats held by women,42.9
+2016,Local goverment,Kvívíkar municipality,Seats held by women,3.0
+2016,Local goverment,Kvívíkar municipality,Number of seats,7.0
+2020,Local goverment,Kvívíkar municipality,Proportion of seats held by women,42.9
+2020,Local goverment,Kvívíkar municipality,Seats held by women,3.0
+2020,Local goverment,Kvívíkar municipality,Number of seats,7.0
+1992,Local goverment,Leirvíkar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Leirvíkar municipality,Seats held by women,0.0
+1992,Local goverment,Leirvíkar municipality,Number of seats,5.0
+1996,Local goverment,Leirvíkar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Leirvíkar municipality,Seats held by women,0.0
+1996,Local goverment,Leirvíkar municipality,Number of seats,5.0
+2000,Local goverment,Leirvíkar municipality,Proportion of seats held by women,60.0
+2000,Local goverment,Leirvíkar municipality,Seats held by women,3.0
+2000,Local goverment,Leirvíkar municipality,Number of seats,5.0
+2004,Local goverment,Leirvíkar municipality,Proportion of seats held by women,50.0
+2004,Local goverment,Leirvíkar municipality,Seats held by women,1.0
+2004,Local goverment,Leirvíkar municipality,Number of seats,2.0
+1992,Local goverment,Miðvágs municipality,Proportion of seats held by women,33.3
+1992,Local goverment,Miðvágs municipality,Seats held by women,2.0
+1992,Local goverment,Miðvágs municipality,Number of seats,6.0
+1996,Local goverment,Miðvágs municipality,Proportion of seats held by women,50.0
+1996,Local goverment,Miðvágs municipality,Seats held by women,4.0
+1996,Local goverment,Miðvágs municipality,Number of seats,8.0
+2000,Local goverment,Miðvágs municipality,Proportion of seats held by women,40.0
+2000,Local goverment,Miðvágs municipality,Seats held by women,4.0
+2000,Local goverment,Miðvágs municipality,Number of seats,10.0
+2004,Local goverment,Miðvágs municipality,Proportion of seats held by women,8.3
+2004,Local goverment,Miðvágs municipality,Seats held by women,1.0
+2004,Local goverment,Miðvágs municipality,Number of seats,12.0
+1992,Local goverment,Mikladals municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Mikladals municipality,Seats held by women,1.0
+1992,Local goverment,Mikladals municipality,Number of seats,5.0
+1996,Local goverment,Mikladals municipality,Proportion of seats held by women,40.0
+1996,Local goverment,Mikladals municipality,Seats held by women,2.0
+1996,Local goverment,Mikladals municipality,Number of seats,5.0
+2000,Local goverment,Mikladals municipality,Proportion of seats held by women,33.3
+2000,Local goverment,Mikladals municipality,Seats held by women,1.0
+2000,Local goverment,Mikladals municipality,Number of seats,3.0
+1992,Local goverment,Mykines municipality,Proportion of seats held by women,33.3
+1992,Local goverment,Mykines municipality,Seats held by women,1.0
+1992,Local goverment,Mykines municipality,Number of seats,3.0
+1996,Local goverment,Mykines municipality,Proportion of seats held by women,33.3
+1996,Local goverment,Mykines municipality,Seats held by women,1.0
+1996,Local goverment,Mykines municipality,Number of seats,3.0
+2000,Local goverment,Mykines municipality,Proportion of seats held by women,33.3
+2000,Local goverment,Mykines municipality,Seats held by women,1.0
+2000,Local goverment,Mykines municipality,Number of seats,3.0
+1992,Local goverment,Nes municipality,Proportion of seats held by women,14.3
+1992,Local goverment,Nes municipality,Seats held by women,1.0
+1992,Local goverment,Nes municipality,Number of seats,7.0
+1996,Local goverment,Nes municipality,Proportion of seats held by women,28.6
+1996,Local goverment,Nes municipality,Seats held by women,2.0
+1996,Local goverment,Nes municipality,Number of seats,7.0
+2000,Local goverment,Nes municipality,Proportion of seats held by women,28.6
+2000,Local goverment,Nes municipality,Seats held by women,2.0
+2000,Local goverment,Nes municipality,Number of seats,7.0
+2004,Local goverment,Nes municipality,Proportion of seats held by women,28.6
+2004,Local goverment,Nes municipality,Seats held by women,2.0
+2004,Local goverment,Nes municipality,Number of seats,7.0
+2012,Local goverment,Nes municipality,Proportion of seats held by women,28.6
+2012,Local goverment,Nes municipality,Seats held by women,2.0
+2012,Local goverment,Nes municipality,Number of seats,7.0
+2016,Local goverment,Nes municipality,Proportion of seats held by women,14.3
+2016,Local goverment,Nes municipality,Seats held by women,1.0
+2016,Local goverment,Nes municipality,Number of seats,7.0
+2020,Local goverment,Nes municipality,Proportion of seats held by women,28.6
+2020,Local goverment,Nes municipality,Seats held by women,2.0
+2020,Local goverment,Nes municipality,Number of seats,7.0
+1992,Local goverment,Nólsoyar municipality,Proportion of seats held by women,33.3
+1992,Local goverment,Nólsoyar municipality,Seats held by women,1.0
+1992,Local goverment,Nólsoyar municipality,Number of seats,3.0
+1996,Local goverment,Nólsoyar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Nólsoyar municipality,Seats held by women,0.0
+1996,Local goverment,Nólsoyar municipality,Number of seats,4.0
+2000,Local goverment,Nólsoyar municipality,Proportion of seats held by women,25.0
+2000,Local goverment,Nólsoyar municipality,Seats held by women,1.0
+2000,Local goverment,Nólsoyar municipality,Number of seats,4.0
+1992,Local goverment,Oyndarfjarðar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Oyndarfjarðar municipality,Seats held by women,0.0
+1992,Local goverment,Oyndarfjarðar municipality,Number of seats,4.0
+1996,Local goverment,Oyndarfjarðar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Oyndarfjarðar municipality,Seats held by women,0.0
+1996,Local goverment,Oyndarfjarðar municipality,Number of seats,3.0
+2000,Local goverment,Oyndarfjarðar municipality,Proportion of seats held by women,75.0
+2000,Local goverment,Oyndarfjarðar municipality,Seats held by women,3.0
+2000,Local goverment,Oyndarfjarðar municipality,Number of seats,4.0
+1992,Local goverment,Porkeris municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Porkeris municipality,Seats held by women,0.0
+1992,Local goverment,Porkeris municipality,Number of seats,5.0
+1996,Local goverment,Porkeris municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Porkeris municipality,Seats held by women,1.0
+1996,Local goverment,Porkeris municipality,Number of seats,5.0
+2000,Local goverment,Porkeris municipality,Proportion of seats held by women,20.0
+2000,Local goverment,Porkeris municipality,Seats held by women,1.0
+2000,Local goverment,Porkeris municipality,Number of seats,5.0
+2004,Local goverment,Porkeris municipality,Proportion of seats held by women,20.0
+2004,Local goverment,Porkeris municipality,Seats held by women,1.0
+2004,Local goverment,Porkeris municipality,Number of seats,5.0
+2012,Local goverment,Porkeris municipality,Proportion of seats held by women,20.0
+2012,Local goverment,Porkeris municipality,Seats held by women,1.0
+2012,Local goverment,Porkeris municipality,Number of seats,5.0
+2016,Local goverment,Porkeris municipality,Proportion of seats held by women,40.0
+2016,Local goverment,Porkeris municipality,Seats held by women,2.0
+2016,Local goverment,Porkeris municipality,Number of seats,5.0
+2020,Local goverment,Porkeris municipality,Proportion of seats held by women,40.0
+2020,Local goverment,Porkeris municipality,Seats held by women,2.0
+2020,Local goverment,Porkeris municipality,Number of seats,5.0
+1992,Local goverment,Runavíkar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Runavíkar municipality,Seats held by women,0.0
+1992,Local goverment,Runavíkar municipality,Number of seats,10.0
+1996,Local goverment,Runavíkar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Runavíkar municipality,Seats held by women,0.0
+1996,Local goverment,Runavíkar municipality,Number of seats,12.0
+2000,Local goverment,Runavíkar municipality,Proportion of seats held by women,13.3
+2000,Local goverment,Runavíkar municipality,Seats held by women,2.0
+2000,Local goverment,Runavíkar municipality,Number of seats,15.0
+2004,Local goverment,Runavíkar municipality,Proportion of seats held by women,0.0
+2004,Local goverment,Runavíkar municipality,Seats held by women,0.0
+2004,Local goverment,Runavíkar municipality,Number of seats,12.0
+2012,Local goverment,Runavíkar municipality,Proportion of seats held by women,9.1
+2012,Local goverment,Runavíkar municipality,Seats held by women,1.0
+2012,Local goverment,Runavíkar municipality,Number of seats,11.0
+2016,Local goverment,Runavíkar municipality,Proportion of seats held by women,27.3
+2016,Local goverment,Runavíkar municipality,Seats held by women,3.0
+2016,Local goverment,Runavíkar municipality,Number of seats,11.0
+2020,Local goverment,Runavíkar municipality,Proportion of seats held by women,36.4
+2020,Local goverment,Runavíkar municipality,Seats held by women,4.0
+2020,Local goverment,Runavíkar municipality,Number of seats,11.0
+1992,Local goverment,Saksunar municipality,Proportion of seats held by women,100.0
+1992,Local goverment,Saksunar municipality,Seats held by women,1.0
+1992,Local goverment,Saksunar municipality,Number of seats,1.0
+1996,Local goverment,Saksunar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Saksunar municipality,Seats held by women,0.0
+1996,Local goverment,Saksunar municipality,Number of seats,1.0
+2000,Local goverment,Saksunar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Saksunar municipality,Seats held by women,0.0
+2000,Local goverment,Saksunar municipality,Number of seats,1.0
+1992,Local goverment,Sandavágs municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Sandavágs municipality,Seats held by women,1.0
+1992,Local goverment,Sandavágs municipality,Number of seats,5.0
+1996,Local goverment,Sandavágs municipality,Proportion of seats held by women,25.0
+1996,Local goverment,Sandavágs municipality,Seats held by women,1.0
+1996,Local goverment,Sandavágs municipality,Number of seats,4.0
+2000,Local goverment,Sandavágs municipality,Proportion of seats held by women,25.0
+2000,Local goverment,Sandavágs municipality,Seats held by women,1.0
+2000,Local goverment,Sandavágs municipality,Number of seats,4.0
+2004,Local goverment,Sandavágs municipality,Proportion of seats held by women,50.0
+2004,Local goverment,Sandavágs municipality,Seats held by women,1.0
+2004,Local goverment,Sandavágs municipality,Number of seats,2.0
+1992,Local goverment,Sands municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Sands municipality,Seats held by women,0.0
+1992,Local goverment,Sands municipality,Number of seats,5.0
+1996,Local goverment,Sands municipality,Proportion of seats held by women,40.0
+1996,Local goverment,Sands municipality,Seats held by women,2.0
+1996,Local goverment,Sands municipality,Number of seats,5.0
+2000,Local goverment,Sands municipality,Proportion of seats held by women,14.3
+2000,Local goverment,Sands municipality,Seats held by women,1.0
+2000,Local goverment,Sands municipality,Number of seats,7.0
+2004,Local goverment,Sands municipality,Proportion of seats held by women,14.3
+2004,Local goverment,Sands municipality,Seats held by women,1.0
+2004,Local goverment,Sands municipality,Number of seats,7.0
+2012,Local goverment,Sands municipality,Proportion of seats held by women,0.0
+2012,Local goverment,Sands municipality,Seats held by women,0.0
+2012,Local goverment,Sands municipality,Number of seats,7.0
+2016,Local goverment,Sands municipality,Proportion of seats held by women,14.3
+2016,Local goverment,Sands municipality,Seats held by women,1.0
+2016,Local goverment,Sands municipality,Number of seats,7.0
+2020,Local goverment,Sands municipality,Proportion of seats held by women,42.9
+2020,Local goverment,Sands municipality,Seats held by women,3.0
+2020,Local goverment,Sands municipality,Number of seats,7.0
+1992,Local goverment,Sjóvar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Sjóvar municipality,Seats held by women,0.0
+1992,Local goverment,Sjóvar municipality,Number of seats,5.0
+1996,Local goverment,Sjóvar municipality,Proportion of seats held by women,20.0
+1996,Local goverment,Sjóvar municipality,Seats held by women,1.0
+1996,Local goverment,Sjóvar municipality,Number of seats,5.0
+2000,Local goverment,Sjóvar municipality,Proportion of seats held by women,14.3
+2000,Local goverment,Sjóvar municipality,Seats held by women,1.0
+2000,Local goverment,Sjóvar municipality,Number of seats,7.0
+2004,Local goverment,Sjóvar municipality,Proportion of seats held by women,14.3
+2004,Local goverment,Sjóvar municipality,Seats held by women,1.0
+2004,Local goverment,Sjóvar municipality,Number of seats,7.0
+2012,Local goverment,Sjóvar municipality,Proportion of seats held by women,14.3
+2012,Local goverment,Sjóvar municipality,Seats held by women,1.0
+2012,Local goverment,Sjóvar municipality,Number of seats,7.0
+2016,Local goverment,Sjóvar municipality,Proportion of seats held by women,14.3
+2016,Local goverment,Sjóvar municipality,Seats held by women,1.0
+2016,Local goverment,Sjóvar municipality,Number of seats,7.0
+2020,Local goverment,Sjóvar municipality,Proportion of seats held by women,0.0
+2020,Local goverment,Sjóvar municipality,Seats held by women,0.0
+2020,Local goverment,Sjóvar municipality,Number of seats,7.0
+1992,Local goverment,Skála municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Skála municipality,Seats held by women,1.0
+1992,Local goverment,Skála municipality,Number of seats,5.0
+1996,Local goverment,Skála municipality,Proportion of seats held by women,40.0
+1996,Local goverment,Skála municipality,Seats held by women,2.0
+1996,Local goverment,Skála municipality,Number of seats,5.0
+2000,Local goverment,Skála municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Skála municipality,Seats held by women,0.0
+2000,Local goverment,Skála municipality,Number of seats,3.0
+1992,Local goverment,Skálavíkar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Skálavíkar municipality,Seats held by women,0.0
+1992,Local goverment,Skálavíkar municipality,Number of seats,5.0
+1996,Local goverment,Skálavíkar municipality,Proportion of seats held by women,40.0
+1996,Local goverment,Skálavíkar municipality,Seats held by women,2.0
+1996,Local goverment,Skálavíkar municipality,Number of seats,5.0
+2000,Local goverment,Skálavíkar municipality,Proportion of seats held by women,20.0
+2000,Local goverment,Skálavíkar municipality,Seats held by women,1.0
+2000,Local goverment,Skálavíkar municipality,Number of seats,5.0
+2004,Local goverment,Skálavíkar municipality,Proportion of seats held by women,20.0
+2004,Local goverment,Skálavíkar municipality,Seats held by women,1.0
+2004,Local goverment,Skálavíkar municipality,Number of seats,5.0
+2012,Local goverment,Skálavíkar municipality,Proportion of seats held by women,60.0
+2012,Local goverment,Skálavíkar municipality,Seats held by women,3.0
+2012,Local goverment,Skálavíkar municipality,Number of seats,5.0
+2016,Local goverment,Skálavíkar municipality,Proportion of seats held by women,60.0
+2016,Local goverment,Skálavíkar municipality,Seats held by women,3.0
+2016,Local goverment,Skálavíkar municipality,Number of seats,5.0
+2020,Local goverment,Skálavíkar municipality,Proportion of seats held by women,20.0
+2020,Local goverment,Skálavíkar municipality,Seats held by women,1.0
+2020,Local goverment,Skálavíkar municipality,Number of seats,5.0
+1992,Local goverment,Skopunar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Skopunar municipality,Seats held by women,0.0
+1992,Local goverment,Skopunar municipality,Number of seats,10.0
+1996,Local goverment,Skopunar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Skopunar municipality,Seats held by women,0.0
+1996,Local goverment,Skopunar municipality,Number of seats,10.0
+2000,Local goverment,Skopunar municipality,Proportion of seats held by women,73.3
+2000,Local goverment,Skopunar municipality,Seats held by women,3.0
+2000,Local goverment,Skopunar municipality,Number of seats,8.0
+2004,Local goverment,Skopunar municipality,Proportion of seats held by women,73.3
+2004,Local goverment,Skopunar municipality,Seats held by women,3.0
+2004,Local goverment,Skopunar municipality,Number of seats,8.0
+2012,Local goverment,Skopunar municipality,Proportion of seats held by women,40.0
+2012,Local goverment,Skopunar municipality,Seats held by women,2.0
+2012,Local goverment,Skopunar municipality,Number of seats,5.0
+2016,Local goverment,Skopunar municipality,Proportion of seats held by women,40.0
+2016,Local goverment,Skopunar municipality,Seats held by women,2.0
+2016,Local goverment,Skopunar municipality,Number of seats,5.0
+2020,Local goverment,Skopunar municipality,Proportion of seats held by women,40.0
+2020,Local goverment,Skopunar municipality,Seats held by women,2.0
+2020,Local goverment,Skopunar municipality,Number of seats,5.0
+2012,Local goverment,Skúvoyar municipality,Proportion of seats held by women,33.3
+2012,Local goverment,Skúvoyar municipality,Seats held by women,1.0
+2012,Local goverment,Skúvoyar municipality,Number of seats,3.0
+2016,Local goverment,Skúvoyar municipality,Proportion of seats held by women,0.0
+2016,Local goverment,Skúvoyar municipality,Seats held by women,0.0
+2016,Local goverment,Skúvoyar municipality,Number of seats,3.0
+2020,Local goverment,Skúvoyar municipality,Proportion of seats held by women,0.0
+2020,Local goverment,Skúvoyar municipality,Seats held by women,0.0
+2020,Local goverment,Skúvoyar municipality,Number of seats,3.0
+1992,Local goverment,Sørvágs municipality,Proportion of seats held by women,20.0
+1992,Local goverment,Sørvágs municipality,Seats held by women,1.0
+1992,Local goverment,Sørvágs municipality,Number of seats,5.0
+1996,Local goverment,Sørvágs municipality,Proportion of seats held by women,16.7
+1996,Local goverment,Sørvágs municipality,Seats held by women,1.0
+1996,Local goverment,Sørvágs municipality,Number of seats,6.0
+2000,Local goverment,Sørvágs municipality,Proportion of seats held by women,12.5
+2000,Local goverment,Sørvágs municipality,Seats held by women,1.0
+2000,Local goverment,Sørvágs municipality,Number of seats,8.0
+2004,Local goverment,Sørvágs municipality,Proportion of seats held by women,28.6
+2004,Local goverment,Sørvágs municipality,Seats held by women,2.0
+2004,Local goverment,Sørvágs municipality,Number of seats,7.0
+2012,Local goverment,Sørvágs municipality,Proportion of seats held by women,14.3
+2012,Local goverment,Sørvágs municipality,Seats held by women,1.0
+2012,Local goverment,Sørvágs municipality,Number of seats,7.0
+2016,Local goverment,Sørvágs municipality,Proportion of seats held by women,57.1
+2016,Local goverment,Sørvágs municipality,Seats held by women,4.0
+2016,Local goverment,Sørvágs municipality,Number of seats,7.0
+2020,Local goverment,Sørvágs municipality,Proportion of seats held by women,28.6
+2020,Local goverment,Sørvágs municipality,Seats held by women,2.0
+2020,Local goverment,Sørvágs municipality,Number of seats,7.0
+1992,Local goverment,Sumbiar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Sumbiar municipality,Seats held by women,0.0
+1992,Local goverment,Sumbiar municipality,Number of seats,5.0
+1996,Local goverment,Sumbiar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Sumbiar municipality,Seats held by women,0.0
+1996,Local goverment,Sumbiar municipality,Number of seats,5.0
+2000,Local goverment,Sumbiar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Sumbiar municipality,Seats held by women,0.0
+2000,Local goverment,Sumbiar municipality,Number of seats,5.0
+2004,Local goverment,Sumbiar municipality,Proportion of seats held by women,0.0
+2004,Local goverment,Sumbiar municipality,Seats held by women,0.0
+2004,Local goverment,Sumbiar municipality,Number of seats,5.0
+2012,Local goverment,Sumbiar municipality,Proportion of seats held by women,0.0
+2012,Local goverment,Sumbiar municipality,Seats held by women,0.0
+2012,Local goverment,Sumbiar municipality,Number of seats,5.0
+2016,Local goverment,Sumbiar municipality,Proportion of seats held by women,0.0
+2016,Local goverment,Sumbiar municipality,Seats held by women,0.0
+2016,Local goverment,Sumbiar municipality,Number of seats,5.0
+2020,Local goverment,Sumbiar municipality,Proportion of seats held by women,40.0
+2020,Local goverment,Sumbiar municipality,Seats held by women,2.0
+2020,Local goverment,Sumbiar municipality,Number of seats,5.0
+1992,Local goverment,Sunda municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Sunda municipality,Seats held by women,0.0
+1992,Local goverment,Sunda municipality,Number of seats,12.0
+1996,Local goverment,Sunda municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Sunda municipality,Seats held by women,0.0
+1996,Local goverment,Sunda municipality,Number of seats,12.0
+2000,Local goverment,Sunda municipality,Proportion of seats held by women,25.0
+2000,Local goverment,Sunda municipality,Seats held by women,4.0
+2000,Local goverment,Sunda municipality,Number of seats,16.0
+2004,Local goverment,Sunda municipality,Proportion of seats held by women,18.2
+2004,Local goverment,Sunda municipality,Seats held by women,2.0
+2004,Local goverment,Sunda municipality,Number of seats,11.0
+2012,Local goverment,Sunda municipality,Proportion of seats held by women,27.3
+2012,Local goverment,Sunda municipality,Seats held by women,3.0
+2012,Local goverment,Sunda municipality,Number of seats,11.0
+2016,Local goverment,Sunda municipality,Proportion of seats held by women,36.4
+2016,Local goverment,Sunda municipality,Seats held by women,4.0
+2016,Local goverment,Sunda municipality,Number of seats,11.0
+2020,Local goverment,Sunda municipality,Proportion of seats held by women,9.1
+2020,Local goverment,Sunda municipality,Seats held by women,1.0
+2020,Local goverment,Sunda municipality,Number of seats,11.0
+1992,Local goverment,Svínoyar municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Svínoyar municipality,Seats held by women,0.0
+1992,Local goverment,Svínoyar municipality,Number of seats,5.0
+1996,Local goverment,Svínoyar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Svínoyar municipality,Seats held by women,0.0
+1996,Local goverment,Svínoyar municipality,Number of seats,5.0
+2000,Local goverment,Svínoyar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Svínoyar municipality,Seats held by women,0.0
+2000,Local goverment,Svínoyar municipality,Number of seats,2.0
+2004,Local goverment,Svínoyar municipality,Proportion of seats held by women,50.0
+2004,Local goverment,Svínoyar municipality,Seats held by women,1.0
+2004,Local goverment,Svínoyar municipality,Number of seats,2.0
+1992,Local goverment,Tórshavnar municipality,Proportion of seats held by women,26.7
+1992,Local goverment,Tórshavnar municipality,Seats held by women,4.0
+1992,Local goverment,Tórshavnar municipality,Number of seats,15.0
+1996,Local goverment,Tórshavnar municipality,Proportion of seats held by women,25.0
+1996,Local goverment,Tórshavnar municipality,Seats held by women,4.0
+1996,Local goverment,Tórshavnar municipality,Number of seats,16.0
+2000,Local goverment,Tórshavnar municipality,Proportion of seats held by women,20.0
+2000,Local goverment,Tórshavnar municipality,Seats held by women,3.0
+2000,Local goverment,Tórshavnar municipality,Number of seats,15.0
+2004,Local goverment,Tórshavnar municipality,Proportion of seats held by women,46.2
+2004,Local goverment,Tórshavnar municipality,Seats held by women,6.0
+2004,Local goverment,Tórshavnar municipality,Number of seats,13.0
+2012,Local goverment,Tórshavnar municipality,Proportion of seats held by women,46.2
+2012,Local goverment,Tórshavnar municipality,Seats held by women,6.0
+2012,Local goverment,Tórshavnar municipality,Number of seats,13.0
+2016,Local goverment,Tórshavnar municipality,Proportion of seats held by women,61.5
+2016,Local goverment,Tórshavnar municipality,Seats held by women,8.0
+2016,Local goverment,Tórshavnar municipality,Number of seats,13.0
+2020,Local goverment,Tórshavnar municipality,Proportion of seats held by women,53.8
+2020,Local goverment,Tórshavnar municipality,Seats held by women,7.0
+2020,Local goverment,Tórshavnar municipality,Number of seats,13.0
+1992,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,16.7
+1992,Local goverment,Tvøroyrar municipality,Seats held by women,1.0
+1992,Local goverment,Tvøroyrar municipality,Number of seats,6.0
+1996,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,0.0
+1996,Local goverment,Tvøroyrar municipality,Seats held by women,0.0
+1996,Local goverment,Tvøroyrar municipality,Number of seats,7.0
+2000,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Tvøroyrar municipality,Seats held by women,0.0
+2000,Local goverment,Tvøroyrar municipality,Number of seats,7.0
+2004,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,14.3
+2004,Local goverment,Tvøroyrar municipality,Seats held by women,1.0
+2004,Local goverment,Tvøroyrar municipality,Number of seats,7.0
+2012,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,42.9
+2012,Local goverment,Tvøroyrar municipality,Seats held by women,3.0
+2012,Local goverment,Tvøroyrar municipality,Number of seats,7.0
+2016,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,42.9
+2016,Local goverment,Tvøroyrar municipality,Seats held by women,3.0
+2016,Local goverment,Tvøroyrar municipality,Number of seats,7.0
+2020,Local goverment,Tvøroyrar municipality,Proportion of seats held by women,42.9
+2020,Local goverment,Tvøroyrar municipality,Seats held by women,3.0
+2020,Local goverment,Tvøroyrar municipality,Number of seats,7.0
+2012,Local goverment,Vága municipality,Proportion of seats held by women,18.2
+2012,Local goverment,Vága municipality,Seats held by women,2.0
+2012,Local goverment,Vága municipality,Number of seats,11.0
+2016,Local goverment,Vága municipality,Proportion of seats held by women,27.3
+2016,Local goverment,Vága municipality,Seats held by women,3.0
+2016,Local goverment,Vága municipality,Number of seats,11.0
+2020,Local goverment,Vága municipality,Proportion of seats held by women,45.5
+2020,Local goverment,Vága municipality,Seats held by women,5.0
+2020,Local goverment,Vága municipality,Number of seats,11.0
+1992,Local goverment,Vágs municipality,Proportion of seats held by women,0.0
+1992,Local goverment,Vágs municipality,Seats held by women,0.0
+1992,Local goverment,Vágs municipality,Number of seats,9.0
+1996,Local goverment,Vágs municipality,Proportion of seats held by women,22.2
+1996,Local goverment,Vágs municipality,Seats held by women,2.0
+1996,Local goverment,Vágs municipality,Number of seats,9.0
+2000,Local goverment,Vágs municipality,Proportion of seats held by women,22.2
+2000,Local goverment,Vágs municipality,Seats held by women,2.0
+2000,Local goverment,Vágs municipality,Number of seats,9.0
+2004,Local goverment,Vágs municipality,Proportion of seats held by women,22.2
+2004,Local goverment,Vágs municipality,Seats held by women,2.0
+2004,Local goverment,Vágs municipality,Number of seats,9.0
+2012,Local goverment,Vágs municipality,Proportion of seats held by women,33.3
+2012,Local goverment,Vágs municipality,Seats held by women,3.0
+2012,Local goverment,Vágs municipality,Number of seats,9.0
+2016,Local goverment,Vágs municipality,Proportion of seats held by women,44.4
+2016,Local goverment,Vágs municipality,Seats held by women,4.0
+2016,Local goverment,Vágs municipality,Number of seats,9.0
+2020,Local goverment,Vágs municipality,Proportion of seats held by women,33.3
+2020,Local goverment,Vágs municipality,Seats held by women,3.0
+2020,Local goverment,Vágs municipality,Number of seats,9.0
+1992,Local goverment,Vestmanna municipality,Proportion of seats held by women,71.4
+1992,Local goverment,Vestmanna municipality,Seats held by women,5.0
+1992,Local goverment,Vestmanna municipality,Number of seats,7.0
+1996,Local goverment,Vestmanna municipality,Proportion of seats held by women,57.1
+1996,Local goverment,Vestmanna municipality,Seats held by women,4.0
+1996,Local goverment,Vestmanna municipality,Number of seats,7.0
+2000,Local goverment,Vestmanna municipality,Proportion of seats held by women,57.1
+2000,Local goverment,Vestmanna municipality,Seats held by women,4.0
+2000,Local goverment,Vestmanna municipality,Number of seats,7.0
+2004,Local goverment,Vestmanna municipality,Proportion of seats held by women,14.3
+2004,Local goverment,Vestmanna municipality,Seats held by women,1.0
+2004,Local goverment,Vestmanna municipality,Number of seats,7.0
+2012,Local goverment,Vestmanna municipality,Proportion of seats held by women,42.9
+2012,Local goverment,Vestmanna municipality,Seats held by women,3.0
+2012,Local goverment,Vestmanna municipality,Number of seats,7.0
+2016,Local goverment,Vestmanna municipality,Proportion of seats held by women,42.9
+2016,Local goverment,Vestmanna municipality,Seats held by women,3.0
+2016,Local goverment,Vestmanna municipality,Number of seats,7.0
+2020,Local goverment,Vestmanna municipality,Proportion of seats held by women,57.1
+2020,Local goverment,Vestmanna municipality,Seats held by women,4.0
+2020,Local goverment,Vestmanna municipality,Number of seats,7.0
+1992,Local goverment,Viðareiðis municipality,Proportion of seats held by women,40.0
+1992,Local goverment,Viðareiðis municipality,Seats held by women,2.0
+1992,Local goverment,Viðareiðis municipality,Number of seats,5.0
+1996,Local goverment,Viðareiðis municipality,Proportion of seats held by women,40.0
+1996,Local goverment,Viðareiðis municipality,Seats held by women,2.0
+1996,Local goverment,Viðareiðis municipality,Number of seats,5.0
+2000,Local goverment,Viðareiðis municipality,Proportion of seats held by women,0.0
+2000,Local goverment,Viðareiðis municipality,Seats held by women,0.0
+2000,Local goverment,Viðareiðis municipality,Number of seats,5.0
+2004,Local goverment,Viðareiðis municipality,Proportion of seats held by women,20.0
+2004,Local goverment,Viðareiðis municipality,Seats held by women,1.0
+2004,Local goverment,Viðareiðis municipality,Number of seats,5.0
+2012,Local goverment,Viðareiðis municipality,Proportion of seats held by women,0.0
+2012,Local goverment,Viðareiðis municipality,Seats held by women,0.0
+2012,Local goverment,Viðareiðis municipality,Number of seats,5.0
+2016,Local goverment,Viðareiðis municipality,Proportion of seats held by women,40.0
+2016,Local goverment,Viðareiðis municipality,Seats held by women,2.0
+2016,Local goverment,Viðareiðis municipality,Number of seats,5.0
+2020,Local goverment,Viðareiðis municipality,Proportion of seats held by women,20.0
+2020,Local goverment,Viðareiðis municipality,Seats held by women,1.0
+2020,Local goverment,Viðareiðis municipality,Number of seats,5.0

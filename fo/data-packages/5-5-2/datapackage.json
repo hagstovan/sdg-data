@@ -12,12 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
           },
           {
+            "name": "Position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stjóri",
+                "Nevndarlimur",
+                ""
+              ]
+            },
+            "title": "starv"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av tíð brúkt til ólønt húsligt arbeiði og umsorganararbeiði skift á kyn, aldur og staðseting",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Public/private",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Privatar fyritøkur",
+                "Almennir stovnar og fyritøkur",
+                ""
+              ]
+            },
+            "title": "alment/privat"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

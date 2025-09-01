@@ -3630,8 +3630,107 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Løgting",
+                "Kommunustýri",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "party",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Allir flokkar",
+                "Fólkaflokkurin",
+                "Framburðsflokkurin",
+                "Framsókn",
+                "Javnaðarflokkurin",
+                "Kristiligi Fólkaflokkurin",
+                "Miðflokkurin",
+                "Sambandsflokkurin",
+                "Sjálvstýri",
+                "Tjóðveldi",
+                "Verkamannafylkingin",
+                "Allar kommunur",
+                "Argja kommuna",
+                "Bíggjar kommuna",
+                "Eiðis kommuna",
+                "Elduvíkar kommuna",
+                "Eysturkommuna",
+                "Fámjins kommuna",
+                "Fuglafjarðar kommuna",
+                "Fugloyar kommuna",
+                "Funnings kommuna",
+                "Gjáar kommuna",
+                "Gøtu kommuna",
+                "Haldórsvíkar kommuna",
+                "Hests kommuna",
+                "Hósvíkar kommuna",
+                "Hovs kommuna",
+                "Húsa kommuna",
+                "Húsavíkar kommuna",
+                "Hvalbiar kommuna",
+                "Hvalvíkar kommuna",
+                "Hvannasunds kommuna",
+                "Kirkjubøar kommuna",
+                "Klaksvíkar kommuna",
+                "Kollafjarðar kommuna",
+                "Kunoyar kommuna",
+                "Kvívíkar kommuna",
+                "Leirvíkar kommuna",
+                "Miðvágs kommuna",
+                "Mikladals kommuna",
+                "Mykines kommuna",
+                "Nes kommuna",
+                "Nólsoyar kommuna",
+                "Oyndarfjarðar kommuna",
+                "Porkeris kommuna",
+                "Runavíkar kommuna",
+                "Saksunar kommuna",
+                "Sandavágs kommuna",
+                "Sands kommuna",
+                "Sjóvar kommuna",
+                "Skála kommuna",
+                "Skálavíkar kommuna",
+                "Skopunar kommuna",
+                "Skúvoyar kommuna",
+                "Sørvágs kommuna",
+                "Sumbiar kommuna",
+                "Sunda kommuna",
+                "Svínoyar kommuna",
+                "Tórshavnar kommuna",
+                "Tvøroyrar kommuna",
+                "Vága kommuna",
+                "Vágs kommuna",
+                "Vestmanna kommuna",
+                "Viðareiðis kommuna",
+                ""
+              ]
+            },
+            "title": "Party"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av sætum hjá kvinnum",
+                "Tal av sætum hjá kvinnum",
+                "Tal av sætum",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
@@ -3820,12 +3919,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
           },
           {
+            "name": "Position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stjóri",
+                "Nevndarlimur",
+                ""
+              ]
+            },
+            "title": "starv"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av tíð brúkt til ólønt húsligt arbeiði og umsorganararbeiði skift á kyn, aldur og staðseting",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Public/private",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Privatar fyritøkur",
+                "Almennir stovnar og fyritøkur",
+                ""
+              ]
+            },
+            "title": "alment/privat"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

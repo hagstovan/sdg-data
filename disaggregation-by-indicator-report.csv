@@ -15,6 +15,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1,occupation,1
 #4-1-2,"sex, Education",2
 #4-2-2,sex,1
+#5-5-1,party,1
+#5-5-2,"Position, Public/private",2
 #8-4-2,material type,1
 #8-5-2,"sex, age",2
 #8-8-1,"sex, outcome",2
