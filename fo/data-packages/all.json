@@ -5091,8 +5091,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av samlaðu almennu útreiðslunum",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "essential service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Útbúgving",
+                "Heilsa",
+                "Almannavernd",
+                ""
+              ]
+            },
+            "title": "grundleggjandi tænasta"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
