@@ -1,1 +1,87 @@
-Year,Value
+Year,Units,Series,renewable energy source,Value
+2000,pct.,Installed renewable energy-generating capacity (in watts per capita),,2.77
+2001,pct.,Installed renewable energy-generating capacity (in watts per capita),,2.56
+2002,pct.,Installed renewable energy-generating capacity (in watts per capita),,3.4
+2003,pct.,Installed renewable energy-generating capacity (in watts per capita),,3.11
+2004,pct.,Installed renewable energy-generating capacity (in watts per capita),,3.42
+2005,pct.,Installed renewable energy-generating capacity (in watts per capita),,3.84
+2006,pct.,Installed renewable energy-generating capacity (in watts per capita),,4.3
+2007,pct.,Installed renewable energy-generating capacity (in watts per capita),,4.54
+2008,pct.,Installed renewable energy-generating capacity (in watts per capita),,4.51
+2009,pct.,Installed renewable energy-generating capacity (in watts per capita),,5.12
+2010,pct.,Installed renewable energy-generating capacity (in watts per capita),,3.38
+2011,pct.,Installed renewable energy-generating capacity (in watts per capita),,5.0
+2012,pct.,Installed renewable energy-generating capacity (in watts per capita),,4.67886430473242
+2012,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,4.22229579576632
+2012,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,0.456568508966101
+2012,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2012,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2012,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),,5.66751627459578
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,3.84201445222375
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,0.926427861765988
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2013,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,0.89907396060604
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),,7.01798135358697
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,4.7804662938922
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,1.36608517523639
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2014,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,0.871429884458379
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),,8.57619532347439
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,5.35659008702912
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,2.24554071854936
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2015,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,0.974064517895904
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),,7.21650988627583
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,4.1653264227173
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,2.04067624474759
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2016,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,1.01050721881094
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),,8.6019408074778
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,3.82600437885658
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,2.05201831343802
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,1.34820189539371
+2017,pct.,Installed renewable energy-generating capacity (in watts per capita),Heat pumps,1.3757162197895
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),,8.01615721371945
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,3.5746650987248
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,2.10980053397192
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,1.17411420037315
+2018,pct.,Installed renewable energy-generating capacity (in watts per capita),Heat pumps,1.15757738064958
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),,7.92758304955724
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,3.39290877542146
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,1.72533453139053
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.0
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.0
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,1.66200145807683
+2019,pct.,Installed renewable energy-generating capacity (in watts per capita),Heat pumps,1.14733828466842
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),,7.98498436760728
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,3.41399465801118
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,1.48081040436102
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.005309478472801
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.0
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.043701092045364
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,1.59598524507871
+2020,pct.,Installed renewable energy-generating capacity (in watts per capita),Heat pumps,1.4451834896382
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),,8.15567887814746
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Hydro,3.12284727220785
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Wind,1.68476193548787
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Solar,0.005511456448108
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Ocean,0.000186829032139
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Biofuel,0.212985096638765
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Solid waste,1.41678682705611
+2021,pct.,Installed renewable energy-generating capacity (in watts per capita),Heat pumps,1.71259946127662
