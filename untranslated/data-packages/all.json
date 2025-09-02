@@ -6438,7 +6438,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
                 "FUEL",
                 "ENERGY",
                 "MANUFACT",

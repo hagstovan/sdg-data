@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nýtsla av brennievni tilsamans",
                 " - Nýtsla av brennievni",
                 " - - El- og hitaframleiðsla",
                 " - - Framleiðslu- og byggivinna",

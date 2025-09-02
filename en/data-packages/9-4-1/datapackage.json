@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total fuel combustion",
                 " - Fuel combustion",
                 " - - Energy industries",
                 " - - Manufacturing industries and construction",
