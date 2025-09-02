@@ -1080,7 +1080,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DEV_LDEV",
                 "LDEV",
                 "DEV_EX-CHINA",
                 ""

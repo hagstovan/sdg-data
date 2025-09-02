@@ -1178,7 +1178,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Developing countries and leas developed countries",
                 "Least developed countries",
                 "Developing countries excluding China",
                 ""

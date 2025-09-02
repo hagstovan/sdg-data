@@ -1178,7 +1178,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menningarlond og minst mentu londini",
                 "Minst mentu londini",
                 "Menningarlond uttan Kina",
                 ""
