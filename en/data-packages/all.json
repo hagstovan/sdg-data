@@ -7468,7 +7468,6 @@
             "constraints": {
               "enum": [
                 "Non-fatal",
-                "Fatal",
                 ""
               ]
             },

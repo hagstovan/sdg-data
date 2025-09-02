@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "SL_EMP_INJUR",
-                "SL_EMP_FTLINJUR",
                 ""
               ]
             }
