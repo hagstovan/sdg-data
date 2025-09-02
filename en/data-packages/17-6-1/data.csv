@@ -1,18 +1,18 @@
 Year,Series,bandwidth,Units,Value
-2008,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,25.3928490093373
-2009,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,29.480268301716
-2010,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,31.2618595825427
-2011,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,32.5727854635556
-2012,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,33.0946302177387
-2013,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,33.9877990380812
-2014,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,34.965296537966
-2015,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,35.6657748507924
-2016,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,36.237728624383905
-2017,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,36.0968849792131
-2018,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,35.7516547104752
-2019,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,35.458516987167
-2020,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,34.8917549516352
-2021,Fixed broadband subscriptions per 100 inhabitants,Total bandwidths,pct.,34.8619170935486
+2008,Fixed broadband subscriptions per 100 inhabitants,,pct.,25.3928490093373
+2009,Fixed broadband subscriptions per 100 inhabitants,,pct.,29.480268301716
+2010,Fixed broadband subscriptions per 100 inhabitants,,pct.,31.2618595825427
+2011,Fixed broadband subscriptions per 100 inhabitants,,pct.,32.5727854635556
+2012,Fixed broadband subscriptions per 100 inhabitants,,pct.,33.0946302177387
+2013,Fixed broadband subscriptions per 100 inhabitants,,pct.,33.9877990380812
+2014,Fixed broadband subscriptions per 100 inhabitants,,pct.,34.965296537966
+2015,Fixed broadband subscriptions per 100 inhabitants,,pct.,35.6657748507924
+2016,Fixed broadband subscriptions per 100 inhabitants,,pct.,36.237728624383905
+2017,Fixed broadband subscriptions per 100 inhabitants,,pct.,36.0968849792131
+2018,Fixed broadband subscriptions per 100 inhabitants,,pct.,35.7516547104752
+2019,Fixed broadband subscriptions per 100 inhabitants,,pct.,35.458516987167
+2020,Fixed broadband subscriptions per 100 inhabitants,,pct.,34.8917549516352
+2021,Fixed broadband subscriptions per 100 inhabitants,,pct.,34.8619170935486
 2008,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,pct.,23.6765284362643
 2009,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,pct.,17.8120241965351
 2010,Fixed broadband subscriptions per 100 inhabitants,256 Kbit/s to less than 2 Mbit/s,pct.,8.81115419519842
@@ -51,20 +51,20 @@ Year,Series,bandwidth,Units,Value
 2019,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,pct.,31.1327378398408
 2020,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,pct.,31.6079379702134
 2021,Fixed broadband subscriptions per 100 inhabitants,10 Mbit/s or more,pct.,32.3214184450787
-2008,Fixed broadband subscriptions (number),Total bandwidths,pct.,12265.0
-2009,Fixed broadband subscriptions (number),Total bandwidths,pct.,14328.0
-2010,Fixed broadband subscriptions (number),Total bandwidths,pct.,15157.0
-2011,Fixed broadband subscriptions (number),Total bandwidths,pct.,15775.0
-2012,Fixed broadband subscriptions (number),Total bandwidths,pct.,15944.0
-2013,Fixed broadband subscriptions (number),Total bandwidths,pct.,16324.0
-2014,Fixed broadband subscriptions (number),Total bandwidths,pct.,16826.0
-2015,Fixed broadband subscriptions (number),Total bandwidths,pct.,17330.0
-2016,Fixed broadband subscriptions (number),Total bandwidths,pct.,17792.0
-2017,Fixed broadband subscriptions (number),Total bandwidths,pct.,17973.0
-2018,Fixed broadband subscriptions (number),Total bandwidths,pct.,18041.0
-2019,Fixed broadband subscriptions (number),Total bandwidths,pct.,18181.0
-2020,Fixed broadband subscriptions (number),Total bandwidths,pct.,18180.0
-2021,Fixed broadband subscriptions (number),Total bandwidths,pct.,18443.0
+2008,Fixed broadband subscriptions (number),,pct.,12265.0
+2009,Fixed broadband subscriptions (number),,pct.,14328.0
+2010,Fixed broadband subscriptions (number),,pct.,15157.0
+2011,Fixed broadband subscriptions (number),,pct.,15775.0
+2012,Fixed broadband subscriptions (number),,pct.,15944.0
+2013,Fixed broadband subscriptions (number),,pct.,16324.0
+2014,Fixed broadband subscriptions (number),,pct.,16826.0
+2015,Fixed broadband subscriptions (number),,pct.,17330.0
+2016,Fixed broadband subscriptions (number),,pct.,17792.0
+2017,Fixed broadband subscriptions (number),,pct.,17973.0
+2018,Fixed broadband subscriptions (number),,pct.,18041.0
+2019,Fixed broadband subscriptions (number),,pct.,18181.0
+2020,Fixed broadband subscriptions (number),,pct.,18180.0
+2021,Fixed broadband subscriptions (number),,pct.,18443.0
 2008,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,pct.,11436.0
 2009,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,pct.,8657.0
 2010,Fixed broadband subscriptions (number),256 Kbit/s to less than 2 Mbit/s,pct.,4272.0

@@ -1,18 +1,18 @@
 Year,Series,bandbreidd,Units,Value
-2008,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,25.3928490093373
-2009,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,29.480268301716
-2010,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,31.2618595825427
-2011,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,32.5727854635556
-2012,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,33.0946302177387
-2013,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,33.9877990380812
-2014,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,34.965296537966
-2015,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,35.6657748507924
-2016,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,36.237728624383905
-2017,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,36.0968849792131
-2018,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,35.7516547104752
-2019,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,35.458516987167
-2020,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,34.8917549516352
-2021,Breiðsbandshald fyri hvørjar 100 íbúgvar,Breiðband tilsamans,%,34.8619170935486
+2008,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,25.3928490093373
+2009,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,29.480268301716
+2010,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,31.2618595825427
+2011,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,32.5727854635556
+2012,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,33.0946302177387
+2013,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,33.9877990380812
+2014,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,34.965296537966
+2015,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,35.6657748507924
+2016,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,36.237728624383905
+2017,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,36.0968849792131
+2018,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,35.7516547104752
+2019,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,35.458516987167
+2020,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,34.8917549516352
+2021,Breiðsbandshald fyri hvørjar 100 íbúgvar,,%,34.8619170935486
 2008,Breiðsbandshald fyri hvørjar 100 íbúgvar,256 Kbit/s upp til men undir 2 Mbit/s,%,23.6765284362643
 2009,Breiðsbandshald fyri hvørjar 100 íbúgvar,256 Kbit/s upp til men undir 2 Mbit/s,%,17.8120241965351
 2010,Breiðsbandshald fyri hvørjar 100 íbúgvar,256 Kbit/s upp til men undir 2 Mbit/s,%,8.81115419519842
@@ -51,20 +51,20 @@ Year,Series,bandbreidd,Units,Value
 2019,Breiðsbandshald fyri hvørjar 100 íbúgvar,10 Mbit/s ella meir,%,31.1327378398408
 2020,Breiðsbandshald fyri hvørjar 100 íbúgvar,10 Mbit/s ella meir,%,31.6079379702134
 2021,Breiðsbandshald fyri hvørjar 100 íbúgvar,10 Mbit/s ella meir,%,32.3214184450787
-2008,Breiðbandshald,Breiðband tilsamans,%,12265.0
-2009,Breiðbandshald,Breiðband tilsamans,%,14328.0
-2010,Breiðbandshald,Breiðband tilsamans,%,15157.0
-2011,Breiðbandshald,Breiðband tilsamans,%,15775.0
-2012,Breiðbandshald,Breiðband tilsamans,%,15944.0
-2013,Breiðbandshald,Breiðband tilsamans,%,16324.0
-2014,Breiðbandshald,Breiðband tilsamans,%,16826.0
-2015,Breiðbandshald,Breiðband tilsamans,%,17330.0
-2016,Breiðbandshald,Breiðband tilsamans,%,17792.0
-2017,Breiðbandshald,Breiðband tilsamans,%,17973.0
-2018,Breiðbandshald,Breiðband tilsamans,%,18041.0
-2019,Breiðbandshald,Breiðband tilsamans,%,18181.0
-2020,Breiðbandshald,Breiðband tilsamans,%,18180.0
-2021,Breiðbandshald,Breiðband tilsamans,%,18443.0
+2008,Breiðbandshald,,%,12265.0
+2009,Breiðbandshald,,%,14328.0
+2010,Breiðbandshald,,%,15157.0
+2011,Breiðbandshald,,%,15775.0
+2012,Breiðbandshald,,%,15944.0
+2013,Breiðbandshald,,%,16324.0
+2014,Breiðbandshald,,%,16826.0
+2015,Breiðbandshald,,%,17330.0
+2016,Breiðbandshald,,%,17792.0
+2017,Breiðbandshald,,%,17973.0
+2018,Breiðbandshald,,%,18041.0
+2019,Breiðbandshald,,%,18181.0
+2020,Breiðbandshald,,%,18180.0
+2021,Breiðbandshald,,%,18443.0
 2008,Breiðbandshald,256 Kbit/s upp til men undir 2 Mbit/s,%,11436.0
 2009,Breiðbandshald,256 Kbit/s upp til men undir 2 Mbit/s,%,8657.0
 2010,Breiðbandshald,256 Kbit/s upp til men undir 2 Mbit/s,%,4272.0

@@ -3129,7 +3129,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
                 "256_2MB",
                 "2MB_10MB",
                 "10MB+",

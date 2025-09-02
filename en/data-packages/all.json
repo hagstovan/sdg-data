@@ -3414,7 +3414,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total bandwidths",
                 "256 Kbit/s to less than 2 Mbit/s",
                 "2 Mbit/s to less than 10 Mbit/s",
                 "10 Mbit/s or more",
