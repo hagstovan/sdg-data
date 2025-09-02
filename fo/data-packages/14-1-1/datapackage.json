@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Taðevni í Skopunarfirði, frávik frá miðalvirði, nitrat",
+                "Taðevni í Skopunarfirði, frávik frá miðalvirði, silikat",
+                "Blaðgrøni-a grundfrávik",
+                "Taðevni í Skopunarfirði, frávik frá miðalvirði, fosfar",
+                "Blaðgrøni-a mánaðarfrávik, sera stórur títtleiki",
+                "Blaðgrøni-a mánaðarfrávik, stórur títtleiki",
+                "Blaðgrøni-a mánaðarfrávik, nakað av títtleika",
+                ""
+              ]
+            },
+            "title": "mát"
           },
           {
             "name": "Value",
