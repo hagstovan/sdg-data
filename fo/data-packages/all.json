@@ -5872,6 +5872,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24 ár",
                 "15-19 ár",
                 "20-24 ár",
                 ""
@@ -7553,6 +7554,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24 ár",
                 "25-54 ár",
                 "55-74 ár",
                 ""
