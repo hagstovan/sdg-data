@@ -1,6 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-00-17years,24,1
-18-24years,24,1
-25-54years,24,1
-55-66years,24,1
-67years,24,1
+Y0-17,3,1
+Y15-19,3,1
+Y15-24,6,2
+Y18-24,3,1
+Y20-24,3,1
+Y25-54,6,2
+Y55-66,3,1
+Y55-74,3,1
+Y_GE67,3,1
