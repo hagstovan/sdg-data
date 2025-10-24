@@ -7037,6 +7037,24 @@
             "title": "measure"
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (region)",
+                "Eysturoy region",
+                "Norðuroyggjar region",
+                "Sandoy region",
+                "Streymoy region, north",
+                "Streymoy region, south",
+                "Suðuroy region",
+                "Vágar region",
+                ""
+              ]
+            },
+            "title": "region"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -7073,6 +7091,11 @@
               ]
             },
             "title": "unit"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

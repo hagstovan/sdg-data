@@ -25,6 +25,23 @@
             }
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "4200",
+                "4100",
+                "4500",
+                "4300",
+                "4700",
+                "4600",
+                "4400",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -58,6 +75,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

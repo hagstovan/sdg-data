@@ -27,6 +27,24 @@
             "title": "mát"
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tils. (øki)",
+                "Eysturoyar øki",
+                "Norðoya øki",
+                "Sandoyar øki",
+                "Streymoyar øki, norður",
+                "Streymoyar øki, suður",
+                "Suðuroyar øki",
+                "Vága øki",
+                ""
+              ]
+            },
+            "title": "øki"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -63,6 +81,11 @@
               ]
             },
             "title": "eind"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
