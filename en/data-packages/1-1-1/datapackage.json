@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Geography",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eysturoyar region",
-                "Norðoya region",
-                "Sandoyar region",
-                "Streymoyar region, north",
-                "Streymoyar region, south",
-                "Suðuroyar region",
-                "Vága region",
-                ""
-              ]
-            },
-            "title": "Geography"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
