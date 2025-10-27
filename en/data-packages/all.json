@@ -7019,7 +7019,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total (region)",
                 "Eysturoy region",
                 "Norðuroyggjar region",
                 "Sandoy region",

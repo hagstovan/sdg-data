@@ -6436,7 +6436,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
                 "4200",
                 "4100",
                 "4500",

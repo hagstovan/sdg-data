@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tils. (øki)",
                 "Eysturoyar øki",
                 "Norðoya øki",
                 "Sandoyar øki",
