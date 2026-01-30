@@ -44,8 +44,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Cardiovascular disease",
-                "Cancer",
+                "Urban",
+                "Rural",
                 "Diabetes",
                 "Cronical respiratory diseases",
                 ""

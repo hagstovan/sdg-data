@@ -1,10 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Y0-17,27,2
 Y15-19,3,1
-Y15-24,6,2
+Y15-24,15,3
 Y18-24,27,2
 Y20-24,3,1
+Y25-44,9,1
 Y25-54,30,3
+Y45-54,9,1
+Y55-64,9,1
 Y55-66,27,2
 Y55-74,3,1
+Y_GE15,9,1
+Y_GE65,9,1
 Y_GE67,27,2

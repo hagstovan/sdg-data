@@ -1095,7 +1095,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DTH_NCOM",
+                "I00-I99",
+                "COO-C97",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE15",
+                "Y15-24",
+                "Y25-44",
+                "Y45-54",
+                "Y55-64",
+                "Y_GE65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

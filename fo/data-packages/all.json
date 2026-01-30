@@ -1188,8 +1188,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tilsamans",
+                "Býur",
+                "Bygd",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+ ár",
+                "15-24 ár",
+                "25-44 ár",
+                "45-54 ár",
+                "55-64 ár",
+                "65+ ár",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menn",
+                "Kvinnur",
+                ""
+              ]
+            },
+            "title": "Kyn"
           },
           {
             "name": "Value",
@@ -3928,8 +3980,8 @@
             "constraints": {
               "enum": [
                 "Tilsamans",
-                "Hjarta-æðra-sjúkur",
-                "Krabbamein",
+                "Býur",
+                "Bygd",
                 "Sukursjúka",
                 "Kroniskar sjúkur í andaleiðini",
                 ""

@@ -12,8 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+ years",
+                "15-24 years",
+                "25-44 years",
+                "45-54 years",
+                "55-64 years",
+                "65+ years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -44,8 +44,8 @@
             "constraints": {
               "enum": [
                 "Tilsamans",
-                "Hjarta-æðra-sjúkur",
-                "Krabbamein",
+                "Býur",
+                "Bygd",
                 "Sukursjúka",
                 "Kroniskar sjúkur í andaleiðini",
                 ""
