@@ -40,3 +40,6 @@ standalone: false
 tags: []
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf
 goal_meta_link_text: data.metadataonthisindicator
+graph_defaults:
+  disaggregation:
+    age: [Y_GE15, Y15-24, Y25-44, Y45-54, Y55-64, Y_GE65]
