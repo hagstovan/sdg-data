@@ -10,8 +10,6 @@ data_show_map: false
 data_start_values: 
  - field: data.location
    value: data.total
- - field: data.age
-   value: data.ge15years
  - field: data.sex
    value: data.male  
  - field: data.sex
