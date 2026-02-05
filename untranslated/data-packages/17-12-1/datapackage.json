@@ -40,7 +40,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALP",
                 "AGR",
                 "CLO",
                 "IND",

@@ -43,7 +43,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
                 "Landbúnaðarvørur",
                 "Pløgg",
                 "Ídnaðarvørur",
