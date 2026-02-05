@@ -45,7 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Arbeiðsloysisprosent",
+                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)",
                 ""
               ]
             },

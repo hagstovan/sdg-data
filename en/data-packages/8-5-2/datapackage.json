@@ -45,7 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unemployment rate",
+                "Total unemployment out of total labour force (national estimate) (%)",
                 ""
               ]
             },
