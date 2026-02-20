@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+                "Proportion of women in managerial positions",
                 ""
               ]
             },

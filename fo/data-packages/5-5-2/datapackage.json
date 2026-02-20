@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Partur av tíð brúkt til ólønt húsligt arbeiði og umsorganararbeiði skift á kyn, aldur og staðseting",
+                "Partur av kvinnum í leiðslustørvum",
                 ""
               ]
             },
