@@ -1114,7 +1114,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
                 "Y15-24",
                 "Y25-44",
                 "Y45-54",
