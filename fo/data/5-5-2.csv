@@ -1,5 +1,5 @@
-Year,starv,Units,Series,alment/privat,Value
-2022,Stjóri,%,Partur av kvinnum í leiðslustørvum,Privatar fyritøkur,17
-2022,Stjóri,%,Partur av kvinnum í leiðslustørvum,Almennir stovnar og fyritøkur,59
-2022,Nevndarlimur,%,Partur av kvinnum í leiðslustørvum,Privatar fyritøkur,18
-2022,Nevndarlimur,%,Partur av kvinnum í leiðslustørvum,Almennir stovnar og fyritøkur,40
+Year,Series,starv,alment/privat,Units,Value
+2022,Partur av kvinnum í leiðslustørvum,Stjóri,Privatar fyritøkur,%,17
+2022,Partur av kvinnum í leiðslustørvum,Stjóri,Almennir stovnar og fyritøkur,%,59
+2022,Partur av kvinnum í leiðslustørvum,Nevndarlimur,Privatar fyritøkur,%,18
+2022,Partur av kvinnum í leiðslustørvum,Nevndarlimur,Almennir stovnar og fyritøkur,%,40

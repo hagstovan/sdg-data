@@ -4064,32 +4064,22 @@
             "type": "integer"
           },
           {
-            "name": "Position",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IC_GEN_CE",
-                "IC_GEN_BM",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "SL_DOM_TSPD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IC_GEN_CE",
+                "IC_GEN_BM",
                 ""
               ]
             }
@@ -4101,6 +4091,16 @@
               "enum": [
                 "PRIVATE",
                 "PUBLIC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
                 ""
               ]
             }

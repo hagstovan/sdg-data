@@ -4430,29 +4430,6 @@
             "title": "Year"
           },
           {
-            "name": "Position",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Chief executive/senior officials",
-                "Member of the board",
-                ""
-              ]
-            },
-            "title": "Position"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4462,6 +4439,18 @@
               ]
             },
             "title": "measure"
+          },
+          {
+            "name": "position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chief executive/senior officials",
+                "Member of the board",
+                ""
+              ]
+            },
+            "title": "position"
           },
           {
             "name": "Public/private",
@@ -4474,6 +4463,17 @@
               ]
             },
             "title": "Public/private"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",

@@ -1,5 +1,5 @@
-Year,Position,Units,Series,Public/private,Value
-2022,Chief executive/senior officials,pct.,Proportion of women in managerial positions,Private companies,17
-2022,Chief executive/senior officials,pct.,Proportion of women in managerial positions,Public institutions and companies,59
-2022,Member of the board,pct.,Proportion of women in managerial positions,Private companies,18
-2022,Member of the board,pct.,Proportion of women in managerial positions,Public institutions and companies,40
+Year,Series,position,Public/private,Units,Value
+2022,Proportion of women in managerial positions,Chief executive/senior officials,Private companies,pct.,17
+2022,Proportion of women in managerial positions,Chief executive/senior officials,Public institutions and companies,pct.,59
+2022,Proportion of women in managerial positions,Member of the board,Private companies,pct.,18
+2022,Proportion of women in managerial positions,Member of the board,Public institutions and companies,pct.,40

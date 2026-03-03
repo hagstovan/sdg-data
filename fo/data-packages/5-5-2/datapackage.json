@@ -16,29 +16,6 @@
             "title": "Ár"
           },
           {
-            "name": "Position",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stjóri",
-                "Nevndarlimur",
-                ""
-              ]
-            },
-            "title": "starv"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -48,6 +25,18 @@
               ]
             },
             "title": "mát"
+          },
+          {
+            "name": "position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stjóri",
+                "Nevndarlimur",
+                ""
+              ]
+            },
+            "title": "starv"
           },
           {
             "name": "Public/private",
@@ -60,6 +49,17 @@
               ]
             },
             "title": "alment/privat"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
