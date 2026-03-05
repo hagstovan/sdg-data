@@ -27,6 +27,8 @@ page_content: ''
 permalink: ''
 precision: []
 reporting_status: complete
+graph_series:
+  - Measure: Researchers per million inhabitants
 sort: ''
 standalone: false
 tags: []
