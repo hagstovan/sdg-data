@@ -4515,7 +4515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ársverk",
+                "ársverk",
                 "Fyri hvørjar 10.000 íbúgvar",
                 ""
               ]
@@ -6783,8 +6783,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Granskarar fyri hvørja millión íbúgvar",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ársverk",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",

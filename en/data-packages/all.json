@@ -4515,7 +4515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Full-time equivalent",
+                "full-time equivalent",
                 "Per 10,000 population",
                 ""
               ]
@@ -6783,8 +6783,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Researchers per million inhabitants",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "full-time equivalent",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
