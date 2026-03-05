@@ -12,31 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Giftar áðrenn 15 ár",
-                "Giftar áðrenn 18 ár",
-                ""
-              ]
-            },
-            "title": "mát"
           },
           {
             "name": "Value",
