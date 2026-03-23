@@ -20,31 +20,32 @@ on:
     branches:
       - develop
   schedule:
-  # * is a special character in YAML so you have to quote this string
-  - cron:  '0 9 * * *'
+    - cron: '0 9 * * *'
 
 permissions:
   contents: write
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r scripts/requirements.txt
-    - name: Test PX URLs
-      run: |
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Test PX URLs
+        run: |
           python - <<'PY'
           import yaml
           import urllib.request
@@ -63,26 +64,31 @@ jobs:
               except Exception as e:
                   print(f"FAIL {url}")
                   print(repr(e))
-          PY     
-    - name: Build data
-      run: |
-        python scripts/build_data.py
-    - name: Place public files
-      run: |
-        cp public/robots-staging.txt _site/robots.txt
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: _site
-        CLEAN: true
-    - name: Waiting 4 minutes for staging data deployment
-      run: |
-        sleep 240
-    - name: Rebuild site
-      run: |
-        curl -X POST https://api.github.com/repos/hagstovan/sdg-site/dispatches \
-          -H "Accept: application/vnd.github.everest-preview+json" \
-          -H "Authorization: token ${{ secrets.token }}" \
-          --data '{"event_type":"rebuild-staging"}'
+          PY
+
+      - name: Build data
+        run: |
+          python scripts/build_data.py
+
+      - name: Place public files
+        run: |
+          cp public/robots-staging.txt _site/robots.txt
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: _site
+          CLEAN: true
+
+      - name: Waiting 4 minutes for staging data deployment
+        run: |
+          sleep 240
+
+      - name: Rebuild site
+        run: |
+          curl -X POST https://api.github.com/repos/hagstovan/sdg-site/dispatches \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secrets.token }}" \
+            --data '{"event_type":"rebuild-staging"}'
