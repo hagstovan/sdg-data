@@ -43,6 +43,27 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
+    - name: Test PX URLs
+      run: |
+          python - <<'PY'
+          import yaml
+          import urllib.request
+
+          with open('indicator_id_map.yml', 'r', encoding='utf-8') as f:
+              data = yaml.safe_load(f)
+
+          for url in data.keys():
+              try:
+                  req = urllib.request.Request(
+                      url,
+                      headers={'User-Agent': 'Mozilla/5.0'}
+                  )
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      print(f"OK   {r.status} {url}")
+              except Exception as e:
+                  print(f"FAIL {url}")
+                  print(repr(e))
+          PY     
     - name: Build data
       run: |
         python scripts/build_data.py
