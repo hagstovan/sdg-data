@@ -30,7 +30,7 @@
             "title": "material type"
           },
           {
-            "name": "Units",
+            "name": "unit",
             "type": "string",
             "constraints": {
               "enum": [
