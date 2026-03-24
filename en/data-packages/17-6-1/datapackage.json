@@ -41,7 +41,7 @@
             "title": "Bandbreidd"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

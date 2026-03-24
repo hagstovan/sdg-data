@@ -69,7 +69,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -365,7 +365,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -498,7 +498,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -817,7 +817,7 @@
             "title": "Aldur"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -974,7 +974,7 @@
             "title": "Party"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1107,7 +1107,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1177,7 +1177,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1341,7 +1341,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1667,7 +1667,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1867,7 +1867,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2248,7 +2248,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2342,7 +2342,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2496,7 +2496,7 @@
             "title": "Bandbreidd"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2601,7 +2601,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2783,7 +2783,7 @@
             "title": "grundleggjandi tænasta"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2914,7 +2914,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2965,7 +2965,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3011,7 +3011,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3247,7 +3247,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3352,7 +3352,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3411,7 +3411,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3545,7 +3545,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3762,7 +3762,7 @@
             "title": "slag av tilfari"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3834,7 +3834,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3905,7 +3905,7 @@
             "title": "Kelda"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3987,7 +3987,7 @@
             "title": "vísital"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4118,7 +4118,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4324,7 +4324,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4465,7 +4465,7 @@
             "title": "alment/privat"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4515,7 +4515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ársverk",
+                "ársverk",
                 "Fyri hvørjar 10.000 íbúgvar",
                 ""
               ]
@@ -4784,7 +4784,7 @@
             "title": "Aldur"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5031,7 +5031,7 @@
             "title": "Landabólkur"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5156,7 +5156,7 @@
             "title": "Kelda"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5229,7 +5229,7 @@
             "title": "slag av tilfari"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5336,7 +5336,7 @@
             "title": "Avleiðing"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5419,7 +5419,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5692,7 +5692,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5867,7 +5867,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6297,7 +6297,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6417,7 +6417,7 @@
             "title": "orkukelda"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6538,7 +6538,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6573,7 +6573,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6798,7 +6798,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6988,7 +6988,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7165,7 +7165,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7390,7 +7390,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7642,7 +7642,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7738,7 +7738,7 @@
             "title": "mát"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7846,7 +7846,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7940,7 +7940,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8011,7 +8011,7 @@
             "title": "Ár"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

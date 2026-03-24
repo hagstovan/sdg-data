@@ -39,7 +39,7 @@
             "title": "index"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

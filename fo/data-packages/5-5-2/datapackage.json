@@ -51,7 +51,7 @@
             "title": "alment/privat"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

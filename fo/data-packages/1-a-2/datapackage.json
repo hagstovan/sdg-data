@@ -40,7 +40,7 @@
             "title": "grundleggjandi tænasta"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
