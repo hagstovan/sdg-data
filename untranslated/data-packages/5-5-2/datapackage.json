@@ -47,7 +47,7 @@
             }
           },
           {
-            "name": "Units",
+            "name": "unit",
             "type": "string",
             "constraints": {
               "enum": [

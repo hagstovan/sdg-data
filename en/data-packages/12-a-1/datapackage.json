@@ -42,7 +42,7 @@
             "title": "energy source"
           },
           {
-            "name": "Units",
+            "name": "unit",
             "type": "string",
             "constraints": {
               "enum": [
