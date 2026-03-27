@@ -40,7 +40,7 @@
             "title": "Aldur"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

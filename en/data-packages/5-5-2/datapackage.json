@@ -51,7 +51,7 @@
             "title": "Public/private"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

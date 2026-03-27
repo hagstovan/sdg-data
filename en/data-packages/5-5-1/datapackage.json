@@ -102,7 +102,7 @@
             "title": "party"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

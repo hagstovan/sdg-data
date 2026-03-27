@@ -39,7 +39,7 @@
             "title": "vísital"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

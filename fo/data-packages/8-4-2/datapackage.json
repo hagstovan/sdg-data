@@ -30,7 +30,7 @@
             "title": "slag av tilfari"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
