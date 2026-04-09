@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Arbeiðsvirkin í framsluvinnuni sum partur av arbeiðsvirknum tilsamans",
+                "Arbeiðsvirkin í framleiðsluvinnuni sum partur av arbeiðsvirknum tilsamans",
                 ""
               ]
             },
