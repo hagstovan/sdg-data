@@ -37,7 +37,7 @@
             }
           },
           {
-            "name": "Size of particulate4 matter",
+            "name": "size of particulate4 matter",
             "type": "string",
             "constraints": {
               "enum": [

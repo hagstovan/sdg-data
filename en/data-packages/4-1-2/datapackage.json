@@ -27,7 +27,7 @@
             "title": "measure"
           },
           {
-            "name": "Education",
+            "name": "education",
             "type": "string",
             "constraints": {
               "enum": [

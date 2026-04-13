@@ -27,7 +27,7 @@
             "title": "mát"
           },
           {
-            "name": "Education",
+            "name": "education",
             "type": "string",
             "constraints": {
               "enum": [

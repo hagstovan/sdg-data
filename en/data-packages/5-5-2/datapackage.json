@@ -39,7 +39,7 @@
             "title": "position"
           },
           {
-            "name": "Public/private",
+            "name": "public/private",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Public/private"
+            "title": "public/private"
           },
           {
             "name": "Units",

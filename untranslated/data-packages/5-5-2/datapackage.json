@@ -36,7 +36,7 @@
             }
           },
           {
-            "name": "Public/private",
+            "name": "public/private",
             "type": "string",
             "constraints": {
               "enum": [
