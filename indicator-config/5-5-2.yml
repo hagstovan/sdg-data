@@ -10,8 +10,8 @@ data_show_map: false
 data_start_values: 
   - field: data.position
     value: data.memberoftheboard
-  - field: data.public/private
-    value: data.privatecompanies
+  - field: data.position
+    value: data.chiefexecutiveseniorofficials
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
