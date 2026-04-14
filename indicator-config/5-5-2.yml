@@ -11,7 +11,7 @@ data_start_values:
   - field: data.position
     value: data.memberoftheboard
   - field: data.position
-    value: data.chiefexecutiveseniorofficials
+    value: data.chiefexecutiveseniorofficial
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
