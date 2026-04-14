@@ -323,3 +323,6 @@ tm_tax_dmfn: Average tariff applied by developed countries, most-favored nation 
 tm_tax_dprf: Average tariff applied by developed countries, preferential status, by type of product (%)
 proxytag: Proxy
 proxytext: This indicator contains some alternative data to those specified by the United Nations (UN). This indicator is the most suitable match currently available.
+position: Position
+chiefexecutiveseniorofficials: Chief executive/senior officials
+Memberoftheboard: Member of the board
