@@ -307,6 +307,13 @@ confidencelevel: Álitisstig
 bothsexes: Bæði kyn
 totalrenewableenergy: Varandi orka tilsamans
 totaldomesticmaterialconsumption: Innlendis tilfarsnýtsla tilsamans (1.000 tons)
+managers: Stjórar
+membersofboard: Nevndarlimir
+privatecompany: Privatar fyritøkur
+publiccompany: Almennir stovnar og fyritøkur
+managerscomment: Uppgerðin av stjórum í tí privata fevnir um allar fyritøkur, tó undantikið einstaklingafeløg og felagsskapir. Uppgerðin av stjórum í tí almenna fevnir um lands-, kommunalar og ríkisstovnar. Leiðarar á skúlum og dagstovnum og á eldraøkinum telja við í uppgerðini.
+notecomment: Viðmerking
+publicprivate: Alment/privat
 typeofproduct: Vørubólkur
 agriculturalproducts: Landbúnaðarvørur
 arms: Vápn
@@ -321,9 +328,3 @@ proxytext: Dáturnar í hesum ávísinanum eru ikki sum ásett av Sameindu Tjó�
 position: Starv
 chiefexecutiveseniorofficial: Stjóri
 Memberoftheboard: Nevndarlimur
-public/private: public/private
-Privatecompanies: Private companies
-Publicinstitutionsandcompanies: Public institutions and companies
-public/private: alment/privat
-Privatecompanies: Privatar fyritøkur
-Publicinstitutionsandcompanies: Almennir stovnar og fyritøkur
