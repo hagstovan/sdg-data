@@ -6332,8 +6332,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeiðsloysið (arbeiðsleys í prosent av arbeiðsfjøld, 15-74 ár)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvinnur",
+                "Menn",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aldur 15 - 24",
+                "Aldur 25 - 54",
+                "Aldur 55 - 74",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
