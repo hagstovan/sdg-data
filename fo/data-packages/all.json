@@ -4041,7 +4041,7 @@
                 ""
               ]
             },
-            "title": "public/private"
+            "title": "alment/privat"
           },
           {
             "name": "Units",
@@ -6871,8 +6871,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeiðsvirkin í framleiðsluvinnuni sum partur av arbeiðsvirknum tilsamans",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",
