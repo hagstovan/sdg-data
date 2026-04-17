@@ -12,9 +12,9 @@ data_start_values:
     value: data.memberoftheboard
   - field: data.position
     value: data.chiefexecutiveseniorofficial
-  - field: data.public/private
+  - field: data.publicprivate
     value: data.privatecompanies
-  - field: data.public/private
+  - field: data.publicprivate
     value: data.Publicinstitutionsandcompanies
 embedded_feature_footer: ''
 embedded_feature_html: ''
