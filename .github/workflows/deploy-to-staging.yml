@@ -49,10 +49,14 @@ jobs:
           python - <<'PY'
           import yaml
           import urllib.request
-
+          import urllib.error
+          import sys
+        
           with open('indicator_id_map.yml', 'r', encoding='utf-8') as f:
               data = yaml.safe_load(f)
-
+      
+          failed = False
+      
           for url in data.keys():
               try:
                   req = urllib.request.Request(
@@ -61,9 +65,23 @@ jobs:
                   )
                   with urllib.request.urlopen(req, timeout=60) as r:
                       print(f"OK   {r.status} {url}")
+      
+              except urllib.error.HTTPError as e:
+                  print(f"FAIL {url}")
+                  print(repr(e))
+                  if e.code == 404:
+                      failed = True
+      
               except Exception as e:
                   print(f"FAIL {url}")
                   print(repr(e))
+                  failed = True
+      
+          if failed:
+              print("\n❌ One or more URLs failed (including 404). Failing step.")
+              sys.exit(1)
+      
+          print("\n✅ All URLs OK")
           PY
 
       - name: Build data
