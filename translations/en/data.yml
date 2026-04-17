@@ -325,3 +325,6 @@ publiccompany: Public institutions and companies
 publicprivate: Public/private
 managers: Chief executives/senior officials
 managerscomment: Private managers include all businesses except one-person businesses and special-interest organizations. Public managers include institutions of state, national and local government. Also included are leaders and pricipals on schools, day care and elder care institutions.
+position: Position
+chiefexecutiveseniorofficials: Chief executive/senior official
+memberoftheboard: Member of the board
