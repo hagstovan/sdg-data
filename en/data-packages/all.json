@@ -4029,7 +4029,7 @@
                 ""
               ]
             },
-            "title": "Position"
+            "title": "position"
           },
           {
             "name": "public/private",
@@ -6332,55 +6332,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                "25-54 years",
-                "55-74 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total unemployment out of total labour force (national estimate) (%)",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",
@@ -6918,30 +6871,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing employment as a proportion of total employment",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",
