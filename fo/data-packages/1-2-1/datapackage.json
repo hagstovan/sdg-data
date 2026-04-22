@@ -12,8 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eysturoyar øki",
+                "Norðoya øki",
+                "Sandoyar øki",
+                "Streymoyar øki, norður",
+                "Streymoyar øki, suður",
+                "Suðuroyar øki",
+                "Vága øki",
+                ""
+              ]
+            },
+            "title": "øki"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvinnur",
+                "Menn",
+                ""
+              ]
+            },
+            "title": "Kyn"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aldur 0 - 17",
+                "Aldur 18 - 24",
+                "Aldur 25 - 54",
+                "Aldur 55 - 66",
+                "Aldur 67 + ",
+                ""
+              ]
+            },
+            "title": "Aldur"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",

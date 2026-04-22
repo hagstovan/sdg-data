@@ -1,7 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
+Age0-17,27,2
 Age15-24,3,1
-Age25-54,3,1
+Age18-24,27,2
+Age25-54,30,3
+Age55-66,27,2
 Age55-74,3,1
+Age67-,27,2
 Y15-19,3,1
 Y15-24,12,2
 Y20-24,3,1
