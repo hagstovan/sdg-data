@@ -9,8 +9,6 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: 
  - field: data.education
-   value: data.primaryeducation
- - field: data.education
    value: data.lowersecondaryeducation
  - field: data.education
    value: data.uppersecondaryeducation
