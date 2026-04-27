@@ -30,6 +30,7 @@
             "constraints": {
               "enum": [
                 "SP_DYN_ADKL20",
+                "SP_DYN_ADKL15",
                 ""
               ]
             }
