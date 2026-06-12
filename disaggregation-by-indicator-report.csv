@@ -1,8 +1,8 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"age, sex, region",3
+#1-2-1,"sex, age, region",3
 #1-a-2,essential service,1
 #10-1-1,growth rate of disposable income,1
-#10-2-1,"age, sex",2
+#10-2-1,"sex, age",2
 #11-6-2,size of particulate4 matter,1
 #12-2-2,material type,1
 #12-a-1,energy source,1
@@ -18,13 +18,13 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1,occupation,1
 #4-1-2,"sex, education",2
 #4-2-2,sex,1
-#5-4-1,"age, sex",2
+#5-4-1,"sex, age",2
 #5-5-1,party,1
 #5-5-2,"position, public/private",2
 #7-2-1,renewable energy source,1
 #7-b-1,energy source,1
 #8-4-2,material type,1
-#8-5-2,"age, sex",2
-#8-6-1,"age, sex",2
+#8-5-2,"sex, age",2
+#8-6-1,"sex, age",2
 #8-8-1,"sex, outcome",2
 #9-4-1,source,1
