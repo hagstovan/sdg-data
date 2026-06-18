@@ -25,7 +25,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: data.8-8-1-graphtitle
 graph_titles: []
-graph_type: line
+graph_type: column
 indicator_name: global_indicators.8-8-1-title
 indicator_number: '8.8.1'
 national_geographical_coverage: ''
