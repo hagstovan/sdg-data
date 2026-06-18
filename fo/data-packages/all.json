@@ -7761,6 +7761,7 @@
             "constraints": {
               "enum": [
                 "Ikki-deyðilig",
+                "Deyðilig",
                 ""
               ]
             },
