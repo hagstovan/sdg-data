@@ -16,29 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "outcome",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-fatal",
-                "Fatal",
-                ""
-              ]
-            },
-            "title": "Outcome"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "In number",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -61,6 +38,29 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "outcome",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-fatal (on land, not at sea)",
+                "Fatal (on land and sea)",
+                ""
+              ]
+            },
+            "title": "Outcome"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In number",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",

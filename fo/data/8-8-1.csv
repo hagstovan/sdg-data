@@ -1,157 +1,185 @@
-Year,avleiðing,Units,Series,kyn,Value
-2009,Ikki-deyðilig,Í tali,Persónar,,140.0
-2009,Ikki-deyðilig,Í tali,Persónar,Menn,72.0
-2009,Ikki-deyðilig,Í tali,Persónar,Kvinnur,68.0
-2009,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,510.613465606536
-2009,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,485.436893203884
-2009,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,540.282853964723
-2010,Ikki-deyðilig,Í tali,Persónar,,83.0
-2010,Ikki-deyðilig,Í tali,Persónar,Menn,41.0
-2010,Ikki-deyðilig,Í tali,Persónar,Kvinnur,42.0
-2010,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,314.536910716993
-2010,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,276.298941977222
-2010,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,363.667850030306
-2011,Ikki-deyðilig,Í tali,Persónar,,127.0
-2011,Ikki-deyðilig,Í tali,Persónar,Menn,65.0
-2011,Ikki-deyðilig,Í tali,Persónar,Kvinnur,62.0
-2011,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,497.492948918834
-2011,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,469.449660551784
-2011,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,530.731039205616
-2012,Ikki-deyðilig,Í tali,Persónar,,126.0
-2012,Ikki-deyðilig,Í tali,Persónar,Menn,69.0
-2012,Ikki-deyðilig,Í tali,Persónar,Kvinnur,57.0
-2012,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,453.44945478101295
-2012,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,464.08393866021
-2012,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,441.210620017029
-2013,Ikki-deyðilig,Í tali,Persónar,,144.0
-2013,Ikki-deyðilig,Í tali,Persónar,Menn,68.0
-2013,Ikki-deyðilig,Í tali,Persónar,Kvinnur,76.0
-2013,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,525.451559934319
-2013,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,450.092666137146
-2013,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,618.087182823682
-2014,Ikki-deyðilig,Í tali,Persónar,,167.0
-2014,Ikki-deyðilig,Í tali,Persónar,Menn,76.0
-2014,Ikki-deyðilig,Í tali,Persónar,Kvinnur,91.0
-2014,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,600.827486958086
-2014,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,498.327978493214
-2014,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,725.446428571428
-2015,Ikki-deyðilig,Í tali,Persónar,,188.0
-2015,Ikki-deyðilig,Í tali,Persónar,Menn,114.0
-2015,Ikki-deyðilig,Í tali,Persónar,Kvinnur,74.0
-2015,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,658.1941672793471
-2015,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,736.957786540824
-2015,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,565.144340919505
-2016,Ikki-deyðilig,Í tali,Persónar,,184.0
-2016,Ikki-deyðilig,Í tali,Persónar,Menn,108.0
-2016,Ikki-deyðilig,Í tali,Persónar,Kvinnur,76.0
-2016,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,643.874444483326
-2016,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,701.663201663202
-2016,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,576.412590064467
-2017,Ikki-deyðilig,Í tali,Persónar,,178.0
-2017,Ikki-deyðilig,Í tali,Persónar,Menn,122.0
-2017,Ikki-deyðilig,Í tali,Persónar,Kvinnur,56.0
-2017,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,610.844200411805
-2017,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,782.452539763982
-2017,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,413.345143194568
-2018,Ikki-deyðilig,Í tali,Persónar,,215.0
-2018,Ikki-deyðilig,Í tali,Persónar,Menn,131.0
-2018,Ikki-deyðilig,Í tali,Persónar,Kvinnur,84.0
-2018,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,705.588920613042
-2018,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,795.1924244263689
-2018,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,600.128598985497
-2019,Ikki-deyðilig,Í tali,Persónar,,226.0
-2019,Ikki-deyðilig,Í tali,Persónar,Menn,119.0
-2019,Ikki-deyðilig,Í tali,Persónar,Kvinnur,107.0
-2019,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,724.1964943762621
-2019,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,708.797426886652
-2019,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,742.127895685948
-2020,Ikki-deyðilig,Í tali,Persónar,,170.0
-2020,Ikki-deyðilig,Í tali,Persónar,Menn,100.0
-2020,Ikki-deyðilig,Í tali,Persónar,Kvinnur,70.0
-2020,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,544.19155542751
-2020,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,594.459636190703
-2020,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,485.53790663799697
-2021,Ikki-deyðilig,Í tali,Persónar,,211.0
-2021,Ikki-deyðilig,Í tali,Persónar,Menn,101.0
-2021,Ikki-deyðilig,Í tali,Persónar,Kvinnur,110.0
-2021,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,674.035267058523
-2021,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,604.75420633495
-2021,Ikki-deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,753.2698760528659
-2009,Deyðilig,Í tali,Persónar,,1.0
-2009,Deyðilig,Í tali,Persónar,Menn,1.0
-2009,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2009,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,3.64723904004668
-2009,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,6.74217907227616
-2009,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2010,Deyðilig,Í tali,Persónar,,0.0
-2010,Deyðilig,Í tali,Persónar,Menn,0.0
-2010,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2010,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,0.0
-2010,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,0.0
-2010,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2011,Deyðilig,Í tali,Persónar,,0.0
-2011,Deyðilig,Í tali,Persónar,Menn,0.0
-2011,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2011,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,0.0
-2011,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,0.0
-2011,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2012,Deyðilig,Í tali,Persónar,,1.0
-2012,Deyðilig,Í tali,Persónar,Menn,1.0
-2012,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2012,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,3.5988051966747
-2012,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,6.7258541834813
-2012,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2013,Deyðilig,Í tali,Persónar,,1.0
-2013,Deyðilig,Í tali,Persónar,Menn,1.0
-2013,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2013,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,3.64896916621055
-2013,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,6.6190097961345
-2013,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2014,Deyðilig,Í tali,Persónar,,1.0
-2014,Deyðilig,Í tali,Persónar,Menn,1.0
-2014,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2014,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,3.59776938298255
-2014,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,6.55694708543702
-2014,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2015,Deyðilig,Í tali,Persónar,,0.0
-2015,Deyðilig,Í tali,Persónar,Menn,0.0
-2015,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2015,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,0.0
-2015,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,0.0
-2015,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2016,Deyðilig,Í tali,Persónar,,2.0
-2016,Deyðilig,Í tali,Persónar,Menn,2.0
-2016,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2016,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,6.99863526612311
-2016,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,12.993762993763
-2016,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2017,Deyðilig,Í tali,Persónar,,0.0
-2017,Deyðilig,Í tali,Persónar,Menn,0.0
-2017,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2017,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,0.0
-2017,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,0.0
-2017,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2018,Deyðilig,Í tali,Persónar,,1.0
-2018,Deyðilig,Í tali,Persónar,Menn,1.0
-2018,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2018,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,3.28180893308392
-2018,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,6.07017117882724
-2018,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2019,Deyðilig,Í tali,Persónar,,1.0
-2019,Deyðilig,Í tali,Persónar,Menn,0.0
-2019,Deyðilig,Í tali,Persónar,Kvinnur,1.0
-2019,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,3.2044092671516
-2019,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,0.0
-2019,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,6.9357747260369
-2020,Deyðilig,Í tali,Persónar,,3.0
-2020,Deyðilig,Í tali,Persónar,Menn,3.0
-2020,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2020,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,9.60338038989724
-2020,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,17.8337890857211
-2020,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
-2021,Deyðilig,Í tali,Persónar,,0.0
-2021,Deyðilig,Í tali,Persónar,Menn,0.0
-2021,Deyðilig,Í tali,Persónar,Kvinnur,0.0
-2021,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,,0.0
-2021,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Menn,0.0
-2021,Deyðilig,Í tali,pr. 100.000 arbeiðsvirkin,Kvinnur,0.0
+Year,Series,kyn,avleiðing,Units,Value
+2009,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,140.0
+2010,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,83.0
+2011,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,127.0
+2012,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,126.0
+2013,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,144.0
+2014,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,167.0
+2015,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,188.0
+2016,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,184.0
+2017,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,178.0
+2018,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,215.0
+2019,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,226.0
+2020,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,170.0
+2021,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,225.0
+2022,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,226.0
+2023,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,242.0
+2024,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,256.0
+2025,Persónar,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,280.0
+2009,Persónar,,Deyðilig (á landi og á sjónum),Í tali,2.0
+2010,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2011,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2012,Persónar,,Deyðilig (á landi og á sjónum),Í tali,1.0
+2013,Persónar,,Deyðilig (á landi og á sjónum),Í tali,1.0
+2014,Persónar,,Deyðilig (á landi og á sjónum),Í tali,3.0
+2015,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2016,Persónar,,Deyðilig (á landi og á sjónum),Í tali,1.0
+2017,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2018,Persónar,,Deyðilig (á landi og á sjónum),Í tali,1.0
+2019,Persónar,,Deyðilig (á landi og á sjónum),Í tali,1.0
+2020,Persónar,,Deyðilig (á landi og á sjónum),Í tali,3.0
+2021,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2022,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2023,Persónar,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2024,Persónar,,Deyðilig (á landi og á sjónum),Í tali,4.0
+2025,Persónar,,Deyðilig (á landi og á sjónum),Í tali,3.0
+2009,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,72.0
+2010,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,41.0
+2011,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,65.0
+2012,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,69.0
+2013,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,68.0
+2014,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,76.0
+2015,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,114.0
+2016,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,108.0
+2017,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,122.0
+2018,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,131.0
+2019,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,119.0
+2020,Persónar,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,100.0
+2009,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,2.0
+2010,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2011,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2012,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,1.0
+2013,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,1.0
+2014,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,3.0
+2015,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2016,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,1.0
+2017,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2018,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,1.0
+2019,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2020,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,3.0
+2021,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2022,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2023,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2024,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,4.0
+2025,Persónar,Menn,Deyðilig (á landi og á sjónum),Í tali,3.0
+2009,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,68.0
+2010,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,42.0
+2011,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,62.0
+2012,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,57.0
+2013,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,76.0
+2014,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,91.0
+2015,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,74.0
+2016,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,76.0
+2017,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,56.0
+2018,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,84.0
+2019,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,107.0
+2020,Persónar,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,70.0
+2009,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2010,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2011,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2012,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2013,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2014,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2015,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2016,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2017,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2018,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2019,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,1.0
+2020,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2021,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2022,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2023,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2024,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2025,Persónar,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2009,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,510.613465606536
+2010,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,314.536910716993
+2011,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,497.492948918834
+2012,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,453.44945478101295
+2013,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,525.451559934319
+2014,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,600.827486958086
+2015,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,683.1147124014391
+2016,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,649.190276258688
+2017,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,615.384615384615
+2018,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,720.702601233575
+2019,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,735.868715811409
+2020,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,555.374060764456
+2021,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,719.7466491794889
+2022,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,710.937745761112
+2023,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,758.335422411632
+2024,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,796.614388847399
+2025,pr. 100.000 arbeiðsvirkin,,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,863.611128246253
+2009,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,7.29447808009337
+2010,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2011,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2012,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,3.5988051966747
+2013,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,3.64896916621055
+2014,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,10.7933081489477
+2015,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2016,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,3.52820802314505
+2017,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2018,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,3.35210512201663
+2019,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,3.25605626465225
+2020,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,9.80071871937276
+2021,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2022,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2023,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,0.0
+2024,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,12.4470998257406
+2025,pr. 100.000 arbeiðsvirkin,,Deyðilig (á landi og á sjónum),Í tali,9.25297637406699
+2009,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,485.436893203884
+2010,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,276.298941977222
+2011,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,469.449660551784
+2012,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,464.08393866021
+2013,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,450.092666137146
+2014,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,498.327978493214
+2015,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,773.2483212371969
+2016,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,712.2131363756271
+2017,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,790.565059616381
+2018,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,814.5753015794061
+2019,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,720.338983050847
+2020,pr. 100.000 arbeiðsvirkin,Menn,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,610.4260774020271
+2009,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,13.4843581445523
+2010,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2011,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2012,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,6.7258541834813
+2013,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,6.6190097961345
+2014,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,19.6708412563111
+2015,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2016,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,6.5945660775521
+2017,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2018,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,6.21813207312523
+2019,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2020,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,18.3127823220608
+2021,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2022,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2023,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,0.0
+2024,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,23.3453951208124
+2025,pr. 100.000 arbeiðsvirkin,Menn,Deyðilig (á landi og á sjónum),Í tali,17.3983645537319
+2009,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,540.282853964723
+2010,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,363.667850030306
+2011,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,530.731039205616
+2012,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,441.210620017029
+2013,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,618.087182823682
+2014,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,725.446428571428
+2015,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,579.12036312412
+2016,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,576.6750132787009
+2017,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,415.030015563626
+2018,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,610.909090909091
+2019,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,753.9458850056369
+2020,pr. 100.000 arbeiðsvirkin,Kvinnur,"Ikki-deyðilig (á landi, ikki á sjónum)",Í tali,491.987630025302
+2009,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2010,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2011,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2012,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2013,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2014,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2015,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2016,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2017,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2018,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2019,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,7.04622322435175
+2020,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2021,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2022,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2023,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2024,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
+2025,pr. 100.000 arbeiðsvirkin,Kvinnur,Deyðilig (á landi og á sjónum),Í tali,0.0
