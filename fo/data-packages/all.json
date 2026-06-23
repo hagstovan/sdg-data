@@ -3805,42 +3805,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Ár"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "eind"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vakstratferð av tøkari inntøku",
-                ""
-              ]
-            },
-            "title": "mát"
-          },
-          {
-            "name": "growth rate of disposable income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lægstu 40 prosentini av íbúgvunum",
-                "Allir íbúgvar",
-                ""
-              ]
-            },
-            "title": "inntøkubólkur"
           },
           {
             "name": "Value",

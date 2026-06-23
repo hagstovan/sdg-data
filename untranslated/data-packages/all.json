@@ -3493,38 +3493,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PCT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_HEI_TOTL",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "growth rate of disposable income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40PCT",
-                "TOT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

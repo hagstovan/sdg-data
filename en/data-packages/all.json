@@ -3805,42 +3805,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pct.",
-                ""
-              ]
-            },
-            "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
-                ""
-              ]
-            },
-            "title": "measure"
-          },
-          {
-            "name": "growth rate of disposable income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bottom 40 per cent of the population",
-                "Total population",
-                ""
-              ]
-            },
-            "title": "growth rate of disposable income"
           },
           {
             "name": "Value",
