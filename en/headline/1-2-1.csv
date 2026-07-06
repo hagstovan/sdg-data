@@ -1,17 +1,17 @@
-Year,Value,Units,Series
-2009,3.9,pct.,Proportion of population living below the national poverty line
-2010,4.0,pct.,Proportion of population living below the national poverty line
-2011,4.4,pct.,Proportion of population living below the national poverty line
-2012,4.7,pct.,Proportion of population living below the national poverty line
-2013,3.7,pct.,Proportion of population living below the national poverty line
-2014,3.5,pct.,Proportion of population living below the national poverty line
-2015,3.4,pct.,Proportion of population living below the national poverty line
-2016,3.2,pct.,Proportion of population living below the national poverty line
-2017,3.0,pct.,Proportion of population living below the national poverty line
-2018,2.9,pct.,Proportion of population living below the national poverty line
-2019,2.6,pct.,Proportion of population living below the national poverty line
-2020,2.4,pct.,Proportion of population living below the national poverty line
-2021,2.6,pct.,Proportion of population living below the national poverty line
-2022,2.5,pct.,Proportion of population living below the national poverty line
-2023,2.5,pct.,Proportion of population living below the national poverty line
-2024,2.9,pct.,Proportion of population living below the national poverty line
+Year,Value,Units,Series,GeoCode
+2009,3.9,pct.,Proportion of population living below the national poverty line,TOTAL
+2010,4.0,pct.,Proportion of population living below the national poverty line,TOTAL
+2011,4.4,pct.,Proportion of population living below the national poverty line,TOTAL
+2012,4.7,pct.,Proportion of population living below the national poverty line,TOTAL
+2013,3.7,pct.,Proportion of population living below the national poverty line,TOTAL
+2014,3.5,pct.,Proportion of population living below the national poverty line,TOTAL
+2015,3.4,pct.,Proportion of population living below the national poverty line,TOTAL
+2016,3.2,pct.,Proportion of population living below the national poverty line,TOTAL
+2017,3.0,pct.,Proportion of population living below the national poverty line,TOTAL
+2018,2.9,pct.,Proportion of population living below the national poverty line,TOTAL
+2019,2.6,pct.,Proportion of population living below the national poverty line,TOTAL
+2020,2.4,pct.,Proportion of population living below the national poverty line,TOTAL
+2021,2.6,pct.,Proportion of population living below the national poverty line,TOTAL
+2022,2.5,pct.,Proportion of population living below the national poverty line,TOTAL
+2023,2.5,pct.,Proportion of population living below the national poverty line,TOTAL
+2024,2.9,pct.,Proportion of population living below the national poverty line,TOTAL

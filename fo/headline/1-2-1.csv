@@ -1,17 +1,17 @@
-Year,Value,Units,Series
-2009,3.9,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2010,4.0,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2011,4.4,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2012,4.7,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2013,3.7,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2014,3.5,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2015,3.4,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2016,3.2,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2017,3.0,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2018,2.9,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2019,2.6,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2020,2.4,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2021,2.6,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2022,2.5,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2023,2.5,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
-2024,2.9,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum"
+Year,Value,Units,Series,GeoCode
+2009,3.9,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2010,4.0,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2011,4.4,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2012,4.7,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2013,3.7,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2014,3.5,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2015,3.4,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2016,3.2,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2017,3.0,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2018,2.9,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2019,2.6,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2020,2.4,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2021,2.6,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2022,2.5,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2023,2.5,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
+2024,2.9,%,"Partur av fólkinum, ið livir av minni enn fátækamarkinum í landinum",TOTAL
