@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partur av havleiðum (serbúskaparøki), ið eru vard øki (%)",
+                "Vardar havleiðir (serbúskaparøki) (km²)",
+                "Miðalparturin av týðandi havleiðum fyri lívmargfeldi, ið eru vard øki (%)",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "km2",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",

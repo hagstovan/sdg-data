@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
+                "Protected marine area (Exclusive Economic Zones) (square kilometres)",
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                "sqare km",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
