@@ -15,11 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "SH_DTH_NCOM",
+                "I00-I99",
+                "COO-C97",
+                "E10-E14",
+                "J30-J98",
                 ""
               ]
             }
@@ -36,15 +40,11 @@
             }
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_DTH_NCOM",
-                "I00-I99",
-                "COO-C97",
-                "E10-E14",
-                "J30-J98",
+                "NO",
                 ""
               ]
             }

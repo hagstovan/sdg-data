@@ -16,15 +16,19 @@
             "title": "Ár"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "Tilsamans",
+                "Býur",
+                "Bygd",
+                "Sukursjúka",
+                "Kroniskar sjúkur í andaleiðini",
                 ""
               ]
             },
-            "title": "eind"
+            "title": "mát"
           },
           {
             "name": "sex",
@@ -39,19 +43,15 @@
             "title": "Kyn"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tilsamans",
-                "Býur",
-                "Bygd",
-                "Sukursjúka",
-                "Kroniskar sjúkur í andaleiðini",
+                "Í tali",
                 ""
               ]
             },
-            "title": "mát"
+            "title": "eind"
           },
           {
             "name": "Value",

@@ -1,196 +1,196 @@
-Year,Units,sex,Series,Value
-2009,In number,,Total,274.03516784654
-2009,In number,,Urban,74.7368639581474
-2009,In number,,Rural,141.169631920945
-2009,In number,,Diabetes,29.064335983724
-2009,In number,,Cronical respiratory diseases,29.064335983724
-2009,In number,Males,Total,321.56862745098
-2009,In number,Males,Urban,86.2745098039216
-2009,In number,Males,Rural,196.078431372549
-2009,In number,Males,Diabetes,15.6862745098039
-2009,In number,Males,Cronical respiratory diseases,23.5294117647059
-2009,In number,Females,Total,220.565530018969
-2009,In number,Females,Urban,61.7583484053112
-2009,In number,Females,Rural,79.4035908068287
-2009,In number,Females,Diabetes,44.1131060037937
-2009,In number,Females,Cronical respiratory diseases,35.290484803035
-2010,In number,,Total,210.905030705291
-2010,In number,,Urban,57.8954986249819
-2010,In number,,Rural,144.738746562455
-2010,In number,,Diabetes,4.1353927589273
-2010,In number,,Cronical respiratory diseases,4.1353927589273
-2010,In number,Males,Total,305.235970885184
-2010,In number,Males,Urban,86.092196916334
-2010,In number,Males,Rural,219.14377396885
-2010,In number,Males,Diabetes,0.0
-2010,In number,Males,Cronical respiratory diseases,0.0
-2010,In number,Females,Total,105.221623043536
-2010,In number,Females,Urban,26.3054057608839
-2010,In number,Females,Rural,61.379280108729
-2010,In number,Females,Diabetes,8.7684685869613
-2010,In number,Females,Cronical respiratory diseases,8.7684685869613
-2011,In number,,Total,264.075426543707
-2011,In number,,Urban,66.0188566359266
-2011,In number,,Rural,181.551855748798
-2011,In number,,Diabetes,8.2523570794908
-2011,In number,,Cronical respiratory diseases,8.2523570794908
-2011,In number,Males,Total,313.455058381005
-2011,In number,Males,Urban,101.872893973827
-2011,In number,Males,Rural,203.745787947653
-2011,In number,Males,Diabetes,0.0
-2011,In number,Males,Cronical respiratory diseases,7.8363764595251
-2011,In number,Females,Total,209.159440498497
-2011,In number,Females,Urban,26.1449300623121
-2011,In number,Females,Rural,156.869580373873
-2011,In number,Females,Diabetes,17.4299533748747
-2011,In number,Females,Cronical respiratory diseases,8.7149766874374
-2012,In number,,Total,231.027867736546
-2012,In number,,Urban,90.7609480393573
-2012,In number,,Rural,132.015924420883
-2012,In number,,Diabetes,0.0
-2012,In number,,Cronical respiratory diseases,8.2509952763052
-2012,In number,Males,Total,346.347607052897
-2012,In number,Males,Urban,157.430730478589
-2012,In number,Males,Rural,173.173803526448
-2012,In number,Males,Diabetes,0.0
-2012,In number,Males,Cronical respiratory diseases,15.7430730478589
-2012,In number,Females,Total,104.026700186381
-2012,In number,Females,Urban,17.3377833643969
-2012,In number,Females,Rural,86.6889168219843
-2012,In number,Females,Diabetes,0.0
-2012,In number,Females,Cronical respiratory diseases,0.0
-2013,In number,,Total,272.637144745539
-2013,In number,,Urban,86.748182419035
-2013,In number,,Rural,156.972901520159
-2013,In number,,Diabetes,4.1308658294779
-2013,In number,,Cronical respiratory diseases,24.7851949768672
-2013,In number,Males,Total,371.497450895151
-2013,In number,Males,Urban,118.563016243133
-2013,In number,Males,Rural,237.126032486266
-2013,In number,Males,Diabetes,7.9042010828756
-2013,In number,Males,Cronical respiratory diseases,7.9042010828756
-2013,In number,Females,Total,164.409639596764
-2013,In number,Females,Urban,51.9188335568728
-2013,In number,Females,Rural,69.2251114091637
-2013,In number,Females,Diabetes,0.0
-2013,In number,Females,Cronical respiratory diseases,43.2656946307273
-2014,In number,,Total,251.904771737111
-2014,In number,,Urban,74.3325555945572
-2014,In number,,Rural,148.665111189114
-2014,In number,,Diabetes,0.0
-2014,In number,,Cronical respiratory diseases,28.9071049534389
-2014,In number,Males,Total,323.662916913361
-2014,In number,Males,Urban,110.519044799684
-2014,In number,Males,Rural,173.672784685218
-2014,In number,Males,Diabetes,0.0
-2014,In number,Males,Cronical respiratory diseases,39.4710874284587
-2014,In number,Females,Total,173.190162798753
-2014,In number,Females,Urban,34.6380325597506
-2014,In number,Females,Rural,121.233113959127
-2014,In number,Females,Diabetes,0.0
-2014,In number,Females,Cronical respiratory diseases,17.3190162798753
-2015,In number,,Total,221.843353942855
-2015,In number,,Urban,57.5149436148142
-2015,In number,,Rural,135.570938520633
-2015,In number,,Diabetes,0.0
-2015,In number,,Cronical respiratory diseases,28.7574718074071
-2015,In number,Males,Total,282.496959234119
-2015,In number,Males,Urban,102.012790834543
-2015,In number,Males,Rural,149.095617373563
-2015,In number,Males,Diabetes,0.0
-2015,In number,Males,Cronical respiratory diseases,31.3885510260133
-2015,In number,Females,Total,155.199172271081
-2015,In number,Females,Urban,8.6221762372823
-2015,In number,Females,Rural,120.710467321952
-2015,In number,Females,Diabetes,0.0
-2015,In number,Females,Cronical respiratory diseases,25.8665287118469
-2016,In number,,Total,248.553500122239
-2016,In number,,Urban,65.1943606878005
-2016,In number,,Rural,158.911254176514
-2016,In number,,Diabetes,16.2985901719501
-2016,In number,,Cronical respiratory diseases,8.1492950859751
-2016,In number,Males,Total,288.566526282951
-2016,In number,Males,Urban,85.7900483543909
-2016,In number,Males,Rural,171.580096708782
-2016,In number,Males,Diabetes,23.3972859148339
-2016,In number,Males,Cronical respiratory diseases,7.7990953049446
-2016,In number,Females,Total,204.778156996587
-2016,In number,Females,Urban,42.6621160409556
-2016,In number,Females,Rural,145.051194539249
-2016,In number,Females,Diabetes,8.5324232081911
-2016,In number,Females,Cronical respiratory diseases,8.5324232081911
-2017,In number,,Total,294.515159461804
-2017,In number,,Urban,84.7235390232586
-2017,In number,,Rural,193.653803481734
-2017,In number,,Diabetes,0.0
-2017,In number,,Cronical respiratory diseases,16.1378169568112
-2017,In number,Males,Total,363.481690576544
-2017,In number,Males,Urban,139.205753837825
-2017,In number,Males,Rural,208.808630756738
-2017,In number,Males,Diabetes,0.0
-2017,In number,Males,Cronical respiratory diseases,15.4673059819806
-2017,In number,Females,Total,219.298245614035
-2017,In number,Females,Urban,25.3036437246964
-2017,In number,Females,Rural,177.125506072874
-2017,In number,Females,Diabetes,0.0
-2017,In number,Females,Cronical respiratory diseases,16.8690958164642
-2018,In number,,Total,238.986696407233
-2018,In number,,Urban,51.7804508882339
-2018,In number,,Rural,163.307575878276
-2018,In number,,Diabetes,0.0
-2018,In number,,Cronical respiratory diseases,23.8986696407233
-2018,In number,Males,Total,320.15855471281
-2018,In number,Males,Urban,76.2282273125739
-2018,In number,Males,Rural,205.816213743949
-2018,In number,Males,Diabetes,0.0
-2018,In number,Males,Cronical respiratory diseases,38.1141136562869
-2018,In number,Females,Total,150.156412930136
-2018,In number,Females,Urban,25.0260688216893
-2018,In number,Females,Rural,116.788321167883
-2018,In number,Females,Diabetes,0.0
-2018,In number,Females,Cronical respiratory diseases,8.3420229405631
-2019,In number,,Total,191.987462043295
-2019,In number,,Urban,54.8535605837986
-2019,In number,,Rural,125.379567048683
-2019,In number,,Diabetes,0.0
-2019,In number,,Cronical respiratory diseases,11.754334410814
-2019,In number,Males,Total,231.801697386623
-2019,In number,Males,Urban,74.774741092459
-2019,In number,Males,Rural,149.549482184918
-2019,In number,Males,Diabetes,0.0
-2019,In number,Males,Cronical respiratory diseases,7.4774741092459
-2019,In number,Females,Total,148.160342415014
-2019,In number,Females,Urban,32.9245205366697
-2019,In number,Females,Rural,98.773561610009
-2019,In number,Females,Diabetes,0.0
-2019,In number,Females,Cronical respiratory diseases,16.4622602683348
-2020,In number,,Total,127.334465195246
-2020,In number,,Urban,23.1517209445902
-2020,In number,,Rural,88.7482636209292
-2020,In number,,Diabetes,0.0
-2020,In number,,Cronical respiratory diseases,15.4344806297268
-2020,In number,Males,Total,161.687428802411
-2020,In number,Males,Urban,36.7471429096388
-2020,In number,Males,Rural,117.590857310844
-2020,In number,Males,Diabetes,0.0
-2020,In number,Males,Cronical respiratory diseases,7.3494285819278
-2020,In number,Females,Total,89.3618749746131
-2020,In number,Females,Urban,8.1238068158739
-2020,In number,Females,Rural,56.8666477111174
-2020,In number,Females,Diabetes,0.0
-2020,In number,Females,Cronical respiratory diseases,24.3714204476218
-2021,In number,,Total,176.339799125968
-2021,In number,,Urban,53.6686345165989
-2021,In number,,Rural,107.337269033198
-2021,In number,,Diabetes,0.0
-2021,In number,,Cronical respiratory diseases,15.3338955761711
-2021,In number,Males,Total,218.882241354151
-2021,In number,Males,Urban,65.6646724062454
-2021,In number,Males,Rural,131.329344812491
-2021,In number,Males,Diabetes,0.0
-2021,In number,Males,Cronical respiratory diseases,21.8882241354152
-2021,In number,Females,Total,129.24071082391
-2021,In number,Females,Urban,40.3877221324717
-2021,In number,Females,Rural,80.7754442649435
-2021,In number,Females,Diabetes,0.0
-2021,In number,Females,Cronical respiratory diseases,8.0775444264944
+Year,Series,sex,Units,Value
+2009,Total,,In number,274.03516784654
+2010,Total,,In number,210.905030705291
+2011,Total,,In number,264.075426543707
+2012,Total,,In number,231.027867736546
+2013,Total,,In number,272.637144745539
+2014,Total,,In number,251.904771737111
+2015,Total,,In number,221.843353942855
+2016,Total,,In number,248.553500122239
+2017,Total,,In number,294.515159461804
+2018,Total,,In number,238.986696407233
+2019,Total,,In number,191.987462043295
+2020,Total,,In number,127.334465195246
+2021,Total,,In number,176.339799125968
+2009,Total,Males,In number,321.56862745098
+2010,Total,Males,In number,305.235970885184
+2011,Total,Males,In number,313.455058381005
+2012,Total,Males,In number,346.347607052897
+2013,Total,Males,In number,371.497450895151
+2014,Total,Males,In number,323.662916913361
+2015,Total,Males,In number,282.496959234119
+2016,Total,Males,In number,288.566526282951
+2017,Total,Males,In number,363.481690576544
+2018,Total,Males,In number,320.15855471281
+2019,Total,Males,In number,231.801697386623
+2020,Total,Males,In number,161.687428802411
+2021,Total,Males,In number,218.882241354151
+2009,Total,Females,In number,220.565530018969
+2010,Total,Females,In number,105.221623043536
+2011,Total,Females,In number,209.159440498497
+2012,Total,Females,In number,104.026700186381
+2013,Total,Females,In number,164.409639596764
+2014,Total,Females,In number,173.190162798753
+2015,Total,Females,In number,155.199172271081
+2016,Total,Females,In number,204.778156996587
+2017,Total,Females,In number,219.298245614035
+2018,Total,Females,In number,150.156412930136
+2019,Total,Females,In number,148.160342415014
+2020,Total,Females,In number,89.3618749746131
+2021,Total,Females,In number,129.24071082391
+2009,Urban,,In number,74.7368639581474
+2010,Urban,,In number,57.8954986249819
+2011,Urban,,In number,66.0188566359266
+2012,Urban,,In number,90.7609480393573
+2013,Urban,,In number,86.748182419035
+2014,Urban,,In number,74.3325555945572
+2015,Urban,,In number,57.5149436148142
+2016,Urban,,In number,65.1943606878005
+2017,Urban,,In number,84.7235390232586
+2018,Urban,,In number,51.7804508882339
+2019,Urban,,In number,54.8535605837986
+2020,Urban,,In number,23.1517209445902
+2021,Urban,,In number,53.6686345165989
+2009,Urban,Males,In number,86.2745098039216
+2010,Urban,Males,In number,86.092196916334
+2011,Urban,Males,In number,101.872893973827
+2012,Urban,Males,In number,157.430730478589
+2013,Urban,Males,In number,118.563016243133
+2014,Urban,Males,In number,110.519044799684
+2015,Urban,Males,In number,102.012790834543
+2016,Urban,Males,In number,85.7900483543909
+2017,Urban,Males,In number,139.205753837825
+2018,Urban,Males,In number,76.2282273125739
+2019,Urban,Males,In number,74.774741092459
+2020,Urban,Males,In number,36.7471429096388
+2021,Urban,Males,In number,65.6646724062454
+2009,Urban,Females,In number,61.7583484053112
+2010,Urban,Females,In number,26.3054057608839
+2011,Urban,Females,In number,26.1449300623121
+2012,Urban,Females,In number,17.3377833643969
+2013,Urban,Females,In number,51.9188335568728
+2014,Urban,Females,In number,34.6380325597506
+2015,Urban,Females,In number,8.6221762372823
+2016,Urban,Females,In number,42.6621160409556
+2017,Urban,Females,In number,25.3036437246964
+2018,Urban,Females,In number,25.0260688216893
+2019,Urban,Females,In number,32.9245205366697
+2020,Urban,Females,In number,8.1238068158739
+2021,Urban,Females,In number,40.3877221324717
+2009,Rural,,In number,141.169631920945
+2010,Rural,,In number,144.738746562455
+2011,Rural,,In number,181.551855748798
+2012,Rural,,In number,132.015924420883
+2013,Rural,,In number,156.972901520159
+2014,Rural,,In number,148.665111189114
+2015,Rural,,In number,135.570938520633
+2016,Rural,,In number,158.911254176514
+2017,Rural,,In number,193.653803481734
+2018,Rural,,In number,163.307575878276
+2019,Rural,,In number,125.379567048683
+2020,Rural,,In number,88.7482636209292
+2021,Rural,,In number,107.337269033198
+2009,Rural,Males,In number,196.078431372549
+2010,Rural,Males,In number,219.14377396885
+2011,Rural,Males,In number,203.745787947653
+2012,Rural,Males,In number,173.173803526448
+2013,Rural,Males,In number,237.126032486266
+2014,Rural,Males,In number,173.672784685218
+2015,Rural,Males,In number,149.095617373563
+2016,Rural,Males,In number,171.580096708782
+2017,Rural,Males,In number,208.808630756738
+2018,Rural,Males,In number,205.816213743949
+2019,Rural,Males,In number,149.549482184918
+2020,Rural,Males,In number,117.590857310844
+2021,Rural,Males,In number,131.329344812491
+2009,Rural,Females,In number,79.4035908068287
+2010,Rural,Females,In number,61.379280108729
+2011,Rural,Females,In number,156.869580373873
+2012,Rural,Females,In number,86.6889168219843
+2013,Rural,Females,In number,69.2251114091637
+2014,Rural,Females,In number,121.233113959127
+2015,Rural,Females,In number,120.710467321952
+2016,Rural,Females,In number,145.051194539249
+2017,Rural,Females,In number,177.125506072874
+2018,Rural,Females,In number,116.788321167883
+2019,Rural,Females,In number,98.773561610009
+2020,Rural,Females,In number,56.8666477111174
+2021,Rural,Females,In number,80.7754442649435
+2009,Diabetes,,In number,29.064335983724
+2010,Diabetes,,In number,4.1353927589273
+2011,Diabetes,,In number,8.2523570794908
+2012,Diabetes,,In number,0.0
+2013,Diabetes,,In number,4.1308658294779
+2014,Diabetes,,In number,0.0
+2015,Diabetes,,In number,0.0
+2016,Diabetes,,In number,16.2985901719501
+2017,Diabetes,,In number,0.0
+2018,Diabetes,,In number,0.0
+2019,Diabetes,,In number,0.0
+2020,Diabetes,,In number,0.0
+2021,Diabetes,,In number,0.0
+2009,Diabetes,Males,In number,15.6862745098039
+2010,Diabetes,Males,In number,0.0
+2011,Diabetes,Males,In number,0.0
+2012,Diabetes,Males,In number,0.0
+2013,Diabetes,Males,In number,7.9042010828756
+2014,Diabetes,Males,In number,0.0
+2015,Diabetes,Males,In number,0.0
+2016,Diabetes,Males,In number,23.3972859148339
+2017,Diabetes,Males,In number,0.0
+2018,Diabetes,Males,In number,0.0
+2019,Diabetes,Males,In number,0.0
+2020,Diabetes,Males,In number,0.0
+2021,Diabetes,Males,In number,0.0
+2009,Diabetes,Females,In number,44.1131060037937
+2010,Diabetes,Females,In number,8.7684685869613
+2011,Diabetes,Females,In number,17.4299533748747
+2012,Diabetes,Females,In number,0.0
+2013,Diabetes,Females,In number,0.0
+2014,Diabetes,Females,In number,0.0
+2015,Diabetes,Females,In number,0.0
+2016,Diabetes,Females,In number,8.5324232081911
+2017,Diabetes,Females,In number,0.0
+2018,Diabetes,Females,In number,0.0
+2019,Diabetes,Females,In number,0.0
+2020,Diabetes,Females,In number,0.0
+2021,Diabetes,Females,In number,0.0
+2009,Cronical respiratory diseases,,In number,29.064335983724
+2010,Cronical respiratory diseases,,In number,4.1353927589273
+2011,Cronical respiratory diseases,,In number,8.2523570794908
+2012,Cronical respiratory diseases,,In number,8.2509952763052
+2013,Cronical respiratory diseases,,In number,24.7851949768672
+2014,Cronical respiratory diseases,,In number,28.9071049534389
+2015,Cronical respiratory diseases,,In number,28.7574718074071
+2016,Cronical respiratory diseases,,In number,8.1492950859751
+2017,Cronical respiratory diseases,,In number,16.1378169568112
+2018,Cronical respiratory diseases,,In number,23.8986696407233
+2019,Cronical respiratory diseases,,In number,11.754334410814
+2020,Cronical respiratory diseases,,In number,15.4344806297268
+2021,Cronical respiratory diseases,,In number,15.3338955761711
+2009,Cronical respiratory diseases,Males,In number,23.5294117647059
+2010,Cronical respiratory diseases,Males,In number,0.0
+2011,Cronical respiratory diseases,Males,In number,7.8363764595251
+2012,Cronical respiratory diseases,Males,In number,15.7430730478589
+2013,Cronical respiratory diseases,Males,In number,7.9042010828756
+2014,Cronical respiratory diseases,Males,In number,39.4710874284587
+2015,Cronical respiratory diseases,Males,In number,31.3885510260133
+2016,Cronical respiratory diseases,Males,In number,7.7990953049446
+2017,Cronical respiratory diseases,Males,In number,15.4673059819806
+2018,Cronical respiratory diseases,Males,In number,38.1141136562869
+2019,Cronical respiratory diseases,Males,In number,7.4774741092459
+2020,Cronical respiratory diseases,Males,In number,7.3494285819278
+2021,Cronical respiratory diseases,Males,In number,21.8882241354152
+2009,Cronical respiratory diseases,Females,In number,35.290484803035
+2010,Cronical respiratory diseases,Females,In number,8.7684685869613
+2011,Cronical respiratory diseases,Females,In number,8.7149766874374
+2012,Cronical respiratory diseases,Females,In number,0.0
+2013,Cronical respiratory diseases,Females,In number,43.2656946307273
+2014,Cronical respiratory diseases,Females,In number,17.3190162798753
+2015,Cronical respiratory diseases,Females,In number,25.8665287118469
+2016,Cronical respiratory diseases,Females,In number,8.5324232081911
+2017,Cronical respiratory diseases,Females,In number,16.8690958164642
+2018,Cronical respiratory diseases,Females,In number,8.3420229405631
+2019,Cronical respiratory diseases,Females,In number,16.4622602683348
+2020,Cronical respiratory diseases,Females,In number,24.3714204476218
+2021,Cronical respiratory diseases,Females,In number,8.0775444264944

@@ -2755,15 +2755,19 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "In number",
+                "Total",
+                "Urban",
+                "Rural",
+                "Diabetes",
+                "Cronical respiratory diseases",
                 ""
               ]
             },
-            "title": "unit"
+            "title": "measure"
           },
           {
             "name": "sex",
@@ -2778,19 +2782,15 @@
             "title": "Sex"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
-                "Diabetes",
-                "Cronical respiratory diseases",
+                "In number",
                 ""
               ]
             },
-            "title": "measure"
+            "title": "unit"
           },
           {
             "name": "Value",
