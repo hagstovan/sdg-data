@@ -1,39 +1,32 @@
-Year,Units,Series,Value
-1985,In number,Neonatal mortality rate,4.0650406504065
-1986,In number,Neonatal mortality rate,2.54129606099111
-1987,In number,Neonatal mortality rate,7.7120822622108
-1988,In number,Neonatal mortality rate,11.5606936416185
-1989,In number,Neonatal mortality rate,12.9171151776103
-1990,In number,Neonatal mortality rate,4.24628450106157
-1991,In number,Neonatal mortality rate,8.12064965197216
-1992,In number,Neonatal mortality rate,7.4719800747198
-1993,In number,Neonatal mortality rate,5.27009222661397
-1994,In number,Neonatal mortality rate,7.49625187406297
-1995,In number,Neonatal mortality rate,6.2111801242236
-1996,In number,Neonatal mortality rate,1.48588410104012
-1997,In number,Neonatal mortality rate,4.52488687782805
-1998,In number,Neonatal mortality rate,0.0
-1999,In number,Neonatal mortality rate,3.19488817891374
-2000,In number,Neonatal mortality rate,1.44508670520231
-2001,In number,Neonatal mortality rate,3.16455696202532
-2002,In number,Neonatal mortality rate,2.82087447108604
-2003,In number,Neonatal mortality rate,1.41843971631206
-2004,In number,Neonatal mortality rate,1.40252454417952
-2005,In number,Neonatal mortality rate,8.43881856540084
-2006,In number,Neonatal mortality rate,1.51057401812689
-2007,In number,Neonatal mortality rate,4.45103857566766
-2008,In number,Neonatal mortality rate,1.5015015015015
-2009,In number,Neonatal mortality rate,1.62337662337662
-2010,In number,Neonatal mortality rate,3.11526479750779
-2011,In number,Neonatal mortality rate,3.48432055749129
-2012,In number,Neonatal mortality rate,12.9449838187702
-2013,In number,Neonatal mortality rate,0.0
-2014,In number,Neonatal mortality rate,4.69483568075117
-2015,In number,Neonatal mortality rate,3.3003300330033
-2016,In number,Neonatal mortality rate,4.46428571428571
-2017,In number,Neonatal mortality rate,4.57317073170732
-2018,In number,Neonatal mortality rate,0.0
-2019,In number,Neonatal mortality rate,4.39882697947214
-2020,In number,Neonatal mortality rate,1.47492625368732
-2021,In number,Neonatal mortality rate,0.0
-2022,In number,Neonatal mortality rate,7.92393026941363
+Year,Series,Units,Value
+1991,Tuberculosis incidence,In number,0.0
+1992,Tuberculosis incidence,In number,2.1
+1993,Tuberculosis incidence,In number,2.2
+1994,Tuberculosis incidence,In number,0.0
+1995,Tuberculosis incidence,In number,4.6
+1996,Tuberculosis incidence,In number,0.0
+1997,Tuberculosis incidence,In number,0.0
+1998,Tuberculosis incidence,In number,6.7
+1999,Tuberculosis incidence,In number,4.4
+2000,Tuberculosis incidence,In number,13.1
+2001,Tuberculosis incidence,In number,2.1
+2002,Tuberculosis incidence,In number,0.0
+2003,Tuberculosis incidence,In number,2.1
+2004,Tuberculosis incidence,In number,0.0
+2005,Tuberculosis incidence,In number,0.0
+2006,Tuberculosis incidence,In number,2.1
+2007,Tuberculosis incidence,In number,2.1
+2008,Tuberculosis incidence,In number,2.1
+2009,Tuberculosis incidence,In number,0.0
+2010,Tuberculosis incidence,In number,4.1
+2011,Tuberculosis incidence,In number,4.1
+2012,Tuberculosis incidence,In number,4.2
+2013,Tuberculosis incidence,In number,8.3
+2014,Tuberculosis incidence,In number,2.1
+2015,Tuberculosis incidence,In number,4.1
+2016,Tuberculosis incidence,In number,4.0
+2017,Tuberculosis incidence,In number,2.0
+2018,Tuberculosis incidence,In number,2.0
+2019,Tuberculosis incidence,In number,1.9
+2020,Tuberculosis incidence,In number,0.0
+2021,Tuberculosis incidence,In number,0.0

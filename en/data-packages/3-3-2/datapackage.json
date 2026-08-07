@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis incidence",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -25,17 +36,6 @@
               ]
             },
             "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Neonatal mortality rate",
-                ""
-              ]
-            },
-            "title": "measure"
           },
           {
             "name": "Value",

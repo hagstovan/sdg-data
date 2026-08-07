@@ -15,21 +15,21 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "SH_TBS_INCD",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "MORT_YLT5",
+                "NO",
                 ""
               ]
             }
