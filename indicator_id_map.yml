@@ -12,7 +12,7 @@
   - 3.3.1
 'https://statbank.hagstova.fo/sq/3c2bf5e3-a567-41fb-afb5-31beb5003d2c':
   - 3.3.2
-'https://statbank.hagstova.fo/sq/d5bbe19f-2227-4df9-ba57-9a4eb3bba953':
+'https://statbank.hagstova.fo/sq/0d734bc2-4b0a-4485-ae57-e63fccde191c':
   - 3.4.1
 'https://statbank.hagstova.fo/sq/aae4df2e-fb82-465e-9df5-2481c7dab251':
   - 3.4.2
@@ -102,6 +102,8 @@
   - 14.5.1  
 'https://statbank.hagstova.fo/sq/c7ac3734-1e06-40ab-a505-38b9ca68ce84':
   - 14.6.1
+'https://statbank.hagstova.fo/sq/1f9ef747-c22d-4355-bb3b-04ed039e2f43':
+  - 14.7.1
 'https://statbank.hagstova.fo/sq/3eaf440f-8f5a-4311-b6fd-125635fe8c28':
   - 14.b.1
 'https://statbank.hagstova.fo/sq/6fcc2ea2-44bb-4fe5-a59d-0f9de72f055e':
@@ -152,6 +154,8 @@
   - 1.5.4
 'https://statbank.hagstova.fo/sq/a51ad0cf-0b12-4dd6-9739-cbe24b3fd193':
   - 1.a.1
+'https://statbank.hagstova.fo/sq/0516e165-eef7-4262-9db8-19e628e8b24b':
+  - 1.b.1
 'https://statbank.hagstova.fo/sq/efdbccd7-d3a8-472f-b62e-46a2a272225f':
   - 2.1.1
 'https://statbank.hagstova.fo/sq/93289ca8-21d2-4280-a509-7dbe0da24d54':
@@ -412,16 +416,40 @@
   - 15.4.2
 'https://statbank.hagstova.fo/sq/051b60a6-5de8-45fd-9669-1225b23340bd':
   - 15.6.1
+'https://statbank.hagstova.fo/sq/0e02eb8f-22df-46fd-bf20-487c4e9d79a7':
+  - 15.7.1  
 'https://statbank.hagstova.fo/sq/c56ebd7d-a1bc-4b61-868e-6a685c534ee7':
   - 15.8.1
 'https://statbank.hagstova.fo/sq/09048b4e-85a7-4296-a21a-d02d2acc2381':
   - 15.9.1
+'https://statbank.hagstova.fo/sq/e16eba69-1f10-4bc2-bb83-43a8973a9ba9':
+  - 15.b.1
+'https://statbank.hagstova.fo/sq/e591e1bd-66d4-4097-b207-b0f5ce3b4ad2':
+  - 15.c.1  
 'https://statbank.hagstova.fo/sq/fc2dace2-7cf4-49ff-9211-0313e23d5e22':
   - 16.1.2
+'https://statbank.hagstova.fo/sq/ed159ac9-2c53-4f0c-b285-334d91446931':
+  - 16.1.3  
+'https://statbank.hagstova.fo/sq/6f85581d-f971-46f5-ba4a-ccfe09377b46':
+  - 16.2.1
+'https://statbank.hagstova.fo/sq/de24ff44-09fc-43cd-9285-6c54034dc90f':
+  - 16.2.2  
+'https://statbank.hagstova.fo/sq/70c6faa4-ce34-4a77-85f4-c42fce968016':
+  - 16.2.3 
+'https://statbank.hagstova.fo/sq/06a0c57e-45d1-4970-9c54-7aa12e0a6b72':
+  - 16.4.1  
+'https://statbank.hagstova.fo/sq/0602bfc3-f465-45c2-a5c8-af9528fd7114':
+  - 16.4.2    
 'https://statbank.hagstova.fo/sq/1bdc5eda-181f-47a9-b1a8-fbc9fdb65d85':
   - 16.5.1
 'https://statbank.hagstova.fo/sq/df925c0d-7c60-4281-ba90-4f69f68592ff':
   - 16.5.2
+'https://statbank.hagstova.fo/sq/b07c7cc7-03a2-4cea-919e-5e32539ba6f9':
+  - 16.6.2  
+'https://statbank.hagstova.fo/sq/1c819a15-84c3-4210-81e5-071aafdb86bf':
+  - 16.7.1
+'https://statbank.hagstova.fo/sq/740e4166-33f9-461b-9967-8d339b9e35a9':
+  - 16.7.2
 'https://statbank.hagstova.fo/sq/de52dcce-a2dd-4802-9015-9e01de52228b':
   - 16.8.1
 'https://statbank.hagstova.fo/sq/78bb6124-1169-4097-843d-128c1b36dc86':
@@ -430,8 +458,34 @@
   - 16.10.2
 'https://statbank.hagstova.fo/sq/5c29fe70-2e83-45ec-8840-6983b2cef882':
   - 16.a.1
+'https://statbank.hagstova.fo/sq/10253395-58a5-40df-9832-911c12d2b155':
+  - 16.b.1
+'https://statbank.hagstova.fo/sq/b418ac35-d6dd-4387-a0e5-940f50f730f9':
+  - 17.3.1  
+'https://statbank.hagstova.fo/sq/ca98b816-c9f8-4c74-97eb-871f24bfe649':
+  - 17.3.2    
+'https://statbank.hagstova.fo/sq/49db8a5f-74e6-4352-8bc1-ac76ea680da5':
+  - 17.4.1 
+'https://statbank.hagstova.fo/sq/22848b30-78d9-444c-81fc-0fcdd81d47ea':
+  - 17.5.1
+'https://statbank.hagstova.fo/sq/032927fd-3957-4809-8d1b-f158ae744f98':
+  - 17.7.1
+'https://statbank.hagstova.fo/sq/95e31469-5532-48b5-8a2c-bf434e647b47':
+  - 17.8.1 
+'https://statbank.hagstova.fo/sq/7db18dce-b5b5-4c3d-96ab-0ad92c2e2828':
+  - 17.9.1
 'https://statbank.hagstova.fo/sq/4ba7eaa3-0486-4640-bbdb-fe8e6b524ca2':
   - 17.10.1
+'https://statbank.hagstova.fo/sq/4afe3ed0-fbf1-426f-ba2a-7f0780044dbf':
+  - 17.14.1 
+'https://statbank.hagstova.fo/sq/e5bc184a-12c2-46ce-b3fc-0107dd462e2c':
+  - 17.15.1  
+'https://statbank.hagstova.fo/sq/19e614da-a1eb-442d-bdc3-3c60ed2abfe0':
+  - 17.16.1 
+'https://statbank.hagstova.fo/sq/80ca886b-1021-4195-9cb1-585b3c6eb512':
+  - 17.17.1   
+'https://statbank.hagstova.fo/sq/26b12b80-e5b0-4062-b6cf-c14e7df0f006':
+  - 17.18.1     
 'https://statbank.hagstova.fo/sq/a9049a1b-9281-40eb-ae98-40898aefa6fa':
   - 17.18.2
 'https://statbank.hagstova.fo/sq/dd2d05b0-d0b2-44fa-8a27-edda52885372':
