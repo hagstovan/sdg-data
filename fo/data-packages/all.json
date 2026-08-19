@@ -5194,14 +5194,24 @@
             "constraints": {
               "enum": [
                 "Tilsamans",
-                "Býur",
-                "Bygd",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hjarta-æðra-sjúkur",
+                "Krabbamein",
                 "Sukursjúka",
                 "Kroniskar sjúkur í andaleiðini",
                 ""
               ]
             },
-            "title": "mát"
+            "title": "sjúkubólkar"
           },
           {
             "name": "sex",
@@ -6364,8 +6374,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Burðardyggur fiskiskapur sum partur av BTÚ",
+                ""
+              ]
+            },
+            "title": "mát"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "eind"
           },
           {
             "name": "Value",

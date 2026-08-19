@@ -4760,6 +4760,15 @@
             "constraints": {
               "enum": [
                 "SH_DTH_NCOM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "I00-I99",
                 "COO-C97",
                 "E10-E14",
@@ -5833,7 +5842,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_SCP_FSHGDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PCT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -20,6 +20,15 @@
             "constraints": {
               "enum": [
                 "SH_DTH_NCOM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "I00-I99",
                 "COO-C97",
                 "E10-E14",

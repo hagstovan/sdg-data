@@ -5194,14 +5194,24 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Urban",
-                "Rural",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cardiovascular disease",
+                "Cancer",
                 "Diabetes",
                 "Cronical respiratory diseases",
                 ""
               ]
             },
-            "title": "measure"
+            "title": "diseases"
           },
           {
             "name": "sex",
@@ -6364,8 +6374,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sustainable fisheries as a proportion of GDP",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct.",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
