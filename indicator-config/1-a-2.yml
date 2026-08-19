@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: data.percent
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -31,7 +31,8 @@ indicator_number: '1.a.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 1
 reporting_status: complete
 sort: ''
 standalone: false
