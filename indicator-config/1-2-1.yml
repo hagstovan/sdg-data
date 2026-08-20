@@ -36,7 +36,8 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 placeholder: ''
-precision: []
+precision:
+  - decimals: 1 
 progress_status: target_achieved
 reporting_status: complete
 sort: ''
