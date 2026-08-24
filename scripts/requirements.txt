@@ -1,4 +1,4 @@
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/open-sdg/sdg-build@px-multi-value-metadata-fields-2
+git+https://github.com/open-sdg/sdg-build@px-dev
 frictionless==4.40.8
 pydantic==1.*
