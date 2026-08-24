@@ -188,12 +188,12 @@ prose:
 #           label: Data collection calendar (global)
 #           translation_key: metadata_fields.FREQ_COLL
 #           scope: global
-#     - name: REL_CAL_POLICY__GLOBAL
-#       field:
-#           element: text
-#           label: Data release calendar (global)
-#           translation_key: metadata_fields.REL_CAL_POLICY
-#           scope: global
+      - name: REL_CAL_POLICY__GLOBAL
+        field:
+            element: text
+            label: Data release calendar (global)
+            translation_key: metadata_fields.REL_CAL_POLICY
+            scope: global
 #     - name: DATA_SOURCE__GLOBAL
 #       field:
 #           element: text
