@@ -44,98 +44,98 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
-      - name: Test PX URLs
-        run: |
-          python - <<'PY'
-          import yaml
-          import urllib.request
-          import urllib.error
-          import time
+#      - name: Test PX URLs
+#        run: |
+#          python - <<'PY'
+#          import yaml
+#          import urllib.request
+#          import urllib.error
+#          import time##
 
-          with open('indicator_id_map.yml', 'r', encoding='utf-8') as f:
-              data = yaml.safe_load(f)
+#          with open('indicator_id_map.yml', 'r', encoding='utf-8') as f:
+#              data = yaml.safe_load(f)
 
-          max_attempts = 4
-          timeout_seconds = 60
-          failed_urls = []
+#          max_attempts = 4
+#          timeout_seconds = 60
+#          failed_urls = []
 
-          for url in data.keys():
-              success = False
+#          for url in data.keys():
+#              success = False
 
-              for attempt in range(1, max_attempts + 1):
-                  try:
-                      print(
-                          f"Testing {url} - attempt {attempt}/{max_attempts}",
-                          flush=True
-                      )
+#              for attempt in range(1, max_attempts + 1):
+#                  try:
+#                      print(
+#                          f"Testing {url} - attempt {attempt}/{max_attempts}",
+#                          flush=True
+#                      )
 
-                      req = urllib.request.Request(
-                          url,
-                          headers={'User-Agent': 'Mozilla/5.0'}
-                      )
+#                      req = urllib.request.Request(
+#                          url,
+#                          headers={'User-Agent': 'Mozilla/5.0'}
+#                      )
 
-                      with urllib.request.urlopen(
-                          req,
-                          timeout=timeout_seconds
-                      ) as r:
-                          print(
-                              f"OK   {r.status} {url}",
-                              flush=True
-                          )
-                          success = True
-                          break
+#                      with urllib.request.urlopen(
+#                          req,
+#                          timeout=timeout_seconds
+#                      ) as r:
+#                          print(
+#                              f"OK   {r.status} {url}",
+#                              flush=True
+#                          )
+#                          success = True
+#                          break
 
-                  except urllib.error.HTTPError as e:
-                      print(
-                          f"FAIL {url} - HTTP {e.code}",
-                          flush=True
-                      )
-                      print(repr(e), flush=True)
+#                  except urllib.error.HTTPError as e:
+#                      print(
+#                          f"FAIL {url} - HTTP {e.code}",
+#                          flush=True
+#                      )
+#                      print(repr(e), flush=True)#
 
-                      # Don't retry a 404 - the URL does not exist.
-                      if e.code == 404:
-                          break
+#                      # Don't retry a 404 - the URL does not exist.
+#                      if e.code == 404:
+#                          break
 
-                  except Exception as e:
-                      print(
-                          f"FAIL {url} - attempt {attempt}/{max_attempts}",
-                          flush=True
-                      )
-                      print(repr(e), flush=True)
+ #                 except Exception as e:
+ #                     print(
+ #                         f"FAIL {url} - attempt {attempt}/{max_attempts}",
+ #                         flush=True
+ #                     )
+ #                     print(repr(e), flush=True)
 
-                  if attempt < max_attempts:
-                      wait_seconds = attempt * 5
+#                  if attempt < max_attempts:
+#                      wait_seconds = attempt * 5
 
-                      print(
-                          f"Retrying in {wait_seconds} seconds...",
-                          flush=True
-                      )
+#                      print(
+#                          f"Retrying in {wait_seconds} seconds...",
+#                          flush=True
+#                      )
 
-                      time.sleep(wait_seconds)
+#                      time.sleep(wait_seconds)
 
-              if not success:
-                  failed_urls.append(url)
+#              if not success:
+#                  failed_urls.append(url)
 
-          if failed_urls:
-              print(
-                  "\n⚠️ The following PX URLs failed after all retries:",
-                  flush=True
-              )
+ #         if failed_urls:
+ #             print(
+ #                 "\n⚠️ The following PX URLs failed after all retries:",
+ #                 flush=True
+ #             )
 
-              for url in failed_urls:
-                  print(f"  - {url}", flush=True)
+ #             for url in failed_urls:
+ #                 print(f"  - {url}", flush=True)
 
-              print(
-                  "\n⚠️ Continuing to Build data anyway.",
-                  flush=True
-              )
+ #             print(
+ #                 "\n⚠️ Continuing to Build data anyway.",
+ #                 flush=True
+ #             )
 
-          else:
-              print(
-                  "\n✅ All PX URLs responded successfully.",
-                  flush=True
-              )
-          PY
+  #        else:
+   #           print(
+    #              "\n✅ All PX URLs responded successfully.",
+     #             flush=True
+      #        )
+       #   PY
 
       - name: Build data
         run: |
