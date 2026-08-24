@@ -44,6 +44,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
+      - name: Network diagnostics
+        run: |
+          echo "=== Runner ==="
+          uname -a
+          python --version
+      
+          echo "=== DNS ==="
+          getent ahosts statbank.hagstova.fo
+      
+          echo "=== Public IP ==="
+          curl -s https://api.ipify.org
+          echo
+      
+          echo "=== Statbank test ==="
+          curl -v \
+            --connect-timeout 20 \
+            --max-time 60 \
+            -o /dev/null \
+            -w "Remote IP: %{remote_ip}\nConnect: %{time_connect}s\nTLS: %{time_appconnect}s\nTTFB: %{time_starttransfer}s\nTotal: %{time_total}s\nHTTP: %{http_code}\n" \
+            https://statbank.hagstova.fo/sq/77a82180-e5ba-45d1-bb4b-329df7e91bf6
+
       - name: Test PX URLs
         run: |
           python - <<'PY'
