@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Research and development expenditure (GERD)",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
+            "name": "Performance sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Business enterprise",
+                "Public sector",
+                ""
+              ]
+            },
+            "title": "Performance sector"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct. of GDP",
+                ""
+              ]
+            },
+            "title": "unit"
           },
           {
             "name": "Value",
