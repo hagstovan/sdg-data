@@ -25,7 +25,8 @@ indicator_number: '7.2.1'
 national_geographical_coverage: data.totalrenewableenergy
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 2 
 reporting_status: complete
 sort: ''
 standalone: false
