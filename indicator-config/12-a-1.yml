@@ -39,7 +39,8 @@ indicator_number: '12.a.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 2
 reporting_status: complete
 sort: ''
 standalone: false
