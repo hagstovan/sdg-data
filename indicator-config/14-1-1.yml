@@ -50,7 +50,8 @@ indicator_number: '14.1.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 3
 reporting_status: complete
 sort: ''
 standalone: false
