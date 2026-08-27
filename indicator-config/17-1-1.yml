@@ -34,7 +34,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision:
-  - decimals: 1
+  - decimals: 2
 reporting_status: complete
 sort: ''
 standalone: false
