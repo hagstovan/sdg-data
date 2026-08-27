@@ -26,7 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision:
-  - decimals: 3
+  - decimals: 1
 reporting_status: complete
 sort: ''
 standalone: false
