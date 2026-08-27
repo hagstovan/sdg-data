@@ -33,7 +33,8 @@ indicator_number: '17.11.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 2
 proxy: proxy
 reporting_status: complete
 sort: ''
