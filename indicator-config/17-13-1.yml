@@ -38,7 +38,8 @@ indicator_number: '17.13.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 2
 reporting_status: complete
 sort: ''
 standalone: false
