@@ -512,7 +512,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "In number",
+                "Per 100,000 population",
                 ""
               ]
             },

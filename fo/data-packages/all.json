@@ -512,7 +512,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "Fyri hvørjar 100.000 íbúgvar",
                 ""
               ]
             },

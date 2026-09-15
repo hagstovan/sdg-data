@@ -470,7 +470,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "100000_POP",
                 ""
               ]
             }
