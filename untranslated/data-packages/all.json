@@ -2016,7 +2016,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "PER_1000_LB",
                 ""
               ]
             }
@@ -2102,7 +2102,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "PER_100000_LB",
                 ""
               ]
             }
@@ -5970,7 +5970,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "PER_1000_UP",
                 ""
               ]
             }

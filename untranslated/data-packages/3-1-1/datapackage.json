@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NO",
+                "PER_100000_LB",
                 ""
               ]
             }

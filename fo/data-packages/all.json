@@ -2199,7 +2199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "fyri hvørji 1.000 livandi fødd",
                 ""
               ]
             },
@@ -2293,7 +2293,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "fyri hvørji 100.000 livandi fødd",
                 ""
               ]
             },
@@ -2304,7 +2304,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Møður deyðar í barnferð",
+                "Móðurdeyðatíttleiki",
                 ""
               ]
             },
@@ -6516,7 +6516,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "fyri hvørjar 1.000 ikki-smittaðar íbúgvar",
                 ""
               ]
             },
@@ -6527,7 +6527,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nýggir HIV-tilburðir fyri hvørjar 1.000 ikki-smittaðar íbúgvar",
+                "Nýggir HIV-tilburðir",
                 ""
               ]
             },

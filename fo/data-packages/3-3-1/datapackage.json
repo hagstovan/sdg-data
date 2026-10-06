@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "fyri hvørjar 1.000 ikki-smittaðar íbúgvar",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nýggir HIV-tilburðir fyri hvørjar 1.000 ikki-smittaðar íbúgvar",
+                "Nýggir HIV-tilburðir",
                 ""
               ]
             },

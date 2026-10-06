@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Í tali",
+                "fyri hvørji 100.000 livandi fødd",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Møður deyðar í barnferð",
+                "Móðurdeyðatíttleiki",
                 ""
               ]
             },
