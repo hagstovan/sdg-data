@@ -21,9 +21,12 @@ Year,Series,Units,Value
 2017,Merchandise trade as a proportion of GDP (%),pct.,81.22071453981809
 2018,Merchandise trade as a proportion of GDP (%),pct.,77.8289329916364
 2019,Merchandise trade as a proportion of GDP (%),pct.,80.76638834443409
-2020,Merchandise trade as a proportion of GDP (%),pct.,76.6114672364672
-2021,Merchandise trade as a proportion of GDP (%),pct.,83.4054256346879
-2022,Merchandise trade as a proportion of GDP (%),pct.,97.8984433060571
+2020,Merchandise trade as a proportion of GDP (%),pct.,76.3827570580293
+2021,Merchandise trade as a proportion of GDP (%),pct.,82.4024592102152
+2022,Merchandise trade as a proportion of GDP (%),pct.,96.48126461407101
+2023,Merchandise trade as a proportion of GDP (%),pct.,90.2548080107752
+2024,Merchandise trade as a proportion of GDP (%),pct.,79.8813283773428
+2025,Merchandise trade as a proportion of GDP (%),pct.,83.30257864493939
 1998,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.26601105002229
 1999,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.31041057582306
 2000,"Personal remittances, received, as a proportion of GDP (%)",pct.,3.90697458727509
@@ -46,12 +49,15 @@ Year,Series,Units,Value
 2017,"Personal remittances, received, as a proportion of GDP (%)",pct.,5.19794684149006
 2018,"Personal remittances, received, as a proportion of GDP (%)",pct.,5.16965651508831
 2019,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.77891054977439
-2020,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.44219523166892
-2021,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.12536227469343
-2022,"Personal remittances, received, as a proportion of GDP (%)",pct.,3.91498392436303
+2020,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.58030245693703
+2021,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.47559061888691
+2022,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.40037756688691
+2023,"Personal remittances, received, as a proportion of GDP (%)",pct.,4.21699161680173
+2024,"Personal remittances, received, as a proportion of GDP (%)",pct.,3.53973744709194
+2025,"Personal remittances, received, as a proportion of GDP (%)",pct.,3.58778315231033
 1998,Current account balance as a proportion of GDP (%),pct.,19.3942750618018
 1999,Current account balance as a proportion of GDP (%),pct.,14.8328460658447
-2000,Current account balance as a proportion of GDP (%),pct.,9.27239844184752
+2000,Current account balance as a proportion of GDP (%),pct.,9.39838402203483
 2001,Current account balance as a proportion of GDP (%),pct.,12.5394803607858
 2002,Current account balance as a proportion of GDP (%),pct.,10.0759946356728
 2003,Current account balance as a proportion of GDP (%),pct.,-3.49898426366696
@@ -71,27 +77,35 @@ Year,Series,Units,Value
 2017,Current account balance as a proportion of GDP (%),pct.,14.8056106113737
 2018,Current account balance as a proportion of GDP (%),pct.,5.98863658938753
 2019,Current account balance as a proportion of GDP (%),pct.,10.1361927538294
-2020,Current account balance as a proportion of GDP (%),pct.,6.51006522717049
-2021,Current account balance as a proportion of GDP (%),pct.,6.14452693234928
-2022,Current account balance as a proportion of GDP (%),pct.,5.06630951860521
+2020,Current account balance as a proportion of GDP (%),pct.,6.03465594005054
+2021,Current account balance as a proportion of GDP (%),pct.,7.09582774529845
+2022,Current account balance as a proportion of GDP (%),pct.,4.72769776333775
+2023,Current account balance as a proportion of GDP (%),pct.,4.82312604242894
+2024,Current account balance as a proportion of GDP (%),pct.,7.35413130510138
+2025,Current account balance as a proportion of GDP (%),pct.,9.39838402203483
 2003,External debt stocks as a proportion of GNI (%),pct.,61.5461866968273
 2004,External debt stocks as a proportion of GNI (%),pct.,59.75203915171289
-2005,External debt stocks as a proportion of GNI (%),pct.,75.2482139586005
-2006,External debt stocks as a proportion of GNI (%),pct.,84.23552752552541
-2007,External debt stocks as a proportion of GNI (%),pct.,107.94207852053
-2008,External debt stocks as a proportion of GNI (%),pct.,118.353637530926
-2009,External debt stocks as a proportion of GNI (%),pct.,140.353093726103
-2010,External debt stocks as a proportion of GNI (%),pct.,144.096414564561
-2011,External debt stocks as a proportion of GNI (%),pct.,127.917424851537
-2012,External debt stocks as a proportion of GNI (%),pct.,131.256127160986
-2013,External debt stocks as a proportion of GNI (%),pct.,133.704043079318
-2014,External debt stocks as a proportion of GNI (%),pct.,131.212965367454
-2015,External debt stocks as a proportion of GNI (%),pct.,133.202516628527
-2016,External debt stocks as a proportion of GNI (%),pct.,119.31500359157
-2017,External debt stocks as a proportion of GNI (%),pct.,109.876391456555
-2018,External debt stocks as a proportion of GNI (%),pct.,114.256742074893
-2019,External debt stocks as a proportion of GNI (%),pct.,141.795667016221
-2020,External debt stocks as a proportion of GNI (%),pct.,158.454348341016
+2005,External debt stocks as a proportion of GNI (%),pct.,94.0511082615864
+2006,External debt stocks as a proportion of GNI (%),pct.,98.28540090649551
+2007,External debt stocks as a proportion of GNI (%),pct.,112.783618414026
+2008,External debt stocks as a proportion of GNI (%),pct.,113.859572202562
+2009,External debt stocks as a proportion of GNI (%),pct.,143.044519067726
+2010,External debt stocks as a proportion of GNI (%),pct.,146.635502058821
+2011,External debt stocks as a proportion of GNI (%),pct.,125.060302145487
+2012,External debt stocks as a proportion of GNI (%),pct.,130.234539271299
+2013,External debt stocks as a proportion of GNI (%),pct.,134.076217254321
+2014,External debt stocks as a proportion of GNI (%),pct.,131.601312590005
+2015,External debt stocks as a proportion of GNI (%),pct.,139.331035607257
+2016,External debt stocks as a proportion of GNI (%),pct.,126.468085973519
+2017,External debt stocks as a proportion of GNI (%),pct.,118.107127404319
+2018,External debt stocks as a proportion of GNI (%),pct.,126.011250875202
+2019,External debt stocks as a proportion of GNI (%),pct.,150.047970726701
+2020,External debt stocks as a proportion of GNI (%),pct.,166.465019731289
+2021,External debt stocks as a proportion of GNI (%),pct.,159.448192160139
+2022,External debt stocks as a proportion of GNI (%),pct.,163.323166769861
+2023,External debt stocks as a proportion of GNI (%),pct.,143.91920284427
+2024,External debt stocks as a proportion of GNI (%),pct.,150.330654759809
+2025,External debt stocks as a proportion of GNI (%),pct.,130.38025556811
 1998,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",669.6957
 1999,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",698.3384
 2000,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",809.0294
@@ -117,6 +131,9 @@ Year,Series,Units,Value
 2020,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",653.4273
 2021,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",629.1752
 2022,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",708.3019
+2023,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",689.2786
+2024,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",689.0554
+2025,DEC alternative conversion factor (LCU per US$),"DKK per US$, annual average",662.0958
 1998,Tax revenue as a proportion of GDP (%),pct.,44.7958177421752
 1999,Tax revenue as a proportion of GDP (%),pct.,46.0124570992755
 2000,Tax revenue as a proportion of GDP (%),pct.,45.0635318122797
@@ -139,34 +156,50 @@ Year,Series,Units,Value
 2017,Tax revenue as a proportion of GDP (%),pct.,40.951364537277
 2018,Tax revenue as a proportion of GDP (%),pct.,42.0381627828436
 2019,Tax revenue as a proportion of GDP (%),pct.,41.6606610879814
-2020,Tax revenue as a proportion of GDP (%),pct.,43.7982643574749
-2021,Tax revenue as a proportion of GDP (%),pct.,41.780172151193696
-2022,Tax revenue as a proportion of GDP (%),pct.,40.6234724170684
-1998,Cash surplus/deficit as a proportion of GDP (%),pct.,31.5520012968241
-1999,Cash surplus/deficit as a proportion of GDP (%),pct.,14.8328460658447
-2000,Cash surplus/deficit as a proportion of GDP (%),pct.,9.27239844184752
-2001,Cash surplus/deficit as a proportion of GDP (%),pct.,12.5394803607858
-2002,Cash surplus/deficit as a proportion of GDP (%),pct.,10.0759946356728
-2003,Cash surplus/deficit as a proportion of GDP (%),pct.,-3.49999494658541
-2004,Cash surplus/deficit as a proportion of GDP (%),pct.,5.25393876050013
-2005,Cash surplus/deficit as a proportion of GDP (%),pct.,-5.68748223254051
-2006,Cash surplus/deficit as a proportion of GDP (%),pct.,-3.11533749489528
-2007,Cash surplus/deficit as a proportion of GDP (%),pct.,-3.44304910900109
-2008,Cash surplus/deficit as a proportion of GDP (%),pct.,-4.74802461063362
-2009,Cash surplus/deficit as a proportion of GDP (%),pct.,-5.66988114291285
-2010,Cash surplus/deficit as a proportion of GDP (%),pct.,4.0353204922908
-2011,Cash surplus/deficit as a proportion of GDP (%),pct.,12.0385650357552
-2012,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.31299121590384
-2013,Cash surplus/deficit as a proportion of GDP (%),pct.,7.71221497832346
-2014,Cash surplus/deficit as a proportion of GDP (%),pct.,9.31897669185805
-2015,Cash surplus/deficit as a proportion of GDP (%),pct.,8.50205000866201
-2016,Cash surplus/deficit as a proportion of GDP (%),pct.,12.6363645964242
-2017,Cash surplus/deficit as a proportion of GDP (%),pct.,14.8051024038217
-2018,Cash surplus/deficit as a proportion of GDP (%),pct.,8.4718993980571
-2019,Cash surplus/deficit as a proportion of GDP (%),pct.,10.1361927538294
-2020,Cash surplus/deficit as a proportion of GDP (%),pct.,6.51006522717049
-2021,Cash surplus/deficit as a proportion of GDP (%),pct.,6.14452693234928
-2022,Cash surplus/deficit as a proportion of GDP (%),pct.,5.06630951860522
+2020,Tax revenue as a proportion of GDP (%),pct.,43.6675122753414
+2021,Tax revenue as a proportion of GDP (%),pct.,42.1045164341452
+2022,Tax revenue as a proportion of GDP (%),pct.,41.1681073480626
+2023,Tax revenue as a proportion of GDP (%),pct.,40.5503175899961
+2024,Tax revenue as a proportion of GDP (%),pct.,41.9640619069104
+2025,Tax revenue as a proportion of GDP (%),pct.,41.1568963996662
+1998,Cash surplus/deficit as a proportion of GDP (%),pct.,23.4603590581815
+1999,Cash surplus/deficit as a proportion of GDP (%),pct.,12.5041311808822
+2000,Cash surplus/deficit as a proportion of GDP (%),pct.,10.271749211649
+2001,Cash surplus/deficit as a proportion of GDP (%),pct.,11.2336512473205
+2002,Cash surplus/deficit as a proportion of GDP (%),pct.,4.80504644116624
+2003,Cash surplus/deficit as a proportion of GDP (%),pct.,2.0951456899427
+2004,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.85712073704177
+2005,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.09352790675637
+2006,Cash surplus/deficit as a proportion of GDP (%),pct.,2.52277330044088
+2007,Cash surplus/deficit as a proportion of GDP (%),pct.,2.51395989915887
+2008,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.9718443007161
+2009,Cash surplus/deficit as a proportion of GDP (%),pct.,-3.76800526448342
+2010,Cash surplus/deficit as a proportion of GDP (%),pct.,-3.36200454469201
+2011,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.05853143630228
+2012,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.44884241971621
+2013,Cash surplus/deficit as a proportion of GDP (%),pct.,-1.99953668464771
+2014,Cash surplus/deficit as a proportion of GDP (%),pct.,-0.507496270208135
+2015,Cash surplus/deficit as a proportion of GDP (%),pct.,1.25483628804065
+2016,Cash surplus/deficit as a proportion of GDP (%),pct.,1.9600595621548
+2017,Cash surplus/deficit as a proportion of GDP (%),pct.,2.71941861056055
+2018,Cash surplus/deficit as a proportion of GDP (%),pct.,0.805570455132408
+2019,Cash surplus/deficit as a proportion of GDP (%),pct.,-0.117969456468353
+2020,Cash surplus/deficit as a proportion of GDP (%),pct.,-4.04817633510397
+2021,Cash surplus/deficit as a proportion of GDP (%),pct.,0.237752316257873
+2022,Cash surplus/deficit as a proportion of GDP (%),pct.,1.808717721752
+2023,Cash surplus/deficit as a proportion of GDP (%),pct.,-0.161923057107318
+2024,Cash surplus/deficit as a proportion of GDP (%),pct.,-0.449047117719099
+2025,Cash surplus/deficit as a proportion of GDP (%),pct.,1.35445004511441
+1999,Annual GDP growth (%),pct.,6.27203587880099
+2000,Annual GDP growth (%),pct.,9.64281174526505
+2001,Annual GDP growth (%),pct.,11.9539510294936
+2002,Annual GDP growth (%),pct.,4.24368573115039
+2003,Annual GDP growth (%),pct.,-1.71062434808524
+2004,Annual GDP growth (%),pct.,4.43588732906825
+2005,Annual GDP growth (%),pct.,2.12712422095769
+2006,Annual GDP growth (%),pct.,13.6994219653179
+2007,Annual GDP growth (%),pct.,6.11899622459098
+2008,Annual GDP growth (%),pct.,-0.3078638801844
 2009,Annual GDP growth (%),pct.,-3.0314250376171
 2010,Annual GDP growth (%),pct.,6.54242052498599
 2011,Annual GDP growth (%),pct.,2.58040902228118
@@ -178,9 +211,12 @@ Year,Series,Units,Value
 2017,Annual GDP growth (%),pct.,3.90110992596973
 2018,Annual GDP growth (%),pct.,2.32657417289222
 2019,Annual GDP growth (%),pct.,8.19725053141824
-2020,Annual GDP growth (%),pct.,-2.04036666926781
-2021,Annual GDP growth (%),pct.,7.68012445644024
-2022,Annual GDP growth (%),pct.,9.49747169252997
+2020,Annual GDP growth (%),pct.,-1.74704961602548
+2021,Annual GDP growth (%),pct.,8.66538657397673
+2022,Annual GDP growth (%),pct.,9.76977149121865
+2023,Annual GDP growth (%),pct.,6.42921208370706
+2024,Annual GDP growth (%),pct.,2.76888427653512
+2025,Annual GDP growth (%),pct.,5.56761131283616
 1999,Annual growth of the gross capital formation (%),pct.,13.6863319897398
 2000,Annual growth of the gross capital formation (%),pct.,42.79881815739991
 2001,Annual growth of the gross capital formation (%),pct.,-5.10872018659242
@@ -202,9 +238,12 @@ Year,Series,Units,Value
 2017,Annual growth of the gross capital formation (%),pct.,9.97760518416162
 2018,Annual growth of the gross capital formation (%),pct.,29.5936051297604
 2019,Annual growth of the gross capital formation (%),pct.,0.558313692058232
-2020,Annual growth of the gross capital formation (%),pct.,0.957494555912031
-2021,Annual growth of the gross capital formation (%),pct.,7.99894620716908
-2022,Annual growth of the gross capital formation (%),pct.,20.4113369212239
+2020,Annual growth of the gross capital formation (%),pct.,0.546902272387273
+2021,Annual growth of the gross capital formation (%),pct.,11.0041993188506
+2022,Annual growth of the gross capital formation (%),pct.,22.8396532721694
+2023,Annual growth of the gross capital formation (%),pct.,3.32941304848622
+2024,Annual growth of the gross capital formation (%),pct.,-8.51648029287867
+2025,Annual growth of the gross capital formation (%),pct.,3.1450009619701
 1999,Annual growth of households and NPISHs final consumption expenditure (%),pct.,11.2440761430727
 2000,Annual growth of households and NPISHs final consumption expenditure (%),pct.,5.57856156885144
 2001,Annual growth of households and NPISHs final consumption expenditure (%),pct.,9.13168928362114
@@ -226,9 +265,12 @@ Year,Series,Units,Value
 2017,Annual growth of households and NPISHs final consumption expenditure (%),pct.,-1.04894296155802
 2018,Annual growth of households and NPISHs final consumption expenditure (%),pct.,1.47847734364957
 2019,Annual growth of households and NPISHs final consumption expenditure (%),pct.,5.03190288623223
-2020,Annual growth of households and NPISHs final consumption expenditure (%),pct.,1.12396512966719
-2021,Annual growth of households and NPISHs final consumption expenditure (%),pct.,4.92517891997399
-2022,Annual growth of households and NPISHs final consumption expenditure (%),pct.,7.53394927760898
+2020,Annual growth of households and NPISHs final consumption expenditure (%),pct.,2.23038543779812
+2021,Annual growth of households and NPISHs final consumption expenditure (%),pct.,5.22262386167394
+2022,Annual growth of households and NPISHs final consumption expenditure (%),pct.,6.22234907949195
+2023,Annual growth of households and NPISHs final consumption expenditure (%),pct.,4.86842862900903
+2024,Annual growth of households and NPISHs final consumption expenditure (%),pct.,2.97963852665295
+2025,Annual growth of households and NPISHs final consumption expenditure (%),pct.,4.64849685864339
 1999,Annual growth of the general government final consumption expenditure (%),pct.,9.35587761674719
 2000,Annual growth of the general government final consumption expenditure (%),pct.,8.50144799489521
 2001,Annual growth of the general government final consumption expenditure (%),pct.,11.4996607102466
@@ -250,9 +292,12 @@ Year,Series,Units,Value
 2017,Annual growth of the general government final consumption expenditure (%),pct.,3.55676893411483
 2018,Annual growth of the general government final consumption expenditure (%),pct.,5.44043361232993
 2019,Annual growth of the general government final consumption expenditure (%),pct.,5.16671620652878
-2020,Annual growth of the general government final consumption expenditure (%),pct.,5.3783999467979
-2021,Annual growth of the general government final consumption expenditure (%),pct.,4.67317735039363
-2022,Annual growth of the general government final consumption expenditure (%),pct.,3.82696510663953
+2020,Annual growth of the general government final consumption expenditure (%),pct.,5.17889206623661
+2021,Annual growth of the general government final consumption expenditure (%),pct.,4.73104342190538
+2022,Annual growth of the general government final consumption expenditure (%),pct.,4.04038879497706
+2023,Annual growth of the general government final consumption expenditure (%),pct.,6.30032060116346
+2024,Annual growth of the general government final consumption expenditure (%),pct.,6.17937660352639
+2025,Annual growth of the general government final consumption expenditure (%),pct.,6.17063390057067
 1999,Annual growth of exports of goods and services (%),pct.,11.081832397058
 2000,Annual growth of exports of goods and services (%),pct.,15.4297333229061
 2001,Annual growth of exports of goods and services (%),pct.,12.4503161698284
@@ -277,6 +322,9 @@ Year,Series,Units,Value
 2020,Annual growth of exports of goods and services (%),pct.,-16.4440274245455
 2021,Annual growth of exports of goods and services (%),pct.,19.0961208849662
 2022,Annual growth of exports of goods and services (%),pct.,29.8617084629127
+2023,Annual growth of exports of goods and services (%),pct.,-0.336925506980534
+2024,Annual growth of exports of goods and services (%),pct.,-1.57273499958461
+2025,Annual growth of exports of goods and services (%),pct.,10.1403732031321
 1999,Annual growth of imports of goods and services (%),pct.,22.2763055104862
 2000,Annual growth of imports of goods and services (%),pct.,25.4963632789463
 2001,Annual growth of imports of goods and services (%),pct.,0.855654761904767
@@ -301,6 +349,9 @@ Year,Series,Units,Value
 2020,Annual growth of imports of goods and services (%),pct.,-9.28931849960483
 2021,Annual growth of imports of goods and services (%),pct.,14.704108303733
 2022,Annual growth of imports of goods and services (%),pct.,31.2975251450274
+2023,Annual growth of imports of goods and services (%),pct.,-3.03939580803683
+2024,Annual growth of imports of goods and services (%),pct.,-6.20246525045896
+2025,Annual growth of imports of goods and services (%),pct.,9.2478680274011
 1998,"Annual inflation, consumer prices (%)",pct.,4.7
 1999,"Annual inflation, consumer prices (%)",pct.,5.1
 2000,"Annual inflation, consumer prices (%)",pct.,4.9
@@ -326,6 +377,9 @@ Year,Series,Units,Value
 2020,"Annual inflation, consumer prices (%)",pct.,0.3
 2021,"Annual inflation, consumer prices (%)",pct.,2.7
 2022,"Annual inflation, consumer prices (%)",pct.,7.7
+2023,"Annual inflation, consumer prices (%)",pct.,4.7
+2024,"Annual inflation, consumer prices (%)",pct.,2.0
+2025,"Annual inflation, consumer prices (%)",pct.,0.9
 2005,Total unemployment out of total labour force (national estimate) (%),pct.,3.5
 2006,Total unemployment out of total labour force (national estimate) (%),pct.,1.8
 2007,Total unemployment out of total labour force (national estimate) (%),pct.,1.7
@@ -336,11 +390,14 @@ Year,Series,Units,Value
 2012,Total unemployment out of total labour force (national estimate) (%),pct.,3.0
 2013,Total unemployment out of total labour force (national estimate) (%),pct.,4.0
 2014,Total unemployment out of total labour force (national estimate) (%),pct.,3.2
-2015,Total unemployment out of total labour force (national estimate) (%),pct.,3.3
-2016,Total unemployment out of total labour force (national estimate) (%),pct.,3.5
+2015,Total unemployment out of total labour force (national estimate) (%),pct.,2.9
+2016,Total unemployment out of total labour force (national estimate) (%),pct.,3.2
 2017,Total unemployment out of total labour force (national estimate) (%),pct.,2.5
-2018,Total unemployment out of total labour force (national estimate) (%),pct.,1.8
-2019,Total unemployment out of total labour force (national estimate) (%),pct.,1.3
-2020,Total unemployment out of total labour force (national estimate) (%),pct.,1.7
-2021,Total unemployment out of total labour force (national estimate) (%),pct.,2.1
+2018,Total unemployment out of total labour force (national estimate) (%),pct.,1.5
+2019,Total unemployment out of total labour force (national estimate) (%),pct.,0.9
+2020,Total unemployment out of total labour force (national estimate) (%),pct.,1.5
+2021,Total unemployment out of total labour force (national estimate) (%),pct.,1.3
 2022,Total unemployment out of total labour force (national estimate) (%),pct.,2.0
+2023,Total unemployment out of total labour force (national estimate) (%),pct.,1.5
+2024,Total unemployment out of total labour force (national estimate) (%),pct.,1.4
+2025,Total unemployment out of total labour force (national estimate) (%),pct.,1.0
