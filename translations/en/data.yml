@@ -213,34 +213,6 @@ technology: Technology
 1000dkk: DKK 1,000
 1000t: 1,000 tonnes
 1000000t: Million tonnes
-1-2-1-footnote: The national poverty line is defined as 50 pct. of the median equivalent income. This measure does not take wealth and socioeconomic status in to account.
-3-1-1-footnote: Death of a woman while pregnant or within 42 days of termination of pregnancy from any cause related to the pregnancy.
-3-2-1-footnote: Under-five mortality is the probability of a child born in a specific year or period dying before reaching the age of 5 years, if subject to age specific mortality rates of that period, expressed per 1000 live births.
-3-2-2-footnote: Neonatal mortality rate is the probability of a child born in a specific year or period dying during the first 28 completed days of life, if subject to age-specific mortality rates of that period, expressed per 1000 live births
-3-4-1-footnote: Per 100.000 population. Population is limited to 30-70-year-olds
-3-5-2-computation_units: Litres of pure alcohol per capita
-3-5-2-footnote: Alcohol consumption is defined as alcohol sold in pure alcohol litres. 'Various tax free' not included in the calculations of pure alcohol
-4-b-1-footnote: Scholarships for students from developing countries studying in the donor country
-4-b-1-graphtitle: Scholarships granted persons from developing countries for studying in Faroe Islands
-5-3-1-footnote: No data are available for women living in umarries unions before age 18
-7-2-1-footnote: The figures from 2000 to 2011 are estimated data from Energy Balances, UN Statistics Division, 2021. From 2012 the figures are from StatisticsFaroe Islands
-7-b-1-footnote: The UN definition of the indicator covers developing countries, specifically. However, it is possible to calculate the indicator also for Faroe Islands as there is available data
-7-b-1-graphtitle: Installed renewable energy-generating capacity
-8-4-2-datanotice: Based on nominal GDP
-8-5-2-graphtitle: Unemployment rate, by sex and age
-8-6-1-footnote: The figures for 2011 based on the population census in 2011 are quite precise. The figures for 2017-2021 are based on labour force surveys and therefore more inaccurate.
-8-8-1-graphtitle: Fatal and non-fatal occupational injuries per 100,000 workers, by sex
-9-4-1-graphtitle: Carbon dioxide emissions from fuel combustion
-9-b-1-footnote: National accounts and value added is in current prices
-10-4-1-graphtitle: Compensation of employees as a share of nominal GDP
-12-a-1-graphtitle: Installed renewable energy-generating capacity in Faroe Islands (in watts per capita)
-13-2-2-graphtitle: Total greenhouse gas emissions per year. The Environment Agency's report to European Eionet 
-14-1-1-footnote: The series chlorophyll-a deviations has been backcasted to include territorial waters, but is however not representative for <i>coastal</i> eutrophication
-14-1-1a-graphtitle: Index of eutrophication in territorial waters
-16-9-1-graphtitle: Proportion of children under 5 years of age whose births have been registered with a civil authority
-17-2-1-grahptitle: Official development assistance as a proportion of donor's gross national income (GNI)
-17-11-1-graphtitle: The part of Faroe Islands' international trade in goods to and from developing countries’ and least developed countries
-17-18-1-metadatalink: The IAEG-SDGs is currently reviewing a statistical capacity indicator for 17.18.1.
 maternaldeaths100000: Maternal deaths per 100,000 live births
 importexport: Import/Export
 merchandiseimport: Merchandise import
