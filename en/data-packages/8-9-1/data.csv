@@ -1,13 +1,16 @@
-Year,Units,Series,Value
-2011,pct.,Tourism direct GDP as a proportion of total GDP,1.22921357571336
-2012,pct.,Tourism direct GDP as a proportion of total GDP,1.21531991222284
-2013,pct.,Tourism direct GDP as a proportion of total GDP,1.27661880175468
-2014,pct.,Tourism direct GDP as a proportion of total GDP,1.38188549339657
-2015,pct.,Tourism direct GDP as a proportion of total GDP,1.7136936816595
-2016,pct.,Tourism direct GDP as a proportion of total GDP,1.66941737108622
-2017,pct.,Tourism direct GDP as a proportion of total GDP,1.78173647685653
-2018,pct.,Tourism direct GDP as a proportion of total GDP,1.88333796703894
-2019,pct.,Tourism direct GDP as a proportion of total GDP,1.93337767579276
-2020,pct.,Tourism direct GDP as a proportion of total GDP,0.5760197626352
-2021,pct.,Tourism direct GDP as a proportion of total GDP,0.93219944823902
-2022,pct.,Tourism direct GDP as a proportion of total GDP,1.3774815049499
+Year,Series,Units,Value
+2011,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.40158393993715
+2012,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.38407646071604
+2013,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.43679117889358
+2014,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.55845343651952
+2015,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.92401375792228
+2016,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.87070928854495
+2017,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.999649275516
+2018,Inbound Tourism direct GVA as a proportion of total GVA,pct.,2.12108699011253
+2019,Inbound Tourism direct GVA as a proportion of total GVA,pct.,2.1726301564241
+2020,Inbound Tourism direct GVA as a proportion of total GVA,pct.,0.65126386227509
+2021,Inbound Tourism direct GVA as a proportion of total GVA,pct.,0.97341625471399
+2022,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.42572822268178
+2023,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.33749414834951
+2024,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.49891520510712
+2025,Inbound Tourism direct GVA as a proportion of total GVA,pct.,1.59684652247786

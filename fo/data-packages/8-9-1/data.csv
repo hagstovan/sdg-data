@@ -1,13 +1,16 @@
-Year,Units,Series,Value
-2011,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.22921357571336
-2012,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.21531991222284
-2013,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.27661880175468
-2014,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.38188549339657
-2015,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.7136936816595
-2016,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.66941737108622
-2017,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.78173647685653
-2018,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.88333796703894
-2019,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.93337767579276
-2020,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",0.5760197626352
-2021,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",0.93219944823902
-2022,%,"Virðisøking frá ferðavinnu, sum partur av BTÚ",1.3774815049499
+Year,Series,Units,Value
+2011,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.40158393993715
+2012,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.38407646071604
+2013,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.43679117889358
+2014,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.55845343651952
+2015,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.92401375792228
+2016,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.87070928854495
+2017,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.999649275516
+2018,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,2.12108699011253
+2019,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,2.1726301564241
+2020,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,0.65126386227509
+2021,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,0.97341625471399
+2022,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.42572822268178
+2023,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.33749414834951
+2024,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.49891520510712
+2025,Beinleiðis BVØ frá inngangandi ferðavinnu sum partur av samlaðu BVØ,%,1.59684652247786

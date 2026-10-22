@@ -15,21 +15,21 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "PCT",
+                "INBOUND_TDGVA",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "ST_GDP_ZS",
+                "PCT",
                 ""
               ]
             }

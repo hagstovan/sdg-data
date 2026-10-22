@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inbound Tourism direct GVA as a proportion of total GVA",
+                ""
+              ]
+            },
+            "title": "measure"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -25,17 +36,6 @@
               ]
             },
             "title": "unit"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism direct GDP as a proportion of total GDP",
-                ""
-              ]
-            },
-            "title": "measure"
           },
           {
             "name": "Value",
