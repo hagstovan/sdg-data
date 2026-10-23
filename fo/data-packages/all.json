@@ -3679,7 +3679,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Virðisøking frá miðal- og hátøknivinnu sum partur av virðisøkingini í ídnaðarvinnum samlað",
+                "Virðisøking frá miðal- og hátøknivinnu sum partur av virðisøkingini í framleiðsluvinnum samlað",
                 ""
               ]
             },

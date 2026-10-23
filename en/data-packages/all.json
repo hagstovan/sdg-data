@@ -3679,7 +3679,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of medium and high-tech industry value added in total value added",
+                "Value added from medium- and high-tech manufacturing as a share of total value added in manufacturing industries",
                 ""
               ]
             },
