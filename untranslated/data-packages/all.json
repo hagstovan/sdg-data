@@ -3134,7 +3134,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_LB",
+                "NO",
                 ""
               ]
             }

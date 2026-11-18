@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fyri hvørji 1.000 livandi fødd",
+                "Í tali",
                 ""
               ]
             },

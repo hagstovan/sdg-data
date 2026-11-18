@@ -3418,7 +3418,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 live births",
+                "In number",
                 ""
               ]
             },
